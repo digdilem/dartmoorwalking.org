@@ -22,3 +22,5 @@ Outline:
 * Credit for the theme "Stack" by Jimmy. (Modified somewhat)
 * Use scripts/walks_deploy.sh to build, as this also generates the html for the map and rebuilds the all-gpx zipfile
 
+# End of file.
+
