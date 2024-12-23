@@ -1,0 +1,34 @@
+{{ define "main" }}
+    {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+    {{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
+    {{ $filtered := ($pages | intersect $notHidden) }}
+    {{ $pag := .Paginate ($filtered) }}
+
+<!-- HERE4 SATEST Top of Index page -->
+
+
+<h2 class="article-title">Welcome to Dartmoor Walking</h2>
+
+<div class="article-subtitle">
+    There are {{ .Paginator.NumberOfElements }} walks on the site so far with more being added often.<br>
+
+    Please select an area from the right, a tag that interests you or see the <a href="/map-of-walks/">map of starting points</a>    
+</div>
+
+
+
+<!-- End SATEST fixings -->
+
+    <section class="article-list">
+        {{ range $index, $element := $pag.Pages }}
+            {{ partial "article-list/default" . }}
+        {{ end }}
+    </section>
+
+    {{- partial "pagination.html" . -}}
+    {{- partial "footer/footer" . -}}
+{{ end }}
+
+{{ define "right-sidebar" }}
+    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}

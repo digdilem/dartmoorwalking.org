@@ -1,0 +1,6 @@
+{{- if eq (index .Params 1) "button"}}
+  <a onclick='goToRandomPost()' class="book-btn">{{ index .Params 0}} LINK1</a>
+{{- else -}}
+  <a onclick='goToRandomPost()' style="cursor: pointer;">{{ index .Params 0}} LINK2</a>
+{{- end -}}
+

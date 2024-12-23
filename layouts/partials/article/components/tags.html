@@ -1,0 +1,10 @@
+{{ if .Params.Tags }}
+    <section class="article-tags"> 
+      {{ if not .Params.hidetags }}
+      Tags: 
+        {{ range (.GetTerms "tags") }}
+            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{ end }}
+      {{ end }}
+    </section>
+{{ end }}

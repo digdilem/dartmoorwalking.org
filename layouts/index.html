@@ -1,0 +1,57 @@
+{{ define "main" }}
+    {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+    {{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
+    {{ $filtered := ($pages | intersect $notHidden) }}
+    {{ $ordered := ($filtered.ByParam "date").Reverse }}
+    {{ $pag := .Paginate ($ordered) }}
+    
+    
+<!-- HERE4 SATEST Top of Index page -->
+
+
+<h2 class="article-title">Welcome to Dartmoor Walking</h2>
+
+<script>
+    function goToRandomPost() {
+      const pages = [
+        {{ range ((where .Site.RegularPages "Type" "post")) }}
+        "{{ .RelPermalink }}?utm_source=random",
+        {{ end -}}
+      ];
+      const rand = Math.floor(Math.random() * pages.length);
+      window.location.href = pages[rand];
+    }
+  </script>
+
+
+<div class="article-subtitle">
+    Go walking on Dartmoor!<br><br>
+
+    This site contains {{ len (where .Site.RegularPages "Type" "post") }} walks, all with Parking, Directions, Photographs, Maps, Tracks and explanations of what you'll find on your way! <br><br>
+
+    We hope to inspire you to get out onto Dartmoor, there's nowhere quite like it.
+    
+    To get started, please select <a href="/walks/">an area of Dartmoor</a>, view the <a href="/map/">map</a> or choose a <a class="random" onclick='goToRandomPost()'>random walk</a>
+    
+    <hr>
+</div>
+
+
+
+<!-- End SATEST fixings -->
+
+<!-- The following only shows most recent within that pagination group - not ideal -->
+
+    <section class="article-list">
+        {{ range $index, $element := $pag.Pages }}
+            {{ partial "article-list/default" . }}
+        {{ end }}
+    </section>
+
+    {{- partial "pagination.html" . -}}
+    {{- partial "footer/footer" . -}}
+{{ end }}
+
+{{ define "right-sidebar" }}
+    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}

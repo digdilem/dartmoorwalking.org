@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+    <head>
+<title>Dartmoor Walking Maps</title>
+
+
+<!-- Leaflet's CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+
+ <!-- Make sure you put this AFTER Leaflet's CSS -->
+ <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+<style>
+html, body {
+    height: 100%;
+    margin: 0;
+}
+.leaflet-container {
+    height: 400px;
+    width: 600px;
+    max-width: 100%;
+    max-height: 100%;
+}
+</style>
+
+
+</head>
+
+<body>
+
+
+<div id="map" style="width: 100%; height: 80%;"></div>
+<script>
+
+    const map = L.map('map').setView([50.578, -3.900], 11);
+
+    const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+
+
+//FORM_POPUPS
+
+
+
+const marker = L.marker([50.579587, -3.797581]).addTo(map)  .bindPopup('<a href="#">Walk Title</a><br />A 3 mile gentle walk.');
+const marker2 = L.marker([50.595725, -3.961757]).addTo(map)  .bindPopup('<a href="#">Walk Title 2</a><br />A 6 mile medium walk.');
+
+
+</script>
+</body>

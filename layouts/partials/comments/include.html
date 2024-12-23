@@ -1,0 +1,13 @@
+{{ if .Site.Params.comments.enabled }}
+{{/*    {{ partial (printf "comments/provider/%s" .Site.Params.comments.provider) . }} */}}
+
+
+    <script src="https://utteranc.es/client.js"
+        repo="digdilem/dartmoorwalks_comments"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+    </script>
+
+{{ end }}

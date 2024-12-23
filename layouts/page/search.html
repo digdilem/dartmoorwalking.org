@@ -1,0 +1,80 @@
+{{ define "body-class" }}template-search{{ end }}
+{{ define "head" }}
+    {{- with .OutputFormats.Get "json" -}} 
+        <link rel="preload" href="{{ .RelPermalink }}" as="fetch" crossorigin="anonymous">
+    {{- end -}}
+{{ end }}
+{{ define "main" }}
+<form action="{{ .RelPermalink }}" class="search-form"{{ with .OutputFormats.Get "json" -}} data-json="{{ .RelPermalink }}"{{- end }}>
+    <p>
+        <label>{{ T "search.title" }}</label>
+        <input name="keyword" placeholder="{{ T `search.placeholder` }}" />
+    </p>
+
+    <button title="{{ T `search.title` }}">
+        {{ partial "helper/icon" "search" }}
+    </button>
+</form>
+
+<div class="search-result">
+    <h3 class="search-result--title section-title"></h3>
+    <div class="search-result--list article-list--compact"></div>
+</div>
+
+<script>
+    window.searchResultTitleTemplate = "{{ T `search.resultTitle` }}"
+</script>
+
+<div class="search-result--list article-list--compact">
+    <article>
+        <div class="article-details">
+            <h2 class="article-title">Please use the search box above
+                <hr>
+                Search tips: </h2>
+            <section class="article-preview">
+                <ul>
+                    <li><b>Difficulty:</b>  Most walks are tagged by one of three grades;
+                        <ul>
+                            <li><a href="/tags/gentle/">Gentle walks</a></li>
+                            <li><a href="/tags/medium/">Medium walks</a></li>
+                            <li><a href="/tags/strenuous/">Strenuous walks</a></li>
+                        </ul>
+                    </li>
+                    <li><b>Distance:</b>  Walks are tagged by mileage, here's some shortcuts for specific mileages:
+                        <ol>
+                            <li><a href="/tags/1-mile-walk/">mile walks</a></li>
+                            <li><a href="/tags/2-mile-walk/">mile walks</a></li>
+                            <li><a href="/tags/3-mile-walk/">mile walks</a></li>
+                            <li><a href="/tags/4-mile-walk/">mile walks</a></li>
+                            <li><a href="/tags/5-mile-walk/">mile walks</a></li>
+                            <li><a href="/tags/6-mile-walk/">mile walks</a></li>
+                            <li><a href="/tags/7-mile-walk/">mile walks</a></li>
+                            <li><a href="/tags/8-mile-walk/">mile walks</a></li>                            
+                            <li><a href="/tags/9-mile-walk/">mile walks</a></li>                            
+                            <li><a href="/tags/10-mile-walk/">mile walks</a></li>
+                        </ol>                    
+                    </li>
+                    <li><b>Area:</b> To filter walks by a given area:
+                        <ul>
+                            <li><a href="http://10.1.0.1:1313/categories/north-dartmoor/">North Dartmoor</a></li>
+                            <li><a href="http://10.1.0.1:1313/categories/east-dartmoor/">East Dartmoor</a></li>
+                            <li><a href="http://10.1.0.1:1313/categories/south-dartmoor/">South Dartmoor</a></li>
+                            <li><a href="http://10.1.0.1:1313/categories/west-dartmoor/">West Dartmoor</a></li>
+                            <li><a href="http://10.1.0.1:1313/categories/mid-dartmoor/">Mid Dartmoor</a></li>
+                            <li>Or use the <a href="/map-of-walks/">Map of Walks</a></li>
+
+
+                        </ul>
+                    </li>                    
+                </ul>
+            </section>
+        </div>
+    </article>
+</div>
+
+{{- $opts := dict "minify" hugo.IsProduction "JSXFactory" "createElement" -}}
+{{- $searchScript := resources.Get "ts/search.tsx" | js.Build $opts -}}
+<script type="text/javascript" src="{{ $searchScript.RelPermalink }}" defer></script>
+
+{{ partialCached "footer/footer" . }}
+{{ end }}
