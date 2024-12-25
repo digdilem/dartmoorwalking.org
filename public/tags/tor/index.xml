@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tor on Dartmoor Walking</title>
-        <link>http://10.1.0.1:1313/tags/tor/</link>
+        <link>https://dartmoorwalking.org/tags/tor/</link>
         <description>Recent content in Tor on Dartmoor Walking</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Simon Avery</copyright>
-        <lastBuildDate>Mon, 09 Dec 2024 09:50:47 +0000</lastBuildDate><atom:link href="http://10.1.0.1:1313/tags/tor/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 09 Dec 2024 09:50:47 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/tor/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Haytor Rocks and Quarries</title>
-        <link>http://10.1.0.1:1313/p/haytor-rocks-and-quarries/</link>
+        <link>https://dartmoorwalking.org/p/haytor-rocks-and-quarries/</link>
         <pubDate>Mon, 09 Dec 2024 09:50:47 +0000</pubDate>
         
-        <guid>http://10.1.0.1:1313/p/haytor-rocks-and-quarries/</guid>
-        <description>&lt;img src="http://10.1.0.1:1313/p/haytor-rocks-and-quarries/11.jpg" alt="Featured image of post Haytor Rocks and Quarries" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+        <guid>https://dartmoorwalking.org/p/haytor-rocks-and-quarries/</guid>
+        <description>&lt;img src="https://dartmoorwalking.org/p/haytor-rocks-and-quarries/11.jpg" alt="Featured image of post Haytor Rocks and Quarries" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;4 miles&lt;/b&gt;, walked by Keith Ryan and transcribed by Simon Avery&lt;/li&gt;
 &lt;li&gt; Grade: &lt;b&gt;Medium&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://10.1.0.1:1313/gpx/haytor-rocks-and-quarries.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;https://dartmoorwalking.org/gpx/haytor-rocks-and-quarries.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
 &lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.57689521254209%2c-3.753374366418201&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
     &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
     &lt;path d=&#34;M12 21v-4&#34; /&gt;
@@ -30,10 +30,10 @@
 &lt;li&gt; &lt;a href=&#34;https://w3w.co/keeps.plug.ambitions&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;keeps.plug.ambitions&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/map.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/map.jpg&#34;
 	width=&#34;1355&#34;
 	height=&#34;1036&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/map_hu13747694419305316999.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/map_hu5188894003636572939.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/map_hu13747694419305316999.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/map_hu5188894003636572939.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
@@ -47,10 +47,10 @@
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;A walk including some hills through Haytor and historic quarries from previous centuries. Points of interest include abandoned machinery, the Haytor Granite Tramway (The Templer Way), an abandoned partially-carved apple crusher and ruined buildings including a &amp;lsquo;beehive&amp;rsquo; quarryman&amp;rsquo;s hut.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;We start from the Upper Haytor car park, marked on the map as the lower P and white/green cross. Walk upwards towards the imposing Haytor&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/1.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/1.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/1_hu8341623639684319758.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/1_hu12141858743752907812.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/1_hu8341623639684319758.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/1_hu12141858743752907812.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Saddle Tor, SX 751 763, elevation 478 metres (1568 ft), seen from Haytor Upper Car Park&#34;
@@ -62,10 +62,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;haytor&#34;&gt;Haytor
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/2.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/2.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/2_hu11157636174715962129.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/2_hu3204635195150895136.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/2_hu11157636174715962129.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/2_hu3204635195150895136.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Haytor Rocks and our path ahead&#34;
@@ -80,10 +80,10 @@
 &lt;p&gt;These are granite intrusions that are seen from a long way off, even from The English Channel, and are hence, the &amp;ldquo;high tor&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;With rock piles separated by an area of grass, it is also called an &amp;ldquo;avenue tor&amp;rdquo;. Other Avenue Tors are Bellever Tor, Hound Tor, Great Staple (or, originally, Steeple) Tor, Rippon Tor, and Pew Tor.&lt;/p&gt;
 &lt;p&gt;Rock climbers and abseilers use Haytor often.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/3.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/3.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/3_hu7122337264398529475.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/3_hu1624324622905066806.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/3_hu7122337264398529475.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/3_hu1624324622905066806.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The leftmost, or Western outcrop is known as Low Man&#34;
@@ -97,10 +97,10 @@
 &lt;p&gt;On special occasions, a bonfire is sometimes set on the exposed flat rocks of Low Man by the local community in agreement with the local Authority and Landowner. These celebration fires, which have likely occured for millenia, can be seen for a huge distance.&lt;/p&gt;
 &lt;p&gt;On the very top of Low Man is a hole drilled by the Victorians to hold a flagpole.&lt;/p&gt;
 &lt;p&gt;The Victorians also carved steps into Haytor and erected a wrought-iron handrail to help them climb the rock with more ease. The steps, somewhat weathered, still exist, but only stubs of the ironwork remain. Stairs and a similar handrail still exist at Blackingstone Rock.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/4.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/4.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/4_hu9097979071068632400.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/4_hu10120334135988850373.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/4_hu9097979071068632400.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/4_hu10120334135988850373.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking back down to the car park - and the view of Devon beyond&#34;
@@ -111,10 +111,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/5.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/5.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/5_hu16850446295212905494.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/5_hu4373713680546485085.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/5_hu16850446295212905494.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/5_hu4373713680546485085.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking down towards the Lower Car Park against the treeline&#34;
@@ -125,10 +125,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/6.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/6.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/6_hu1241881338792435572.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/6_hu12151921338314752474.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/6_hu1241881338792435572.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/6_hu12151921338314752474.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Eastern Pile of Haytor&#34;
@@ -142,10 +142,10 @@
 &lt;p&gt;The adventurous may wish to climb Haytor. You will find the staps up the shallower grade, with a small leap across to the main rock.&lt;/p&gt;
 &lt;p&gt;This is not an easy climb and advised only for the fit and agile with suitable footwear, and to be avoided by all in icy or windy weather for obvious reasons.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;For our walk, we turn right in front of Haytor and head Northeast for about 500m&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/7.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/7.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/7_hu14765346996614740013.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/7_hu17080266354030614013.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/7_hu14765346996614740013.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/7_hu17080266354030614013.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking back at Haytor as we head towards Haytor Quarry to the Northeast&#34;
@@ -157,10 +157,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;haytor-quarry&#34;&gt;Haytor Quarry
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/8.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/8.jpg&#34;
 	width=&#34;1599&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/8_hu14214347666299916456.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/8_hu10443813450454005688.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/8_hu14214347666299916456.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/8_hu10443813450454005688.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Standing at the perimeter fence, looking down into the Quarry ponds&#34;
@@ -172,10 +172,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;At the fence, follow it down to the right until you come into a small gate where you may enter the quarry.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/9.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/9.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/9_hu1532051407061939162.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/9_hu5662047530164753812.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/9_hu1532051407061939162.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/9_hu5662047530164753812.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The gate into the quarry&#34;
@@ -186,10 +186,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/10.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/10.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/10_hu16806738976220161966.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/10_hu230647887256936542.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/10_hu16806738976220161966.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/10_hu230647887256936542.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;First approach to the quarry ponds&#34;
@@ -200,10 +200,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/11.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/11.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/11_hu4814027562536483743.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/11_hu7186557149922705745.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/11_hu4814027562536483743.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/11_hu7186557149922705745.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The winding gear of the derrick crane with the fallen timber mast behind it&#34;
@@ -230,10 +230,10 @@
     &gt;Edward St Maur, 11th Duke of Somerset&lt;/a&gt; - &amp;ldquo;Lord Seymour&amp;rdquo; (1775-1855)&lt;/p&gt;
 &lt;p&gt;At that time, Haytor quarries were leased by the Johnson Brothers in 1840, who closed them within a few years. It is known they were having problems with &amp;ldquo;the Union&amp;rdquo; and it seems likely this was linked. The brothers also leased Foggintor quarries and sold stone from there under the &lt;em&gt;Haytor Granite Company&lt;/em&gt; name, which was misleading to customers as the Haytor granite was known to be of better quality.&lt;/p&gt;
 &lt;p&gt;Seven years later, the Haytor lease was up for renewal and the Duke refused to extend it, but the quarry never re-opened.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/12.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/12.jpg&#34;
 	width=&#34;1599&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/12_hu17528851283526295360.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/12_hu9781880338213160813.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/12_hu17528851283526295360.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/12_hu9781880338213160813.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Another view of the winding gear - or as known locally, &amp;ldquo;The mangle&amp;rdquo;&#34;
@@ -249,10 +249,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV43350&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Heritage Gateway page MDV43350 - Machinery at Haytor Quarries&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/13.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/13.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/13_hu16962910211484974989.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/13_hu16878825596375299919.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/13_hu16962910211484974989.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/13_hu16878825596375299919.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Near to the crane - likely the socket for the crane upright to pivot on&#34;
@@ -263,10 +263,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/14.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/14.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;682&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/14_hu4441812709862711232.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/14_hu6328655600196726866.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/14_hu4441812709862711232.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/14_hu6328655600196726866.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Artist&amp;rsquo;s impression of the working quarry; &amp;ldquo;Haytor quarry - old print&amp;rdquo;. CImage reproduced with permission from the Dartmoor Trust Archive&#34;
@@ -277,10 +277,10 @@
 		data-flex-basis=&#34;351px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/15.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/15.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/15_hu14996970199894179049.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/15_hu9618412484412945702.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/15_hu14996970199894179049.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/15_hu9618412484412945702.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Water lilies&#34;
@@ -292,10 +292,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;The lilies, and the goldfish and occasional koi you may see, were introduced well after the closing of the quarries.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/16.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/16.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/16_hu6286220142828486516.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/16_hu13766646008975622866.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/16_hu6286220142828486516.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/16_hu13766646008975622866.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Tadpoles&#34;
@@ -306,10 +306,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/17.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/17.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/17_hu3151925063800837778.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/17_hu12870011604692697178.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/17_hu3151925063800837778.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/17_hu12870011604692697178.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A view across the flooded deep pit showing the near-side iron ring in the foreground and the second ring on the larger &amp;ldquo;white&amp;rdquo; rock straight across the water&#34;
@@ -320,10 +320,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/18.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/18.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/18_hu11866416567191424613.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/18_hu16525039275146092675.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/18_hu11866416567191424613.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/18_hu16525039275146092675.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A close up of of the first ring&#34;
@@ -334,10 +334,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/19.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/19.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/19_hu5799729939677284871.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/19_hu1060499593912600602.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/19_hu5799729939677284871.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/19_hu1060499593912600602.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Halfway around the deep pit&#34;
@@ -350,10 +350,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;Swimming is not advised!&lt;/p&gt;
 &lt;p&gt;As well as hidden hazards underwater, there are a great many leeches in these ponds! If you study the water edges you may see them wriggling.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/20.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/20.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/20_hu17053942051724903608.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/20_hu2128711219172156083.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/20_hu17053942051724903608.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/20_hu2128711219172156083.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking across the pond from the second iron ring to the first one&#34;
@@ -368,10 +368,10 @@
 &lt;p&gt;In 1986, as part of a Youth Training Scheme (YTS), I was part of a group of youths who carried water barrels, rope and pallets up to these quarries. We were tasked, as part of a confidence-building course run by Torbay Council, to build a raft and cross this pit.
 These rings came in very useful in securing our pulling ropes  &amp;ndash; &lt;cite&gt;Simon&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/21.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/21.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/21_hu3118099050208024669.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/21_hu8939403251497694899.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/21_hu3118099050208024669.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/21_hu8939403251497694899.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Rock split by the tare and feathers method, up behind the second iron ring&#34;
@@ -382,10 +382,10 @@ These rings came in very useful in securing our pulling ropes  &amp;ndash; &lt;c
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/22.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/22.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/22_hu13167794789788735775.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/22_hu6386535097684797972.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/22_hu13167794789788735775.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/22_hu6386535097684797972.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View ahead to the exit gate&#34;
@@ -396,10 +396,10 @@ These rings came in very useful in securing our pulling ropes  &amp;ndash; &lt;c
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/23.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/23.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/23_hu3762782298643795531.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/23_hu14185158350466932397.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/23_hu3762782298643795531.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/23_hu14185158350466932397.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View back across the middle pond. Note the two iron spikes left in the rock - seemingly to trip the unwary&#34;
@@ -410,10 +410,10 @@ These rings came in very useful in securing our pulling ropes  &amp;ndash; &lt;c
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/24.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/24.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/24_hu13598255939450739921.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/24_hu11186249613347466264.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/24_hu13598255939450739921.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/24_hu11186249613347466264.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Trip hazards&#34;
@@ -424,10 +424,10 @@ These rings came in very useful in securing our pulling ropes  &amp;ndash; &lt;c
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/25.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/25.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/25_hu6866979968594006224.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/25_hu11977097228525746580.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/25_hu6866979968594006224.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/25_hu11977097228525746580.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A final look back to the quarry as we leave through the Eastern gate&#34;
@@ -439,10 +439,10 @@ These rings came in very useful in securing our pulling ropes  &amp;ndash; &lt;c
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;quarry-waste-tips&#34;&gt;Quarry Waste tips
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/26.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/26.jpg&#34;
 	width=&#34;1599&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/26_hu13352751876210814214.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/26_hu10802109851370067235.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/26_hu13352751876210814214.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/26_hu10802109851370067235.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Quarry waste&#34;
@@ -456,10 +456,10 @@ These rings came in very useful in securing our pulling ropes  &amp;ndash; &lt;c
 &lt;p&gt;&lt;em&gt;We walk through the gate and meander down to the right below the heaps&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The flat top is where iron rails once rested to run the trucks out from the quarry to tip waste rock.&lt;/p&gt;
 &lt;p&gt;This functional design is found worldwide wherever quarries and mines needs spoil disposing of. A much larger example can be found at Foggintor Quarry.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/27.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/27.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/27_hu13292060329679983778.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/27_hu5757273812201073388.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/27_hu13292060329679983778.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/27_hu5757273812201073388.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Unusual granite rail showing tare and feather marks. These are usually placed down, so one supposes this has them on both sides&#34;
@@ -470,10 +470,10 @@ These rings came in very useful in securing our pulling ropes  &amp;ndash; &lt;c
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/28.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/28.jpg&#34;
 	width=&#34;1599&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/28_hu15004889966059383495.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/28_hu2883601052188772019.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/28_hu15004889966059383495.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/28_hu2883601052188772019.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Below the spoil heaps&#34;
@@ -485,10 +485,10 @@ These rings came in very useful in securing our pulling ropes  &amp;ndash; &lt;c
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;haytor-granite-tramway&#34;&gt;Haytor Granite Tramway
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/29.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/29.jpg&#34;
 	width=&#34;1599&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/29_hu708030713121612821.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/29_hu15833252003405281411.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/29_hu708030713121612821.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/29_hu15833252003405281411.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Haytor Granite Tramway leading away from the quarry along the gradient&#34;
@@ -501,10 +501,10 @@ These rings came in very useful in securing our pulling ropes  &amp;ndash; &lt;c
 &gt;&lt;/p&gt;
 &lt;p&gt;The gauge of the track is 4 foot 3 inches (1295mm) with the rails being shaped granite blocks.&lt;/p&gt;
 &lt;p&gt;Note that because there were no flanges, the inner part of the rails is of differing heights and hasn&amp;rsquo;t been as carefully worked - because it only existed to steer the wheels back onto the lower, flatter, part.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/30.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/30.jpg&#34;
 	width=&#34;1599&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/30_hu1738359034501576039.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/30_hu6410265034861932352.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/30_hu1738359034501576039.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/30_hu6410265034861932352.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Rails curving away to the right, over a bank crossing a tinworked stream&#34;
@@ -515,10 +515,10 @@ These rings came in very useful in securing our pulling ropes  &amp;ndash; &lt;c
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/31.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/31.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;671&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/31_hu3466586340816527282.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/31_hu16004467077965472161.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/31_hu3466586340816527282.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/31_hu16004467077965472161.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;(Foreground) - a surviving wagon from this tramway showing its strong and simple design. Picture courtesy of Dartmoor Trust Archive&#34;
@@ -539,7 +539,7 @@ And mounted on twelve-wheeled car
 &amp;lsquo;Twas safely brought from Holwell Tor&amp;rdquo;
 &lt;cite&gt;&amp;ndash; Thomas Taverner &lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/32.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/32.jpg&#34;
 	
 	
 	
@@ -549,10 +549,10 @@ And mounted on twelve-wheeled car
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/33.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/33.jpg&#34;
 	width=&#34;1599&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/33_hu7781169063187317813.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/33_hu7831666736278528946.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/33_hu7781169063187317813.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/33_hu7831666736278528946.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;SX 76122 77722&#34;
@@ -565,10 +565,10 @@ And mounted on twelve-wheeled car
 &gt;&lt;/p&gt;
 &lt;p&gt;At junctions the wheels were guided by &amp;lsquo;point tongues&amp;rsquo;, pivoted on the granite-block rails.&lt;/p&gt;
 &lt;p&gt;This could be described as an early form of a railway &amp;ldquo;switchplate&amp;rdquo;. Authorities differ on whether the point tongues were oak or iron.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/34.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/34.jpg&#34;
 	width=&#34;1269&#34;
 	height=&#34;1726&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/34_hu8096612650029269057.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/34_hu13219877317041163869.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/34_hu8096612650029269057.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/34_hu13219877317041163869.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Old photograph of someone manipulating the point tongues&#34;
@@ -579,10 +579,10 @@ And mounted on twelve-wheeled car
 		data-flex-basis=&#34;176px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/35.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/35.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;895&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/35_hu5323190712820524550.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/35_hu7089568573268855340.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/35_hu5323190712820524550.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/35_hu7089568573268855340.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Rail with inscribed &amp;ldquo;K&amp;rdquo; at SX 76140 77728, a mason&amp;rsquo;s mark&#34;
@@ -593,10 +593,10 @@ And mounted on twelve-wheeled car
 		data-flex-basis=&#34;429px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/36.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/36.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/36_hu17490406032970691737.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/36_hu16162204826349307193.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/36_hu17490406032970691737.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/36_hu16162204826349307193.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Holwell Junction,  SX 76174 77747&#34;
@@ -610,10 +610,10 @@ And mounted on twelve-wheeled car
 &lt;p&gt;This is Holwell Junction on the tramway, looking back the way we&amp;rsquo;ve come.&lt;/p&gt;
 &lt;p&gt;The left branch leads to Haytor Quarry whilst straight ahead leads to Holwell Quarry, Rubble Heap Quarry, Harrow Barrow Quarry and Haytor West Quarry.&lt;/p&gt;
 &lt;p&gt;We&amp;rsquo;ll return here shortly, but for now, continue downhill for a hundred meters.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/37.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/37.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/37_hu16666521170748889059.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/37_hu16942613460624335793.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/37_hu16666521170748889059.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/37_hu16942613460624335793.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Closer view&#34;
@@ -624,10 +624,10 @@ And mounted on twelve-wheeled car
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/38.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/38.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/38_hu16252937855853975806.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/38_hu6368657277434890210.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/38_hu16252937855853975806.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/38_hu6368657277434890210.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;An inscribed&amp;#34;S&amp;#34; on a rail, another mason&amp;rsquo;s mark, not far from Holwell Junction, SX 76248 77713&#34;
@@ -638,10 +638,10 @@ And mounted on twelve-wheeled car
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/39.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/39.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/39_hu4816125540619413198.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/39_hu2343899110572800578.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/39_hu4816125540619413198.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/39_hu2343899110572800578.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Ponies on the line&#34;
@@ -652,10 +652,10 @@ And mounted on twelve-wheeled car
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/40.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/40.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/40_hu11277343318474320311.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/40_hu9284271721441699210.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/40_hu11277343318474320311.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/40_hu9284271721441699210.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A lower perspective&#34;
@@ -666,10 +666,10 @@ And mounted on twelve-wheeled car
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/41.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/41.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/41_hu7231763093704374920.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/41_hu14613732056638577499.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/41_hu7231763093704374920.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/41_hu14613732056638577499.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Whoops!&#34;
@@ -684,10 +684,10 @@ And mounted on twelve-wheeled car
 &lt;p&gt;It can only be assumed these were cut for a future line or quarry that was never constructed, for they clearly hold no purpose.&lt;/p&gt;
 &lt;p&gt;For now, turn around and return to Holwell Junction, and carry straight on to the West.&lt;/p&gt;
 &lt;h2 id=&#34;rubble-heap-junction&#34;&gt;Rubble Heap Junction
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/42.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/42.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/42_hu15061188215338745729.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/42_hu15491295688855806351.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/42_hu15061188215338745729.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/42_hu15491295688855806351.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Rubble Heap Junction at SX 75722 77739&#34;
@@ -703,10 +703,10 @@ And mounted on twelve-wheeled car
 &lt;p&gt;&lt;em&gt;Note: If you&amp;rsquo;d like a shorter walk, you can continue ahead and skip the Holwell Quarry visit&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;holwell-quarry&#34;&gt;Holwell Quarry
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/43.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/43.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/43_hu14977067229351311313.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/43_hu17557690638942563564.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/43_hu14977067229351311313.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/43_hu17557690638942563564.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Look to your left as you start to descend the tramway - abandoned granite rail, SX 75664 77737&#34;
@@ -717,7 +717,7 @@ And mounted on twelve-wheeled car
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/44.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/44.jpg&#34;
 	
 	
 	
@@ -729,10 +729,10 @@ And mounted on twelve-wheeled car
 &gt;&lt;/p&gt;
 &lt;p&gt;This carving was the base for an apple mill used for cider making.&lt;/p&gt;
 &lt;p&gt;One can imagine the frustration of the carver when it broke. It&amp;rsquo;s not known whether it broke in the carving, or was damaged in transport.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/45.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/45.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/45_hu6538607796945118527.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/45_hu12532830540220851140.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/45_hu6538607796945118527.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/45_hu12532830540220851140.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Approaching Holwell Quarry, on the left - ruined building&#34;
@@ -743,10 +743,10 @@ And mounted on twelve-wheeled car
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/46.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/46.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/46_hu10799622303854758385.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/46_hu1131058031472165985.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/46_hu10799622303854758385.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/46_hu1131058031472165985.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Part of Holwell Quarry, SX 75165 77746&#34;
@@ -759,10 +759,10 @@ And mounted on twelve-wheeled car
 &gt;&lt;/p&gt;
 &lt;p&gt;There are five separate quarries on Haytor Down: Haytor (Main) Quarry, Holwell Quarry, Rubble Heap Quarry, Harrow Barrow (Emsworthy East Quarry) and Western Quarry (Emsworthy West Quarry).&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Emsworthy&amp;rdquo; names are sometimes used because of the proximity of Emsworthy (Hemsworthy) Rocks, between Haytor and Saddle Tor.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/47.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/47.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/47_hu16131245934150695771.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/47_hu13964466369444348496.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/47_hu16131245934150695771.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/47_hu13964466369444348496.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Ruined building inside Holwell Quarry&#34;
@@ -773,10 +773,10 @@ And mounted on twelve-wheeled car
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/48.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/48.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/48_hu3371527877880636047.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/48_hu7535938298003335275.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/48_hu3371527877880636047.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/48_hu7535938298003335275.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Inside Holwell Quarry&#34;
@@ -787,10 +787,10 @@ And mounted on twelve-wheeled car
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/49.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/49.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/49_hu16982476248861426051.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/49_hu4750680758836543259.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/49_hu16982476248861426051.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/49_hu4750680758836543259.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Track continuing down, with the Quarryman&amp;rsquo;s hut down to the right below the rocks&#34;
@@ -802,10 +802,10 @@ And mounted on twelve-wheeled car
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;beehive&#34;&gt;Beehive
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/50.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/50.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/50_hu4655631512401752381.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/50_hu17420051218005761451.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/50_hu4655631512401752381.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/50_hu17420051218005761451.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Quarryman&amp;rsquo;s hut below Holwell Quarry,  SX 75073 77784&#34;
@@ -818,10 +818,10 @@ And mounted on twelve-wheeled car
 &gt;&lt;/p&gt;
 &lt;p&gt;This can be found a short way below the tramway near to its end.&lt;/p&gt;
 &lt;p&gt;The hut is known locally as &amp;ldquo;The Beehive&amp;rdquo; due to its conical shape, and was possibly used as an explosives store, or a shelter during blasting.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/51.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/51.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/51_hu939675541481358490.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/51_hu11037120564200983647.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/51_hu939675541481358490.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/51_hu11037120564200983647.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Front of the Beehive&#34;
@@ -832,10 +832,10 @@ And mounted on twelve-wheeled car
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/52.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/52.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/52_hu12590406092130712269.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/52_hu13368578984299082287.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/52_hu12590406092130712269.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/52_hu13368578984299082287.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View inside of the large roof slabs&#34;
@@ -846,10 +846,10 @@ And mounted on twelve-wheeled car
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/53.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/53.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/53_hu17789275026097364899.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/53_hu2037510621155949300.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/53_hu17789275026097364899.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/53_hu2037510621155949300.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Final view&#34;
@@ -860,10 +860,10 @@ And mounted on twelve-wheeled car
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/54.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/54.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/54_hu9635290521081027360.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/54_hu10882254147274871061.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/54_hu9635290521081027360.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/54_hu10882254147274871061.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Smallcombe Rocks, North of the tramway across the valley&#34;
@@ -878,10 +878,10 @@ And mounted on twelve-wheeled car
 &lt;hr&gt;
 &lt;p&gt;Continuing along the tramway to the Southwest for around 300 meters until you find;&lt;/p&gt;
 &lt;h2 id=&#34;rubble-heap-quarry&#34;&gt;Rubble Heap Quarry
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/55.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/55.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/55_hu15142481190965323977.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/55_hu9295746035527446081.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/55_hu15142481190965323977.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/55_hu9295746035527446081.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Approach to Rubble heap Quarry along the rubble heap itself, with Haytor behind it&#34;
@@ -892,10 +892,10 @@ And mounted on twelve-wheeled car
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/56.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/56.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/56_hu13107499255857464940.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/56_hu3816983987492986570.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/56_hu13107499255857464940.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/56_hu3816983987492986570.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View from the quarry &amp;ldquo;end&amp;rdquo; of the rubble heap, looking into the entrance to the quarry - the grassy path, from approx. SX 75453 77366&#34;
@@ -906,10 +906,10 @@ And mounted on twelve-wheeled car
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/57.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/57.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/57_hu14087635417855326214.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/57_hu4640537002887547255.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/57_hu14087635417855326214.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/57_hu4640537002887547255.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The secluded path into Rubble Heap Quarry&#34;
@@ -920,10 +920,10 @@ And mounted on twelve-wheeled car
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/58.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/58.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/58_hu11055273870530527280.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/58_hu18230528517605581357.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/58_hu11055273870530527280.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/58_hu18230528517605581357.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Rubble Heap Quarry&#34;
@@ -935,10 +935,10 @@ And mounted on twelve-wheeled car
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;From here, we return to the quarry entrance and walk towards Haytor across open moorland&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/59.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/59.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/59_hu12843146031731494930.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/59_hu8779058941766271357.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/59_hu12843146031731494930.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/59_hu8779058941766271357.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Approaching the rear side of Haytor, a climber&amp;rsquo;s favourite&#34;
@@ -949,10 +949,10 @@ And mounted on twelve-wheeled car
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/60.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/60.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/60_hu3335821458365905528.jpg 480w, http://10.1.0.1:1313/p/haytor-rocks-and-quarries/60_hu8045629874785157307.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/60_hu3335821458365905528.jpg 480w, https://dartmoorwalking.org/p/haytor-rocks-and-quarries/60_hu8045629874785157307.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A final view of Haytor, taken from Low Man&#34;
