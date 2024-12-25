@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx creator="Geocaching Map Enhancements v0.8.2" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns="http://www.topografix.com/GPX/1/1">
+<gpx creator="dartmoorwalking.org" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns="http://www.topografix.com/GPX/1/1">
 	<metadata>
-		<name>GME Export</name>
-		<desc>Route file exported from Geocaching.com using Geocaching Map Enhancements.</desc>
+		<name>dartmoorwalking.org</name>
+		<desc>Route file exported from dartmoorwalking.org - please see the corresponding web page for this walk</desc>
 		<author>
-			<name>Geocaching.com user</name>
+			<name>Simon Avery</name>
 		</author>
 		<time>2024-12-25T19:48:24.242Z</time>
 	</metadata>
