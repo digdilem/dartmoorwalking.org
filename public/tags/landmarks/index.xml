@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Landmarks on Dartmoor Walking</title>
-        <link>https://dartmoorwalking.org/tags/landmarks/</link>
+        <link>http://10.1.0.1:1313/tags/landmarks/</link>
         <description>Recent content in Landmarks on Dartmoor Walking</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Simon Avery</copyright>
-        <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/landmarks/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://10.1.0.1:1313/tags/landmarks/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hound Tor, Bowerman&#39;s Nose, Kitty Jay&#39;s Grave</title>
-        <link>https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/</link>
+        <link>http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/</link>
         <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/14.jpg" alt="Featured image of post Hound Tor, Bowerman&#39;s Nose, Kitty Jay&#39;s Grave" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+        <guid>http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/</guid>
+        <description>&lt;img src="http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/14.jpg" alt="Featured image of post Hound Tor, Bowerman&#39;s Nose, Kitty Jay&#39;s Grave" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;4 miles&lt;/b&gt;, walked by Keith Ryan and transcribed by Simon Avery&lt;/li&gt;
 &lt;li&gt; Grade: &lt;b&gt;Medium&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;https://dartmoorwalking.org/gpx/hound-tor-bowermans-nose-kitty-jays-grave.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://10.1.0.1:1313/gpx/hound-tor-bowermans-nose-kitty-jays-grave.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
 &lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.598980%2c-3.782292&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
     &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
     &lt;path d=&#34;M12 21v-4&#34; /&gt;
@@ -30,10 +30,10 @@
 &lt;li&gt; &lt;a href=&#34;https://w3w.co/hugs.intervene.hammocks&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;hugs.intervene.hammocks&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/map.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/map.jpg&#34;
 	width=&#34;1394&#34;
 	height=&#34;749&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/map_hu16702017293669278273.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/map_hu11820379629246973141.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/map_hu16702017293669278273.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/map_hu11820379629246973141.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
@@ -45,10 +45,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;A four mile walk of mostly level terrain including the famous Kitty Jay&amp;rsquo;s Grave, Bowerman&amp;rsquo;s Nose, Swallerton Gate, a Logan Stone, Ladder Stile and many more&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/1.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/1.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/1_hu3540243676439992927.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/1_hu10186085143174882067.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/1_hu3540243676439992927.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/1_hu10186085143174882067.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Seat at the back of Swallerton Gate car park, modelled by chainsaw from a tree trunk&#34;
@@ -59,10 +59,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/2.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/2.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/2_hu1798934190757430737.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/2_hu5648683848507649646.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/2_hu1798934190757430737.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/2_hu5648683848507649646.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking at the combined colour and grain, I think the carving is all one piece of wood&#34;
@@ -73,10 +73,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/3.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/3.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/3_hu774703010658908879.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/3_hu17666271001882967940.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/3_hu774703010658908879.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/3_hu17666271001882967940.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34; Hound Tor or Great Hound Tor, at SX 742 789, elevation 414 metres (1358 feet), across the road from Swallerton Gate car park, as opposed to Hound Tor or Houndetor at SX 6288 8903, elevation 495 metres (1624 feet) on the north moor, north-east of Knack Mine and Steeperton Tor&#34;
@@ -88,10 +88,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;The tor is on Houndtor Down which, while it is unenclosed and freely open to the public, is owned by three families and is not common land. But then, all land on Dartmoor is owned by someone, whether it is Common Land or not. Hound Tor is clearly an &amp;ldquo;avenue tor&amp;rdquo;, where the central portion has been eroded to leave a central avenue running between the remaining piles - other examples are Bellever Tor, Haytor, Rippon Tor and Pew Tor.  In fact, there are several avenues through Hound Tor.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/4.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/4.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/4_hu5940566018520630394.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/4_hu1500745101937400882.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/4_hu5940566018520630394.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/4_hu1500745101937400882.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34; Swallerton Gate - SX 738 791, this seems to be a recent corruption of &amp;ldquo;Swine Down Gate&amp;rdquo; (&amp;ldquo;Swine-a-down Gate&amp;rdquo;, Hemery, p.726), which was the name used in Crossing&amp;rsquo;s Guide to Dartmoor (p.297)&#34;
@@ -105,10 +105,10 @@
 &lt;p&gt;The road through Swallerton Gate leads to Swine Down and, further on, to Kitty Jay&amp;rsquo;s grave.  An old gate post can be seen on the left (see next photograph). Beyond, there is a cottage on the left, Swallerton Gate, formerly the Hound Tor Inn until 1840 and thought before that to have been the Green Dragon Inn. It was recorded as Swine Down Cottage in the 1851 Census (Source: Mike Brown, 7389 7915 and 737 796).&lt;/p&gt;
 &lt;p&gt;It is well-situated on the road between Ashburton and Chagford - two busy market towns.  It would also have been used by the inhabitants of Widecombe and Ilsington on their way to market.  There is an old cross in the garden wall of the cottage.  Source: Dave Brewer (2002), Dartmoor Boundary Markers, Halsgrove, p. 115.&lt;/p&gt;
 &lt;p&gt;There are records that Thor Heyerdahl wrote at least part of The Kon-Tiki Expedition in the cottage.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/5.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/5.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/5_hu1339480181312359030.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/5_hu832507949209226131.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/5_hu1339480181312359030.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/5_hu832507949209226131.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Swallerton Gate gate post &amp;hellip;.. with an iron gate hanger still in place&#34;
@@ -119,10 +119,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/6.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/6.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/6_hu6417683121808074786.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/6_hu1955987138656875207.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/6_hu6417683121808074786.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/6_hu1955987138656875207.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Swallerton Gate Cross - a mutilated medieval incised cross built into the garden wall in 1988 (Brewer, p.139)&#34;
@@ -136,10 +136,10 @@
 &lt;p&gt;This cross was going to be used in the hardcore for the floor of the extension but an intervention pointed out that is was a medieval cross head. The intervention came from a passing Harry Starkey, a well-known Dartmoor guide to whom there is a memorial locally on the back of the replaced Duke Stone on the Ilsington Manor boundary at SX 74605 77305, close to Becka Brook.&lt;/p&gt;
 &lt;p&gt;This could be the cross formerly known as Swine Path Cross, at what is now known as Swallerton Gate, that is mentioned in a description of the boundary between Chagford and Ashburton Stannaries that dates from the last meeting of a Stannary Court in 1786 at Crockern Tor, using a &amp;ldquo;Presentiments of the Bounds of the several Stannary Courts of Devon&amp;rdquo; dated 1613 (Brewer, pp.269-273).&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Addendum: FH (Harry) Starkey (1987) Dartmoor&amp;rsquo;s Crosses and Some Ancient Tracks, Revised Edition, pages 155-156, records that the cross was found in a nearby hedge in 1939 and was described by EN Masson Phillips in Transactions of the Devonshire Association, Vol. LX11 (1940) page 267.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/7.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/7.jpg&#34;
 	width=&#34;500&#34;
 	height=&#34;500&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/7_hu14062657121046172125.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/7_hu7239752711773158877.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/7_hu14062657121046172125.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/7_hu7239752711773158877.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo courtesy of Dartmoor Trust Archive&#34;
@@ -150,10 +150,10 @@
 		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/8.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/8.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/8_hu6930414713499459384.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/8_hu8264727481033669381.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/8_hu6930414713499459384.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/8_hu8264727481033669381.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The cross can be seen a few inches to the right of the middle fence post&#34;
@@ -164,10 +164,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/9.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/9.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/9_hu6257214458910196058.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/9_hu4649856408090968910.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/9_hu6257214458910196058.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/9_hu4649856408090968910.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Granite water trough across the road from the cottage&#34;
@@ -178,10 +178,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/10.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/10.jpg&#34;
 	width=&#34;1599&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/10_hu8856092977224476269.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/10_hu5541473084785433274.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/10_hu8856092977224476269.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/10_hu5541473084785433274.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View across Swine Down&#34;
@@ -192,10 +192,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/12.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/12.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/12_hu6787426913874022568.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/12_hu18249031095090486272.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/12_hu6787426913874022568.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/12_hu18249031095090486272.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The road to Kitty Jay&amp;rsquo;s Grave&#34;
@@ -207,10 +207,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;kitty-jay&#34;&gt;Kitty Jay
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/14.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/14.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/14_hu16028851487928634282.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/14_hu13479185127468966570.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/14_hu16028851487928634282.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/14_hu13479185127468966570.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Because she committed suicide, Kitty Jay was buried in unconsecrated ground at an isolated crossroads, Four Cross Lane, probably before 1823 (see below)&#34;
@@ -221,10 +221,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/15.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/15.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/15_hu17644372074631897883.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/15_hu7183473972826483739.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/15_hu17644372074631897883.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/15_hu7183473972826483739.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Jay&amp;rsquo;s Grave, at SX 73238 79908.  Located at a crossroads (Google Map image) where Heatree Common lane (i.e. Natsworthy Gate footpath), through the gate behind the grave, crosses the Ashburton / Moretonhampstead &amp; Chagford road&#34;
@@ -239,10 +239,10 @@
 &lt;p&gt;It is also said that burial at crossroads was chosen possibly as a warning to others and also to confuse the spirit or ghost of the departed so that they might not easily find their way back to where they had lived and be of nuisance to the living.&lt;/p&gt;
 &lt;p&gt;The Burial of Suicide Act 1823 did away with the requirement for crossroads burials.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Addendum: Devon &amp;amp; Dartmoor Historic Environment Record - MDV7489 Jay&amp;rsquo;s Grave - one report in this record (by Beeson M, 2018) mentions Ann Jay, Kay, Betty Kay, an 1882 poem referring to Kay&amp;rsquo;s Grave, and Betsy Kay. An eyewitness to the exhumation put her death to around 1780-1790.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/16.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/16.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/16_hu9143162662264845583.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/16_hu12151152401732924914.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/16_hu9143162662264845583.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/16_hu12151152401732924914.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The grave is never left without flowers, yet nobody claims credit for the placing of them. More recently, small coins and other offerings have started to be left by visitors&#34;
@@ -253,10 +253,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/17.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/17.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/17_hu4803887039616680996.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/17_hu13090408352228646865.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/17_hu4803887039616680996.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/17_hu13090408352228646865.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;There were a lot of tokens and good luck talismans during visits on 27th Feb. and 5th March of 2019 - probably not from tourists at this time of year&#34;
@@ -276,10 +276,10 @@
 &lt;p&gt;The father of Mr Robert Nosworthy, born at Ford &amp;ldquo;exactly one hundred years ago&amp;rdquo; (written in 1934, therefore born 1834), always spoke of her as Mary Jay, as did his great aunt, a generation back. Original OS maps had it labelled as Jay&amp;rsquo;s Grave but Mr John Kitson of Heatree had it changed to Jane&amp;rsquo;s Grave.  His family agreed it should be reverted to Jay&amp;rsquo;s Grave (1937-1961 1:25k Series). OS 25-inch 1885/1886. The adjacent single sheet map has Swallerton Gate marked as Swinedown Gate.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;crippon-rock&#34;&gt;Crippon Rock
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/19.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/19.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/19_hu8436072200796756659.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/19_hu3868186469060138281.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/19_hu8436072200796756659.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/19_hu3868186469060138281.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Crippon Rock, on Cripdon Down (vernacular: &amp;ldquo;Crippon&amp;rdquo; , Hemery p.724)&#34;
@@ -290,10 +290,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/20.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/20.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/20_hu2156454298903788804.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/20_hu2289761853734286041.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/20_hu2156454298903788804.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/20_hu2289761853734286041.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Rock basins on Crippon Rock&#34;
@@ -304,10 +304,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/21.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/21.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/21_hu7670460781665813560.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/21_hu9183683871706531953.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/21_hu7670460781665813560.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/21_hu9183683871706531953.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View to the summit rocks on Hayne Down. The pillar of Bowerman&amp;rsquo;s Nose can just be seen about 1/5th way in from the left edge of the photograph, just breaking the skyline&#34;
@@ -318,10 +318,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/22.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/22.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/22_hu18433154713321713155.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/22_hu14150536631022522792.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/22_hu18433154713321713155.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/22_hu14150536631022522792.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Beside the path to Cripdown Tor there is a large earthbound stone&#34;
@@ -332,10 +332,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/23.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/23.jpg&#34;
 	width=&#34;1599&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/23_hu17965792154693454136.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/23_hu11995084920940166828.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/23_hu17965792154693454136.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/23_hu11995084920940166828.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;This is granite with a wide variety of large crystals&#34;
@@ -346,10 +346,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/24.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/24.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/24_hu503565674809269619.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/24_hu16701554298168639558.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/24_hu503565674809269619.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/24_hu16701554298168639558.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;An example of the large feldspar crystals&#34;
@@ -362,10 +362,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;Feldspar crystals indicate that the rock cooled slowly after it was formed. this example is probably plagioclase feldspar (ie of a family containing NaAlSi3O8 to CaAl2Si2O8  and usually white. The alternative would be an orthoclase feldspar (ie containing potassium KAlSi3O8 ) but those are usually pinkish in hur. In granite, quartz crystals are usually greyish and translucent. My thanks to John Viant for this information&lt;/p&gt;
 &lt;h2 id=&#34;logan-stone&#34;&gt;Logan Stone
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/25.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/25.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/25_hu12960896747992305235.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/25_hu5001133241823678746.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/25_hu12960896747992305235.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/25_hu5001133241823678746.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking ahead to the rocks of Cripdon Tor - the rock to the right of centre is said to be a logan stone (Hemery p.274)&#34;
@@ -376,10 +376,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/26.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/26.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/26_hu2118996766873831110.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/26_hu17878367732665126505.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/26_hu2118996766873831110.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/26_hu17878367732665126505.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A closer view&#34;
@@ -390,10 +390,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/27.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/27.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/27_hu781971122544043946.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/27_hu4628401365665169572.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/27_hu781971122544043946.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/27_hu4628401365665169572.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;This pile is hidden from view in the photographs above, a little to the right i.e. east&#34;
@@ -404,10 +404,10 @@
 		data-flex-basis=&#34;427px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/28.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/28.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/28_hu9695828568497909070.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/28_hu13935530973054541782.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/28_hu9695828568497909070.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/28_hu13935530973054541782.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Another view of the rocks on Hayne Down; Bowerman&amp;rsquo;s Nose is in the centre of the photograph, just below the skyline&#34;
@@ -418,10 +418,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/29.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/29.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/29_hu1606669571455052296.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/29_hu3778078379935419818.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/29_hu1606669571455052296.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/29_hu3778078379935419818.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Zoomed view of Bowerman&amp;rsquo;s Nose&#34;
@@ -432,10 +432,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/30.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/30.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/30_hu5435892553991230151.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/30_hu16099907773577795587.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/30_hu5435892553991230151.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/30_hu16099907773577795587.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Ladder stile at SX 73608 80198, looking down the steep&amp;rsquo;ish, narrow footpath towards Bowerman&amp;rsquo;s Nose, which can be seen on the skyline&#34;
@@ -446,10 +446,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/31.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/31.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/31_hu12287195795999429924.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/31_hu14298912134284254039.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/31_hu12287195795999429924.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/31_hu14298912134284254039.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Highly-zoomed view of Bowerman&amp;rsquo;s Nose from the stile, looking different to the classic view from this angle&#34;
@@ -461,10 +461,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;medieval-longhouse-ruins&#34;&gt;Medieval Longhouse ruins
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/32.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/32.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/32_hu3640908537233432850.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/32_hu17219947218648097624.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/32_hu3640908537233432850.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/32_hu17219947218648097624.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;There is a very overgrown medieval longhouse at the bottom of the slope, with the lower end being at SX 73746 80258.&#34;
@@ -476,10 +476,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;The uphill left corner of the house is marked by the hawthorn tree with the rest of the house being in the right half of the photograph - it was difficult to photograph against the sun. The orientation is as it is in the diagram below: this is described by Jeremy Butler (1991), Dartmoor Atlas of Antiquities, Vol. 1 - The East, Map 21 - 5: Blissmoor longhouse (fig. 21.3), page 155&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/33.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/33.jpg&#34;
 	width=&#34;644&#34;
 	height=&#34;728&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/33_hu11517483173398749143.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/33_hu10483715133189013597.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/33_hu11517483173398749143.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/33_hu10483715133189013597.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image (c) J Butler 1994. Reproduced by kind permission (ref. 29 Sept. 2012)&#34;
@@ -491,10 +491,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;bowermans-nose&#34;&gt;Bowerman&amp;rsquo;s Nose
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/34.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/34.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/34_hu16358521834029465498.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/34_hu16961783188134821049.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/34_hu16358521834029465498.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/34_hu16961783188134821049.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View ascending the slope to the south-west of Bowerman&amp;rsquo;s Nose, SX 7410 8046&#34;
@@ -505,10 +505,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/35.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/35.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/35_hu5905923164671454166.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/35_hu2039960446346726693.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/35_hu5905923164671454166.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/35_hu2039960446346726693.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Bowerman&amp;rsquo;s Nose is the official logo of Dartmoor Preservation Association (founded 1883), first appearing on the October 1966 newsletter&#34;
@@ -519,10 +519,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/36.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/36.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/36_hu5561754806220354780.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/36_hu2432625678135144882.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/36_hu5561754806220354780.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/36_hu2432625678135144882.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;&amp;lsquo;Twas once good hunting land&#34;
@@ -538,10 +538,10 @@
 &lt;p&gt;The next time he was out hunting, one of the witches transformed herself into a white hare - a highly prized trophy. She led him the merriest chase of his life until he was near exhaustion. Then she led him and his hounds back to this spot where the other witches were waiting.&lt;/p&gt;
 &lt;p&gt;They turned him into a pillar of granite as punishment, right here, where he must gaze out for all eternity on his favourite hunting lands.&lt;/p&gt;
 &lt;p&gt;His hounds ran in fear for their lives but the witches turned on them as well, turning them to stone on a nearby hill - which is known today as &amp;ldquo;Hound Tor&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/37.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/37.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/37_hu18319331936849968353.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/37_hu4160156832036255152.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/37_hu18319331936849968353.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/37_hu4160156832036255152.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A closer view of his features&#34;
@@ -552,10 +552,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/38.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/38.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/38_hu16364022781340673153.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/38_hu12101695987179215375.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/38_hu16364022781340673153.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/38_hu12101695987179215375.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Another view&#34;
@@ -566,10 +566,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/39.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/39.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/39_hu5990009315009229617.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/39_hu16858011397156641233.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/39_hu5990009315009229617.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/39_hu16858011397156641233.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Bowerman surveying the lands to the north-west towards North Bovey, overlooking the farms of Barracott, Canna and Ford that feature in the story of Kitty Jay&#34;
@@ -580,10 +580,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/40.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/40.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/40_hu7641889375573149088.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/40_hu17068158091250556693.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/40_hu7641889375573149088.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/40_hu17068158091250556693.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The DPA Short Walks group at Bowerman&amp;rsquo;s Nose&#34;
@@ -595,10 +595,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;hayne-down-rocks&#34;&gt;Hayne Down Rocks
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/41.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/41.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;566&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/41_hu13584813187292579113.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/41_hu16627190303289732361.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/41_hu13584813187292579113.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/41_hu16627190303289732361.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Hayne Down rocks&#34;
@@ -609,10 +609,10 @@
 		data-flex-basis=&#34;678px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/42.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/42.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/42_hu4161692098778518343.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/42_hu1447733352461423934.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/42_hu4161692098778518343.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/42_hu1447733352461423934.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Haytor Rocks on the horizon, SX 7573 7705. The highest point is 457 metres (1499 feet) which is on Low Man, the western pile, on the right in this photograph (not visible from the road)&#34;
@@ -623,10 +623,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/43.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/43.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;953&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/43_hu17801729909162888046.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/43_hu15357254392500414868.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/43_hu17801729909162888046.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/43_hu15357254392500414868.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Inset gatepost that houses the end of Moyle&amp;rsquo;s Gate&#34;
@@ -638,10 +638,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;moyles-gate&#34;&gt;Moyle&amp;rsquo;s Gate
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/44.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/44.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/44_hu14810630269444267157.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/44_hu7626942763231691479.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/44_hu14810630269444267157.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/44_hu7626942763231691479.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Moyle&amp;rsquo;s Gate, looking north&#34;
@@ -652,10 +652,10 @@
 		data-flex-basis=&#34;427px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/45.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/45.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/45_hu4890016126021298831.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/45_hu4770228414852741720.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/45_hu4890016126021298831.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/45_hu4770228414852741720.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Walking group at Moyle&amp;rsquo;s Gate: Bowerman&amp;rsquo;s Nose can be seen on the skyline above the people at the left of the group.&#34;
@@ -667,10 +667,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;swallerton-rocks&#34;&gt;Swallerton Rocks
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/46.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/46.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/46_hu297010293261225606.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/46_hu16016510682967262620.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/46_hu297010293261225606.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/46_hu16016510682967262620.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Swallerton Rocks, at SX 73878 79656. It&amp;rsquo;s been suggested this is a field clearance cairn, but someof the rocks weigh around two tons so that seems unlikely&#34;
@@ -681,10 +681,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/49.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/49.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/49_hu15666217411116763981.jpg 480w, https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/49_hu12675970071574998022.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/49_hu15666217411116763981.jpg 480w, http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/49_hu12675970071574998022.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A last look at Hound Tor&#34;

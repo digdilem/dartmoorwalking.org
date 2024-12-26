@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>About on Dartmoor Walking</title>
-        <link>https://dartmoorwalking.org/tags/about/</link>
+        <link>http://10.1.0.1:1313/tags/about/</link>
         <description>Recent content in About on Dartmoor Walking</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Simon Avery</copyright>
-        <lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/about/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://10.1.0.1:1313/tags/about/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>https://dartmoorwalking.org/about/</link>
+        <link>http://10.1.0.1:1313/about/</link>
         <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/about/</guid>
+        <guid>http://10.1.0.1:1313/about/</guid>
         <description>&lt;h2 id=&#34;contact&#34;&gt;Contact
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Webmaster, co-author: &lt;a class=&#34;link&#34; href=&#34;mailto:feedback@dartmoorwalking.com&#34; &gt;Simon Avery&lt;/a&gt;&lt;/li&gt;
@@ -50,7 +50,7 @@
     &gt;Leaflet&lt;/a&gt; Copyrights&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;keiths-websites&#34;&gt;Keith&amp;rsquo;s websites
-&lt;/h2&gt;&lt;p&gt;As well as his website of Dartmoor walks, Keith has also written several other sites which have been preserved. Please see &lt;a class=&#34;link&#34; href=&#34;https://dartmoorwalking.org/links&#34; &gt;the links&lt;/a&gt; section.&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;As well as his website of Dartmoor walks, Keith has also written several other sites which have been preserved. Please see &lt;a class=&#34;link&#34; href=&#34;http://10.1.0.1:1313/links&#34; &gt;the links&lt;/a&gt; section.&lt;/p&gt;
 &lt;h2 id=&#34;software-used-in-this-site&#34;&gt;Software used in this site
 &lt;/h2&gt;&lt;p&gt;This site is made entirely from &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Free_and_open-source_software&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;FOSS Software&lt;/a&gt;&lt;/p&gt;

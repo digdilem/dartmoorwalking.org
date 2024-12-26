@@ -2,350 +2,359 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dartmoorwalking.org/tags/3-mile-walk/</loc>
+    <loc>http://10.1.0.1:1313/tags/3-mile-walk/</loc>
+    <lastmod>2024-12-26T20:10:52+00:00</lastmod>
+  </url><url>
+    <loc>http://10.1.0.1:1313/tags/bronze-age/</loc>
+    <lastmod>2024-12-26T20:10:52+00:00</lastmod>
+  </url><url>
+    <loc>http://10.1.0.1:1313/categories/</loc>
+    <lastmod>2024-12-26T20:10:52+00:00</lastmod>
+  </url><url>
+    <loc>http://10.1.0.1:1313/tags/circular/</loc>
+    <lastmod>2024-12-26T20:10:52+00:00</lastmod>
+  </url><url>
+    <loc>http://10.1.0.1:1313/</loc>
+    <lastmod>2024-12-26T20:10:52+00:00</lastmod>
+  </url><url>
+    <loc>http://10.1.0.1:1313/categories/east-dartmoor/</loc>
+    <lastmod>2024-12-26T20:10:52+00:00</lastmod>
+  </url><url>
+    <loc>http://10.1.0.1:1313/tags/gentle/</loc>
+    <lastmod>2024-12-26T20:10:52+00:00</lastmod>
+  </url><url>
+    <loc>http://10.1.0.1:1313/tags/historic/</loc>
+    <lastmod>2024-12-26T20:10:52+00:00</lastmod>
+  </url><url>
+    <loc>http://10.1.0.1:1313/tags/hut-circles/</loc>
+    <lastmod>2024-12-26T20:10:52+00:00</lastmod>
+  </url><url>
+    <loc>http://10.1.0.1:1313/post/</loc>
+    <lastmod>2024-12-26T20:10:52+00:00</lastmod>
+  </url><url>
+    <loc>http://10.1.0.1:1313/tags/settlement/</loc>
+    <lastmod>2024-12-26T20:10:52+00:00</lastmod>
+  </url><url>
+    <loc>http://10.1.0.1:1313/tags/</loc>
+    <lastmod>2024-12-26T20:10:52+00:00</lastmod>
+  </url><url>
+    <loc>http://10.1.0.1:1313/tags/tor/</loc>
+    <lastmod>2024-12-26T20:10:52+00:00</lastmod>
+  </url><url>
+    <loc>http://10.1.0.1:1313/p/wind-tor-and-hutholes/</loc>
+    <lastmod>2024-12-26T20:10:52+00:00</lastmod>
+  </url><url>
+    <loc>http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/</loc>
     <lastmod>2024-12-25T19:39:23+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/bronze-age/</loc>
+    <loc>http://10.1.0.1:1313/tags/hut-circle/</loc>
     <lastmod>2024-12-25T19:39:23+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/categories/</loc>
+    <loc>http://10.1.0.1:1313/tags/medium/</loc>
     <lastmod>2024-12-25T19:39:23+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/circular/</loc>
+    <loc>http://10.1.0.1:1313/categories/mid-dartmoor/</loc>
     <lastmod>2024-12-25T19:39:23+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/</loc>
+    <loc>http://10.1.0.1:1313/tags/prehistoric/</loc>
     <lastmod>2024-12-25T19:39:23+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/</loc>
+    <loc>http://10.1.0.1:1313/tags/ruins/</loc>
     <lastmod>2024-12-25T19:39:23+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/historic/</loc>
+    <loc>http://10.1.0.1:1313/tags/stone-row/</loc>
     <lastmod>2024-12-25T19:39:23+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/hut-circle/</loc>
+    <loc>http://10.1.0.1:1313/tags/woodland/</loc>
     <lastmod>2024-12-25T19:39:23+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/medium/</loc>
-    <lastmod>2024-12-25T19:39:23+00:00</lastmod>
-  </url><url>
-    <loc>https://dartmoorwalking.org/categories/mid-dartmoor/</loc>
-    <lastmod>2024-12-25T19:39:23+00:00</lastmod>
-  </url><url>
-    <loc>https://dartmoorwalking.org/post/</loc>
-    <lastmod>2024-12-25T19:39:23+00:00</lastmod>
-  </url><url>
-    <loc>https://dartmoorwalking.org/tags/prehistoric/</loc>
-    <lastmod>2024-12-25T19:39:23+00:00</lastmod>
-  </url><url>
-    <loc>https://dartmoorwalking.org/tags/ruins/</loc>
-    <lastmod>2024-12-25T19:39:23+00:00</lastmod>
-  </url><url>
-    <loc>https://dartmoorwalking.org/tags/stone-row/</loc>
-    <lastmod>2024-12-25T19:39:23+00:00</lastmod>
-  </url><url>
-    <loc>https://dartmoorwalking.org/tags/</loc>
-    <lastmod>2024-12-25T19:39:23+00:00</lastmod>
-  </url><url>
-    <loc>https://dartmoorwalking.org/tags/woodland/</loc>
-    <lastmod>2024-12-25T19:39:23+00:00</lastmod>
-  </url><url>
-    <loc>https://dartmoorwalking.org/tags/cists/</loc>
+    <loc>http://10.1.0.1:1313/tags/cists/</loc>
     <lastmod>2024-12-22T15:09:35+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/gentle/</loc>
+    <loc>http://10.1.0.1:1313/p/sheepstor-stone-circles/</loc>
     <lastmod>2024-12-22T15:09:35+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/p/sheepstor-stone-circles/</loc>
+    <loc>http://10.1.0.1:1313/tags/stone-circles/</loc>
     <lastmod>2024-12-22T15:09:35+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/stone-circles/</loc>
+    <loc>http://10.1.0.1:1313/categories/west-dartmoor/</loc>
     <lastmod>2024-12-22T15:09:35+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/categories/west-dartmoor/</loc>
-    <lastmod>2024-12-22T15:09:35+00:00</lastmod>
-  </url><url>
-    <loc>https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/</loc>
+    <loc>http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/download/</loc>
+    <loc>http://10.1.0.1:1313/tags/download/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/gpx/</loc>
+    <loc>http://10.1.0.1:1313/tags/gpx/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/gpx-route-downloads/</loc>
+    <loc>http://10.1.0.1:1313/gpx-route-downloads/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/maps/</loc>
+    <loc>http://10.1.0.1:1313/tags/maps/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/categories/north-dartmoor/</loc>
+    <loc>http://10.1.0.1:1313/categories/north-dartmoor/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/page/</loc>
+    <loc>http://10.1.0.1:1313/page/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/routes/</loc>
+    <loc>http://10.1.0.1:1313/tags/routes/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/stone-circle/</loc>
+    <loc>http://10.1.0.1:1313/tags/stone-circle/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/village/</loc>
+    <loc>http://10.1.0.1:1313/tags/village/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/adit/</loc>
+    <loc>http://10.1.0.1:1313/tags/adit/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/bridge/</loc>
+    <loc>http://10.1.0.1:1313/tags/bridge/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/industrial/</loc>
+    <loc>http://10.1.0.1:1313/tags/industrial/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/kiln/</loc>
+    <loc>http://10.1.0.1:1313/tags/kiln/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/lake/</loc>
+    <loc>http://10.1.0.1:1313/tags/lake/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/</loc>
+    <loc>http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/quarry/</loc>
+    <loc>http://10.1.0.1:1313/tags/quarry/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/railway/</loc>
+    <loc>http://10.1.0.1:1313/tags/railway/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/reservoir/</loc>
+    <loc>http://10.1.0.1:1313/tags/reservoir/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/viaduct/</loc>
+    <loc>http://10.1.0.1:1313/tags/viaduct/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/wheelpit/</loc>
+    <loc>http://10.1.0.1:1313/tags/wheelpit/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/4-mile-walk/</loc>
+    <loc>http://10.1.0.1:1313/tags/4-mile-walk/</loc>
     <lastmod>2024-12-16T10:42:16+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/green-lane/</loc>
+    <loc>http://10.1.0.1:1313/tags/green-lane/</loc>
     <lastmod>2024-12-16T10:42:16+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/moorland/</loc>
+    <loc>http://10.1.0.1:1313/tags/moorland/</loc>
     <lastmod>2024-12-16T10:42:16+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/track/</loc>
+    <loc>http://10.1.0.1:1313/tags/track/</loc>
     <lastmod>2024-12-16T10:42:16+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/widecombe/</loc>
+    <loc>http://10.1.0.1:1313/tags/widecombe/</loc>
     <lastmod>2024-12-16T10:42:16+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/p/widecombe/</loc>
+    <loc>http://10.1.0.1:1313/p/widecombe/</loc>
     <lastmod>2024-12-16T10:42:16+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/p/foggintor-quarry/</loc>
+    <loc>http://10.1.0.1:1313/p/foggintor-quarry/</loc>
     <lastmod>2024-12-14T21:04:46+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/granite/</loc>
+    <loc>http://10.1.0.1:1313/tags/granite/</loc>
     <lastmod>2024-12-14T21:04:46+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/history/</loc>
+    <loc>http://10.1.0.1:1313/tags/history/</loc>
     <lastmod>2024-12-14T21:04:46+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/p/dr-blackalls-drive/</loc>
+    <loc>http://10.1.0.1:1313/p/dr-blackalls-drive/</loc>
     <lastmod>2024-12-12T12:00:01+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/gatepost/</loc>
+    <loc>http://10.1.0.1:1313/tags/gatepost/</loc>
     <lastmod>2024-12-12T12:00:01+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/linear/</loc>
+    <loc>http://10.1.0.1:1313/tags/linear/</loc>
     <lastmod>2024-12-12T12:00:01+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/view/</loc>
+    <loc>http://10.1.0.1:1313/tags/view/</loc>
     <lastmod>2024-12-12T12:00:01+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/mining/</loc>
+    <loc>http://10.1.0.1:1313/tags/mining/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/categories/south-dartmoor/</loc>
+    <loc>http://10.1.0.1:1313/categories/south-dartmoor/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/tramway/</loc>
+    <loc>http://10.1.0.1:1313/tags/tramway/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/p/yennadon-down/</loc>
+    <loc>http://10.1.0.1:1313/p/yennadon-down/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/tin-mine/</loc>
+    <loc>http://10.1.0.1:1313/tags/tin-mine/</loc>
     <lastmod>2024-12-09T17:20:03+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/p/vitifer-and-golden-dagger-mines/</loc>
+    <loc>http://10.1.0.1:1313/p/vitifer-and-golden-dagger-mines/</loc>
     <lastmod>2024-12-09T17:20:03+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/categories/east-dartmoor/</loc>
+    <loc>http://10.1.0.1:1313/p/haytor-rocks-and-quarries/</loc>
     <lastmod>2024-12-09T09:50:47+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/p/haytor-rocks-and-quarries/</loc>
-    <lastmod>2024-12-09T09:50:47+00:00</lastmod>
-  </url><url>
-    <loc>https://dartmoorwalking.org/tags/tor/</loc>
-    <lastmod>2024-12-09T09:50:47+00:00</lastmod>
-  </url><url>
-    <loc>https://dartmoorwalking.org/tags/2-mile-walk/</loc>
+    <loc>http://10.1.0.1:1313/tags/2-mile-walk/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/p/the-merrivale-bronze-age-sun-calendar-and-foggintor-school/</loc>
+    <loc>http://10.1.0.1:1313/p/the-merrivale-bronze-age-sun-calendar-and-foggintor-school/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/crock-of-gold/</loc>
+    <loc>http://10.1.0.1:1313/tags/crock-of-gold/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/princetown/</loc>
+    <loc>http://10.1.0.1:1313/tags/princetown/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/p/princetown-conchie-road-crock-of-gold/</loc>
+    <loc>http://10.1.0.1:1313/p/princetown-conchie-road-crock-of-gold/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/ww1/</loc>
+    <loc>http://10.1.0.1:1313/tags/ww1/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/p/buckland-beacon-ten-commandments-stone/</loc>
+    <loc>http://10.1.0.1:1313/p/buckland-beacon-ten-commandments-stone/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/military/</loc>
+    <loc>http://10.1.0.1:1313/tags/military/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/rifle-range/</loc>
+    <loc>http://10.1.0.1:1313/tags/rifle-range/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/ten-commandments-stone/</loc>
+    <loc>http://10.1.0.1:1313/tags/ten-commandments-stone/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/map/</loc>
+    <loc>http://10.1.0.1:1313/tags/map/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/map-of-walks/</loc>
+    <loc>http://10.1.0.1:1313/map-of-walks/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/chimney/</loc>
+    <loc>http://10.1.0.1:1313/tags/chimney/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/gunpowder/</loc>
+    <loc>http://10.1.0.1:1313/tags/gunpowder/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/lich-way/</loc>
+    <loc>http://10.1.0.1:1313/tags/lich-way/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/the-hairy-hands/</loc>
+    <loc>http://10.1.0.1:1313/tags/the-hairy-hands/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/p/the-powder-mills/</loc>
+    <loc>http://10.1.0.1:1313/p/the-powder-mills/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/how/</loc>
+    <loc>http://10.1.0.1:1313/tags/how/</loc>
     <lastmod>2024-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/walking-on-dartmoor/</loc>
+    <loc>http://10.1.0.1:1313/walking-on-dartmoor/</loc>
     <lastmod>2024-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/dam/</loc>
+    <loc>http://10.1.0.1:1313/tags/dam/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/dart/</loc>
+    <loc>http://10.1.0.1:1313/tags/dart/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/lichen/</loc>
+    <loc>http://10.1.0.1:1313/tags/lichen/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/p/venford-reservoir-holne-moor/</loc>
+    <loc>http://10.1.0.1:1313/p/venford-reservoir-holne-moor/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/woods/</loc>
+    <loc>http://10.1.0.1:1313/tags/woods/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/5-mile-walk/</loc>
+    <loc>http://10.1.0.1:1313/tags/5-mile-walk/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/cox/</loc>
+    <loc>http://10.1.0.1:1313/tags/cox/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/p/cox-tor-circular/</loc>
+    <loc>http://10.1.0.1:1313/p/cox-tor-circular/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/gate/</loc>
+    <loc>http://10.1.0.1:1313/tags/gate/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/highest/</loc>
+    <loc>http://10.1.0.1:1313/tags/highest/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/reeve/</loc>
+    <loc>http://10.1.0.1:1313/tags/reeve/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/strenuous/</loc>
+    <loc>http://10.1.0.1:1313/tags/strenuous/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/tank/</loc>
+    <loc>http://10.1.0.1:1313/tags/tank/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/views/</loc>
+    <loc>http://10.1.0.1:1313/tags/views/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/p/yes-tor-via-row-tor/</loc>
+    <loc>http://10.1.0.1:1313/p/yes-tor-via-row-tor/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/about/</loc>
+    <loc>http://10.1.0.1:1313/tags/about/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/about/</loc>
+    <loc>http://10.1.0.1:1313/about/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/cist/</loc>
+    <loc>http://10.1.0.1:1313/tags/cist/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/cross/</loc>
+    <loc>http://10.1.0.1:1313/tags/cross/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/farm/</loc>
+    <loc>http://10.1.0.1:1313/tags/farm/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/leat/</loc>
+    <loc>http://10.1.0.1:1313/tags/leat/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/longhouse/</loc>
+    <loc>http://10.1.0.1:1313/tags/longhouse/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/p/norsworthy-bridge-devonport-leat/</loc>
+    <loc>http://10.1.0.1:1313/p/norsworthy-bridge-devonport-leat/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/rock-splitting/</loc>
+    <loc>http://10.1.0.1:1313/tags/rock-splitting/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/p/hound-tor-bowermans-nose-kitty-jays-grave/</loc>
+    <loc>http://10.1.0.1:1313/p/hound-tor-bowermans-nose-kitty-jays-grave/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/landmarks/</loc>
+    <loc>http://10.1.0.1:1313/tags/landmarks/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/church/</loc>
+    <loc>http://10.1.0.1:1313/tags/church/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/mine/</loc>
+    <loc>http://10.1.0.1:1313/tags/mine/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/tags/mineshaft/</loc>
+    <loc>http://10.1.0.1:1313/tags/mineshaft/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/p/smeardon-down/</loc>
+    <loc>http://10.1.0.1:1313/p/smeardon-down/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/walks/</loc>
+    <loc>http://10.1.0.1:1313/walks/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dartmoorwalking.org/links/</loc>
+    <loc>http://10.1.0.1:1313/links/</loc>
   </url><url>
-    <loc>https://dartmoorwalking.org/search/</loc>
+    <loc>http://10.1.0.1:1313/search/</loc>
   </url>
 </urlset>

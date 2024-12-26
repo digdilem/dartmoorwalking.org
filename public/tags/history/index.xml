@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>History on Dartmoor Walking</title>
-        <link>https://dartmoorwalking.org/tags/history/</link>
+        <link>http://10.1.0.1:1313/tags/history/</link>
         <description>Recent content in History on Dartmoor Walking</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Simon Avery</copyright>
-        <lastBuildDate>Sat, 14 Dec 2024 21:04:46 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/history/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 14 Dec 2024 21:04:46 +0000</lastBuildDate><atom:link href="http://10.1.0.1:1313/tags/history/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Foggintor Quarry</title>
-        <link>https://dartmoorwalking.org/p/foggintor-quarry/</link>
+        <link>http://10.1.0.1:1313/p/foggintor-quarry/</link>
         <pubDate>Sat, 14 Dec 2024 21:04:46 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/p/foggintor-quarry/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/p/foggintor-quarry/29.jpg" alt="Featured image of post Foggintor Quarry" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+        <guid>http://10.1.0.1:1313/p/foggintor-quarry/</guid>
+        <description>&lt;img src="http://10.1.0.1:1313/p/foggintor-quarry/29.jpg" alt="Featured image of post Foggintor Quarry" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;3 miles&lt;/b&gt;, walked by Keith Ryan and transcribed by Simon Avery&lt;/li&gt;
 &lt;li&gt; Grade: &lt;b&gt;Gentle&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;https://dartmoorwalking.org/gpx/foggintor-quarry.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://10.1.0.1:1313/gpx/foggintor-quarry.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
 &lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.55694095427574%2c-4.023894675807629&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
     &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
     &lt;path d=&#34;M12 21v-4&#34; /&gt;
@@ -30,10 +30,10 @@
 &lt;li&gt; &lt;a href=&#34;https://w3w.co/seemingly.contrived.validated&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;seemingly.contrived.validated&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/map.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/map.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;712&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/map_hu11080945898151187862.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/map_hu199190293710719788.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/map_hu11080945898151187862.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/map_hu199190293710719788.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
@@ -47,10 +47,10 @@
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;One of the most picturesque and popular Dartmoor destinations. The abandoned quarries have been retaken by nature despite having been worked as recently as 1966. The quarries once supported an entire village of based here at Foggintor, with a School, Chapel and 30 cottages. The landscape will have looked very differently here two hundred years ago at the height of its industry. Now only evocative ruins remain.&lt;/p&gt;
 &lt;h2 id=&#34;the-mission-hall&#34;&gt;The Mission Hall
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/2.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/2.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/2_hu17855568388414919473.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/2_hu7397130335957229788.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/2_hu17855568388414919473.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/2_hu7397130335957229788.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Before we start, look back across the road&#34;
@@ -69,10 +69,10 @@
     &gt;some photographs&lt;/a&gt; of how the mission hall looked&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;We start our walk by following the track away from the road to the South&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/1.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/1.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/1_hu2537790125546666205.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/1_hu11234725293042138681.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/1_hu2537790125546666205.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/1_hu11234725293042138681.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Heavy duty signage&#34;
@@ -84,10 +84,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;red-cottages&#34;&gt;Red Cottages
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/3.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/3.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/3_hu16862155939695160208.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/3_hu15031643422849927450.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/3_hu16862155939695160208.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/3_hu15031643422849927450.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Just above the car park is the leat that supplied Red Cottages&#34;
@@ -99,10 +99,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;This leat still supplies Yellowmeade and formerly ran on to supply Foggintor. It is probable that the cottages were supplied by a bullseye stone to regulate water use.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/4.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/4.jpg&#34;
 	width=&#34;1599&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/4_hu8018350886831370060.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/4_hu15365172456365620680.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/4_hu8018350886831370060.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/4_hu15365172456365620680.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The site of Red Cottages&#34;
@@ -118,10 +118,10 @@
 &lt;p&gt;They were built with cob and by 1871 the weather got into them so badly they were &amp;ldquo;covered with corrugated iron&amp;rdquo; and painted with red lead, thus becoming known as Red Cottages - this appears in the 1871 Census.&lt;/p&gt;
 &lt;p&gt;Kath Brewer writes in &amp;ldquo;The Railways, Quarries and Cottages of Foggintor&amp;rdquo; that in later years they were actually black, having been covered with pitch, again against the weather.&lt;/p&gt;
 &lt;p&gt;There were six cottages but with twelve dwellings - with &amp;ldquo;one up, one down&amp;rdquo;. In the 1861 Census, there were thirteen families with 50 adults and 38 children at West View, as the cottages were known at that time.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/5.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/5.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/5_hu5204855264928611871.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/5_hu10443678379150442854.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/5_hu5204855264928611871.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/5_hu10443678379150442854.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Showing Red Cottages (top right) and the proximity of West Mead Quarry. Image (c) Google Earth, 2017&#34;
@@ -132,10 +132,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/6.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/6.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/6_hu2546467283301090364.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/6_hu16919438633932501617.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/6_hu2546467283301090364.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/6_hu16919438633932501617.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Some of the gateposts&#34;
@@ -146,10 +146,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/7.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/7.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/7_hu14240668642594363349.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/7_hu3518639664067155583.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/7_hu14240668642594363349.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/7_hu3518639664067155583.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The first of two drill testing stones embedded in the track,  this one is located at SX 56618 74485&#34;
@@ -162,10 +162,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;Large weighted iron bars were used to drill the granite to take the explosive charge. These drills, known as Jumpers, were tested here to ensure they were sharp enough.&lt;/p&gt;
 &lt;h2 id=&#34;yellowmeade&#34;&gt;Yellowmeade
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/8.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/8.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/8_hu3681120598357739724.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/8_hu2722849376060774700.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/8_hu3681120598357739724.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/8_hu2722849376060774700.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Approaching Yellowmeade&#34;
@@ -178,10 +178,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;The &amp;ldquo;lumps and bumps&amp;rdquo; in the background are waste tips of Foggintor Quarry.&lt;/p&gt;
 &lt;p&gt;Yellowmeade Farm itself was not established until 1860, the last farm to be founded in Walkhampton Parish. It was enclosed by George Cole whose family lived there until about 2015.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/9.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/9.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/9_hu9280785289385083044.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/9_hu8470364885947124703.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/9_hu9280785289385083044.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/9_hu8470364885947124703.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The track ahead&#34;
@@ -194,10 +194,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;Further on we&amp;rsquo;ll see clear evidence of worked trackway blocks, proving this track was also once a horse-drawn railway.&lt;/p&gt;
 &lt;h2 id=&#34;sett-making&#34;&gt;Sett Making
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/10.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/10.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/10_hu2065855698366612091.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/10_hu321354425345331951.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/10_hu2065855698366612091.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/10_hu321354425345331951.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Stone at SX 56718 74141, split by tare and feathers, then held open with a stone wedge&#34;
@@ -208,10 +208,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/11.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/11.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/11_hu2887272119941073885.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/11_hu4428457035875560217.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/11_hu2887272119941073885.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/11_hu4428457035875560217.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Cake Stone - a granite block abandoned in the process of splitting for making setts for the railway. This stone would have provided eight setts&#34;
@@ -222,10 +222,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/12.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/12.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/12_hu5697369976789136476.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/12_hu6433514877310654218.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/12_hu5697369976789136476.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/12_hu6433514877310654218.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A &amp;ldquo;sett makers&amp;rsquo; banker&amp;rdquo; at SX 56737 74084&#34;
@@ -248,10 +248,10 @@
 &lt;p&gt;When I worked for DNPA in the late 1980s, they often employed a traditional stonemason who would work just inside the entrance of the Works Depot in Bovey Tracey. He had a 45 gallon oil drum full of granite chips on which he&amp;rsquo;d place his work, which might be a perfectly spherical ball to sit atop a gatepost. He&amp;rsquo;d stand there all day, chipping away. Pausing every now and then to offer up a hardboard template to check his progress, or check diameter with a set of large calipers. He wore a full face respirator, with a battery pack and inlet on his belt at the back, similar to those used by industrial welders, which blew filtered air into the mask. &lt;cite&gt;&amp;ndash; Simon&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;foggintor-quarry&#34;&gt;Foggintor Quarry
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/13.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/13.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/13_hu11164913730293928602.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/13_hu15219916489157045961.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/13_hu11164913730293928602.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/13_hu15219916489157045961.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A view ahead of Foggintor from the sett making site&#34;
@@ -276,10 +276,10 @@
 &lt;li&gt;The quarry closed in 1966, putting 40 men out of work. One factor given was competition from cheaper sources abroad, and an increasing use of concrete instead of stone in architecture.&lt;/li&gt;
 &lt;li&gt;The stones that form Big Tip are huge, especially on the lower levels. Approaching from the side you can see some must weigh many tons, and cracks in between are big enough to easily conceal an adult.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/14.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/14.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/14_hu506264546235960740.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/14_hu10886572675530021581.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/14_hu506264546235960740.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/14_hu10886572675530021581.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A zoomed view of ruins at Hill Cottages, on Big Tip&#34;
@@ -290,10 +290,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/15.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/15.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/15_hu6968682488811044812.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/15_hu9245616464211456497.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/15_hu6968682488811044812.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/15_hu9245616464211456497.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The TA stone (the Medieval Tavistock-Ashburton packhorse track) incorporated into a now-blocked up gateway, at SX 56718 74141. This is in the angle between two walls below the track. An iron gate hanger is still on position on the left post&#34;
@@ -304,10 +304,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/16.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/16.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/16_hu8351539544667853544.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/16_hu4029093153755319975.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/16_hu8351539544667853544.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/16_hu4029093153755319975.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;An unusual stone slightly above the track at SX 56710 73981&#34;
@@ -320,10 +320,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;This looks like it might have once been a kistvaen or cist, but could also be a split or worked stone from the sett-makers or even a natural feature.&lt;/p&gt;
 &lt;p&gt;The blocked up gateway above is in the angle at the right of this photo.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/17.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/17.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/17_hu375464133050128726.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/17_hu9185816999062470381.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/17_hu375464133050128726.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/17_hu9185816999062470381.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Worn or &amp;ldquo;worked&amp;rdquo; tramway setts at  SX 56708 73953 showing evidence of the horse-drawn railway&#34;
@@ -335,10 +335,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;hill-farm&#34;&gt;Hill Farm
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/18.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/18.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/18_hu10996510541728281257.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/18_hu18255994897319581357.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/18_hu10996510541728281257.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/18_hu18255994897319581357.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;These ruins ahead to the right, was Hill Farm&#34;
@@ -350,10 +350,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Hill Farm, also known as Eva&amp;rsquo;s Farm. The family was at Foggintor on the 1881, 1891 and was still present until at least 1936.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/19.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/19.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/19_hu14352171522838012206.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/19_hu15151997728819523286.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/19_hu14352171522838012206.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/19_hu15151997728819523286.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Hill Farm gate posts, with Middle Staple, Great Staple and Roose Tors in the distance&#34;
@@ -365,10 +365,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;methodist-chapel-and-school-ruins&#34;&gt;Methodist Chapel and School Ruins
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/20.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/20.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/20_hu12088024872318927781.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/20_hu14916883984332517467.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/20_hu12088024872318927781.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/20_hu14916883984332517467.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Central area of this picture are the foundation ruins of Foggintor School and Wesleyan Methodist Chapel&#34;
@@ -381,7 +381,7 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;These scant foundations were once a schoolhouse and a Wesleyan Chapel.&lt;/p&gt;
 &lt;p&gt;The quarry workers originally sent their children to the School at Princetown, which was then probably built in the Barracks. But when Dartmoor Prison was re-opened in 1850, a new building for the School was needed and was built here. At its peak in 1861, 183 pupils were known to regularly attend.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Note that this is not the later &amp;ldquo;Foggintor School&amp;rdquo;. That was also known as Four Winds and forms the large tree-lined car park half a mile south of our parking. We discuss that school &lt;a class=&#34;link&#34; href=&#34;https://dartmoorwalking.org/p/the-merrivale-bronze-age-sun-calendar-and-foggintor-school/&#34; &gt;in our Merrivale Calendar walk&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note that this is not the later &amp;ldquo;Foggintor School&amp;rdquo;. That was also known as Four Winds and forms the large tree-lined car park half a mile south of our parking. We discuss that school &lt;a class=&#34;link&#34; href=&#34;http://10.1.0.1:1313/p/the-merrivale-bronze-age-sun-calendar-and-foggintor-school/&#34; &gt;in our Merrivale Calendar walk&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Between 1880 and 1883, this building was also recorded as a Wesleyan Chapel, and later a Workshop and again as a private residence, so it clearly served multiple purposes.&lt;/p&gt;
 &lt;p&gt;By 1915 it was closed forever.&lt;/p&gt;
 &lt;ul&gt;
@@ -389,10 +389,10 @@
     &gt;Heritage Gateway -Methodist chapel / school at Foggintor Quarry&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;hill-cottages&#34;&gt;Hill Cottages
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/21.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/21.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/21_hu6478430750209538770.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/21_hu9988092074107070753.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/21_hu6478430750209538770.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/21_hu9988092074107070753.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Hill Cottages, the tallest of the ruins&#34;
@@ -404,10 +404,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;These are believed to have been built in the 1840s. The last resident left in 1951 and they were demolished two years later.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/22.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/22.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/22_hu17014946966565244222.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/22_hu1022355601525160436.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/22_hu17014946966565244222.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/22_hu1022355601525160436.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Overlooking the Manager&amp;rsquo;s House (The flat grassy site int he centre) with ruins on the horse stables beyond&#34;
@@ -418,10 +418,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/23.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/23.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/23_hu13943448235535015462.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/23_hu6309364316618585036.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/23_hu13943448235535015462.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/23_hu6309364316618585036.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking through the window at Big Tip, with Swell Tor on the horizon&#34;
@@ -432,10 +432,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/24.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/24.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/24_hu247633774517841523.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/24_hu2090723676171152165.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/24_hu247633774517841523.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/24_hu2090723676171152165.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A lintel or clavel from a fireplace in Hill Cottages&#34;
@@ -446,10 +446,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/25.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/25.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/25_hu14002171068442194087.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/25_hu491588732243911617.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/25_hu14002171068442194087.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/25_hu491588732243911617.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A view looking from the northern quarry entrance, between the cottages, out along Big Tip&#34;
@@ -461,10 +461,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;You can see where a branch railway line was laid out along Big Tip  to carry waste for tipping. The railway gauge was about 2-feet for easy man-handling. It is recorded that only 10% of quarried granite was used in building, the rest was waste. Looking at the size of these tips, it is easy to believe that disposing of waste rock was a large part of the works here.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/42.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/42.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/42_hu6882743338790332006.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/42_hu8636889769111727455.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/42_hu6882743338790332006.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/42_hu8636889769111727455.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking up at Hill Cottages&#34;
@@ -478,10 +478,10 @@
 &lt;p&gt;Much of the research for this walk was taken from Kath Brewer&amp;rsquo;s book, The Railways, Quarries and Cottages of Foggintor, Orchard Publications, Chudleigh, Newton Abbot, 1997.  The cottage about the arch was her home.&lt;/p&gt;
 &lt;p&gt;The purpose of the arch is unknown. There is a suggestion that a waterwheel was located here, but there seems to be no evidence to support that.&lt;/p&gt;
 &lt;h2 id=&#34;quarry-entrance&#34;&gt;Quarry Entrance
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/26.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/26.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/26_hu18339710722802429715.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/26_hu14848089874696321194.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/26_hu18339710722802429715.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/26_hu14848089874696321194.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking into the quarry from the same position&#34;
@@ -493,10 +493,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;In the foreground of this picture are the remains of a crane base, at SX 56652 73658.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/27.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/27.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/27_hu5909026241528266433.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/27_hu13285591667726966911.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/27_hu5909026241528266433.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/27_hu13285591667726966911.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Early graffiti: An inscription (center right) reads &amp;ldquo;WS, 1903&amp;rdquo;&#34;
@@ -508,10 +508,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;For our walk, we circle the quarry clockwise by climbing to the left above the quarry entrance&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/28.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/28.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;230&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/28_hu13855214193081660804.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/28_hu7902657529015161969.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/28_hu13855214193081660804.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/28_hu7902657529015161969.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Panorama showing the ruins of Hill Cottages and Big Tip on the right&#34;
@@ -522,10 +522,10 @@
 		data-flex-basis=&#34;1252px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/29.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/29.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;318&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/29_hu18190817479921905830.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/29_hu10694897206292580394.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/29_hu18190817479921905830.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/29_hu10694897206292580394.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking into the quarry from above. The site of a building can be seen in the shadow near the bottom of the picture&#34;
@@ -536,10 +536,10 @@
 		data-flex-basis=&#34;905px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/30.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/30.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/30_hu14040204928448791095.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/30_hu6780980881581055943.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/30_hu14040204928448791095.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/30_hu6780980881581055943.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;One of the 7 crane bases in the quarry&#34;
@@ -550,10 +550,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/31.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/31.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/31_hu10715570073749305914.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/31_hu10461284063069005163.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/31_hu10715570073749305914.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/31_hu10461284063069005163.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Directly above two of the quarry walls are these stout ground anchors used by the Royal Marines for rope practice&#34;
@@ -564,10 +564,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/32.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/32.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/32_hu6243672257550791334.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/32_hu6308927166481210501.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/32_hu6243672257550791334.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/32_hu6308927166481210501.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking back across the quarry to Yellowmeade Farm&#34;
@@ -578,10 +578,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/33.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/33.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/33_hu10252312688112057581.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/33_hu10887837382219280701.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/33_hu10252312688112057581.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/33_hu10887837382219280701.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34; Looking down into the quarry from a quite high vantage point - at two crane bases (with yellow &amp;ldquo;v&amp;rdquo; labels)&#34;
@@ -592,10 +592,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/34.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/34.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/34_hu6590259115282295293.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/34_hu16112020896869890396.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/34_hu6590259115282295293.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/34_hu16112020896869890396.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking down from SX 56718 73435 onto a crane base and another sett makers&amp;rsquo; banker&#34;
@@ -606,10 +606,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/35.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/35.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/35_hu4619768149214443307.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/35_hu13031930557262436548.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/35_hu4619768149214443307.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/35_hu13031930557262436548.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Another view of the sett makers&amp;rsquo; banker, showing the waste discarded from the working platform&#34;
@@ -620,10 +620,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/36.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/36.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/36_hu13639886064814776341.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/36_hu547863878723131355.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/36_hu13639886064814776341.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/36_hu547863878723131355.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Smithy, at the southern entrance into the quarry, SX 56549 73458&#34;
@@ -634,10 +634,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/37.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/37.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/37_hu6477652517398935693.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/37_hu12597443860590738608.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/37_hu6477652517398935693.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/37_hu12597443860590738608.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;To the right of the track above is a section of wall that was the Loading Platform and sidings for the railway&#34;
@@ -648,10 +648,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/38.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/38.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/38_hu17928213270131723237.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/38_hu6848211809815552658.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/38_hu17928213270131723237.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/38_hu6848211809815552658.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Gibbs Cottage, on the site that was formerly the weighbridge. This has also been described as Royal Oak Bungalows&#34;
@@ -662,10 +662,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/39.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/39.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/39_hu3542320003703248995.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/39_hu2386419062738267326.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/39_hu3542320003703248995.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/39_hu2386419062738267326.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Great King Tor, opposite&#34;
@@ -676,10 +676,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/40.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/40.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;636&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/40_hu16151918589981503245.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/40_hu103819471681065345.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/40_hu16151918589981503245.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/40_hu103819471681065345.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;1840 Walkhampton Tithe Map - (c) Devon County Council&#34;
@@ -692,10 +692,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;The 1840 Walkhampton Tithe Map shows Little King Tor and Great King Tor. It also shows the 1823 Plymouth &amp;amp; Dartmoor Railway, extended from King Tor quarries to Princetown by December 1826. It shows neither Foggin Tor nor the branch line to Foggintor Quarry. These were active well within Walkhampton Parish, although quarrying had nothing to do with tithing and therefore wasn&amp;rsquo;t suitable for the purpose of the map.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Follow the level ground back towards Big Tip&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/41.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/41.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/41_hu5955439113421816005.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/41_hu2457146153840935629.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/41_hu5955439113421816005.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/41_hu2457146153840935629.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Another view of the stables&#34;
@@ -707,10 +707,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;return-walk&#34;&gt;Return walk
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/43.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/43.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/43_hu10101021222254634139.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/43_hu13245490362108985393.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/43_hu10101021222254634139.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/43_hu13245490362108985393.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The second drill testing stone, embedded in the track at  SX 56671 73777&#34;
@@ -722,10 +722,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;It&amp;rsquo;s worth leaving the track after the field enclosures to walk below it, as per our route on the map, for some interesting historical items&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/44.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/44.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/44_hu7769232405174742327.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/44_hu8945757360543337176.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/44_hu7769232405174742327.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/44_hu8945757360543337176.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A round house / hut circle in the Bronze Age enclosure at SX 56412 74503 below the track from Yellowmeade to Red Cottages&#34;
@@ -737,10 +737,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;This hut is labelled &amp;ldquo;1&amp;rdquo; in the figure below. Cairn 1 is a ruined cisted cairn. The area around Yellowmeade was occupied in Bronze Age times.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/45.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/45.jpg&#34;
 	width=&#34;834&#34;
 	height=&#34;1342&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/45_hu1727237586238599545.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/45_hu11683908336790004916.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/45_hu1727237586238599545.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/45_hu11683908336790004916.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image © J Butler 1994. Reproduced by kind permission&#34;
@@ -751,10 +751,10 @@
 		data-flex-basis=&#34;149px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/46.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/46.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/46_hu67414052817055091.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/46_hu17427061844370058278.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/46_hu67414052817055091.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/46_hu17427061844370058278.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Explosives store for West Mead Quarry, at SX 56450 74621. Four Winds car park in the background&#34;
@@ -765,7 +765,7 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/48.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/48.jpg&#34;
 	
 	
 	
@@ -775,10 +775,10 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/47.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/47.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/47_hu5689165674445953885.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/47_hu12683964991004470395.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/47_hu5689165674445953885.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/47_hu12683964991004470395.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking across the entrance to West Mead Quarry at the ruins of its buildings. These included a blacksmith&amp;rsquo;s shop and a crane platform and possibly a compressor base for air tools&#34;
@@ -807,15 +807,15 @@
         </item>
         <item>
         <title>The Powder Mills</title>
-        <link>https://dartmoorwalking.org/p/the-powder-mills/</link>
+        <link>http://10.1.0.1:1313/p/the-powder-mills/</link>
         <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/p/the-powder-mills/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/p/the-powder-mills/19.jpg" alt="Featured image of post The Powder Mills" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+        <guid>http://10.1.0.1:1313/p/the-powder-mills/</guid>
+        <description>&lt;img src="http://10.1.0.1:1313/p/the-powder-mills/19.jpg" alt="Featured image of post The Powder Mills" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;3 miles&lt;/b&gt;, walked by Keith Ryan and transcribed by Simon Avery&lt;/li&gt;
 &lt;li&gt; Grade: &lt;b&gt;Gentle&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;https://dartmoorwalking.org/gpx/the-powder-mills.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://10.1.0.1:1313/gpx/the-powder-mills.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
 &lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.581706%2c-3.926459&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
     &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
     &lt;path d=&#34;M12 21v-4&#34; /&gt;
@@ -828,10 +828,10 @@
 &lt;li&gt; &lt;a href=&#34;https://w3w.co/aside.explained.package&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;aside.explained.package&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/map.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/map.jpg&#34;
 	width=&#34;1346&#34;
 	height=&#34;1191&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/map_hu15561396167141593548.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/map_hu13165838858333325392.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/map_hu15561396167141593548.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/map_hu13165838858333325392.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
@@ -844,10 +844,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;We&amp;rsquo;ve used numbers in the photographs which correspond to the map to help with identification&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;higher-cherry-brook-bridge&#34;&gt;Higher Cherry Brook Bridge
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/1.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/1.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/1_hu15582177221323673866.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/1_hu14257917714574303402.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/1_hu15582177221323673866.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/1_hu14257917714574303402.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Higher Cherry Brook Bridge from the secondary car park, on the B3212 Yelverton to Moretonhampstead road, looking towards Two Bridges. &#34;
@@ -871,10 +871,10 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/2.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/2.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/2_hu3884552153107519287.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/2_hu6292413621266211758.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/2_hu3884552153107519287.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/2_hu6292413621266211758.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View from Higher Cherry Brook Bridge car park towards Powdermills (the settlement towards the left) with the Powdermills South Chimney visible, also the old gate on the Lich Way track, across the road. Longaford Tor is on the skyline&#34;
@@ -895,10 +895,10 @@
 &lt;li&gt;For more information about the Lich way, please see the &lt;a class=&#34;link&#34; href=&#34;https://www.legendarydartmoor.co.uk/2016/03/17/lych_way/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;excellent article on Legendary Dartmoor&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/3.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/3.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/3_hu2229388509330293703.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/3_hu6247930864584496269.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/3_hu2229388509330293703.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/3_hu6247930864584496269.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Notice on the original Lich Way gate from the Bridge carpark. This was re-routed 1999 because the old track had become very &amp;ldquo;mirey&amp;rdquo;&#34;
@@ -909,10 +909,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/4.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/4.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/4_hu15338704102128429405.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/4_hu8736578087170016134.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/4_hu15338704102128429405.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/4_hu8736578087170016134.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The houses at Powdermills - the modern part - but the buildings are on the old 1887 Ordnance Survey 25-inch Single Sheet map.&#34;
@@ -923,10 +923,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/5.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/5.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/5_hu11272418351425472287.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/5_hu15048467862578623174.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/5_hu11272418351425472287.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/5_hu15048467862578623174.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Lich Way gate coming out of Bellever Forest at SX 63768 77648&#34;
@@ -937,10 +937,10 @@
 		data-flex-basis=&#34;427px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/6.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/6.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/6_hu16156646244117951691.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/6_hu5975884854590341606.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/6_hu16156646244117951691.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/6_hu5975884854590341606.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Across the road, the new path that was made in 1999. The old path was down the road to the left at Cherry Brook Bridge - a path that had become very boggy. In the distance is Longaford Tor (left), Higher White Tor (centre) and Arch Tor (right). The diversion of the path can be seen as a kink on modern walking route maps&#34;
@@ -951,10 +951,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/7.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/7.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/7_hu3040812511576890571.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/7_hu11299438907200112693.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/7_hu3040812511576890571.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/7_hu11299438907200112693.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The fingerboard sign beside the gate&#34;
@@ -965,10 +965,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/8.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/8.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/8_hu6039004823813000104.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/8_hu18379869971176649445.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/8_hu6039004823813000104.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/8_hu18379869971176649445.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Lich Way Plaque on the gate&#34;
@@ -979,10 +979,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/9.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/9.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/9_hu14068160850630183611.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/9_hu14816071581383593476.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/9_hu14068160850630183611.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/9_hu14816071581383593476.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Lich Way path ahead&#34;
@@ -994,10 +994,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;arch-tor&#34;&gt;Arch Tor
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/10.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/10.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/10_hu15926169283826016793.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/10_hu9609449224987653633.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/10_hu15926169283826016793.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/10_hu9609449224987653633.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Zoomed view to Arch Tor, SX 6336 7817&#34;
@@ -1015,10 +1015,10 @@
     &gt;More info - Wikipedia&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;However, the production of gunpowder is complicated and is unsurprisingly dangerous.&lt;/p&gt;
 &lt;p&gt;The Powdermills site is also complicated. Everything (except for the water) entered the site at the Southern entrance. Various stages in production occurred going up through the site to the three incorporation mills at the north end and then coming back down through the site until final storage in a main magazine ready for shipment to buyers.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/11.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/11.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/11_hu13054101051671673383.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/11_hu8838199087388332474.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/11_hu13054101051671673383.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/11_hu8838199087388332474.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;This DNPA Notice on the first Incorporation Mill explains the process&#34;
@@ -1055,10 +1055,10 @@
 &lt;/h2&gt;&lt;p&gt;The site - starting below at South Chimney after entering at the top of the site.&lt;/p&gt;
 &lt;p&gt;There can be confusion identifying buildings when referring to the 2019 book and the 1990 survey listed above. The book starts at the south end of the site (page 98) with &amp;ldquo;Building 1&amp;rdquo; and the archaeogical survey starts from the north. The survey numbers are in (brackets).&lt;/p&gt;
 &lt;p&gt;There is no known map saying what each building was used for, so there is conjecture based on the gunpowder-making processes and  the requirements for them to be carried out.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/12.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/12.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/12_hu13163946605642481144.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/12_hu3796802811967369476.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/12_hu13163946605642481144.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/12_hu3796802811967369476.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Scene approaching the top (north end) of the Powdermills site, with the first Incorporation Mill (&amp;ldquo;wheelhouse&amp;rdquo;) and Longaford Tor. Photo taken by the entry gate&#34;
@@ -1069,10 +1069,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/13.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/13.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/13_hu11870579541132261430.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/13_hu4374143968443940122.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/13_hu11870579541132261430.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/13_hu4374143968443940122.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The gate at the north end of the Powdermills site, with the North Chimney in view. The buildings run left, under the tree&#34;
@@ -1083,10 +1083,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/14.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/14.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/14_hu3792407100438773476.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/14_hu7825071549340411301.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/14_hu3792407100438773476.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/14_hu7825071549340411301.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The notice on the gate&#34;
@@ -1097,10 +1097,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/15.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/15.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/15_hu7048477977158358586.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/15_hu10995042831886037768.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/15_hu7048477977158358586.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/15_hu10995042831886037768.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Zoomed view, from the gate, to Longaford Tor, SX 615 779, elevation 507 metres (1663 feet)&#34;
@@ -1111,10 +1111,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/16.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/16.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;352&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/16_hu12443060943747152657.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/16_hu11174956461165260263.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/16_hu12443060943747152657.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/16_hu11174956461165260263.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Panoramic view of the site, the South Chimney is discernable (left end), the track into the site can be seen at the right of the photograph&#34;
@@ -1125,10 +1125,10 @@
 		data-flex-basis=&#34;1090px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/17.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/17.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/17_hu8976426726608999622.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/17_hu10988480660736876485.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/17_hu8976426726608999622.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/17_hu10988480660736876485.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The North Chimney&#34;
@@ -1139,10 +1139,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/18.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/18.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/18_hu11770679987569932837.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/18_hu16839626324182472823.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/18_hu11770679987569932837.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/18_hu16839626324182472823.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A passing view of the north end Incorporation Mill. The white rectangle is the DNPA overview notice of the gunpowder-making process shown near the top of this web page&#34;
@@ -1154,10 +1154,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;around-the-south-chimney&#34;&gt;Around the South Chimney
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/19.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/19.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/19_hu15053274187496058136.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/19_hu13830040954295631722.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/19_hu15053274187496058136.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/19_hu13830040954295631722.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;17 (18) South chimney / Cylinder House  / Charcoal / Saltpetre Works: group of buildings including a possible cylinder house, for charcoal manufacture&#34;
@@ -1171,10 +1171,10 @@
 &lt;p&gt;If ready-made charcoal was brought in, then the South Chimney could have been for processing saltpetre, dissolving it and recrystallising it to make it more pure.&lt;/p&gt;
 &lt;p&gt;Three phases of development and extension have been identified and it is likely that the function of the buildings changed over time. A flue and chimney indicate heat was involved. The flue to the chimney is about 1 metre deep and 1 metre wide. Its eastern portion is now open and rubble-filled, but the western portion is still capped. It enters the base of the chimney which is set on a plinth. The chimney is about 10.5 metres high.&lt;/p&gt;
 &lt;p&gt;South Chimney with the 17 (18) Saltpetre / Charcoal Works behind. Across the track is the 2 (17) Cartridge Press House / Watch House / Store and up the slope behind that is the 1 (16) Watch House / Checking House. At the left edge are the roofs of the Powdermills Cottages, Pottery / Cafe, and offices.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/20.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/20.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/20_hu16668630830655626068.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/20_hu5516965754111027525.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/20_hu16668630830655626068.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/20_hu5516965754111027525.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Chimney top with a decorative, binding course of blocks&#34;
@@ -1185,10 +1185,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/21.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/21.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/21_hu35945860723961452.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/21_hu9017686414958521696.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/21_hu35945860723961452.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/21_hu9017686414958521696.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking straight through the chimney base; presumably the openings might have been to do with managing draft and pulling smoke or fumes from a fire&#34;
@@ -1199,10 +1199,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/22.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/22.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/22_hu13404938481848199644.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/22_hu8693381496692412708.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/22_hu13404938481848199644.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/22_hu8693381496692412708.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;There is a (now-partially) covered flue from the buildings to the chimney&#34;
@@ -1213,10 +1213,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/23.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/23.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/23_hu11956288971051040222.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/23_hu12567768623216321880.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/23_hu11956288971051040222.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/23_hu12567768623216321880.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Another view of the flue&#34;
@@ -1227,10 +1227,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/24.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/24.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/24_hu9950867133398916739.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/24_hu14688907989530616807.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/24_hu9950867133398916739.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/24_hu14688907989530616807.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Somewhere in this building there was a furnace / boiler, possibly for making charcoal from local wood (alder or alder buckthorn were favoured)&#34;
@@ -1241,10 +1241,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/25.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/25.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/25_hu11302471871399211194.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/25_hu779641274909425503.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/25_hu11302471871399211194.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/25_hu779641274909425503.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A different view of the flue and chimney&#34;
@@ -1255,10 +1255,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/26.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/26.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/26_hu17570520500951794582.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/26_hu10210682338414517837.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/26_hu17570520500951794582.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/26_hu10210682338414517837.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A final view&#34;
@@ -1270,10 +1270,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;leaving-the-chimney&#34;&gt;Leaving the chimney
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/27.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/27.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/27_hu9304897863843365702.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/27_hu12773592812880392271.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/27_hu9304897863843365702.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/27_hu12773592812880392271.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Ahead is the Cherry Brook which is crossed by a clapper bridge&#34;
@@ -1285,10 +1285,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Immediately ahead is 3 (15) a Mixing House / Store behind the gate and tree, and to the right is 4 (14), a double structure that had two water wheels. The left section is believed to be a Cartridge Press House / Preparation Room and the right section is believed to be the Corning / Dusting House and Glazing Mill.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/28.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/28.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/28_hu16883577325683301055.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/28_hu7729345876172314871.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/28_hu16883577325683301055.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/28_hu7729345876172314871.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A view of the Cherry Brook and clapper bridge&#34;
@@ -1299,10 +1299,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/29.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/29.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/29_hu2164701766535921693.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/29_hu6145611320172249173.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/29_hu2164701766535921693.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/29_hu6145611320172249173.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;2 (17) Watch House / Cartridge Press House / Store&#34;
@@ -1315,10 +1315,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;Possibly a saltpetre crystallising house.&lt;/p&gt;
 &lt;p&gt;Long rectangular single-storey building located at the southern end of the site and aligned north to south.. Two, possibly three, phases have been identified. Water was culverted through the building under the floor. Its north wall was probably the dwarf wall which now subdivides it from the extension to the north. Dwarf walls in one interior consist of one long spine wall and two side walls. Another dwarf wall runs east to west across the structure from the northernmost door to the east wall. These appear to form a raised floor with water, air or heat circulating beneath. A small, square, stone-lined feature to the west of the south-west corner may be a well, or possibly a pit in which staves were soaked. The building is described in the book as the Watch House, where materials in and out of the site were monitored. It might also have been used as a store.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/30.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/30.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/30_hu1909201280647852639.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/30_hu9652170923702207111.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/30_hu1909201280647852639.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/30_hu9652170923702207111.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View after passing further south towards the other site entrance gate (not for general public use)&#34;
@@ -1330,10 +1330,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Hidden behind is 3 (15) Mixing House / Store and to the right is 4 (14), a double structure that had two water wheels. The left section is believed to be a Cartridge Press House / Preparation Room and the right section is believed to be the Corning / Dusting House and Glazing Mill.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/31.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/31.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/31_hu15838973446837530980.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/31_hu12905174099242671678.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/31_hu15838973446837530980.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/31_hu12905174099242671678.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;1 (16) Checking House possible office or store. This is a small, rectangular, ruin off the track, to the left of the site entrance gateway. It could have been used for checking workers into the works to ensure they had nothing about them that might cause sparks&#34;
@@ -1344,10 +1344,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/32.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/32.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/32_hu15483397009770842999.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/32_hu17916646744751153612.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/32_hu15483397009770842999.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/32_hu17916646744751153612.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A last view of 2 (17) Watch House / Cartridge Press House / Store, with the South Chimney and its associated buildings across the Cherry Brook. The South Chimney and the track coming across the Cherry Brook with its clapper bridge are visible in the background&#34;
@@ -1358,10 +1358,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/33.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/33.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/33_hu1486959528640926256.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/33_hu15781134036006787093.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/33_hu1486959528640926256.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/33_hu15781134036006787093.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;3 (15) Possible Mixing House&#34;
@@ -1373,10 +1373,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Small, rectangular, single-storey shed, in line with the track over the brook to the South Chimney. Aligned north to south. South gable end mostly survives. The west wall stands to full height; the east wall survives only as footings. No doors or windows are present in the three standing walls. There is plaster rendering on the interior. Small stone-lined channel runs east to west down the outside of, and parallel to, the south wall.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/34.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/34.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/34_hu7458236599872660981.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/34_hu14836937862347645275.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/34_hu7458236599872660981.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/34_hu14836937862347645275.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;4 (14) x 2 - a double building with two waterwheels.&#34;
@@ -1388,10 +1388,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Incorporating/composition mill (south), possible cartridge press house (south of N building) and possible corning/dusting house/glazing mill. Consists of two pairs of structures on either side of two wheelpits. The tailrace of the southern wheepit discharges back to the Cherrybrook. The wheel between the southern mill was powered by a continuation of the leat powering buildings to the north. The wheelpit tailrace discharged via a channel into Cherry Brook. The culvert has an arched roof of granite blocks overlain by slabs.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/35.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/35.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/35_hu8835127830141136711.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/35_hu12938980444549737316.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/35_hu8835127830141136711.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/35_hu12938980444549737316.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Presumed waterwheel pit (southern)&#34;
@@ -1402,10 +1402,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/36.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/36.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/36_hu11434463999882179483.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/36_hu640376205846381797.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/36_hu11434463999882179483.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/36_hu640376205846381797.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The presumed water wheel pit&#34;
@@ -1416,10 +1416,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/37.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/37.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/37_hu13193873480273937173.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/37_hu3886211624040087833.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/37_hu13193873480273937173.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/37_hu3886211624040087833.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Presumed northern water wheel pit&#34;
@@ -1430,10 +1430,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/38.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/38.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/38_hu2419123955181481600.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/38_hu6448428762632432369.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/38_hu2419123955181481600.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/38_hu6448428762632432369.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Down inside the waterwheel pit&#34;
@@ -1444,10 +1444,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/39.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/39.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/39_hu13601982289274907373.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/39_hu2184872579330715955.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/39_hu13601982289274907373.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/39_hu2184872579330715955.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;11 (13) Possible Press House&#34;
@@ -1459,10 +1459,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Long, rectangular gable-ended(?) building aligned north-south with an east-west wheelpit to the south.  The wall of the wheelpit is visible only in the west. The position of the sluice is identifiable. The tailrace is not visible. This where a waterwheel powered a press to squeeze moisture out of the gunpowder.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/40.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/40.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/40_hu14644692485984367145.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/40_hu4421733513891848114.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/40_hu14644692485984367145.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/40_hu4421733513891848114.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;12 (12) Breaking House&#34;
@@ -1474,10 +1474,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Small building, aligned north to south just south of the glazing mill (below). There is a large rectangular stone table, 20-25 centimetres thick, on a masonry base.The table top is smooth. On this, the slabs of pressed gunpowder were broken down.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/41.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/41.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/41_hu17052222732927655441.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/41_hu7993923449336412199.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/41_hu17052222732927655441.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/41_hu7993923449336412199.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A closer view, showing plaster rendering on the rear wall to the left&#34;
@@ -1488,10 +1488,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/42.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/42.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/42_hu15257509510372639168.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/42_hu5450933009517008197.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/42_hu15257509510372639168.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/42_hu5450933009517008197.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;13 (11) Glazing Mill&#34;
@@ -1504,10 +1504,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;Long rectangular building, aligned north / south. The structure contains supports for a raised floor, or to support machinery such as glazing barrels. The internal supports may alternatively have been to provide under-floor ventilation. There is a wheelpit at the south end of the building. This where &amp;ldquo;broken&amp;rdquo; pieces of gunpowder from the Breaking House were sieved and large pieces were returned to the Breaking House and fine powder was returned to the Press House.&lt;/p&gt;
 &lt;p&gt;There is a Circular Reservoir on the hill above between this building and the preceding building.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/43.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/43.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/43_hu10667583903134223911.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/43_hu11475971069988154679.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/43_hu10667583903134223911.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/43_hu11475971069988154679.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;There is a view up on the hill from this point of the first Incorporation Mill&#34;
@@ -1518,10 +1518,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/44.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/44.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/44_hu13509441739616388384.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/44_hu9061324172949215103.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/44_hu13509441739616388384.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/44_hu9061324172949215103.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Zoomed view of the &amp;ldquo;wheelhouse&amp;rdquo; where the gunpowder was mixed and finely ground&#34;
@@ -1532,10 +1532,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/45.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/45.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/45_hu6311798637374406642.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/45_hu9935270450136973802.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/45_hu6311798637374406642.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/45_hu9935270450136973802.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;14 (10) Store&#34;
@@ -1547,10 +1547,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Possibly where &amp;ldquo;corns&amp;rdquo; i.e. sieved gunpowder was stored. This facing the track coming down the hill from the three incorporation mills - note the fingerboard signpost.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/46.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/46.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;606&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/46_hu2040750635797674656.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/46_hu3357771988823410182.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/46_hu2040750635797674656.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/46_hu3357771988823410182.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;16 (9) Final Preparation Rooms&#34;
@@ -1562,10 +1562,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;It is probable that these buildings were used for dusting, glazing, sieving and packing the gunpowder prior to carting it it off-site. Horses may have been stabled here as well as barrels and other materials being stored here. There are two mills powered by a waterwheel.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/47.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/47.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/47_hu10548320694575384999.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/47_hu8115513264798933260.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/47_hu10548320694575384999.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/47_hu8115513264798933260.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Scene from behind, with the North Chimney in the view&#34;
@@ -1576,10 +1576,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/48.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/48.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/48_hu5848835151320895429.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/48_hu18214843071843734112.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/48_hu5848835151320895429.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/48_hu18214843071843734112.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Was this a waterwheel pit area?&#34;
@@ -1590,10 +1590,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/49.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/49.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/49_hu7063971335992713149.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/49_hu16405056372536451686.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/49_hu7063971335992713149.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/49_hu16405056372536451686.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A view of the three Incorporation Mills. Two are gable-ended and one is square-ended&#34;
@@ -1604,10 +1604,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/50.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/50.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/50_hu2593305703618202788.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/50_hu7698393064552983910.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/50_hu2593305703618202788.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/50_hu7698393064552983910.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The North Chimney&#34;
@@ -1618,10 +1618,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/51.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/51.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/51_hu13685858869940195334.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/51_hu10122465864046568414.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/51_hu13685858869940195334.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/51_hu10122465864046568414.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;15 (7) Gunpowder Drying House&#34;
@@ -1633,10 +1633,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&amp;lsquo;Gloom&amp;rsquo; or steam stone used for drying gunpowder. A portion of the west wall of &amp;ldquo;Unit D&amp;rdquo; (in the survey) remains, in the centre of which is a flue leading to the chimney 5-6 metres to the south-west. Two wheel cogs lie at the east end of the building, but may not be in situ.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/52.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/52.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/52_hu7472444255753492414.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/52_hu13030639395809326192.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/52_hu7472444255753492414.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/52_hu13030639395809326192.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Part of the Boiler House / Drying House complex&#34;
@@ -1647,10 +1647,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/53.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/53.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/53_hu227320166244386847.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/53_hu8624480451844555828.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/53_hu227320166244386847.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/53_hu8624480451844555828.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;North Chimney&#34;
@@ -1661,10 +1661,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/54.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/54.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/54_hu15911169202073144058.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/54_hu114700831650766766.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/54_hu15911169202073144058.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/54_hu114700831650766766.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;7 (3) Incorporating Mill&#34;
@@ -1676,10 +1676,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Similar in plan to &amp;lsquo;Buildings 1 and 2&amp;rsquo;, consisting of two units flanking a central wheelpit. The wheelpit is largely filled with rubble. The wheel was powered by water from the tailrace of the wheelpit of &amp;lsquo;Building 2&amp;rsquo;. The three incorporating mill houses (&amp;ldquo;wheelhouses&amp;rdquo;) were of massive construction with many granite blocks being 6-feet long and the was about 6-feet thick, to withstand inadvertent explosions. The roofs were very flimsy, of wood and tar, to blow off without damaging the main structure. They could be replaced easily.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/55.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/55.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/55_hu15589836742663356709.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/55_hu4359752930724811807.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/55_hu15589836742663356709.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/55_hu4359752930724811807.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;From the &amp;ldquo;rear&amp;rdquo; - this is the third incorporating mill in the system in that the water comes from the mills above here on the hill. The raised bank bringing the water to a launder to reach the water wheel is seen at the right &#34;
@@ -1690,10 +1690,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/56.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/56.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/56_hu14279849009494255202.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/56_hu7446637472879457368.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/56_hu14279849009494255202.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/56_hu7446637472879457368.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking into the central wheelpit&#34;
@@ -1704,10 +1704,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/57.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/57.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/57_hu10233382433871165588.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/57_hu13591555769616509457.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/57_hu10233382433871165588.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/57_hu13591555769616509457.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking through the mill from outside one end&#34;
@@ -1718,10 +1718,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/58.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/58.jpg&#34;
 	width=&#34;1599&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/58_hu5902950501662654054.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/58_hu5055787908459634170.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/58_hu5902950501662654054.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/58_hu5055787908459634170.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Down in the wheelpit - best not to go there!&#34;
@@ -1732,10 +1732,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/59.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/59.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/59_hu5657262620455194864.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/59_hu7263351798918787257.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/59_hu5657262620455194864.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/59_hu7263351798918787257.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;6 (2) Incorporating Mill&#34;
@@ -1747,10 +1747,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Tar drips indicate that either it was not gable ended, or the gable ends were constructed of timber of lesser width than the walls below. Water outflow continues west in the form of a leat, towards &amp;lsquo;Building 3&amp;rsquo;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/60.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/60.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/60_hu17817235747143987457.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/60_hu10385626136380973800.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/60_hu17817235747143987457.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/60_hu10385626136380973800.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;6 (2) Incorporating Mill showing the outflow leat&#34;
@@ -1761,10 +1761,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/61.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/61.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/61_hu2396788649525771669.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/61_hu14357209139504458598.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/61_hu2396788649525771669.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/61_hu14357209139504458598.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;6 (2) Incorporation Mill outflow leat running towards the previous building, 7(3)&#34;
@@ -1775,10 +1775,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/62.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/62.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/62_hu15241318877020899385.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/62_hu558435776979800964.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/62_hu15241318877020899385.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/62_hu558435776979800964.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Depression in a granite block to house the axle of the waterwheel - there is a mirror-image stone in  the other half of the &amp;ldquo;wheelhouse&amp;rdquo;&#34;
@@ -1789,10 +1789,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/63.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/63.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/63_hu18104190902116223727.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/63_hu275364369026496939.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/63_hu18104190902116223727.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/63_hu275364369026496939.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The raised bank on the right brought the leat to a launder that fed the waterwheel in the pit on the left&#34;
@@ -1803,10 +1803,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/64.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/64.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/64_hu7908243038707353264.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/64_hu1258861650055233092.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/64_hu7908243038707353264.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/64_hu1258861650055233092.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Foreground: 8 (4) Powder Magazine: A small rectangular stone structure, approximately 4 metres by 2.5 metres, completely ruined.&#34;
@@ -1821,10 +1821,10 @@
 &lt;p&gt;Tar dribbles indicate original roofing was of tarred tarpaulin or wood. This was probably to allow any accidental explosion to go upwards and leave the walls standing, a technique still used by artisinal powder makers in India and China today.&lt;/p&gt;
 &lt;p&gt;The wheelpit is aligned north-east to south-west and runs the whole width of the units. Wheel axle appears to have projected into their ground floors. Powered by a launder to the north-east which flowed out through a culvert to the south-west. This is roofed for 3.5 - 4 metres, then becomes an open channel which runs downhill to feed the reservoir belonging to &amp;lsquo;Building 2&amp;rsquo;.&lt;/p&gt;
 &lt;p&gt;The raised bank at the left brought the leat that fed a launder to the waterwheel.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/65.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/65.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/65_hu12820260529909984783.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/65_hu2628342797682724492.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/65_hu12820260529909984783.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/65_hu2628342797682724492.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;General view of the North Chimney and 16 (9) Final Preparation Rooms&#34;
@@ -1835,10 +1835,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/66.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/66.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/66_hu10668094345275255945.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/66_hu7567579752225952179.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/66_hu10668094345275255945.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/66_hu7567579752225952179.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Wheelpit, seen from the downhill side&#34;
@@ -1849,10 +1849,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/67.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/67.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/67_hu9130031897452351174.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/67_hu5689865895904419862.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/67_hu9130031897452351174.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/67_hu5689865895904419862.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking through from end of the building&#34;
@@ -1863,10 +1863,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/68.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/68.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/68_hu9968498040529375471.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/68_hu848396973858772103.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/68_hu9968498040529375471.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/68_hu848396973858772103.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The raised bank at the right brought the leat&#34;
@@ -1877,10 +1877,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/69.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/69.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/69_hu17635541160252427161.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/69_hu3292279054292968606.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/69_hu17635541160252427161.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/69_hu3292279054292968606.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Wheelpit, seen from the uphill side&#34;
@@ -1891,10 +1891,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/70.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/70.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/70_hu8122229830460685550.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/70_hu11203883656765117099.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/70_hu8122229830460685550.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/70_hu11203883656765117099.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Last view before leaving the site. The white sign is the DNPA summary of the gunpowder manufacturing process, shown near the top of this web page&#34;
@@ -1907,10 +1907,10 @@
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;arch-tor-1&#34;&gt;Arch Tor
 &lt;/h2&gt;&lt;p&gt;An &amp;ldquo;extra&amp;rdquo; to the walk: exit the site via the gate at the top right corner, past the Incorporation Mills, and walk out straight to Arch Tor. The whole top stone &amp;ldquo;logs&amp;rdquo; i.e. rocks, as a logan stone.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/71.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/71.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/71_hu13147291197574321189.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/71_hu6533383700671648133.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/71_hu13147291197574321189.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/71_hu6533383700671648133.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Arch Tor: the  &amp;ldquo;PC&amp;#34;inscription has been suggested to signify Powedermills Cottages (photo from 13 Sept. 2012)&#34;
@@ -1921,10 +1921,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/72.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/72.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/72_hu3822640043537432072.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/72_hu16674564212186516912.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/72_hu3822640043537432072.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/72_hu16674564212186516912.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Ponies on the track back to the car&#34;
@@ -1936,10 +1936,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;extra-bits&#34;&gt;Extra bits
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/the-powder-mills/73.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/the-powder-mills/73.jpg&#34;
 	width=&#34;1134&#34;
 	height=&#34;638&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/the-powder-mills/73_hu18079546166988933600.jpg 480w, https://dartmoorwalking.org/p/the-powder-mills/73_hu16615387678948526361.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/the-powder-mills/73_hu18079546166988933600.jpg 480w, http://10.1.0.1:1313/p/the-powder-mills/73_hu16615387678948526361.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Proving mortar, or Eprouvette, at SX 62790 76810, south of the cottages (c) Google 2020 Streetview&#34;

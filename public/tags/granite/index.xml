@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Granite on Dartmoor Walking</title>
-        <link>https://dartmoorwalking.org/tags/granite/</link>
+        <link>http://10.1.0.1:1313/tags/granite/</link>
         <description>Recent content in Granite on Dartmoor Walking</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Simon Avery</copyright>
-        <lastBuildDate>Sat, 14 Dec 2024 21:04:46 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/granite/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 14 Dec 2024 21:04:46 +0000</lastBuildDate><atom:link href="http://10.1.0.1:1313/tags/granite/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Foggintor Quarry</title>
-        <link>https://dartmoorwalking.org/p/foggintor-quarry/</link>
+        <link>http://10.1.0.1:1313/p/foggintor-quarry/</link>
         <pubDate>Sat, 14 Dec 2024 21:04:46 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/p/foggintor-quarry/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/p/foggintor-quarry/29.jpg" alt="Featured image of post Foggintor Quarry" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+        <guid>http://10.1.0.1:1313/p/foggintor-quarry/</guid>
+        <description>&lt;img src="http://10.1.0.1:1313/p/foggintor-quarry/29.jpg" alt="Featured image of post Foggintor Quarry" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;3 miles&lt;/b&gt;, walked by Keith Ryan and transcribed by Simon Avery&lt;/li&gt;
 &lt;li&gt; Grade: &lt;b&gt;Gentle&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;https://dartmoorwalking.org/gpx/foggintor-quarry.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://10.1.0.1:1313/gpx/foggintor-quarry.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
 &lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.55694095427574%2c-4.023894675807629&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
     &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
     &lt;path d=&#34;M12 21v-4&#34; /&gt;
@@ -30,10 +30,10 @@
 &lt;li&gt; &lt;a href=&#34;https://w3w.co/seemingly.contrived.validated&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;seemingly.contrived.validated&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/map.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/map.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;712&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/map_hu11080945898151187862.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/map_hu199190293710719788.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/map_hu11080945898151187862.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/map_hu199190293710719788.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
@@ -47,10 +47,10 @@
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;One of the most picturesque and popular Dartmoor destinations. The abandoned quarries have been retaken by nature despite having been worked as recently as 1966. The quarries once supported an entire village of based here at Foggintor, with a School, Chapel and 30 cottages. The landscape will have looked very differently here two hundred years ago at the height of its industry. Now only evocative ruins remain.&lt;/p&gt;
 &lt;h2 id=&#34;the-mission-hall&#34;&gt;The Mission Hall
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/2.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/2.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/2_hu17855568388414919473.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/2_hu7397130335957229788.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/2_hu17855568388414919473.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/2_hu7397130335957229788.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Before we start, look back across the road&#34;
@@ -69,10 +69,10 @@
     &gt;some photographs&lt;/a&gt; of how the mission hall looked&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;We start our walk by following the track away from the road to the South&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/1.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/1.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/1_hu2537790125546666205.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/1_hu11234725293042138681.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/1_hu2537790125546666205.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/1_hu11234725293042138681.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Heavy duty signage&#34;
@@ -84,10 +84,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;red-cottages&#34;&gt;Red Cottages
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/3.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/3.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/3_hu16862155939695160208.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/3_hu15031643422849927450.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/3_hu16862155939695160208.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/3_hu15031643422849927450.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Just above the car park is the leat that supplied Red Cottages&#34;
@@ -99,10 +99,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;This leat still supplies Yellowmeade and formerly ran on to supply Foggintor. It is probable that the cottages were supplied by a bullseye stone to regulate water use.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/4.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/4.jpg&#34;
 	width=&#34;1599&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/4_hu8018350886831370060.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/4_hu15365172456365620680.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/4_hu8018350886831370060.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/4_hu15365172456365620680.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The site of Red Cottages&#34;
@@ -118,10 +118,10 @@
 &lt;p&gt;They were built with cob and by 1871 the weather got into them so badly they were &amp;ldquo;covered with corrugated iron&amp;rdquo; and painted with red lead, thus becoming known as Red Cottages - this appears in the 1871 Census.&lt;/p&gt;
 &lt;p&gt;Kath Brewer writes in &amp;ldquo;The Railways, Quarries and Cottages of Foggintor&amp;rdquo; that in later years they were actually black, having been covered with pitch, again against the weather.&lt;/p&gt;
 &lt;p&gt;There were six cottages but with twelve dwellings - with &amp;ldquo;one up, one down&amp;rdquo;. In the 1861 Census, there were thirteen families with 50 adults and 38 children at West View, as the cottages were known at that time.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/5.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/5.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/5_hu5204855264928611871.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/5_hu10443678379150442854.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/5_hu5204855264928611871.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/5_hu10443678379150442854.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Showing Red Cottages (top right) and the proximity of West Mead Quarry. Image (c) Google Earth, 2017&#34;
@@ -132,10 +132,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/6.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/6.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/6_hu2546467283301090364.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/6_hu16919438633932501617.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/6_hu2546467283301090364.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/6_hu16919438633932501617.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Some of the gateposts&#34;
@@ -146,10 +146,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/7.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/7.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/7_hu14240668642594363349.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/7_hu3518639664067155583.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/7_hu14240668642594363349.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/7_hu3518639664067155583.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The first of two drill testing stones embedded in the track,  this one is located at SX 56618 74485&#34;
@@ -162,10 +162,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;Large weighted iron bars were used to drill the granite to take the explosive charge. These drills, known as Jumpers, were tested here to ensure they were sharp enough.&lt;/p&gt;
 &lt;h2 id=&#34;yellowmeade&#34;&gt;Yellowmeade
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/8.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/8.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/8_hu3681120598357739724.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/8_hu2722849376060774700.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/8_hu3681120598357739724.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/8_hu2722849376060774700.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Approaching Yellowmeade&#34;
@@ -178,10 +178,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;The &amp;ldquo;lumps and bumps&amp;rdquo; in the background are waste tips of Foggintor Quarry.&lt;/p&gt;
 &lt;p&gt;Yellowmeade Farm itself was not established until 1860, the last farm to be founded in Walkhampton Parish. It was enclosed by George Cole whose family lived there until about 2015.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/9.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/9.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/9_hu9280785289385083044.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/9_hu8470364885947124703.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/9_hu9280785289385083044.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/9_hu8470364885947124703.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The track ahead&#34;
@@ -194,10 +194,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;Further on we&amp;rsquo;ll see clear evidence of worked trackway blocks, proving this track was also once a horse-drawn railway.&lt;/p&gt;
 &lt;h2 id=&#34;sett-making&#34;&gt;Sett Making
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/10.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/10.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/10_hu2065855698366612091.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/10_hu321354425345331951.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/10_hu2065855698366612091.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/10_hu321354425345331951.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Stone at SX 56718 74141, split by tare and feathers, then held open with a stone wedge&#34;
@@ -208,10 +208,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/11.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/11.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/11_hu2887272119941073885.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/11_hu4428457035875560217.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/11_hu2887272119941073885.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/11_hu4428457035875560217.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Cake Stone - a granite block abandoned in the process of splitting for making setts for the railway. This stone would have provided eight setts&#34;
@@ -222,10 +222,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/12.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/12.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/12_hu5697369976789136476.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/12_hu6433514877310654218.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/12_hu5697369976789136476.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/12_hu6433514877310654218.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A &amp;ldquo;sett makers&amp;rsquo; banker&amp;rdquo; at SX 56737 74084&#34;
@@ -248,10 +248,10 @@
 &lt;p&gt;When I worked for DNPA in the late 1980s, they often employed a traditional stonemason who would work just inside the entrance of the Works Depot in Bovey Tracey. He had a 45 gallon oil drum full of granite chips on which he&amp;rsquo;d place his work, which might be a perfectly spherical ball to sit atop a gatepost. He&amp;rsquo;d stand there all day, chipping away. Pausing every now and then to offer up a hardboard template to check his progress, or check diameter with a set of large calipers. He wore a full face respirator, with a battery pack and inlet on his belt at the back, similar to those used by industrial welders, which blew filtered air into the mask. &lt;cite&gt;&amp;ndash; Simon&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;foggintor-quarry&#34;&gt;Foggintor Quarry
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/13.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/13.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/13_hu11164913730293928602.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/13_hu15219916489157045961.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/13_hu11164913730293928602.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/13_hu15219916489157045961.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A view ahead of Foggintor from the sett making site&#34;
@@ -276,10 +276,10 @@
 &lt;li&gt;The quarry closed in 1966, putting 40 men out of work. One factor given was competition from cheaper sources abroad, and an increasing use of concrete instead of stone in architecture.&lt;/li&gt;
 &lt;li&gt;The stones that form Big Tip are huge, especially on the lower levels. Approaching from the side you can see some must weigh many tons, and cracks in between are big enough to easily conceal an adult.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/14.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/14.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/14_hu506264546235960740.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/14_hu10886572675530021581.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/14_hu506264546235960740.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/14_hu10886572675530021581.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A zoomed view of ruins at Hill Cottages, on Big Tip&#34;
@@ -290,10 +290,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/15.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/15.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/15_hu6968682488811044812.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/15_hu9245616464211456497.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/15_hu6968682488811044812.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/15_hu9245616464211456497.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The TA stone (the Medieval Tavistock-Ashburton packhorse track) incorporated into a now-blocked up gateway, at SX 56718 74141. This is in the angle between two walls below the track. An iron gate hanger is still on position on the left post&#34;
@@ -304,10 +304,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/16.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/16.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/16_hu8351539544667853544.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/16_hu4029093153755319975.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/16_hu8351539544667853544.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/16_hu4029093153755319975.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;An unusual stone slightly above the track at SX 56710 73981&#34;
@@ -320,10 +320,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;This looks like it might have once been a kistvaen or cist, but could also be a split or worked stone from the sett-makers or even a natural feature.&lt;/p&gt;
 &lt;p&gt;The blocked up gateway above is in the angle at the right of this photo.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/17.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/17.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/17_hu375464133050128726.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/17_hu9185816999062470381.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/17_hu375464133050128726.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/17_hu9185816999062470381.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Worn or &amp;ldquo;worked&amp;rdquo; tramway setts at  SX 56708 73953 showing evidence of the horse-drawn railway&#34;
@@ -335,10 +335,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;hill-farm&#34;&gt;Hill Farm
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/18.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/18.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/18_hu10996510541728281257.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/18_hu18255994897319581357.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/18_hu10996510541728281257.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/18_hu18255994897319581357.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;These ruins ahead to the right, was Hill Farm&#34;
@@ -350,10 +350,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Hill Farm, also known as Eva&amp;rsquo;s Farm. The family was at Foggintor on the 1881, 1891 and was still present until at least 1936.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/19.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/19.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/19_hu14352171522838012206.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/19_hu15151997728819523286.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/19_hu14352171522838012206.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/19_hu15151997728819523286.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Hill Farm gate posts, with Middle Staple, Great Staple and Roose Tors in the distance&#34;
@@ -365,10 +365,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;methodist-chapel-and-school-ruins&#34;&gt;Methodist Chapel and School Ruins
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/20.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/20.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/20_hu12088024872318927781.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/20_hu14916883984332517467.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/20_hu12088024872318927781.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/20_hu14916883984332517467.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Central area of this picture are the foundation ruins of Foggintor School and Wesleyan Methodist Chapel&#34;
@@ -381,7 +381,7 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;These scant foundations were once a schoolhouse and a Wesleyan Chapel.&lt;/p&gt;
 &lt;p&gt;The quarry workers originally sent their children to the School at Princetown, which was then probably built in the Barracks. But when Dartmoor Prison was re-opened in 1850, a new building for the School was needed and was built here. At its peak in 1861, 183 pupils were known to regularly attend.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Note that this is not the later &amp;ldquo;Foggintor School&amp;rdquo;. That was also known as Four Winds and forms the large tree-lined car park half a mile south of our parking. We discuss that school &lt;a class=&#34;link&#34; href=&#34;https://dartmoorwalking.org/p/the-merrivale-bronze-age-sun-calendar-and-foggintor-school/&#34; &gt;in our Merrivale Calendar walk&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note that this is not the later &amp;ldquo;Foggintor School&amp;rdquo;. That was also known as Four Winds and forms the large tree-lined car park half a mile south of our parking. We discuss that school &lt;a class=&#34;link&#34; href=&#34;http://10.1.0.1:1313/p/the-merrivale-bronze-age-sun-calendar-and-foggintor-school/&#34; &gt;in our Merrivale Calendar walk&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Between 1880 and 1883, this building was also recorded as a Wesleyan Chapel, and later a Workshop and again as a private residence, so it clearly served multiple purposes.&lt;/p&gt;
 &lt;p&gt;By 1915 it was closed forever.&lt;/p&gt;
 &lt;ul&gt;
@@ -389,10 +389,10 @@
     &gt;Heritage Gateway -Methodist chapel / school at Foggintor Quarry&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;hill-cottages&#34;&gt;Hill Cottages
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/21.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/21.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/21_hu6478430750209538770.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/21_hu9988092074107070753.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/21_hu6478430750209538770.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/21_hu9988092074107070753.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Hill Cottages, the tallest of the ruins&#34;
@@ -404,10 +404,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;These are believed to have been built in the 1840s. The last resident left in 1951 and they were demolished two years later.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/22.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/22.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/22_hu17014946966565244222.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/22_hu1022355601525160436.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/22_hu17014946966565244222.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/22_hu1022355601525160436.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Overlooking the Manager&amp;rsquo;s House (The flat grassy site int he centre) with ruins on the horse stables beyond&#34;
@@ -418,10 +418,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/23.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/23.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/23_hu13943448235535015462.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/23_hu6309364316618585036.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/23_hu13943448235535015462.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/23_hu6309364316618585036.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking through the window at Big Tip, with Swell Tor on the horizon&#34;
@@ -432,10 +432,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/24.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/24.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/24_hu247633774517841523.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/24_hu2090723676171152165.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/24_hu247633774517841523.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/24_hu2090723676171152165.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A lintel or clavel from a fireplace in Hill Cottages&#34;
@@ -446,10 +446,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/25.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/25.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/25_hu14002171068442194087.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/25_hu491588732243911617.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/25_hu14002171068442194087.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/25_hu491588732243911617.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A view looking from the northern quarry entrance, between the cottages, out along Big Tip&#34;
@@ -461,10 +461,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;You can see where a branch railway line was laid out along Big Tip  to carry waste for tipping. The railway gauge was about 2-feet for easy man-handling. It is recorded that only 10% of quarried granite was used in building, the rest was waste. Looking at the size of these tips, it is easy to believe that disposing of waste rock was a large part of the works here.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/42.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/42.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/42_hu6882743338790332006.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/42_hu8636889769111727455.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/42_hu6882743338790332006.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/42_hu8636889769111727455.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking up at Hill Cottages&#34;
@@ -478,10 +478,10 @@
 &lt;p&gt;Much of the research for this walk was taken from Kath Brewer&amp;rsquo;s book, The Railways, Quarries and Cottages of Foggintor, Orchard Publications, Chudleigh, Newton Abbot, 1997.  The cottage about the arch was her home.&lt;/p&gt;
 &lt;p&gt;The purpose of the arch is unknown. There is a suggestion that a waterwheel was located here, but there seems to be no evidence to support that.&lt;/p&gt;
 &lt;h2 id=&#34;quarry-entrance&#34;&gt;Quarry Entrance
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/26.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/26.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/26_hu18339710722802429715.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/26_hu14848089874696321194.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/26_hu18339710722802429715.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/26_hu14848089874696321194.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking into the quarry from the same position&#34;
@@ -493,10 +493,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;In the foreground of this picture are the remains of a crane base, at SX 56652 73658.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/27.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/27.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/27_hu5909026241528266433.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/27_hu13285591667726966911.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/27_hu5909026241528266433.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/27_hu13285591667726966911.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Early graffiti: An inscription (center right) reads &amp;ldquo;WS, 1903&amp;rdquo;&#34;
@@ -508,10 +508,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;For our walk, we circle the quarry clockwise by climbing to the left above the quarry entrance&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/28.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/28.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;230&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/28_hu13855214193081660804.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/28_hu7902657529015161969.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/28_hu13855214193081660804.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/28_hu7902657529015161969.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Panorama showing the ruins of Hill Cottages and Big Tip on the right&#34;
@@ -522,10 +522,10 @@
 		data-flex-basis=&#34;1252px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/29.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/29.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;318&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/29_hu18190817479921905830.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/29_hu10694897206292580394.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/29_hu18190817479921905830.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/29_hu10694897206292580394.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking into the quarry from above. The site of a building can be seen in the shadow near the bottom of the picture&#34;
@@ -536,10 +536,10 @@
 		data-flex-basis=&#34;905px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/30.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/30.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/30_hu14040204928448791095.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/30_hu6780980881581055943.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/30_hu14040204928448791095.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/30_hu6780980881581055943.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;One of the 7 crane bases in the quarry&#34;
@@ -550,10 +550,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/31.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/31.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/31_hu10715570073749305914.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/31_hu10461284063069005163.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/31_hu10715570073749305914.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/31_hu10461284063069005163.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Directly above two of the quarry walls are these stout ground anchors used by the Royal Marines for rope practice&#34;
@@ -564,10 +564,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/32.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/32.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/32_hu6243672257550791334.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/32_hu6308927166481210501.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/32_hu6243672257550791334.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/32_hu6308927166481210501.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking back across the quarry to Yellowmeade Farm&#34;
@@ -578,10 +578,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/33.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/33.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/33_hu10252312688112057581.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/33_hu10887837382219280701.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/33_hu10252312688112057581.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/33_hu10887837382219280701.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34; Looking down into the quarry from a quite high vantage point - at two crane bases (with yellow &amp;ldquo;v&amp;rdquo; labels)&#34;
@@ -592,10 +592,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/34.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/34.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/34_hu6590259115282295293.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/34_hu16112020896869890396.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/34_hu6590259115282295293.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/34_hu16112020896869890396.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking down from SX 56718 73435 onto a crane base and another sett makers&amp;rsquo; banker&#34;
@@ -606,10 +606,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/35.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/35.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/35_hu4619768149214443307.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/35_hu13031930557262436548.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/35_hu4619768149214443307.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/35_hu13031930557262436548.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Another view of the sett makers&amp;rsquo; banker, showing the waste discarded from the working platform&#34;
@@ -620,10 +620,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/36.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/36.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/36_hu13639886064814776341.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/36_hu547863878723131355.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/36_hu13639886064814776341.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/36_hu547863878723131355.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Smithy, at the southern entrance into the quarry, SX 56549 73458&#34;
@@ -634,10 +634,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/37.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/37.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/37_hu6477652517398935693.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/37_hu12597443860590738608.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/37_hu6477652517398935693.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/37_hu12597443860590738608.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;To the right of the track above is a section of wall that was the Loading Platform and sidings for the railway&#34;
@@ -648,10 +648,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/38.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/38.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/38_hu17928213270131723237.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/38_hu6848211809815552658.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/38_hu17928213270131723237.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/38_hu6848211809815552658.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Gibbs Cottage, on the site that was formerly the weighbridge. This has also been described as Royal Oak Bungalows&#34;
@@ -662,10 +662,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/39.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/39.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/39_hu3542320003703248995.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/39_hu2386419062738267326.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/39_hu3542320003703248995.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/39_hu2386419062738267326.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Great King Tor, opposite&#34;
@@ -676,10 +676,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/40.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/40.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;636&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/40_hu16151918589981503245.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/40_hu103819471681065345.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/40_hu16151918589981503245.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/40_hu103819471681065345.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;1840 Walkhampton Tithe Map - (c) Devon County Council&#34;
@@ -692,10 +692,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;The 1840 Walkhampton Tithe Map shows Little King Tor and Great King Tor. It also shows the 1823 Plymouth &amp;amp; Dartmoor Railway, extended from King Tor quarries to Princetown by December 1826. It shows neither Foggin Tor nor the branch line to Foggintor Quarry. These were active well within Walkhampton Parish, although quarrying had nothing to do with tithing and therefore wasn&amp;rsquo;t suitable for the purpose of the map.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Follow the level ground back towards Big Tip&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/41.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/41.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/41_hu5955439113421816005.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/41_hu2457146153840935629.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/41_hu5955439113421816005.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/41_hu2457146153840935629.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Another view of the stables&#34;
@@ -707,10 +707,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;return-walk&#34;&gt;Return walk
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/43.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/43.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/43_hu10101021222254634139.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/43_hu13245490362108985393.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/43_hu10101021222254634139.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/43_hu13245490362108985393.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The second drill testing stone, embedded in the track at  SX 56671 73777&#34;
@@ -722,10 +722,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;It&amp;rsquo;s worth leaving the track after the field enclosures to walk below it, as per our route on the map, for some interesting historical items&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/44.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/44.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/44_hu7769232405174742327.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/44_hu8945757360543337176.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/44_hu7769232405174742327.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/44_hu8945757360543337176.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A round house / hut circle in the Bronze Age enclosure at SX 56412 74503 below the track from Yellowmeade to Red Cottages&#34;
@@ -737,10 +737,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;This hut is labelled &amp;ldquo;1&amp;rdquo; in the figure below. Cairn 1 is a ruined cisted cairn. The area around Yellowmeade was occupied in Bronze Age times.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/45.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/45.jpg&#34;
 	width=&#34;834&#34;
 	height=&#34;1342&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/45_hu1727237586238599545.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/45_hu11683908336790004916.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/45_hu1727237586238599545.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/45_hu11683908336790004916.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image © J Butler 1994. Reproduced by kind permission&#34;
@@ -751,10 +751,10 @@
 		data-flex-basis=&#34;149px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/46.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/46.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/46_hu67414052817055091.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/46_hu17427061844370058278.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/46_hu67414052817055091.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/46_hu17427061844370058278.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Explosives store for West Mead Quarry, at SX 56450 74621. Four Winds car park in the background&#34;
@@ -765,7 +765,7 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/48.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/48.jpg&#34;
 	
 	
 	
@@ -775,10 +775,10 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/foggintor-quarry/47.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/foggintor-quarry/47.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/foggintor-quarry/47_hu5689165674445953885.jpg 480w, https://dartmoorwalking.org/p/foggintor-quarry/47_hu12683964991004470395.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/foggintor-quarry/47_hu5689165674445953885.jpg 480w, http://10.1.0.1:1313/p/foggintor-quarry/47_hu12683964991004470395.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking across the entrance to West Mead Quarry at the ruins of its buildings. These included a blacksmith&amp;rsquo;s shop and a crane platform and possibly a compressor base for air tools&#34;

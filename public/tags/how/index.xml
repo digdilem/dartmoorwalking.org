@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>How on Dartmoor Walking</title>
-        <link>https://dartmoorwalking.org/tags/how/</link>
+        <link>http://10.1.0.1:1313/tags/how/</link>
         <description>Recent content in How on Dartmoor Walking</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Simon Avery</copyright>
-        <lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/how/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://10.1.0.1:1313/tags/how/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Walking on Dartmoor</title>
-        <link>https://dartmoorwalking.org/walking-on-dartmoor/</link>
+        <link>http://10.1.0.1:1313/walking-on-dartmoor/</link>
         <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/walking-on-dartmoor/</guid>
+        <guid>http://10.1.0.1:1313/walking-on-dartmoor/</guid>
         <description>&lt;blockquote&gt;
 &lt;p&gt;Ee puts wun fut in frunt of t&amp;rsquo;other, an on ee goes&lt;/p&gt;
 &lt;/blockquote&gt;
