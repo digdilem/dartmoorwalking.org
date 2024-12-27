@@ -1,6 +1,6 @@
 ---
 title: Wind Tor and Hutholes
-description: A visit to Wind Tor then some hut circles and deep Dartmoor Lanes before arriving at Hutholes - a partially restored Medieval settlement.
+description: A visit to Wind Tor and a short walk along Dartmoor Lanes before arriving at Hutholes - a partially restored Medieval settlement.
 categories: East Dartmoor
 distance: 3
 coords: 50.57244,-3.82627
@@ -8,7 +8,7 @@ grade: Gentle
 w3w: album.twice.flashback
 gpx: wind-tor-and-hutholes
 
-image: map.jpg
+image: 28.jpg
 tags: 
   - circular 
   - 3 mile walk  
@@ -74,6 +74,8 @@ But why?
 ![View on the way to Wind Tor](4.jpg)
 
 Left to right: Honeybag Tor (Elevation 445m/1459 feet). Chinkwell Tor (456m/1496 feet). Bell Tor (354m, 1161 feet)
+
+![What looks like an abandoned millstone. SX 70835 76012](33.jpg)
 
 ## Wind Tor
 

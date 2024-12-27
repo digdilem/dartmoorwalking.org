@@ -43,7 +43,6 @@ date: '{{ .Date }}'
 
 ## Introduction
 
-## Points of interest
 
 
 
