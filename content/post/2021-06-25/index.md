@@ -103,19 +103,8 @@ Notably, granite from this quarry was used in many fine London buildings includi
 
 * [DNPA infosheet on Granite Quarry and the Haytor Granite Tramway - including sketch of how this crane would once looked](https://www.dartmoor.gov.uk/__data/assets/pdf_file/0015/72132/lab-granpost.pdf)
 
-## The Templer Family
+{{% templer_family %}}
 
-These quarries were started in 1813 by a George Templer (1781-1843), who also build the Haytor Granite Tramway. 
-
-George's father, James Templer II (1748-1813) built [Stover Canal](https://en.wikipedia.org/wiki/Stover_Canal) nearby, which was originally used to transport Ball Clay from the Bovey Basin to factories worldwide, including those used for Wedgewood Porcelain. The Stover canal was later also used for the export of stone from here. 
-
-George's grandfather, James Templer (1722-1782) built [Stover House](https://en.wikipedia.org/wiki/Stover,_Teigngrace)
-
-Unfortunately, George overspent and he was forced to sell the family estate; Stover House, Stover Canal and the Haytor Granite Tramway. These were bought by [Edward St Maur, 11th Duke of Somerset](https://en.wikipedia.org/wiki/Edward_St_Maur,_11th_Duke_of_Somerset) - "Lord Seymour" (1775-1855)
-
-At that time, Haytor quarries were leased by the Johnson Brothers in 1840, who closed them within a few years. It is known they were having problems with "the Union" and it seems likely this was linked. The brothers also leased Foggintor quarries and sold stone from there under the *Haytor Granite Company* name, which was misleading to customers as the Haytor granite was known to be of better quality. 
-
-Seven years later, the Haytor lease was up for renewal and the Duke refused to extend it, but the quarry never re-opened.
 
 ![Another view of the winding gear - or as known locally, "The mangle"](12.jpg)
 
@@ -190,11 +179,13 @@ The wagons were connected together in 'trains' of 12 or so, drawn by a team of 1
 
 The horses were placed behind the train going down when they provided much needed braking, and in front of the train when pulling the empty wagons back to the quarries.
 
-> "Nineteen stout horses it was known,
-> From Holwell Quarry drew the stone,
-> And mounted on twelve-wheeled car
-> 'Twas safely brought from Holwell Tor"
-> <cite>-- Thomas Taverner </cite>
+```{linenos=false}
+"Nineteen stout horses it was known,
+From Holwell Quarry drew the stone,
+And mounted on twelve-wheeled car
+'Twas safely brought from Holwell Tor"
+-- Thomas Taverner 
+```
 
 ![First "points" seen on the walk at SX 76122 77722](32.jpg)
 
