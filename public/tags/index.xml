@@ -7,18 +7,26 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Simon Avery</copyright>
-        <lastBuildDate>Sun, 29 Dec 2024 14:18:32 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 01 Jan 2025 10:30:07 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>3 Mile Walk</title>
         <link>https://dartmoorwalking.org/tags/3-mile-walk/</link>
-        <pubDate>Sun, 29 Dec 2024 14:18:32 +0000</pubDate>
+        <pubDate>Wed, 01 Jan 2025 10:30:07 +0000</pubDate>
         
         <guid>https://dartmoorwalking.org/tags/3-mile-walk/</guid>
         <description></description>
         </item>
         <item>
+        <title>Bridge</title>
+        <link>https://dartmoorwalking.org/tags/bridge/</link>
+        <pubDate>Wed, 01 Jan 2025 10:30:07 +0000</pubDate>
+        
+        <guid>https://dartmoorwalking.org/tags/bridge/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Circular</title>
         <link>https://dartmoorwalking.org/tags/circular/</link>
-        <pubDate>Sun, 29 Dec 2024 14:18:32 +0000</pubDate>
+        <pubDate>Wed, 01 Jan 2025 10:30:07 +0000</pubDate>
         
         <guid>https://dartmoorwalking.org/tags/circular/</guid>
         <description></description>
@@ -26,9 +34,49 @@
         <item>
         <title>Gentle</title>
         <link>https://dartmoorwalking.org/tags/gentle/</link>
-        <pubDate>Sun, 29 Dec 2024 14:18:32 +0000</pubDate>
+        <pubDate>Wed, 01 Jan 2025 10:30:07 +0000</pubDate>
         
         <guid>https://dartmoorwalking.org/tags/gentle/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Mining</title>
+        <link>https://dartmoorwalking.org/tags/mining/</link>
+        <pubDate>Wed, 01 Jan 2025 10:30:07 +0000</pubDate>
+        
+        <guid>https://dartmoorwalking.org/tags/mining/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Ruins</title>
+        <link>https://dartmoorwalking.org/tags/ruins/</link>
+        <pubDate>Wed, 01 Jan 2025 10:30:07 +0000</pubDate>
+        
+        <guid>https://dartmoorwalking.org/tags/ruins/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tin</title>
+        <link>https://dartmoorwalking.org/tags/tin/</link>
+        <pubDate>Wed, 01 Jan 2025 10:30:07 +0000</pubDate>
+        
+        <guid>https://dartmoorwalking.org/tags/tin/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Gentle / Medium / Strenuous XXXXXXXXXXX</title>
+        <link>https://dartmoorwalking.org/tags/gentle-/-medium-/-strenuous-xxxxxxxxxxx/</link>
+        <pubDate>Wed, 01 Jan 2025 10:24:31 +0000</pubDate>
+        
+        <guid>https://dartmoorwalking.org/tags/gentle-/-medium-/-strenuous-xxxxxxxxxxx/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>XXXXXXXXXXX Mile Walk</title>
+        <link>https://dartmoorwalking.org/tags/xxxxxxxxxxx-mile-walk/</link>
+        <pubDate>Wed, 01 Jan 2025 10:24:31 +0000</pubDate>
+        
+        <guid>https://dartmoorwalking.org/tags/xxxxxxxxxxx-mile-walk/</guid>
         <description></description>
         </item>
         <item>
@@ -37,14 +85,6 @@
         <pubDate>Sun, 29 Dec 2024 14:18:32 +0000</pubDate>
         
         <guid>https://dartmoorwalking.org/tags/geocaching/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Mining</title>
-        <link>https://dartmoorwalking.org/tags/mining/</link>
-        <pubDate>Sun, 29 Dec 2024 14:18:32 +0000</pubDate>
-        
-        <guid>https://dartmoorwalking.org/tags/mining/</guid>
         <description></description>
         </item>
         <item>
@@ -184,14 +224,6 @@
         <description></description>
         </item>
         <item>
-        <title>Ruins</title>
-        <link>https://dartmoorwalking.org/tags/ruins/</link>
-        <pubDate>Wed, 25 Dec 2024 19:39:23 +0000</pubDate>
-        
-        <guid>https://dartmoorwalking.org/tags/ruins/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>Stone Row</title>
         <link>https://dartmoorwalking.org/tags/stone-row/</link>
         <pubDate>Wed, 25 Dec 2024 19:39:23 +0000</pubDate>
@@ -269,14 +301,6 @@
         <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
         
         <guid>https://dartmoorwalking.org/tags/adit/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Bridge</title>
-        <link>https://dartmoorwalking.org/tags/bridge/</link>
-        <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://dartmoorwalking.org/tags/bridge/</guid>
         <description></description>
         </item>
         <item>

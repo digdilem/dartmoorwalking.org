@@ -8,7 +8,7 @@ grade: Gentle
 w3w: disengage.pats.waltz
 gpx: haytor-down
 
-image: map.jpg
+image: 25.jpg
 tags: 
   - circular 
   - 3 mile walk  
