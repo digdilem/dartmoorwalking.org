@@ -10,7 +10,8 @@ my $debug = 1;
 
 my $root_dir = '/var/www/html/walks/';  # Where to start running from
 my $map_template = 'scripts/map_template.html';  # where, below above, the template is. 
-my $map_output = 'public/map.html';  # Where to output final
+#my $map_output = 'public/map.html';  # Where to output final
+my $map_output = 'static/map.html';  # Where to output final
 my $posts_dir = 'content/post/';   # Where the posts content is. This script will try each dir for a ./index.md
 my $url_prefix = 'https://dartmoorwalking.com/p/';  # What to prepend to the normalised title to get a url
 

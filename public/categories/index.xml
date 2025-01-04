@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Simon Avery</copyright>
-        <lastBuildDate>Wed, 01 Jan 2025 10:30:07 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 03 Jan 2025 20:21:29 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>South Dartmoor</title>
+        <link>https://dartmoorwalking.org/categories/south-dartmoor/</link>
+        <pubDate>Fri, 03 Jan 2025 20:21:29 +0000</pubDate>
+        
+        <guid>https://dartmoorwalking.org/categories/south-dartmoor/</guid>
+        <description>&lt;img src="https://dartmoorwalking.org/categories/south-dartmoor/southdartmoor.jpg" alt="Featured image of post South Dartmoor" /&gt;</description>
+        </item>
+        <item>
         <title>Mid Dartmoor</title>
         <link>https://dartmoorwalking.org/categories/mid-dartmoor/</link>
         <pubDate>Wed, 01 Jan 2025 10:30:07 +0000</pubDate>
@@ -38,14 +46,6 @@
         
         <guid>https://dartmoorwalking.org/categories/west-dartmoor/</guid>
         <description>&lt;img src="https://dartmoorwalking.org/categories/west-dartmoor/westdartmoor.jpg" alt="Featured image of post West Dartmoor" /&gt;</description>
-        </item>
-        <item>
-        <title>South Dartmoor</title>
-        <link>https://dartmoorwalking.org/categories/south-dartmoor/</link>
-        <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://dartmoorwalking.org/categories/south-dartmoor/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/categories/south-dartmoor/southdartmoor.jpg" alt="Featured image of post South Dartmoor" /&gt;</description>
         </item>
         
     </channel>
