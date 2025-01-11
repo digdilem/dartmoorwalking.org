@@ -1,12 +1,11 @@
 ---
-title: Walking on Dartmoor 
+title: Helpful Tips
 description: 
 date: '2024-11-25'
 aliases:
-  - how
-  - walking
   - guide
   - help
+  - walking on dartmoor
 lastmod: '2024-11-25'
 comments: false
 tags:
@@ -18,8 +17,6 @@ menu:
             icon: trekking
 hidetags: true
 ---
-
-> Ee puts wun fut in frunt of t'other, an on ee goes
 
 ## A few brief notes about walking on Dartmoor
 
@@ -59,4 +56,5 @@ If communication isn't available, then try to find a river and follow it downhil
 ## Have fun!
 Walking in nature is fantastic for both your physical and mental health. No two walks are ever the same and on a place like Dartmoor where there is such a rich depth of natural and industrial history, there is so much to see and learn about.
 
+> Ee puts wun fut in frunt of t'other, an on ee goes <cite>-- How to walk on Dartmoor </cite>
 
