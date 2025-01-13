@@ -86,8 +86,9 @@ params:
             enabled: false
             default: Simon Avery 
 
+    # Disabled 20250111 - not used so far. Maybe premature, but feedback link may be easier
     comments:
-        enabled: true
+        enabled: false
         provider: utterences
 
         utterances:
