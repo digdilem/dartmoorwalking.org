@@ -61,7 +61,7 @@ People give a huge amount of their time and knowledge to create websites for the
 ## Copyright and Media Enquiries
 Before his death, Keith transferred all Copyrights and ownership to text and images used on these Websites to Simon Avery. It is on that assertion that this website has been created from Keith's original content. 
 
-Any enquiries, or requests to re-use words or images used on this or the following sites should be made to [Simon Avery](mailto:feedback@dartmoorwalking.com)
+Any enquiries, or requests to re-use words or images used on this or the following sites should be made to [Simon Avery](mailto:feedback@dartmoorwalking.org)
 
 * Ordnance Survey Maps are Crown Copyright Ordnance Survey, reproduced under Licence number 100047373
 * [OpenStreetMap](https://www.openstreetmap.org/) and [Leaflet](https://leafletjs.com) Copyrights
