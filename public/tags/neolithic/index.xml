@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Neolithic on Dartmoor Walking</title>
-        <link>https://dartmoorwalking.org/tags/neolithic/</link>
+        <link>http://10.1.0.1:1313/tags/neolithic/</link>
         <description>Recent content in Neolithic on Dartmoor Walking</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Simon Avery</copyright>
-        <lastBuildDate>Fri, 03 Jan 2025 20:21:29 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/neolithic/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 03 Jan 2025 20:21:29 +0000</lastBuildDate><atom:link href="http://10.1.0.1:1313/tags/neolithic/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Cadover Bridge to the Dewerstone</title>
-        <link>https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/</link>
+        <link>http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/</link>
         <pubDate>Fri, 03 Jan 2025 20:21:29 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/2.jpg" alt="Featured image of post Cadover Bridge to the Dewerstone" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+        <guid>http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/</guid>
+        <description>&lt;img src="http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/2.jpg" alt="Featured image of post Cadover Bridge to the Dewerstone" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;4 miles&lt;/b&gt;, walked by Keith Ryan and transcribed by Simon Avery&lt;/li&gt;
 &lt;li&gt; Grade: &lt;b&gt;Medium&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;https://dartmoorwalking.org/gpx/cadover-bridge-to-the-dewerstone.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://10.1.0.1:1313/gpx/cadover-bridge-to-the-dewerstone.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
 &lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.46246%2c-4.03803&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
     &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
     &lt;path d=&#34;M12 21v-4&#34; /&gt;
@@ -30,10 +30,10 @@
 &lt;li&gt; &lt;a href=&#34;https://w3w.co/downfield.dribble.heap&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;downfield.dribble.heap&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/map.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/map.jpg&#34;
 	width=&#34;962&#34;
 	height=&#34;720&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/map_hu1799688100225884443.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/map_hu6137628617507490227.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/map_hu1799688100225884443.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/map_hu6137628617507490227.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
@@ -48,10 +48,10 @@
 &lt;/h2&gt;&lt;p&gt;Cadover Bridge is a popular riverside spot and within easy distance of Plymouth so attracts a lot of visitors on nice days. Many won&amp;rsquo;t be aware of the rich history surrounding the area, and the peace and quiet that can be had just a few minutes walking away from the road. Our walk takes you over Wigford Down to The Dewerstone with its commanding views. We visit a Bronze Age Walled Enclosure, hut circles, cairns, a neolithic wall, rock inscriptions and many other items of interest.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;From the car park, head towards the bridge and cross over, turning left when you can towards Cadover Cross&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;cadover-bridge&#34;&gt;Cadover Bridge
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/1.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/1.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/1_hu9922587203800944750.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/1_hu12662540964314026509.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/1_hu9922587203800944750.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/1_hu12662540964314026509.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Cadover Bridge&#34;
@@ -72,10 +72,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://sheepwashchronicle.org/wp/articles/other-local/devon-place-names/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Sheepwash Chronicle - Devon Place Names&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/2.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/2.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/2_hu12252494555806523257.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/2_hu15582822991070766958.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/2_hu12252494555806523257.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/2_hu15582822991070766958.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;How many little hands have made and remade dams here over the centuries?&#34;
@@ -86,10 +86,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/3.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/3.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/3_hu4491914699035558117.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/3_hu16920367183384621013.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/3_hu4491914699035558117.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/3_hu16920367183384621013.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View downstream from Cadover Bridge&#34;
@@ -100,10 +100,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/4.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/4.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/4_hu16679503913057335334.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/4_hu1793255891237993190.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/4_hu16679503913057335334.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/4_hu1793255891237993190.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Small ford over a shallow stream as we head towards the cross&#34;
@@ -115,10 +115,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;cadover-cross&#34;&gt;Cadover Cross
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/5.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/5.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/5_hu11808569313299258136.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/5_hu8921655039306290184.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/5_hu11808569313299258136.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/5_hu8921655039306290184.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Cadover Cross&#34;
@@ -137,10 +137,10 @@
 &lt;p&gt;This tall cross is a waymarker on the Monastic Way between Priory and Tavistock Abbey.&lt;/p&gt;
 &lt;p&gt;The medieval track ran from Plympton to Stony Cross aka Shaden Moor Cross, which is near the summit of Shaugh Moor on the Plympton-Cadover road, following the line of the modern road to near Cadover Bridge.&lt;/p&gt;
 &lt;p&gt;Close to the modern bridge was a ford, Cad-a-ford, (ford over the Cad) perhaps fifty-metres upstream. From here the track would go straight uphill from the ford to Marchant&amp;rsquo;s Cross, for Meavy. A sidebranch turned left for Wigford Down, up past Cadaford Cross as an alternative route over the Down.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/6.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/6.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/6_hu1371558028646393615.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/6_hu14927351939509828751.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/6_hu1371558028646393615.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/6_hu14927351939509828751.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;There is a second, faint inscribed cross centered between the arms of the main cross&#34;
@@ -163,10 +163,10 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;Leaving the cross, follow the hedge NorthWest and around to the West for about a kilometer&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;wigford-down-cairn-cist&#34;&gt;Wigford Down Cairn Cist
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/7.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/7.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/7_hu12504238108006378466.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/7_hu15075294237478165537.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/7_hu12504238108006378466.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/7_hu15075294237478165537.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Wigford Down cairn cist at SX 54420 64424&#34;
@@ -178,10 +178,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;This was a Bronze Age Burial Cist. Later farmers, still from the Bronze Age, built a field division across the eastern half of it. A rare thing, as they are known to have respected the Old Men&amp;rsquo;s artifacts and normally avoiding disturbing them.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/8.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/8.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/8_hu12824367231061217973.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/8_hu8574261689012064526.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/8_hu12824367231061217973.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/8_hu8574261689012064526.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Second View&#34;
@@ -192,10 +192,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/9.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/9.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/9_hu12057535864235175008.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/9_hu9655621633588854130.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/9_hu12057535864235175008.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/9_hu9655621633588854130.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View of the Capstone and Stone box of the grave cist itself&#34;
@@ -206,10 +206,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/10.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/10.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/10_hu17298528217622391206.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/10_hu5057118757804935819.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/10_hu17298528217622391206.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/10_hu5057118757804935819.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking down into the cist itself&#34;
@@ -220,10 +220,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/11.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/11.jpg&#34;
 	width=&#34;568&#34;
 	height=&#34;786&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/11_hu17049249286147986592.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/11_hu1387590731794782416.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/11_hu17049249286147986592.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/11_hu1387590731794782416.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image Copyright J Butler 1994. Reproduced by kind permission (ref. 29 Sept. 2012)&#34;
@@ -235,10 +235,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;cadworthy-tor&#34;&gt;Cadworthy Tor
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/12.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/12.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/12_hu18038818003198184770.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/12_hu4248067889465141405.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/12_hu18038818003198184770.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/12_hu4248067889465141405.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Cadworthy Tor, SX 54182 64160, elevation 238 metres (780 feet)&#34;
@@ -253,10 +253,10 @@
     &gt;1840 Meavy Parish Tithe Map&lt;/a&gt; - Oxen Tor.&lt;/p&gt;
 &lt;h2 id=&#34;dewerstone-hill-fort&#34;&gt;Dewerstone Hill Fort
 &lt;/h2&gt;&lt;p&gt;This promontory is the site of a Neolithic Hill Fort, dating back around five thousand years. It&amp;rsquo;s easy to see that a well stocked force here would be difficult to attack, with a high defensive wall to the Northeast, and the steeply sloping gradient in all other directions.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/13.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/13.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/13_hu17324521064502316808.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/13_hu18381697983105799517.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/13_hu17324521064502316808.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/13_hu18381697983105799517.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View to The Dewerstone from Cadworthy Tor&#34;
@@ -267,10 +267,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/14.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/14.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/14_hu10002349519286605631.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/14_hu834998425847019830.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/14_hu10002349519286605631.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/14_hu834998425847019830.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Closer View&#34;
@@ -281,10 +281,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/15.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/15.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/15_hu886506472680401770.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/15_hu15316467695112379169.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/15_hu886506472680401770.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/15_hu15316467695112379169.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Ruins of a double-walled structure across the end of the Dewerstone promontory&#34;
@@ -295,10 +295,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/17.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/17.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/17_hu7056130456710118593.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/17_hu14710351326976061919.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/17_hu7056130456710118593.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/17_hu14710351326976061919.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking along the structure&#34;
@@ -310,10 +310,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;This low mount of rubble is a Neolithic (Circa 2,500 BCE) defensive structure which would have been much more imposing almost five thousand years ago and a formidable obstruction to any attackers.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/16.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/16.jpg&#34;
 	width=&#34;1090&#34;
 	height=&#34;1112&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/16_hu816692800970896254.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/16_hu15747197848452518131.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/16_hu816692800970896254.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/16_hu15747197848452518131.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image Copyright J Butler 1994. Reproduced by kind permission (ref. 29 Sept. 2012)&#34;
@@ -338,10 +338,10 @@
 &lt;blockquote&gt;
 &lt;p&gt;The Devil, riding a gigantic black horse, gallops across the Moor each night and leads a phantom pack of black hounds to chase weary or foolish humans over the Dewerstone to their deaths. &lt;cite&gt;&amp;ndash; Dartmoor legend&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/18.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/18.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/18_hu10663676625716330293.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/18_hu17520558571174292665.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/18_hu10663676625716330293.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/18_hu17520558571174292665.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Approaching The Dewerstone. Elevation 219 metres (708 feet)  SX 53775 63903&#34;
@@ -353,10 +353,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;The higher flat rocks are incised, see below.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/19.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/19.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/19_hu1005829862755666158.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/19_hu12610115648288071043.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/19_hu1005829862755666158.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/19_hu12610115648288071043.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Before reaching the hilltop rocks, there are other rocks on the left that bear a small plaque that can be seen above&#34;
@@ -367,10 +367,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/20.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/20.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/20_hu2751266449466508101.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/20_hu8195620179005340127.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/20_hu2751266449466508101.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/20_hu8195620179005340127.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Falling Leaves Return to Their Roots. SX 53792 63898&#34;
@@ -382,10 +382,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;The phrase is from a Chinese Proverb. It is unknown who put this here or why.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/21.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/21.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;674&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/21_hu1822182357485159087.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/21_hu8370699313115533054.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/21_hu1822182357485159087.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/21_hu8370699313115533054.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;There are more inscriptions on the flat rocks up on the left&#34;
@@ -396,10 +396,10 @@
 		data-flex-basis=&#34;427px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/22.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/22.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/22_hu2074656096664022179.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/22_hu2035535231486354690.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/22_hu2074656096664022179.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/22_hu2035535231486354690.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;CARRINGTON - OBIT - SEPTEMBRIS MDCCCXXX (1830) In memory of Noel Carrington, a Dartmoor poet&#34;
@@ -410,10 +410,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/23.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/23.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/23_hu6722415187040919349.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/23_hu16265528423827857434.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/23_hu6722415187040919349.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/23_hu16265528423827857434.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;W FORD  F WIDGER  F DODRIDGE&#34;
@@ -424,10 +424,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/24.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/24.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/24_hu5593754440248805390.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/24_hu10448030426859341988.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/24_hu5593754440248805390.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/24_hu10448030426859341988.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;F WIDGER&#34;
@@ -438,10 +438,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/25.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/25.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/25_hu13713947872009815761.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/25_hu13010737776196776250.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/25_hu13713947872009815761.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/25_hu13010737776196776250.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;W FORD.  There are at least two other inscriptions nearby but they are very faint&#34;
@@ -452,10 +452,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/26.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/26.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/26_hu8502475343710251213.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/26_hu372662825025231755.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/26_hu8502475343710251213.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/26_hu372662825025231755.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View from the Hilltop showing Bickleigh Viaduct with the redundant piers of the original Brunel Bridge&#34;
@@ -471,10 +471,10 @@
     &gt;Wikipedia - Dewerstone&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;When ready to leave, head back out over the double walled structure to the Northeast as per the map&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/27.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/27.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/27_hu13534165659738437500.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/27_hu920826341120718875.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/27_hu13534165659738437500.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/27_hu920826341120718875.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The main gap of the double-walled structure, possibly the main gated entrance&#34;
@@ -485,10 +485,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/28.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/28.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/28_hu2316137462469785256.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/28_hu3305402045657074367.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/28_hu2316137462469785256.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/28_hu3305402045657074367.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Cadworthy Tor in the distance&#34;
@@ -500,10 +500,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;the-l-stone&#34;&gt;The L Stone
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/29.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/29.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/29_hu189692392438466800.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/29_hu8278052918159338755.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/29_hu189692392438466800.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/29_hu8278052918159338755.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;L stone at SX 54415 64550 (140 metres north of the cist)&#34;
@@ -542,10 +542,10 @@
     &gt;Dartmoor Explanations - Wigford Down Standing Stones&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/30.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/30.jpg&#34;
 	width=&#34;3264&#34;
 	height=&#34;1836&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/30_hu13088309019055074016.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/30_hu15643745566605073529.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/30_hu13088309019055074016.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/30_hu15643745566605073529.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Showing the inscribed L&#34;
@@ -557,10 +557,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;When ready, walk uphill across open moorland to the Wigford Down Summit, North-Northeast of the L Stone&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/31.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/31.jpg&#34;
 	width=&#34;1196&#34;
 	height=&#34;856&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/31_hu10223178394506432606.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/31_hu5903974444369573950.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/31_hu10223178394506432606.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/31_hu5903974444369573950.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image Copyright J Butler 1994. Reproduced by kind permission (ref. 29 Sept. 2012)&#34;
@@ -573,10 +573,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;The above image might help make sense of the various features that you encounter as you cross the down towards the Summit Cairns.&lt;/p&gt;
 &lt;h2 id=&#34;summit-cairns&#34;&gt;Summit Cairns
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/32.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/32.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;674&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/32_hu4578490262123010896.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/32_hu17300638975134520306.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/32_hu4578490262123010896.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/32_hu17300638975134520306.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Two Summit Cairns. SX 54652 65080&#34;
@@ -588,10 +588,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;These two cairns would have been much more imposing once, but they have been robbed for road building over the centuries. The near one was almost completely removed, leaving a depression caused by the weight of the stones above it. This formed a dew pond which has deepened as livestock erodes it in the search for water.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/33.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/33.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/33_hu17272492526397041274.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/33_hu1078733377378380508.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/33_hu17272492526397041274.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/33_hu1078733377378380508.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The larger Summit Cairn&#34;
@@ -604,10 +604,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;There are remains of five summit cairns in this vicinity, all of which have been damaged in various ways.&lt;/p&gt;
 &lt;p&gt;This one was once an Observation Post during World War 2, and remains of the concrete which topped it may still be seen.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/34.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/34.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/34_hu10829777486807024184.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/34_hu9964133898436610407.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/34_hu10829777486807024184.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/34_hu9964133898436610407.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Another view of the larger cairn&#34;
@@ -624,10 +624,10 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;When ready, walk a short distance Northeast to the corner of the stockfencing&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ba-stones&#34;&gt;BA Stones
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/35.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/35.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/35_hu10217022710886888945.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/35_hu1665236198416262216.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/35_hu10217022710886888945.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/35_hu1665236198416262216.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The first BA stone.  SX 54780 65155&#34;
@@ -638,10 +638,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/36.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/36.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/36_hu17186401985828818844.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/36_hu17585766691433198624.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/36_hu17186401985828818844.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/36_hu17585766691433198624.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Closer view&#34;
@@ -654,10 +654,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;So what does BA mean? Unlike many marked stones on Dartmoor, that&amp;rsquo;s not clear.&lt;/p&gt;
 &lt;p&gt;Possibilities are &amp;ldquo;Buckland Abbey&amp;rdquo; or &amp;ldquo;Brisworthy Arrishes&amp;rdquo; (Arrishes means Fields) - or something else entirely.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/37.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/37.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/37_hu3135078290394206315.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/37_hu15043396467210445389.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/37_hu3135078290394206315.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/37_hu15043396467210445389.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The second BA stone a few meters Northwest of the first. SX 54715 65233&#34;
@@ -670,10 +670,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;When ready, head back to the Summit Cairns and then a ways south&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;kerbed-ring-cairn&#34;&gt;Kerbed Ring Cairn
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/38.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/38.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/38_hu3717531081372664620.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/38_hu14396106023110018817.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/38_hu3717531081372664620.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/38_hu14396106023110018817.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Kerbed Ring Cairn. SX 54700 64955&#34;
@@ -686,10 +686,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;Called a Kerbed Ring Cairn because the inner circle has a &amp;lsquo;kerb&amp;rsquo; of 6.3m diameter to mark its position.&lt;/p&gt;
 &lt;p&gt;Although the Ordnance Survey maps have marked this as a kistvaen, there is no evidence of a kist or grave here.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/39.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/39.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;674&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/39_hu12929890405989475761.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/39_hu17637122035228112449.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/39_hu12929890405989475761.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/39_hu17637122035228112449.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Another view, showing the remains of the kerb circle&#34;
@@ -700,10 +700,10 @@
 		data-flex-basis=&#34;427px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/40.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/40.jpg&#34;
 	width=&#34;1222&#34;
 	height=&#34;1048&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/40_hu17507866824564330338.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/40_hu17997934684322347921.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/40_hu17507866824564330338.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/40_hu17997934684322347921.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image Copyright J Butler 1994. Reproduced by kind permission (ref. 29 Sept. 2012)&#34;
@@ -719,10 +719,10 @@
     &gt;Heritage Gateway MDV2367 - Kerbed Ring Cairn on Wigford Down&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;When ready, continue eastwards towards the lakes&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/41.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/41.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/41_hu10523750490016331002.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/41_hu14203345401597436315.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/41_hu10523750490016331002.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/41_hu14203345401597436315.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Fishing lake&#34;
@@ -745,10 +745,10 @@
     &gt;Heritage Gateway MDV49050 - Water Wheel, Wigford Down&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;Return down the road and over the bridge to complete this walk&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/42.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/42.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/42_hu8375351372683929945.jpg 480w, https://dartmoorwalking.org/p/cadover-bridge-to-the-dewerstone/42_hu2010104904969896698.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/42_hu8375351372683929945.jpg 480w, http://10.1.0.1:1313/p/cadover-bridge-to-the-dewerstone/42_hu2010104904969896698.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Cadover Bridge&#34;

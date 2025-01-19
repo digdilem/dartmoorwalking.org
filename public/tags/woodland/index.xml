@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Woodland on Dartmoor Walking</title>
-        <link>https://dartmoorwalking.org/tags/woodland/</link>
+        <link>http://10.1.0.1:1313/tags/woodland/</link>
         <description>Recent content in Woodland on Dartmoor Walking</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Simon Avery</copyright>
-        <lastBuildDate>Sun, 12 Jan 2025 16:27:24 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/woodland/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 12 Jan 2025 16:27:24 +0000</lastBuildDate><atom:link href="http://10.1.0.1:1313/tags/woodland/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Pullabrook Woods</title>
-        <link>https://dartmoorwalking.org/p/pullabrook-woods/</link>
+        <link>http://10.1.0.1:1313/p/pullabrook-woods/</link>
         <pubDate>Sun, 12 Jan 2025 16:27:24 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/p/pullabrook-woods/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/30.jpg" alt="Featured image of post Pullabrook Woods" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+        <guid>http://10.1.0.1:1313/p/pullabrook-woods/</guid>
+        <description>&lt;img src="http://10.1.0.1:1313/p/pullabrook-woods/30.jpg" alt="Featured image of post Pullabrook Woods" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;2 miles&lt;/b&gt;, walked by Keith Ryan and transcribed by Simon Avery&lt;/li&gt;
 &lt;li&gt; Grade: &lt;b&gt;Gentle&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;https://dartmoorwalking.org/gpx/pullabrook-woods.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://10.1.0.1:1313/gpx/pullabrook-woods.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
 &lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.60796%2c-3.71258&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
     &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
     &lt;path d=&#34;M12 21v-4&#34; /&gt;
@@ -30,10 +30,10 @@
 &lt;li&gt; &lt;a href=&#34;https://w3w.co/cosmetic.outlawing.limes&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;cosmetic.outlawing.limes&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/map.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/map.jpg&#34;
 	width=&#34;1319&#34;
 	height=&#34;742&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/map_hu13069972536287042455.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/map_hu17321935225195471891.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/map_hu13069972536287042455.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/map_hu17321935225195471891.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
@@ -48,10 +48,10 @@
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;Owned and managed by the &lt;a class=&#34;link&#34; href=&#34;https://www.woodlandtrust.org.uk/visiting-woods/woods/bovey-valley-woods/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Woodland Trust&lt;/a&gt;, Pullabrook Woods is a lovely little area popular with dog walkers. There are woodland paths up the west side of the River Bovey, crossing it at a notable stone bridge, and back down the Eastern side, re-crossing close to the car park. It&amp;rsquo;s particularly lovely on a hot summer&amp;rsquo;s day as most is well shaded. The area is known for its wildlife, especially wild birds - with the rare Dartford Warbler, the Kingfisher and Pied Flycatcher seen here. There are also dormice, otter and bats with the river home to Salmon and Brown and Sea Trout.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/1.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/1.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/1_hu3085841320084590786.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/1_hu13836702027526549228.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/1_hu3085841320084590786.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/1_hu13836702027526549228.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The turn off to the parking (left) and Drakeford Bridge (right)&#34;
@@ -62,10 +62,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/2.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/2.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/2_hu18139546921952260450.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/2_hu12224794368114165349.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/2_hu18139546921952260450.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/2_hu12224794368114165349.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Pullabrook Car Parking&#34;
@@ -84,10 +84,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://boveytraceyhistory.org.uk/places/pullabrook/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Bovey Tracey History - Pullabrook&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/3.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/3.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/3_hu15746178852001772888.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/3_hu17772692453987711559.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/3_hu15746178852001772888.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/3_hu17772692453987711559.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Head West through the gateway&#34;
@@ -99,10 +99,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Follow the Bridleway West at the far end of the car park&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/4.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/4.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/4_hu16297951861688532007.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/4_hu3451658061272789019.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/4_hu16297951861688532007.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/4_hu3451658061272789019.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Ivy and Ash&#34;
@@ -113,10 +113,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/5.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/5.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/5_hu11819234683623481554.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/5_hu7344757839367380623.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/5_hu11819234683623481554.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/5_hu7344757839367380623.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking back along the track, with a flood plain of the River Bovey to the left&#34;
@@ -127,10 +127,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/6.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/6.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/6_hu796151641660819055.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/6_hu12360337438277745421.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/6_hu796151641660819055.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/6_hu12360337438277745421.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking ahead. Beech, Sycamore, Maple, Hazel, Oak, Sweet Chestnut, Holly and Rowan&#34;
@@ -142,10 +142,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;old-manaton-road&#34;&gt;Old Manaton Road
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/7.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/7.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/7_hu17680727238693412184.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/7_hu12445454801477231144.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/7_hu17680727238693412184.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/7_hu12445454801477231144.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The track emerges here and we turn right to the North West. SX 78322 79547&#34;
@@ -165,10 +165,10 @@
     &gt;Heritage Gateway MDV124566 - Old Manaton Road&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;lustleigh-parish-boundary-stone&#34;&gt;Lustleigh Parish Boundary Stone
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/8.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/8.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/8_hu10409165832335268294.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/8_hu7902471576418401135.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/8_hu10409165832335268294.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/8_hu7902471576418401135.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Near to the junction, the LP MM Stone&#34;
@@ -181,10 +181,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;This stone was erected in 2000, hence the Roman numerals, MM.&lt;/p&gt;
 &lt;p&gt;LP stands for Lustleigh Parish which extends to the North.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/9.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/9.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/9_hu12099912512944642626.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/9_hu7513964593647056742.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/9_hu12099912512944642626.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/9_hu7513964593647056742.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Old Manaton Road&#34;
@@ -196,10 +196,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;the-pudding-stone&#34;&gt;The Pudding Stone
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/10.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/10.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/10_hu4926675014969206385.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/10_hu17222684938858867908.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/10_hu4926675014969206385.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/10_hu17222684938858867908.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Pudding stone. SX 77950 79976&#34;
@@ -210,10 +210,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/11.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/11.jpg&#34;
 	width=&#34;4160&#34;
 	height=&#34;3120&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/11_hu16040178369564961877.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/11_hu1996960501189996492.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/11_hu16040178369564961877.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/11_hu1996960501189996492.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Thomas, for scale&#34;
@@ -224,10 +224,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/12.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/12.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/12_hu11336502735202098966.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/12_hu2058376535935001789.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/12_hu11336502735202098966.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/12_hu2058376535935001789.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Ordnance Survey Benchmark&#34;
@@ -246,10 +246,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Benchmark_%28surveying%29&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Wikipedia - Benchmark&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/13.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/13.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;891&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/13_hu5489633752222817376.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/13_hu11841529832265647414.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/13_hu5489633752222817376.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/13_hu11841529832265647414.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Double fingerpost&#34;
@@ -260,10 +260,10 @@
 		data-flex-basis=&#34;430px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/14.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/14.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/14_hu7739565453658364319.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/14_hu9227513154258436339.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/14_hu7739565453658364319.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/14_hu9227513154258436339.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Puddingstone Gate down to Hisley Bridge. 	SX 77961 79977&#34;
@@ -275,10 +275,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;hisley-fairy-bridge&#34;&gt;Hisley &amp;ldquo;Fairy&amp;rdquo; Bridge
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/17.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/17.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/17_hu12999897490774731290.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/17_hu14489634810141631922.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/17_hu12999897490774731290.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/17_hu14489634810141631922.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Hisley Bridge&#34;
@@ -291,10 +291,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;Hisley Bridge is a post-medieval bridge built some time between 1401 and 1750 to improve safe access over the river for pack horses when the river is in spate, making the ford difficult.&lt;/p&gt;
 &lt;p&gt;The pillar in the middle of the bridge is a modern addition to prevent off road vehicles from using the bridge, which had already caused damage.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/18.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/18.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/18_hu5287010913817437398.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/18_hu8162933431456654074.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/18_hu5287010913817437398.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/18_hu8162933431456654074.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Slotted gatepost&#34;
@@ -306,10 +306,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Note the slotted gatepost to one side, presumably to control use by pack pony drivers or to prevent livestock from crossing.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/19.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/19.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/19_hu16772212930126476332.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/19_hu3871667147197709204.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/19_hu16772212930126476332.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/19_hu3871667147197709204.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Slotted gatepost re-used as a hanging gatepost&#34;
@@ -320,10 +320,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/20.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/20.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/20_hu16416803163576357448.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/20_hu17416657427231730586.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/20_hu16416803163576357448.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/20_hu17416657427231730586.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;You can see wear from cartheels, so it wasn&amp;rsquo;t only used for pack ponies&#34;
@@ -334,10 +334,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/21.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/21.jpg&#34;
 	width=&#34;4000&#34;
 	height=&#34;3000&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/21_hu15417732339822380376.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/21_hu14021332717724951331.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/21_hu15417732339822380376.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/21_hu14021332717724951331.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Underneath&#34;
@@ -348,10 +348,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/22.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/22.jpg&#34;
 	width=&#34;4000&#34;
 	height=&#34;3000&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/22_hu8695532796608265389.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/22_hu13873592668671769497.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/22_hu8695532796608265389.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/22_hu13873592668671769497.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Hisley Ford and Bridge&#34;
@@ -362,10 +362,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/15.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/15.jpg&#34;
 	width=&#34;4000&#34;
 	height=&#34;3000&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/15_hu7619609606497561644.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/15_hu14452967436941914379.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/15_hu7619609606497561644.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/15_hu14452967436941914379.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Hisley Ford&#34;
@@ -376,10 +376,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/16.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/16.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/16_hu18262119499971813537.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/16_hu9550522866605637311.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/16_hu18262119499971813537.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/16_hu9550522866605637311.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Pair of Granite gateposts near the bridge&#34;
@@ -408,10 +408,10 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;We cross the bridge and follow the lower path to the right, downstream&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;hisley-and-rudge-woods&#34;&gt;Hisley and Rudge Woods
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/23.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/23.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/23_hu2567316734088903863.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/23_hu9530020903404919071.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/23_hu2567316734088903863.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/23_hu9530020903404919071.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;You may see bat boxes on the trees&#34;
@@ -422,10 +422,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/24.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/24.jpg&#34;
 	width=&#34;4000&#34;
 	height=&#34;3000&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/24_hu12621312740556132029.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/24_hu13103215644904953645.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/24_hu12621312740556132029.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/24_hu13103215644904953645.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;And bird boxes&#34;
@@ -436,10 +436,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/25.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/25.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/25_hu10927989236061499516.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/25_hu16248463272948579760.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/25_hu10927989236061499516.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/25_hu16248463272948579760.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Gate along the path. SX 78045 79962&#34;
@@ -450,10 +450,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/26.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/26.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/26_hu16726038291446994504.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/26_hu6409637561781304759.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/26_hu16726038291446994504.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/26_hu6409637561781304759.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A large fallen tree forms a natural bridge over the river&#34;
@@ -464,10 +464,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/27.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/27.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/27_hu2761798805175086576.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/27_hu8317890467502328914.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/27_hu2761798805175086576.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/27_hu8317890467502328914.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Fine example of a Golden Shield Fern, Dryopteris affinis&#34;
@@ -478,10 +478,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/28.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/28.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/28_hu10088859428117591118.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/28_hu4872407759490951976.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/28_hu10088859428117591118.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/28_hu4872407759490951976.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Bluebells amongst young bracken&#34;
@@ -492,10 +492,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/29.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/29.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/29_hu1020086569247241656.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/29_hu16555750555090870964.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/29_hu1020086569247241656.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/29_hu16555750555090870964.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A glade in Rudge Woods&#34;
@@ -506,10 +506,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/30.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/30.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/30_hu12631262833850205876.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/30_hu17578163468437770036.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/30_hu12631262833850205876.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/30_hu17578163468437770036.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;River Bovey&#34;
@@ -521,10 +521,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;rudge-meadow&#34;&gt;Rudge Meadow
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/31.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/31.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/31_hu4124642480358507523.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/31_hu9122262815800634424.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/31_hu4124642480358507523.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/31_hu9122262815800634424.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Rudge Meadow&#34;
@@ -540,10 +540,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.devon.gov.uk/historicenvironment/tithe-map/lustleigh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Lustleigh Tithe Map, 1838&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/32.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/32.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/32_hu4398751744138544005.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/32_hu10865824541030255711.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/32_hu4398751744138544005.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/32_hu10865824541030255711.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The white-lichen covered granite pillar marking the exit of the meadow onto the road&#34;
@@ -555,10 +555,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Go through the gate and turn right down the road&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/33.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/33.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/33_hu5151840737192983751.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/33_hu11492921811466358530.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/33_hu5151840737192983751.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/33_hu11492921811466358530.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Old iron road sign&#34;
@@ -571,10 +571,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;At this junction, a short detour left is recommended to the viaduct&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;packsaddle-bridge-and-viaduct&#34;&gt;Packsaddle Bridge and Viaduct
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/34.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/34.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/34_hu17159960480707767927.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/34_hu17860259851818939494.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/34_hu17159960480707767927.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/34_hu17860259851818939494.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Packsaddle Bridge over the Wray Brook&#34;
@@ -585,10 +585,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/35.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/35.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/35_hu10480313726888177870.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/35_hu12427322107605495874.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/35_hu10480313726888177870.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/35_hu12427322107605495874.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Viaduct&#34;
@@ -602,10 +602,10 @@
 &lt;p&gt;The viaduct once carried the GWR Moretonhampstead Railway Branch Line. This opened in 1866 as an independent line, and amalgamated with the GWR ten years later. British Rail nationalised it in 1948 and it closed in 1964 - another victim of Dr Beeching&amp;rsquo;s cuts.&lt;/p&gt;
 &lt;p&gt;Part of this line remains from Newton Abbot to Heathfield, although it has not been used for several years. It was resurrected briefly in the 2000&amp;rsquo;s to take away timber from Teign Grace halt but has since been idle.&lt;/p&gt;
 &lt;p&gt;You can see more evidence of the railway in many places from Newton Abbot to Moretonhampstead - such as the railway sheds at Bovey Tracey, many viaducts such as this, and some engine sheds at the Thompson&amp;rsquo;s lorry yard where it terminated. Much of the route is now a shared-use path for walkers, cyclists and horseriders.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/36.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/36.jpg&#34;
 	width=&#34;448&#34;
 	height=&#34;448&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/36_hu14448079758516501157.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/36_hu14100171997503505501.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/36_hu14448079758516501157.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/36_hu14100171997503505501.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The railway passing the Railway Sheds at Bovey Tracey - now the main bypass. This is looking down towards the fire station&#34;
@@ -625,10 +625,10 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;When ready, turn around and head back towards the car park&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;drakeford-bridge&#34;&gt;Drakeford Bridge
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/37.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/37.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/37_hu8051033924701481425.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/37_hu6974847528021541087.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/37_hu8051033924701481425.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/37_hu6974847528021541087.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Drakeford Bridge over the River Bovey. SX 78935 80133&#34;
@@ -640,10 +640,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;William Crossing refers to this as New Bridge in the 1912 edition of Crossing&amp;rsquo;s Guide to Dartmoor, and it is also known as Letford Bridge. However, today, it is best known as Drakeford Bridge.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/38.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/38.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/38_hu4154454778388636683.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/38_hu18239863364802356679.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/38_hu4154454778388636683.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/38_hu18239863364802356679.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Incised stone in the parapet&#34;
@@ -683,15 +683,15 @@
         </item>
         <item>
         <title>Haytor Down</title>
-        <link>https://dartmoorwalking.org/p/haytor-down/</link>
+        <link>http://10.1.0.1:1313/p/haytor-down/</link>
         <pubDate>Sun, 29 Dec 2024 14:18:32 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/p/haytor-down/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/p/haytor-down/25.jpg" alt="Featured image of post Haytor Down" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+        <guid>http://10.1.0.1:1313/p/haytor-down/</guid>
+        <description>&lt;img src="http://10.1.0.1:1313/p/haytor-down/25.jpg" alt="Featured image of post Haytor Down" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;3 miles&lt;/b&gt;, walked by Simon Avery and transcribed by Simon Avery&lt;/li&gt;
 &lt;li&gt; Grade: &lt;b&gt;Gentle&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;https://dartmoorwalking.org/gpx/haytor-down.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://10.1.0.1:1313/gpx/haytor-down.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
 &lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.58693%2c-3.73816&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
     &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
     &lt;path d=&#34;M12 21v-4&#34; /&gt;
@@ -704,10 +704,10 @@
 &lt;li&gt; &lt;a href=&#34;https://w3w.co/disengage.pats.waltz&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;disengage.pats.waltz&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/map.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/map.jpg&#34;
 	width=&#34;766&#34;
 	height=&#34;548&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/map_hu14880540326304654503.jpg 480w, https://dartmoorwalking.org/p/haytor-down/map_hu4956556688806854942.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/map_hu14880540326304654503.jpg 480w, http://10.1.0.1:1313/p/haytor-down/map_hu4956556688806854942.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
@@ -728,10 +728,10 @@
     &gt;first cache page of the series&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;starting-the-walk&#34;&gt;Starting the walk
 &lt;/h2&gt;&lt;p&gt;Leave the car park and walk down the road to where the granite tramway crosses it, some 300 meters. Turn left and follow the tramway East.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/31.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/31.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/31_hu10922265016723803000.jpg 480w, https://dartmoorwalking.org/p/haytor-down/31_hu16814849834999868248.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/31_hu10922265016723803000.jpg 480w, http://10.1.0.1:1313/p/haytor-down/31_hu16814849834999868248.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Walking down the road towards Haytor Vale&#34;
@@ -743,10 +743,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;haytor-granite-tramway&#34;&gt;Haytor Granite Tramway
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/1.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/1.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/1_hu13937280281572383170.jpg 480w, https://dartmoorwalking.org/p/haytor-down/1_hu5838234365967905337.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/1_hu13937280281572383170.jpg 480w, http://10.1.0.1:1313/p/haytor-down/1_hu5838234365967905337.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Haytor Granite Tramway&#34;
@@ -768,7 +768,7 @@
 &lt;li&gt;A team of around 18 horses was then connected in single file to one end of the train. If it was loaded and heading downhill, the horses would be fixed to the last truck to provide braking. If they were pulling the trucks back up from Stover, they would be hitched to the front to better pull.&lt;/li&gt;
 &lt;li&gt;The tramway is intact for much of its original course, down through Yarner Woods, past Bovey and on to Stover.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-rocks-and-quarries/31_hu16004467077965472161.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-rocks-and-quarries/31_hu16004467077965472161.jpg&#34;
 	
 	
 	
@@ -779,10 +779,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;This Haytor Tramway wagon is kept at the DNPA Head Office at Parke, Bovey Tracey.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/3.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/3.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/3_hu11994945246316359422.jpg 480w, https://dartmoorwalking.org/p/haytor-down/3_hu17804431111023372441.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/3_hu11994945246316359422.jpg 480w, http://10.1.0.1:1313/p/haytor-down/3_hu17804431111023372441.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A well preserved section of the tramway&#34;
@@ -793,10 +793,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/6.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/6.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/6_hu3080093489962495478.jpg 480w, https://dartmoorwalking.org/p/haytor-down/6_hu1773824508947550559.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/6_hu3080093489962495478.jpg 480w, http://10.1.0.1:1313/p/haytor-down/6_hu1773824508947550559.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Not much of a view today&#34;
@@ -808,10 +808,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;On a clear day, the views along this section look over South Devon towards the gap in the land where the Teign Estuary reaches the sea at Teignmouth.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/4.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/4.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/4_hu16140930343952241582.jpg 480w, https://dartmoorwalking.org/p/haytor-down/4_hu13740176025586156168.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/4_hu16140930343952241582.jpg 480w, http://10.1.0.1:1313/p/haytor-down/4_hu13740176025586156168.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A discarded rail just above the track&#34;
@@ -822,10 +822,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/2.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/2.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/2_hu8240968448195869691.jpg 480w, https://dartmoorwalking.org/p/haytor-down/2_hu10984796328655105963.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/2_hu8240968448195869691.jpg 480w, http://10.1.0.1:1313/p/haytor-down/2_hu10984796328655105963.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Gorse can sometimes get a little over-friendly&#34;
@@ -836,10 +836,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/5.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/5.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/5_hu12617197085016707397.jpg 480w, https://dartmoorwalking.org/p/haytor-down/5_hu18364651443624531353.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/5_hu12617197085016707397.jpg 480w, http://10.1.0.1:1313/p/haytor-down/5_hu18364651443624531353.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Occasional glimpses of rails through the turf&#34;
@@ -850,10 +850,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/7.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/7.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/7_hu12838919672033791720.jpg 480w, https://dartmoorwalking.org/p/haytor-down/7_hu1431701278582006410.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/7_hu12838919672033791720.jpg 480w, http://10.1.0.1:1313/p/haytor-down/7_hu1431701278582006410.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking back at the tramway, showing how close it is to the road&#34;
@@ -864,10 +864,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/8.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/8.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/8_hu5034958355607168032.jpg 480w, https://dartmoorwalking.org/p/haytor-down/8_hu10382775454307525135.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/8_hu5034958355607168032.jpg 480w, http://10.1.0.1:1313/p/haytor-down/8_hu10382775454307525135.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The rails enduring winter mud&#34;
@@ -878,10 +878,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/9.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/9.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/9_hu13624753300634911819.jpg 480w, https://dartmoorwalking.org/p/haytor-down/9_hu13748926915916365600.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/9_hu13624753300634911819.jpg 480w, http://10.1.0.1:1313/p/haytor-down/9_hu13748926915916365600.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;To the left, The Burr Birch of Haytor - impressive burrs&#34;
@@ -892,10 +892,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/10.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/10.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/10_hu16378663119557196490.jpg 480w, https://dartmoorwalking.org/p/haytor-down/10_hu2826435097497866908.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/10_hu16378663119557196490.jpg 480w, http://10.1.0.1:1313/p/haytor-down/10_hu2826435097497866908.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The right you may spot this sudden ditch. This is actually the outfall of a small adit which runs back under the tramway and has been partially walled up&#34;
@@ -906,10 +906,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/12.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/12.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/12_hu15882310922500912687.jpg 480w, https://dartmoorwalking.org/p/haytor-down/12_hu1558968082845938361.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/12_hu15882310922500912687.jpg 480w, http://10.1.0.1:1313/p/haytor-down/12_hu1558968082845938361.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking back up the track&#34;
@@ -920,10 +920,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/11.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/11.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/11_hu5921679744107380305.jpg 480w, https://dartmoorwalking.org/p/haytor-down/11_hu5454013556962611540.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/11_hu5921679744107380305.jpg 480w, http://10.1.0.1:1313/p/haytor-down/11_hu5454013556962611540.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The crossroads - bear left here&#34;
@@ -936,10 +936,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;When we reach a cross roads with a wooden signpost, leave the Tramway (Templer Way) and turn left, slightly uphill&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;haytor-down-quarry&#34;&gt;Haytor Down Quarry
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/13.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/13.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/13_hu17402602572571235741.jpg 480w, https://dartmoorwalking.org/p/haytor-down/13_hu1477719296525728033.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/13_hu17402602572571235741.jpg 480w, http://10.1.0.1:1313/p/haytor-down/13_hu1477719296525728033.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Haytor Down Quarry&#34;
@@ -953,10 +953,10 @@
 &lt;p&gt;Much less known than its larger brothers closer to the Tor. There is some corrugated iron just to the right where a shed or small building once stood.&lt;/p&gt;
 &lt;h2 id=&#34;woodland-walk&#34;&gt;Woodland Walk
 &lt;/h2&gt;&lt;p&gt;&lt;em&gt;We walk gently upwards along this bridlepath for almost a mile, enjoying the many fine and unusual trees&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/14.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/14.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/14_hu5565660359373471229.jpg 480w, https://dartmoorwalking.org/p/haytor-down/14_hu16398151562843354088.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/14_hu5565660359373471229.jpg 480w, http://10.1.0.1:1313/p/haytor-down/14_hu16398151562843354088.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Following the path&#34;
@@ -967,10 +967,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/16.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/16.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/16_hu3173330149252276724.jpg 480w, https://dartmoorwalking.org/p/haytor-down/16_hu11034180147368002402.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/16_hu3173330149252276724.jpg 480w, http://10.1.0.1:1313/p/haytor-down/16_hu11034180147368002402.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Sign of modern telecoms&#34;
@@ -981,10 +981,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/15.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/15.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/15_hu10917490647575620489.jpg 480w, https://dartmoorwalking.org/p/haytor-down/15_hu12351633112252143770.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/15_hu10917490647575620489.jpg 480w, http://10.1.0.1:1313/p/haytor-down/15_hu12351633112252143770.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;One of many fine trees&#34;
@@ -995,10 +995,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/17.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/17.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/17_hu3255613025889864321.jpg 480w, https://dartmoorwalking.org/p/haytor-down/17_hu3582488233325725462.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/17_hu3255613025889864321.jpg 480w, http://10.1.0.1:1313/p/haytor-down/17_hu3582488233325725462.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The ditch is often dry in the summer, but not today&#34;
@@ -1009,10 +1009,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/18.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/18.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/18_hu8768498891053721134.jpg 480w, https://dartmoorwalking.org/p/haytor-down/18_hu8174168746176353896.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/18_hu8768498891053721134.jpg 480w, http://10.1.0.1:1313/p/haytor-down/18_hu8174168746176353896.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A very bumpy birch, now sadly a victim of wind&#34;
@@ -1024,10 +1024,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;the-haytor-down-adits&#34;&gt;The Haytor Down Adits
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/19.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/19.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/19_hu6181961599206802902.jpg 480w, https://dartmoorwalking.org/p/haytor-down/19_hu7360041596485428391.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/19_hu6181961599206802902.jpg 480w, http://10.1.0.1:1313/p/haytor-down/19_hu7360041596485428391.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The water tank&#34;
@@ -1040,10 +1040,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;The sound of running water will alert you to this large collector tank above the path - it always seems to be overflowing even in the driest summer, and runs across the path here.&lt;/p&gt;
 &lt;p&gt;The water is fed into this tank from a blue alkathene pipe, which continues up the hill over loose waste rock. If you follow it, it actually enters a gated Adit which is always dripping and provides a clearly sufficient flow.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/20.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/20.jpg&#34;
 	width=&#34;480&#34;
 	height=&#34;640&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/20_hu11315608502675092084.jpg 480w, https://dartmoorwalking.org/p/haytor-down/20_hu1160246262326610185.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/20_hu11315608502675092084.jpg 480w, http://10.1.0.1:1313/p/haytor-down/20_hu1160246262326610185.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;One of the two adits above the water tank - picture by &amp;ldquo;the-laing-gang&amp;rdquo;&#34;
@@ -1055,10 +1055,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;There are actually two adits here, about a hundred meters apart on the same level, both with small fences and gates, and usually padlocked.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/21.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/21.jpg&#34;
 	width=&#34;640&#34;
 	height=&#34;427&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/21_hu15279852817948999843.jpg 480w, https://dartmoorwalking.org/p/haytor-down/21_hu15899158170274312311.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/21_hu15279852817948999843.jpg 480w, http://10.1.0.1:1313/p/haytor-down/21_hu15899158170274312311.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Inside one of the adits - picture by &amp;ldquo;Westwardho!&amp;rdquo;&#34;
@@ -1070,10 +1070,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;These adits don&amp;rsquo;t go far in, and side trials are short. The waste rock outside has a red tinge which indicates iron, so it&amp;rsquo;s likely that&amp;rsquo;s what was being searched for.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/22.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/22.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/22_hu11934803620129562633.jpg 480w, https://dartmoorwalking.org/p/haytor-down/22_hu1907454955383593475.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/22_hu11934803620129562633.jpg 480w, http://10.1.0.1:1313/p/haytor-down/22_hu1907454955383593475.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A little further along is this track which runs back towards the adits, although there is a second and more level track further along&#34;
@@ -1085,10 +1085,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;The actual adit area is quite overgrown now, but worth a detour if you like adits and don&amp;rsquo;t mind a bit of a scramble through  undergrowth.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/24.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/24.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/24_hu11400834010993380299.jpg 480w, https://dartmoorwalking.org/p/haytor-down/24_hu18335662076717799553.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/24_hu11400834010993380299.jpg 480w, http://10.1.0.1:1313/p/haytor-down/24_hu18335662076717799553.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A cable box owned by British Telecom&#34;
@@ -1101,10 +1101,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;The sight of this cable box always seems at odd with the timeless, even primeval nature of these woods.&lt;/p&gt;
 &lt;h2 id=&#34;yarner-house&#34;&gt;Yarner House
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/26.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/26.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/26_hu4162775366588375806.jpg 480w, https://dartmoorwalking.org/p/haytor-down/26_hu11439495815031972661.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/26_hu4162775366588375806.jpg 480w, http://10.1.0.1:1313/p/haytor-down/26_hu11439495815031972661.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Rhodedendron borders the bridlepath - likely an escapee from the House Gardens&#34;
@@ -1132,10 +1132,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.countrylife.co.uk/property/a-magnificent-estate-in-devon-that-offers-the-chance-to-own-over-120-acres-of-dartmoor-national-nature-reserve-227916&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Countrylife article for Yarner House&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/23.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/23.jpg&#34;
 	width=&#34;3472&#34;
 	height=&#34;4624&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/23_hu12550950773679590461.jpg 480w, https://dartmoorwalking.org/p/haytor-down/23_hu12468127986774278436.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/23_hu12550950773679590461.jpg 480w, http://10.1.0.1:1313/p/haytor-down/23_hu12468127986774278436.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A small waterfall above the path&#34;
@@ -1146,10 +1146,10 @@
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/25.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/25.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/25_hu15883737339876807538.jpg 480w, https://dartmoorwalking.org/p/haytor-down/25_hu15332774458453184553.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/25_hu15883737339876807538.jpg 480w, http://10.1.0.1:1313/p/haytor-down/25_hu15332774458453184553.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A light mist brings atmosphere&#34;
@@ -1160,10 +1160,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/27.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/27.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/27_hu12888228215423373618.jpg 480w, https://dartmoorwalking.org/p/haytor-down/27_hu16952763808565956389.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/27_hu12888228215423373618.jpg 480w, http://10.1.0.1:1313/p/haytor-down/27_hu16952763808565956389.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A magnificent row of Beech trees tops the wall&#34;
@@ -1175,10 +1175,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;On clear days, the view over this hedge is most pleasing, taking in Bovey Tracey and the hills behind.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/28.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/28.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/28_hu15484983748919360534.jpg 480w, https://dartmoorwalking.org/p/haytor-down/28_hu2860138866628955487.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/28_hu15484983748919360534.jpg 480w, http://10.1.0.1:1313/p/haytor-down/28_hu2860138866628955487.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Another view of the Beeches&#34;
@@ -1190,10 +1190,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;As we approach the road, curve left and join it back up the hill to the parking&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/29.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/29.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/29_hu7949973730890192952.jpg 480w, https://dartmoorwalking.org/p/haytor-down/29_hu13688859735924486463.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/29_hu7949973730890192952.jpg 480w, http://10.1.0.1:1313/p/haytor-down/29_hu13688859735924486463.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A roadside holly&#34;
@@ -1204,10 +1204,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/haytor-down/30.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/haytor-down/30.jpg&#34;
 	width=&#34;4624&#34;
 	height=&#34;3472&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/haytor-down/30_hu4479745538051772608.jpg 480w, https://dartmoorwalking.org/p/haytor-down/30_hu6298459735909152885.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/haytor-down/30_hu4479745538051772608.jpg 480w, http://10.1.0.1:1313/p/haytor-down/30_hu6298459735909152885.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The road back to the parking&#34;
@@ -1225,15 +1225,15 @@
         </item>
         <item>
         <title>Fernworthy Assycombe Double Stone row</title>
-        <link>https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/</link>
+        <link>http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/</link>
         <pubDate>Wed, 25 Dec 2024 19:39:23 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/11.jpg" alt="Featured image of post Fernworthy Assycombe Double Stone row" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+        <guid>http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/</guid>
+        <description>&lt;img src="http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/11.jpg" alt="Featured image of post Fernworthy Assycombe Double Stone row" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;3 miles&lt;/b&gt;, walked by Keith Ryan and transcribed by Simon Avery&lt;/li&gt;
 &lt;li&gt; Grade: &lt;b&gt;Medium&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;https://dartmoorwalking.org/gpx/fernworthy-assycombe-double-stone-row.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://10.1.0.1:1313/gpx/fernworthy-assycombe-double-stone-row.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
 &lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.63734%2c-3.89543&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
     &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
     &lt;path d=&#34;M12 21v-4&#34; /&gt;
@@ -1246,10 +1246,10 @@
 &lt;li&gt; &lt;a href=&#34;https://w3w.co/reissued.lushly.handy&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;reissued.lushly.handy&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/map.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/map.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/map_hu12416557784782183734.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/map_hu12564155538398817541.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/map_hu12416557784782183734.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/map_hu12564155538398817541.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
@@ -1262,10 +1262,10 @@
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;An impressive, but little known double stone row - one of several on Dartmoor. A medium walk through quiet woodland with some climbs on mostly firm forestry tracks.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/25.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/25.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/25_hu11318079029758852571.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/25_hu4635631826992907071.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/25_hu11318079029758852571.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/25_hu4635631826992907071.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Parking by the Shed&#34;
@@ -1284,10 +1284,10 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;Start our walk by walking about 350m back along the road you entered by, and turning right into the Woodland through a gateway&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;lowton-brook-west-settlement&#34;&gt;Lowton Brook West Settlement
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/1.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/1.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/1_hu7753018876361887798.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/1_hu12266136039529624600.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/1_hu7753018876361887798.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/1_hu12266136039529624600.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Hut Circle. SX 66229 83428&#34;
@@ -1302,10 +1302,10 @@
 &lt;p&gt;There are eleven huts in this area, with this one being the furthest north, and the largest at 9.1 metres diameter.  They date from the Bronze age, approximately 3300 BC to 1200 BC. The climate of Dartmoor was much milder then and many small settlements remain from human occupation of the time.&lt;/p&gt;
 &lt;p&gt;Each Hut Circle is the site of what was probably a fairly typical Bronze Age Roundhouse, with walls of stone and a thatched roof. A central firepit will have provided cooking and heat.&lt;/p&gt;
 &lt;p&gt;Most of the stone has been robbed by successive moor men, who used it for other buildings or walling, leaving the heavier base stones.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/2.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/2.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/2_hu2438179225190261069.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/2_hu3935130476474775925.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/2_hu2438179225190261069.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/2_hu3935130476474775925.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Slotted Gatepost in the ground within the circle&#34;
@@ -1317,10 +1317,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;This gatepost was cut much later than the hut circles, likely in the medieval period or even later.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/3.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/3.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/3_hu3214888579831307255.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/3_hu18184905409580495901.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/3_hu3214888579831307255.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/3_hu18184905409580495901.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Monument Identifier&#34;
@@ -1331,10 +1331,10 @@
 		data-flex-basis=&#34;427px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/4.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/4.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/4_hu16500266618412464526.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/4_hu773757588942478817.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/4_hu16500266618412464526.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/4_hu773757588942478817.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Feature built into the hut wall. Possibly storage or a meat safe&#34;
@@ -1346,10 +1346,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Follow the track to the Southeast above Lowton brook, and take a sharp right up a steep hill&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/5.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/5.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/5_hu12192657216470111128.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/5_hu10694058320006461936.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/5_hu12192657216470111128.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/5_hu10694058320006461936.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking back down steep climb after turning right at SX 66458 82983&#34;
@@ -1360,10 +1360,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/6.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/6.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/6_hu14968009452227730951.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/6_hu9167453414183321262.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/6_hu14968009452227730951.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/6_hu9167453414183321262.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View ahead&#34;
@@ -1374,10 +1374,10 @@
 		data-flex-basis=&#34;427px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/7.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/7.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/7_hu18393852480324381724.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/7_hu10338960773284645091.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/7_hu18393852480324381724.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/7_hu10338960773284645091.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Halfway up the steep track. Another hut circle, one of three here&#34;
@@ -1388,10 +1388,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/8.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/8.jpg&#34;
 	width=&#34;1599&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/8_hu1201200117156032807.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/8_hu2564549624967852654.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/8_hu1201200117156032807.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/8_hu2564549624967852654.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Hut Circle identifiers&#34;
@@ -1402,10 +1402,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/9.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/9.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/9_hu11228158875028227313.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/9_hu642155878156488586.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/9_hu11228158875028227313.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/9_hu642155878156488586.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Another circle - also part of Lowton Brook West&#34;
@@ -1418,10 +1418,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Turn Left here and follow the track up the spine of the ridge, beating right after about 300 meters&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;assycombe-double-stone-row&#34;&gt;Assycombe Double Stone Row
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/15.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/15.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/15_hu11203496774444456203.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/15_hu11955458576705970647.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/15_hu11203496774444456203.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/15_hu11955458576705970647.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking up Assycombe Double Stone Row&#34;
@@ -1432,10 +1432,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/11.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/11.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;898&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/11_hu10064263270959564915.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/11_hu2200304248597465339.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/11_hu10064263270959564915.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/11_hu2200304248597465339.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Closer view of the Menhir&#34;
@@ -1454,10 +1454,10 @@
 &lt;li&gt;Includes 133 medium and large sized stones. Originally there were 11 more stones, including a second blocking stone.&lt;/li&gt;
 &lt;li&gt;J Butler notes that the row is very similar to the Hurston Ridge Double Stone Row, only 1km away.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/12.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/12.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/12_hu10051632882907899341.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/12_hu3263483684490776959.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/12_hu10051632882907899341.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/12_hu3263483684490776959.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The terminal blocking stone at the bottom of the row&#34;
@@ -1468,10 +1468,10 @@
 		data-flex-basis=&#34;427px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/14.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/14.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/14_hu12341852966712380907.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/14_hu3691513302154954841.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/14_hu12341852966712380907.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/14_hu3691513302154954841.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Closer view of the blocking stone&#34;
@@ -1482,10 +1482,10 @@
 		data-flex-basis=&#34;427px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/10.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/10.jpg&#34;
 	width=&#34;1599&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/10_hu4785515833172717890.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/10_hu15362497645405154076.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/10_hu4785515833172717890.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/10_hu15362497645405154076.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking down the Double Stone row showing a cairn behind the Menhir&#34;
@@ -1496,10 +1496,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/16.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/16.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/16_hu17348080162086727495.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/16_hu15683020770234761531.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/16_hu17348080162086727495.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/16_hu15683020770234761531.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;And in Winter&#34;
@@ -1510,10 +1510,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/13.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/13.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/13_hu9664591464775463888.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/13_hu9396919028713498210.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/13_hu9664591464775463888.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/13_hu9396919028713498210.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A hut circle close beside the row&#34;
@@ -1525,10 +1525,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;The hut circles probably came long after the stone row was erected, and it&amp;rsquo;s thought that the builders respected the row. Certainly, they did not steal its stones to build their huts, which would have been convenient.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/17.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/17.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;498&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/17_hu8969947721890574087.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/17_hu4477391694912333279.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/17_hu8969947721890574087.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/17_hu4477391694912333279.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image © J Butler 1991. Reproduced by kind permission (ref. 29 Sept. 2012)&#34;
@@ -1540,10 +1540,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;The stone row is described by J. Butler (1991), Dartmoor Atlas of Antiquities  Vol. 2 - Asacombe Hill stone rows.  This double row is similar to its neighbour on Hurston Ridge, a kilometre to the east. It is possible that a third row was planned but never installed, because the rows do not align well with the centre of the cairn.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/18.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/18.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/18_hu3684156503260003145.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/18_hu7190644088627929002.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/18_hu3684156503260003145.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/18_hu7190644088627929002.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Hut circle about 100 metres below the end of the stone row, at SX 65930 82458&#34;
@@ -1556,10 +1556,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Follow the track down to Assycombe Farm&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;assycombe-farm&#34;&gt;Assycombe Farm
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/19.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/19.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/19_hu7835464541055875718.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/19_hu10049220814385759909.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/19_hu7835464541055875718.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/19_hu10049220814385759909.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Assycombe Farm Area. SX 6590 8279&#34;
@@ -1577,10 +1577,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/gateway/Results_Single.aspx?uid=MDV6703&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Heritage Gateway MDV6703 - Assycombe Farmstead&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/20.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/20.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/20_hu8850530870960933278.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/20_hu16330033336536530278.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/20_hu8850530870960933278.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/20_hu16330033336536530278.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Assycombe Farm Ruins&#34;
@@ -1591,10 +1591,10 @@
 		data-flex-basis=&#34;427px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/21.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/21.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/21_hu14402032830479528114.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/21_hu5177988393272579316.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/21_hu14402032830479528114.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/21_hu5177988393272579316.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Another view&#34;
@@ -1605,10 +1605,10 @@
 		data-flex-basis=&#34;427px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/22.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/22.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/22_hu1842233645363964547.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/22_hu231119360002700863.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/22_hu1842233645363964547.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/22_hu231119360002700863.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking down on the site&#34;
@@ -1619,10 +1619,10 @@
 		data-flex-basis=&#34;427px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/23.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/23.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/23_hu10784638681715881077.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/23_hu404561179199033883.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/23_hu10784638681715881077.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/23_hu404561179199033883.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Hut Circle near to farm house. SX 65895 82846&#34;
@@ -1633,10 +1633,10 @@
 		data-flex-basis=&#34;427px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/26.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/26.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/26_hu9011623938095725879.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/26_hu2884356397289770509.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/26_hu9011623938095725879.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/26_hu2884356397289770509.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Winter sun warming frost on the trees&#34;
@@ -1647,10 +1647,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/24.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/24.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/24_hu12712571435766453426.jpg 480w, https://dartmoorwalking.org/p/fernworthy-assycombe-double-stone-row/24_hu1093154822206405576.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/24_hu12712571435766453426.jpg 480w, http://10.1.0.1:1313/p/fernworthy-assycombe-double-stone-row/24_hu1093154822206405576.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Returning to the car park&#34;
@@ -1675,15 +1675,15 @@
         </item>
         <item>
         <title>Venford Reservoir, Holne Moor</title>
-        <link>https://dartmoorwalking.org/p/venford-reservoir-holne-moor/</link>
+        <link>http://10.1.0.1:1313/p/venford-reservoir-holne-moor/</link>
         <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/p/venford-reservoir-holne-moor/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/p/venford-reservoir-holne-moor/9.jpg" alt="Featured image of post Venford Reservoir, Holne Moor" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+        <guid>http://10.1.0.1:1313/p/venford-reservoir-holne-moor/</guid>
+        <description>&lt;img src="http://10.1.0.1:1313/p/venford-reservoir-holne-moor/9.jpg" alt="Featured image of post Venford Reservoir, Holne Moor" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;3 miles&lt;/b&gt;, walked by Keith Ryan and transcribed by Simon Avery&lt;/li&gt;
 &lt;li&gt; Grade: &lt;b&gt;Medium&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;https://dartmoorwalking.org/gpx/venford-reservoir-holne-moor.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://10.1.0.1:1313/gpx/venford-reservoir-holne-moor.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
 &lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.526194%2c-3.856113&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
     &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
     &lt;path d=&#34;M12 21v-4&#34; /&gt;
@@ -1696,10 +1696,10 @@
 &lt;li&gt; &lt;a href=&#34;https://w3w.co/ferrets.sonic.inner&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;ferrets.sonic.inner&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/map.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/map.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;736&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/map_hu6266019966506667397.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/map_hu14886249348770502340.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/map_hu6266019966506667397.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/map_hu14886249348770502340.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
@@ -1712,10 +1712,10 @@
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;&lt;em&gt;Venford Reservoir has all-year parking. There are public toilets adjacent.  The approach was from the A38/Ashburton turn-off, passing the River Dart Country Park, crossing the Holne Bridge over the River Dart, through Holne and on to the Venford Reservoir, parking at the park over the dam. The roads to this car park are quite good with parking and toilets at the  P  symbol and yellow cross on the map.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/1.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/1.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/1_hu12845254236303000944.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/1_hu6789836317981937246.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/1_hu12845254236303000944.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/1_hu6789836317981937246.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Venford Reservoir under the skies of an threatening weather forecast - but it was clearing weather&#34;
@@ -1726,10 +1726,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/2.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/2.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/2_hu4942502309512521357.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/2_hu11174726466777542728.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/2_hu4942502309512521357.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/2_hu11174726466777542728.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;This sign did not lend itself to detailed photography, it seemed to be rotting in the case&#34;
@@ -1740,10 +1740,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/3.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/3.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/3_hu6488954616524034800.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/3_hu9705671938207293567.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/3_hu6488954616524034800.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/3_hu9705671938207293567.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The new spillway construction, built 2009&#34;
@@ -1754,10 +1754,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/4.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/4.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/4_hu6712359259106392468.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/4_hu10656793008021426398.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/4_hu6712359259106392468.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/4_hu10656793008021426398.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Original gate controls from 1907, halfway across the dam&#34;
@@ -1768,10 +1768,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/5.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/5.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/5_hu5107521431824624310.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/5_hu3031269865714476522.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/5_hu5107521431824624310.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/5_hu3031269865714476522.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking down into the valley of the Dart&#34;
@@ -1782,10 +1782,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/6.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/6.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/6_hu4239910290404815360.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/6_hu11873363555825896278.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/6_hu4239910290404815360.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/6_hu11873363555825896278.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Sharp Tor (right edge), SX 686 729, elevation 380 metres (1246 feet)&#34;
@@ -1796,10 +1796,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/7.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/7.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/7_hu13137236016854433177.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/7_hu7769548662214693339.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/7_hu13137236016854433177.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/7_hu7769548662214693339.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;An Usnea-type lichen&#34;
@@ -1810,10 +1810,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/8.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/8.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/8_hu4631832594264430171.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/8_hu10651487245475379778.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/8_hu4631832594264430171.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/8_hu10651487245475379778.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Quick - while the sun is shining!&#34;
@@ -1825,10 +1825,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;the-woodland-path&#34;&gt;The Woodland Path
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/9.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/9.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/9_hu17974180565212781046.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/9_hu12927858009282048601.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/9_hu17974180565212781046.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/9_hu12927858009282048601.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The path behind&#34;
@@ -1839,10 +1839,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/10.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/10.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/10_hu1499818646476943363.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/10_hu17703119193974587819.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/10_hu1499818646476943363.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/10_hu17703119193974587819.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The path ahead in White Wood, below Bench (aka Benjy) Tor&#34;
@@ -1853,10 +1853,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/11.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/11.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/11_hu12855662750009968545.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/11_hu18254792084693801229.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/11_hu12855662750009968545.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/11_hu18254792084693801229.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;One of five or more drainage channels across the path&#34;
@@ -1867,10 +1867,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/12.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/12.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/12_hu15055534702962412378.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/12_hu5379522051134462074.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/12_hu15055534702962412378.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/12_hu5379522051134462074.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Sign of unknown meaning, no doubt associated with a nearby water hydrant valve&#34;
@@ -1881,10 +1881,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/13.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/13.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/13_hu9063659801526027041.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/13_hu12045841020153063933.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/13_hu9063659801526027041.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/13_hu12045841020153063933.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;&amp;ldquo;Millstone&amp;rdquo; - Two granite slabs beside the path (SX 68876 72099), where we follow the small  path that climbs up on the left&#34;
@@ -1895,10 +1895,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/14.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/14.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/14_hu10828477848692203307.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/14_hu7668441719678720302.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/14_hu10828477848692203307.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/14_hu7668441719678720302.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Bracket fungus, photographed at fairly long range for my camera&#34;
@@ -1909,10 +1909,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/15.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/15.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/15_hu17534576968741614987.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/15_hu17795007759994696563.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/15_hu17534576968741614987.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/15_hu17795007759994696563.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;At the top of the path going up to Bench Tor, going out into the sunlight&#34;
@@ -1924,10 +1924,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;sharp-tor-view&#34;&gt;Sharp Tor View
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/16.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/16.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/16_hu11749733663233202904.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/16_hu15243501440205037382.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/16_hu11749733663233202904.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/16_hu15243501440205037382.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Sharp Tor (left) and Mel Tor (right), SX 693 726, elevation 346 metres (1135 feet)&#34;
@@ -1938,10 +1938,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/17.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/17.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/17_hu562043964381651282.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/17_hu13534582770662075857.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/17_hu562043964381651282.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/17_hu13534582770662075857.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Sharp Tor&#34;
@@ -1952,10 +1952,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/18.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/18.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/18_hu11721083137385843108.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/18_hu8151550343607291802.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/18_hu11721083137385843108.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/18_hu8151550343607291802.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Mel Tor&#34;
@@ -1966,10 +1966,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/19.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/19.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/19_hu3241714723127476688.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/19_hu13387640754337195023.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/19_hu3241714723127476688.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/19_hu13387640754337195023.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Yar Tor, at SX 678 740, elevation 416 metres (1364 feet) in the distance with Sharp Tor (right) and Rowbrook House in the foreground&#34;
@@ -1980,10 +1980,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/20.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/20.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/20_hu3034215188833666854.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/20_hu10542973082352098207.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/20_hu3034215188833666854.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/20_hu10542973082352098207.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Combestone Tor, SX 670 718, elevation 356 metres (1168 feet)&#34;
@@ -1995,10 +1995,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;bench-tor&#34;&gt;Bench Tor
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/21.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/21.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/21_hu9482704063011377682.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/21_hu16294428344387536576.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/21_hu9482704063011377682.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/21_hu16294428344387536576.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The northern-most section of Bench Tor, 691 717, elevation 312 metres (1023 feet)&#34;
@@ -2009,10 +2009,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/22.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/22.jpg&#34;
 	width=&#34;3309&#34;
 	height=&#34;1000&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/22_hu5418294489920677413.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/22_hu13810242037458133512.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/22_hu5418294489920677413.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/22_hu13810242037458133512.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;One of the piles of Bench Tor&#34;
@@ -2023,10 +2023,10 @@
 		data-flex-basis=&#34;794px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/23.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/23.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/23_hu7284231666477322146.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/23_hu16714833075634890509.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/23_hu7284231666477322146.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/23_hu16714833075634890509.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The next approached pile of Bench Tor although it was not explored on this walk&#34;
@@ -2037,10 +2037,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/24.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/24.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/24_hu974922443561256345.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/24_hu4692647966263992777.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/24_hu974922443561256345.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/24_hu4692647966263992777.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;As previous photograph&#34;
@@ -2051,10 +2051,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/25.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/25.jpg&#34;
 	width=&#34;5535&#34;
 	height=&#34;965&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/25_hu13242006357360784196.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/25_hu1397965284757188553.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/25_hu13242006357360784196.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/25_hu1397965284757188553.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking in a westerly direction at old field systems - there are both &amp;ldquo;square&amp;rdquo; and strip fields to be seen on closer inspection&#34;
@@ -2066,10 +2066,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;return-to-the-dam&#34;&gt;Return to the Dam
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/26.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/26.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/26_hu9817949636055331715.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/26_hu15638403039032196937.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/26_hu9817949636055331715.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/26_hu15638403039032196937.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A view of the 2009 spillway in sunshine! &#34;
@@ -2080,10 +2080,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/27.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/27.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/27_hu6255472392567277638.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/27_hu12013197424735900074.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/27_hu6255472392567277638.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/27_hu12013197424735900074.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;&amp;ldquo;Can you see it now?&amp;rdquo;&#34;
@@ -2094,10 +2094,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/28.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/28.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/28_hu832748542848728792.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/28_hu14978188719075916709.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/28_hu832748542848728792.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/28_hu14978188719075916709.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The revamped buildings below the dam&#34;
@@ -2109,10 +2109,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;richard-dawson-stone&#34;&gt;Richard Dawson stone
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/29.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/29.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/29_hu2199171578684574656.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/29_hu12722271856965747068.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/29_hu2199171578684574656.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/29_hu12722271856965747068.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Boundary stone marked RD / H, signifying Richard Dawson, Lord of the Manor of Holne. The reservoir catchment area of 700 acres is marked by these stones at 200 yard intervals. Reference: Dave Brewer (2002), Dartmoor Boundary Markers, Halsgrove, page 288&#34;
@@ -2123,10 +2123,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/30.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/30.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/30_hu14599850338602926441.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/30_hu8833255500382197676.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/30_hu14599850338602926441.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/30_hu8833255500382197676.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Another view, with the dam in the background&#34;
@@ -2137,10 +2137,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/31.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/31.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/venford-reservoir-holne-moor/31_hu13455091720129629097.jpg 480w, https://dartmoorwalking.org/p/venford-reservoir-holne-moor/31_hu17712185287890873749.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/venford-reservoir-holne-moor/31_hu13455091720129629097.jpg 480w, http://10.1.0.1:1313/p/venford-reservoir-holne-moor/31_hu17712185287890873749.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking along the dam&#34;

@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Dartmoor Walking</title>
-        <link>https://dartmoorwalking.org/categories/</link>
+        <link>http://10.1.0.1:1313/categories/</link>
         <description>Recent content in Categories on Dartmoor Walking</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Simon Avery</copyright>
-        <lastBuildDate>Sun, 12 Jan 2025 16:27:24 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 17 Jan 2025 19:38:02 +0000</lastBuildDate><atom:link href="http://10.1.0.1:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>West Dartmoor</title>
+        <link>http://10.1.0.1:1313/categories/west-dartmoor/</link>
+        <pubDate>Fri, 17 Jan 2025 19:38:02 +0000</pubDate>
+        
+        <guid>http://10.1.0.1:1313/categories/west-dartmoor/</guid>
+        <description>&lt;img src="http://10.1.0.1:1313/categories/west-dartmoor/westdartmoor.jpg" alt="Featured image of post West Dartmoor" /&gt;</description>
+        </item>
+        <item>
         <title>East Dartmoor</title>
-        <link>https://dartmoorwalking.org/categories/east-dartmoor/</link>
+        <link>http://10.1.0.1:1313/categories/east-dartmoor/</link>
         <pubDate>Sun, 12 Jan 2025 16:27:24 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/categories/east-dartmoor/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/categories/east-dartmoor/eastdartmoor.jpg" alt="Featured image of post East Dartmoor" /&gt;</description>
+        <guid>http://10.1.0.1:1313/categories/east-dartmoor/</guid>
+        <description>&lt;img src="http://10.1.0.1:1313/categories/east-dartmoor/eastdartmoor.jpg" alt="Featured image of post East Dartmoor" /&gt;</description>
         </item>
         <item>
         <title>South Dartmoor</title>
-        <link>https://dartmoorwalking.org/categories/south-dartmoor/</link>
+        <link>http://10.1.0.1:1313/categories/south-dartmoor/</link>
         <pubDate>Fri, 03 Jan 2025 20:21:29 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/categories/south-dartmoor/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/categories/south-dartmoor/southdartmoor.jpg" alt="Featured image of post South Dartmoor" /&gt;</description>
+        <guid>http://10.1.0.1:1313/categories/south-dartmoor/</guid>
+        <description>&lt;img src="http://10.1.0.1:1313/categories/south-dartmoor/southdartmoor.jpg" alt="Featured image of post South Dartmoor" /&gt;</description>
         </item>
         <item>
         <title>Mid Dartmoor</title>
-        <link>https://dartmoorwalking.org/categories/mid-dartmoor/</link>
+        <link>http://10.1.0.1:1313/categories/mid-dartmoor/</link>
         <pubDate>Wed, 01 Jan 2025 10:30:07 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/categories/mid-dartmoor/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/categories/mid-dartmoor/middartmoor.jpg" alt="Featured image of post Mid Dartmoor" /&gt;</description>
+        <guid>http://10.1.0.1:1313/categories/mid-dartmoor/</guid>
+        <description>&lt;img src="http://10.1.0.1:1313/categories/mid-dartmoor/middartmoor.jpg" alt="Featured image of post Mid Dartmoor" /&gt;</description>
         </item>
         <item>
         <title>North Dartmoor</title>
-        <link>https://dartmoorwalking.org/categories/north-dartmoor/</link>
+        <link>http://10.1.0.1:1313/categories/north-dartmoor/</link>
         <pubDate>Fri, 27 Dec 2024 15:58:53 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/categories/north-dartmoor/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/categories/north-dartmoor/northdartmoor.jpg" alt="Featured image of post North Dartmoor" /&gt;</description>
-        </item>
-        <item>
-        <title>West Dartmoor</title>
-        <link>https://dartmoorwalking.org/categories/west-dartmoor/</link>
-        <pubDate>Sun, 22 Dec 2024 15:09:35 +0000</pubDate>
-        
-        <guid>https://dartmoorwalking.org/categories/west-dartmoor/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/categories/west-dartmoor/westdartmoor.jpg" alt="Featured image of post West Dartmoor" /&gt;</description>
+        <guid>http://10.1.0.1:1313/categories/north-dartmoor/</guid>
+        <description>&lt;img src="http://10.1.0.1:1313/categories/north-dartmoor/northdartmoor.jpg" alt="Featured image of post North Dartmoor" /&gt;</description>
         </item>
         
     </channel>

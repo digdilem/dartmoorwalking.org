@@ -114,7 +114,7 @@ The crane was still functional in 1946 and a photograph taken in 1964 shows it s
 
 ![Near to the crane - likely the socket for the crane upright to pivot on](13.jpg)
 
-![Artist's impression of the working quarry; "Haytor quarry - old print". CImage reproduced with permission from the Dartmoor Trust Archive](14.jpg)
+![Artist's impression of the working quarry; "Haytor quarry - old print". Image reproduced with permission from the Dartmoor Trust Archive](14.jpg)
 
 ![Water lilies](15.jpg)
 
