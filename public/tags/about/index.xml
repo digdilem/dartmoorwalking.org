@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>About on Dartmoor Walking</title>
-        <link>http://10.1.0.1:1313/tags/about/</link>
+        <link>https://dartmoorwalking.org/tags/about/</link>
         <description>Recent content in About on Dartmoor Walking</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Simon Avery</copyright>
-        <lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://10.1.0.1:1313/tags/about/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/about/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>http://10.1.0.1:1313/about/</link>
+        <link>https://dartmoorwalking.org/about/</link>
         <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://10.1.0.1:1313/about/</guid>
+        <guid>https://dartmoorwalking.org/about/</guid>
         <description>&lt;h2 id=&#34;contact&#34;&gt;Contact
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Webmaster: &lt;a class=&#34;link&#34; href=&#34;mailto:feedback@dartmoorwalking.org&#34; &gt;Simon Avery&lt;/a&gt;&lt;/li&gt;
@@ -28,7 +28,7 @@
     &gt;Dartmoorcam&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Keith was born in Cornwall and spent his working life as a Marine Biologist based at Plymouth Hoe. He loved Dartmoor and started walking it in 1969, starting his website in 2004 to document the walks with photos and informed narrative. Keith led many group walks over the moor - notably with the &lt;a class=&#34;link&#34; href=&#34;https://dartmoortrust.org/archive&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Dartmoor Trust&lt;/a&gt;, meticulously researching both geographical and human history along the way. He recorded well over 600 walks on &lt;a class=&#34;link&#34; href=&#34;https://dartmoorcam.co.uk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dartmoorcam&lt;/a&gt;, all with many photographs, footnotes and information.  As well as his website of Dartmoor walks, Keith has also written several other sites which have been preserved. Please see the &lt;a class=&#34;link&#34; href=&#34;http://10.1.0.1:1313/links&#34; &gt;links&lt;/a&gt; section.&lt;/p&gt;
+    &gt;Dartmoorcam&lt;/a&gt;, all with many photographs, footnotes and information.  As well as his website of Dartmoor walks, Keith has also written several other sites which have been preserved. Please see the &lt;a class=&#34;link&#34; href=&#34;https://dartmoorwalking.org/links&#34; &gt;links&lt;/a&gt; section.&lt;/p&gt;
 &lt;p&gt;Keith passed away at St Luke&amp;rsquo;s Hospice in May, 2023.&lt;/p&gt;
 &lt;h3 id=&#34;simon-avery&#34;&gt;Simon Avery
 &lt;/h3&gt;&lt;p&gt;&lt;em&gt;Creator and maintainer of this website and co-author or author of the walks therein&lt;/em&gt;&lt;/p&gt;
