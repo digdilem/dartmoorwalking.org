@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Bridge on Dartmoor Walking</title>
-        <link>https://dartmoorwalking.org/tags/bridge/</link>
+        <link>http://10.1.0.1:1313/tags/bridge/</link>
         <description>Recent content in Bridge on Dartmoor Walking</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Simon Avery</copyright>
-        <lastBuildDate>Sat, 01 Feb 2025 20:27:31 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/bridge/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 01 Feb 2025 20:27:31 +0000</lastBuildDate><atom:link href="http://10.1.0.1:1313/tags/bridge/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Lydford High Down to Doe Tor Farm Ruins</title>
-        <link>https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/</link>
+        <link>http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/</link>
         <pubDate>Sat, 01 Feb 2025 20:27:31 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/7.jpg" alt="Featured image of post Lydford High Down to Doe Tor Farm Ruins" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+        <guid>http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/</guid>
+        <description>&lt;img src="http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/7.jpg" alt="Featured image of post Lydford High Down to Doe Tor Farm Ruins" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;3 miles&lt;/b&gt;, walked by Keith Ryan and transcribed by Simon Avery&lt;/li&gt;
 &lt;li&gt; Grade: &lt;b&gt;Medium&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;https://dartmoorwalking.org/gpx/lydford-high-down-to-doetor-farm-ruins.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://10.1.0.1:1313/gpx/lydford-high-down-to-doetor-farm-ruins.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
 &lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.64913%2c-4.08743&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
     &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
     &lt;path d=&#34;M12 21v-4&#34; /&gt;
@@ -30,10 +30,10 @@
 &lt;li&gt; &lt;a href=&#34;https://w3w.co/lake.squirts.greeting&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;lake.squirts.greeting&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/map.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/map.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;686&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/map_hu15919089803218460082.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/map_hu13295132025258551627.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/map_hu15919089803218460082.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/map_hu13295132025258551627.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
@@ -47,10 +47,10 @@
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;This fairly gentle walk has plenty to see along the way. We start with a walk across flattish open moorland to three seats with good views. Then we cross over the River Lyd by footbridge and walk down to the ruined Doe Tor Farmstead. Leaving there, we can return up the river, or detour across the Lyd by stepping stones to the abandoned 19th Century mine, Wheal Mary Emma.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Once parked, head off due East along a worn path for around 350 meters until you see a bench to the left.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/1.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/1.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;674&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/1_hu17873430081476998817.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/1_hu12670266968128763198.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/1_hu17873430081476998817.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/1_hu12670266968128763198.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Weather Worn Bench. SX 52918 85436&#34;
@@ -67,10 +67,10 @@
 &lt;li&gt;Brat Tor (SX 539 855, elevation 452 metres /1482 feet) (Also known as Brai, Bra or Bray Tor)&lt;/li&gt;
 &lt;li&gt;Sharp Tor (SX 550 848, elevation 519 metres / 1702 feet).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/2.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/2.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/2_hu11793953417743183647.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/2_hu4099021791587707219.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/2_hu11793953417743183647.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/2_hu4099021791587707219.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Zoomed picture of Arms tor, 1.4km distant. The &amp;ldquo;pimple&amp;rdquo; shown more clearly to be Great Links Tor behind&#34;
@@ -81,10 +81,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/3.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/3.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/3_hu1804398952458636506.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/3_hu5166481763531254139.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/3_hu1804398952458636506.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/3_hu5166481763531254139.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Even more zoomed, showing the Triangulation Pillar on Great Links Tor, 2.43km distant&#34;
@@ -95,10 +95,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/4.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/4.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/4_hu10434808228998145118.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/4_hu15494650479852845052.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/4_hu10434808228998145118.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/4_hu15494650479852845052.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Brat Tor, showing Widgery Cross&#34;
@@ -116,10 +116,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.legendarydartmoor.co.uk/2016/03/19/widg_crss/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Legendary Dartmoor - Widgery Cross&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/5.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/5.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/5_hu2383465328257847227.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/5_hu17252613982926197282.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/5_hu2383465328257847227.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/5_hu17252613982926197282.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Zoomed view of Widgery Cross&#34;
@@ -132,10 +132,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;When ready, continue Eastward along the path until you approach the River Lyd&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;building-or-enclosure&#34;&gt;Building or Enclosure
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/6.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/6.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;598&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/6_hu17985299293710036376.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/6_hu4810994458784993944.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/6_hu17985299293710036376.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/6_hu4810994458784993944.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Across the river, stone walls. SX 53230 85473&#34;
@@ -150,10 +150,10 @@
 &lt;p&gt;It does not appear in the tithe map of 1848, nor the OS 25-inch map from 1884, but does show up on the revised 1904 version. The mine was active in the 1860s so the timings are not far out if it was related.&lt;/p&gt;
 &lt;p&gt;Alternatively, it could be a farming or warren enclosure rather than a building.&lt;/p&gt;
 &lt;h2 id=&#34;black-rock-seats&#34;&gt;Black Rock Seats
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/10.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/10.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/10_hu12881899588971108774.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/10_hu18064858012821596025.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/10_hu12881899588971108774.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/10_hu18064858012821596025.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Black Rock, SX 53242 85388&#34;
@@ -165,10 +165,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;There are two somewhat hidden benches at Black Rock, shown here by the white circles.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/11.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/11.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/11_hu9826561598651382103.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/11_hu3708468151343028778.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/11_hu9826561598651382103.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/11_hu3708468151343028778.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Northern Seat&#34;
@@ -179,10 +179,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/12.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/12.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/12_hu7005108742780085824.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/12_hu2107396627656163223.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/12_hu7005108742780085824.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/12_hu2107396627656163223.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Southern Seat with Plaque&#34;
@@ -224,10 +224,10 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;AS I GAZED AT THE CROSS ON &amp;#34;WIDGERY TOR&amp;#34;.
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;When ready, turn Left and follow the riverbank Northwards to High Down Ford and Bridge&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;high-down-ford-and-bridge&#34;&gt;High Down Ford and Bridge
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/7.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/7.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/7_hu11207336846359924930.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/7_hu13969646129097691328.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/7_hu11207336846359924930.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/7_hu13969646129097691328.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;High Down Ford and Bridge crossing the River Lyd. SX 53162 85723&#34;
@@ -239,10 +239,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Cross the River and turn right, following the path down on the other bank until you reach and cross the footbridge over Doe Tor Brook&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/8.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/8.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/8_hu7226520693100876335.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/8_hu5125543031900989762.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/8_hu7226520693100876335.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/8_hu5125543031900989762.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking back at the Ford&#34;
@@ -253,10 +253,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/9.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/9.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/9_hu8852648206634230073.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/9_hu8907136715421042861.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/9_hu8852648206634230073.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/9_hu8907136715421042861.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Preferring wet hooves to using the stepping stones&#34;
@@ -268,10 +268,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;doe-tor-bridge-and-falls&#34;&gt;Doe Tor Bridge and Falls
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/13.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/13.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/13_hu1667595989671439985.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/13_hu6225283855053737416.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/13_hu1667595989671439985.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/13_hu6225283855053737416.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Doe Tor Bridge at the entrance to Doe Tor Farm&#34;
@@ -282,10 +282,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/14.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/14.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/14_hu9756820270491846709.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/14_hu11246404504604127691.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/14_hu9756820270491846709.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/14_hu11246404504604127691.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Doe Tor Falls - above and below the bridge, obscured by Furze&#34;
@@ -297,10 +297,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;doe-tor-farm&#34;&gt;Doe Tor Farm
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/15.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/15.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/15_hu474198115690410015.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/15_hu11628965244049504822.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/15_hu474198115690410015.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/15_hu11628965244049504822.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Entering the farm&amp;rsquo;s enclosures from the North&#34;
@@ -320,10 +320,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/39823/MoD_DOE_TOR.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;MOD Historic Site Survey (PDF)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/32.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/32.jpg&#34;
 	width=&#34;1224&#34;
 	height=&#34;861&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/32_hu14580182849050746004.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/32_hu14095579238078044344.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/32_hu14580182849050746004.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/32_hu14095579238078044344.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Plan of Doe Tor Farm - Wessex Archaeology, part of the above report&#34;
@@ -334,10 +334,10 @@
 		data-flex-basis=&#34;341px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/17.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/17.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/17_hu8195763869816910626.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/17_hu5733803584666882060.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/17_hu8195763869816910626.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/17_hu5733803584666882060.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The ruined outhouse&#34;
@@ -348,10 +348,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/18.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/18.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/18_hu7518908100171992072.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/18_hu6251157756496287916.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/18_hu7518908100171992072.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/18_hu6251157756496287916.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Another view of the outhouse&#34;
@@ -362,10 +362,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/19.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/19.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/19_hu3876543603795769020.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/19_hu7617127535202540066.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/19_hu3876543603795769020.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/19_hu7617127535202540066.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Recess in North wall of outhouse&#34;
@@ -376,10 +376,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/20.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/20.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/20_hu16309202631775869015.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/20_hu3352994385282436694.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/20_hu16309202631775869015.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/20_hu3352994385282436694.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Part of the Calf House&#34;
@@ -390,10 +390,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/21.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/21.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/21_hu13304183116717586877.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/21_hu11653760563255319375.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/21_hu13304183116717586877.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/21_hu11653760563255319375.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Possibly the lean-to kitchen&#34;
@@ -404,10 +404,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/16.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/16.jpg&#34;
 	width=&#34;799&#34;
 	height=&#34;493&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/16_hu11981313098791777102.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/16_hu8760805758449282882.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/16_hu11981313098791777102.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/16_hu8760805758449282882.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;How the farm looked in 1910 - (MOD/Wessex Archaeology)&#34;
@@ -418,10 +418,10 @@
 		data-flex-basis=&#34;388px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/34.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/34.jpg&#34;
 	width=&#34;563&#34;
 	height=&#34;409&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/34_hu9712842661383984500.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/34_hu12130001810385995373.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/34_hu9712842661383984500.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/34_hu12130001810385995373.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;And again in 1969 - (MOD/Wessex Archaeology)&#34;
@@ -432,10 +432,10 @@
 		data-flex-basis=&#34;330px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/22.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/22.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/22_hu12489979248928923809.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/22_hu12567901186872002885.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/22_hu12489979248928923809.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/22_hu12567901186872002885.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Lane&amp;rdquo; out to the moor&amp;#34;&#34;
@@ -447,10 +447,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;The lane is now used for penning/inspecting animals, hence the hurdles. The top left area in this picture are the ruins of the Shippon. The ruins to the top/right are the Calf House.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/23.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/23.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/23_hu11384877992219180375.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/23_hu7926251072963828646.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/23_hu11384877992219180375.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/23_hu7926251072963828646.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Possibly part of the garden&#34;
@@ -462,10 +462,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;There is apparently a millstone built in the walls hereabouts, but possibly now overgrown by turf.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/27.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/27.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/27_hu11995327131951646950.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/27_hu10084425134051895134.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/27_hu11995327131951646950.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/27_hu10084425134051895134.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Possibly site of a cider crushing edge runner stone. SX 53506 84983&#34;
@@ -478,10 +478,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;The above stone was well documented here. Flat on one side and curved on the other, to run against the outer curve of the circular trough. It was reported stolen in 2005.&lt;/p&gt;
 &lt;h2 id=&#34;doe-tor&#34;&gt;Doe Tor
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/26.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/26.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/26_hu4784874448108135133.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/26_hu9746573646783533250.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/26_hu4784874448108135133.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/26_hu9746573646783533250.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View of Doe Tor from the farm&#34;
@@ -492,10 +492,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/24.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/24.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/24_hu5013363126333814381.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/24_hu6722717163027304355.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/24_hu5013363126333814381.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/24_hu6722717163027304355.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Abandoned stone trough. SX 53755 84874&#34;
@@ -507,10 +507,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;This trough was abandoned soon after carving started. It&amp;rsquo;s on the near slope of Doe Tor, about 125 meters from the house.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/25.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/25.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/25_hu303159206347197912.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/25_hu12360376606692464194.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/25_hu303159206347197912.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/25_hu12360376606692464194.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;More context to the location of the abandoned trough&#34;
@@ -524,10 +524,10 @@
 &lt;h2 id=&#34;return-route---a-choice&#34;&gt;Return route - a choice
 &lt;/h2&gt;&lt;p&gt;When you leave the farm and cross over Doe Tor Bridge, you can either return back up the river to High Down Ford and, after crossing the Lyd, follow the hedge back to the car park taking in the mining site of Wheal Mary Emma tin mine.&lt;/p&gt;
 &lt;p&gt;Alternatively, if the weather is kind and the water level is low you may wish to brave a river crossing by some stepping stones. This path is marked in purple on the map and the rest of the description here follows that trail.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/29.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/29.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/29_hu6964828403290848378.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/29_hu3537552266183059295.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/29_hu6964828403290848378.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/29_hu3537552266183059295.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A mining pit beside the path down to the River Lyd&#34;
@@ -538,10 +538,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/31.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/31.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/31_hu1825731047088448955.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/31_hu14862927909011073554.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/31_hu1825731047088448955.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/31_hu14862927909011073554.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Lyd crossing at Wheal Mary Emma&#34;
@@ -552,10 +552,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/33.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/33.jpg&#34;
 	width=&#34;563&#34;
 	height=&#34;350&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/33_hu394822132023722695.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/33_hu944705949084655705.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/33_hu394822132023722695.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/33_hu944705949084655705.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;1920 Photograph showing the footbridge then - Wessex Archaeology&#34;
@@ -567,10 +567,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;wheal-mary-emma-purple-route&#34;&gt;Wheal Mary Emma (Purple Route)
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/28.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/28.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/28_hu12217132154611219906.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/28_hu7038990571821413485.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/28_hu12217132154611219906.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/28_hu7038990571821413485.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Wheal Mary Emma remains&#34;
@@ -581,10 +581,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/30.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/30.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/30_hu13139927014044748290.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/30_hu14540825839605678797.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/30_hu13139927014044748290.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/30_hu14540825839605678797.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Main working platform and building remains of Wheal Mary Emma&#34;
@@ -615,15 +615,15 @@
         </item>
         <item>
         <title>Pullabrook Woods</title>
-        <link>https://dartmoorwalking.org/p/pullabrook-woods/</link>
+        <link>http://10.1.0.1:1313/p/pullabrook-woods/</link>
         <pubDate>Sun, 12 Jan 2025 16:27:24 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/p/pullabrook-woods/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/30.jpg" alt="Featured image of post Pullabrook Woods" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+        <guid>http://10.1.0.1:1313/p/pullabrook-woods/</guid>
+        <description>&lt;img src="http://10.1.0.1:1313/p/pullabrook-woods/30.jpg" alt="Featured image of post Pullabrook Woods" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;2 miles&lt;/b&gt;, walked by Keith Ryan and transcribed by Simon Avery&lt;/li&gt;
 &lt;li&gt; Grade: &lt;b&gt;Gentle&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;https://dartmoorwalking.org/gpx/pullabrook-woods.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://10.1.0.1:1313/gpx/pullabrook-woods.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
 &lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.60796%2c-3.71258&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
     &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
     &lt;path d=&#34;M12 21v-4&#34; /&gt;
@@ -636,10 +636,10 @@
 &lt;li&gt; &lt;a href=&#34;https://w3w.co/cosmetic.outlawing.limes&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;cosmetic.outlawing.limes&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/map.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/map.jpg&#34;
 	width=&#34;1319&#34;
 	height=&#34;742&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/map_hu13069972536287042455.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/map_hu17321935225195471891.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/map_hu13069972536287042455.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/map_hu17321935225195471891.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
@@ -654,10 +654,10 @@
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;Owned and managed by the &lt;a class=&#34;link&#34; href=&#34;https://www.woodlandtrust.org.uk/visiting-woods/woods/bovey-valley-woods/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Woodland Trust&lt;/a&gt;, Pullabrook Woods is a lovely little area popular with dog walkers. There are woodland paths up the west side of the River Bovey, crossing it at a notable stone bridge, and back down the Eastern side, re-crossing close to the car park. It&amp;rsquo;s particularly lovely on a hot summer&amp;rsquo;s day as most is well shaded. The area is known for its wildlife, especially wild birds - with the rare Dartford Warbler, the Kingfisher and Pied Flycatcher seen here. There are also dormice, otter and bats with the river home to Salmon and Brown and Sea Trout.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/1.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/1.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/1_hu3085841320084590786.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/1_hu13836702027526549228.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/1_hu3085841320084590786.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/1_hu13836702027526549228.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The turn off to the parking (left) and Drakeford Bridge (right)&#34;
@@ -668,10 +668,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/2.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/2.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/2_hu18139546921952260450.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/2_hu12224794368114165349.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/2_hu18139546921952260450.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/2_hu12224794368114165349.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Pullabrook Car Parking&#34;
@@ -690,10 +690,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://boveytraceyhistory.org.uk/places/pullabrook/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Bovey Tracey History - Pullabrook&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/3.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/3.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/3_hu15746178852001772888.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/3_hu17772692453987711559.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/3_hu15746178852001772888.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/3_hu17772692453987711559.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Head West through the gateway&#34;
@@ -705,10 +705,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Follow the Bridleway West at the far end of the car park&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/4.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/4.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/4_hu16297951861688532007.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/4_hu3451658061272789019.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/4_hu16297951861688532007.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/4_hu3451658061272789019.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Ivy and Ash&#34;
@@ -719,10 +719,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/5.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/5.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/5_hu11819234683623481554.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/5_hu7344757839367380623.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/5_hu11819234683623481554.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/5_hu7344757839367380623.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking back along the track, with a flood plain of the River Bovey to the left&#34;
@@ -733,10 +733,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/6.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/6.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/6_hu796151641660819055.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/6_hu12360337438277745421.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/6_hu796151641660819055.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/6_hu12360337438277745421.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking ahead. Beech, Sycamore, Maple, Hazel, Oak, Sweet Chestnut, Holly and Rowan&#34;
@@ -748,10 +748,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;old-manaton-road&#34;&gt;Old Manaton Road
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/7.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/7.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/7_hu17680727238693412184.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/7_hu12445454801477231144.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/7_hu17680727238693412184.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/7_hu12445454801477231144.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The track emerges here and we turn right to the North West. SX 78322 79547&#34;
@@ -771,10 +771,10 @@
     &gt;Heritage Gateway MDV124566 - Old Manaton Road&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;lustleigh-parish-boundary-stone&#34;&gt;Lustleigh Parish Boundary Stone
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/8.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/8.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/8_hu10409165832335268294.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/8_hu7902471576418401135.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/8_hu10409165832335268294.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/8_hu7902471576418401135.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Near to the junction, the LP MM Stone&#34;
@@ -787,10 +787,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;This stone was erected in 2000, hence the Roman numerals, MM.&lt;/p&gt;
 &lt;p&gt;LP stands for Lustleigh Parish which extends to the North.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/9.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/9.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/9_hu12099912512944642626.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/9_hu7513964593647056742.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/9_hu12099912512944642626.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/9_hu7513964593647056742.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Old Manaton Road&#34;
@@ -802,10 +802,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;the-pudding-stone&#34;&gt;The Pudding Stone
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/10.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/10.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/10_hu4926675014969206385.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/10_hu17222684938858867908.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/10_hu4926675014969206385.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/10_hu17222684938858867908.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Pudding stone. SX 77950 79976&#34;
@@ -816,10 +816,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/11.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/11.jpg&#34;
 	width=&#34;4160&#34;
 	height=&#34;3120&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/11_hu16040178369564961877.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/11_hu1996960501189996492.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/11_hu16040178369564961877.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/11_hu1996960501189996492.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Thomas, for scale&#34;
@@ -830,10 +830,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/12.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/12.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/12_hu11336502735202098966.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/12_hu2058376535935001789.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/12_hu11336502735202098966.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/12_hu2058376535935001789.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Ordnance Survey Benchmark&#34;
@@ -852,10 +852,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Benchmark_%28surveying%29&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Wikipedia - Benchmark&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/13.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/13.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;891&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/13_hu5489633752222817376.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/13_hu11841529832265647414.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/13_hu5489633752222817376.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/13_hu11841529832265647414.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Double fingerpost&#34;
@@ -866,10 +866,10 @@
 		data-flex-basis=&#34;430px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/14.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/14.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/14_hu7739565453658364319.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/14_hu9227513154258436339.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/14_hu7739565453658364319.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/14_hu9227513154258436339.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Puddingstone Gate down to Hisley Bridge. 	SX 77961 79977&#34;
@@ -881,10 +881,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;hisley-fairy-bridge&#34;&gt;Hisley &amp;ldquo;Fairy&amp;rdquo; Bridge
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/17.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/17.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/17_hu12999897490774731290.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/17_hu14489634810141631922.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/17_hu12999897490774731290.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/17_hu14489634810141631922.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Hisley Bridge&#34;
@@ -897,10 +897,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;Hisley Bridge is a post-medieval bridge built some time between 1401 and 1750 to improve safe access over the river for pack horses when the river is in spate, making the ford difficult.&lt;/p&gt;
 &lt;p&gt;The pillar in the middle of the bridge is a modern addition to prevent off road vehicles from using the bridge, which had already caused damage.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/18.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/18.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/18_hu5287010913817437398.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/18_hu8162933431456654074.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/18_hu5287010913817437398.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/18_hu8162933431456654074.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Slotted gatepost&#34;
@@ -912,10 +912,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Note the slotted gatepost to one side, presumably to control use by pack pony drivers or to prevent livestock from crossing.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/19.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/19.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/19_hu16772212930126476332.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/19_hu3871667147197709204.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/19_hu16772212930126476332.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/19_hu3871667147197709204.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Slotted gatepost re-used as a hanging gatepost&#34;
@@ -926,10 +926,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/20.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/20.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/20_hu16416803163576357448.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/20_hu17416657427231730586.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/20_hu16416803163576357448.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/20_hu17416657427231730586.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;You can see wear from cartheels, so it wasn&amp;rsquo;t only used for pack ponies&#34;
@@ -940,10 +940,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/21.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/21.jpg&#34;
 	width=&#34;4000&#34;
 	height=&#34;3000&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/21_hu15417732339822380376.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/21_hu14021332717724951331.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/21_hu15417732339822380376.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/21_hu14021332717724951331.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Underneath&#34;
@@ -954,10 +954,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/22.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/22.jpg&#34;
 	width=&#34;4000&#34;
 	height=&#34;3000&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/22_hu8695532796608265389.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/22_hu13873592668671769497.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/22_hu8695532796608265389.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/22_hu13873592668671769497.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Hisley Ford and Bridge&#34;
@@ -968,10 +968,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/15.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/15.jpg&#34;
 	width=&#34;4000&#34;
 	height=&#34;3000&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/15_hu7619609606497561644.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/15_hu14452967436941914379.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/15_hu7619609606497561644.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/15_hu14452967436941914379.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Hisley Ford&#34;
@@ -982,10 +982,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/16.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/16.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/16_hu18262119499971813537.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/16_hu9550522866605637311.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/16_hu18262119499971813537.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/16_hu9550522866605637311.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Pair of Granite gateposts near the bridge&#34;
@@ -1014,10 +1014,10 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;We cross the bridge and follow the lower path to the right, downstream&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;hisley-and-rudge-woods&#34;&gt;Hisley and Rudge Woods
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/23.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/23.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/23_hu2567316734088903863.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/23_hu9530020903404919071.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/23_hu2567316734088903863.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/23_hu9530020903404919071.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;You may see bat boxes on the trees&#34;
@@ -1028,10 +1028,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/24.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/24.jpg&#34;
 	width=&#34;4000&#34;
 	height=&#34;3000&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/24_hu12621312740556132029.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/24_hu13103215644904953645.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/24_hu12621312740556132029.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/24_hu13103215644904953645.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;And bird boxes&#34;
@@ -1042,10 +1042,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/25.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/25.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/25_hu10927989236061499516.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/25_hu16248463272948579760.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/25_hu10927989236061499516.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/25_hu16248463272948579760.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Gate along the path. SX 78045 79962&#34;
@@ -1056,10 +1056,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/26.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/26.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/26_hu16726038291446994504.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/26_hu6409637561781304759.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/26_hu16726038291446994504.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/26_hu6409637561781304759.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A large fallen tree forms a natural bridge over the river&#34;
@@ -1070,10 +1070,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/27.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/27.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/27_hu2761798805175086576.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/27_hu8317890467502328914.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/27_hu2761798805175086576.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/27_hu8317890467502328914.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Fine example of a Golden Shield Fern, Dryopteris affinis&#34;
@@ -1084,10 +1084,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/28.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/28.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/28_hu10088859428117591118.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/28_hu4872407759490951976.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/28_hu10088859428117591118.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/28_hu4872407759490951976.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Bluebells amongst young bracken&#34;
@@ -1098,10 +1098,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/29.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/29.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/29_hu1020086569247241656.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/29_hu16555750555090870964.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/29_hu1020086569247241656.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/29_hu16555750555090870964.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A glade in Rudge Woods&#34;
@@ -1112,10 +1112,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/30.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/30.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/30_hu12631262833850205876.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/30_hu17578163468437770036.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/30_hu12631262833850205876.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/30_hu17578163468437770036.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;River Bovey&#34;
@@ -1127,10 +1127,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;rudge-meadow&#34;&gt;Rudge Meadow
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/31.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/31.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/31_hu4124642480358507523.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/31_hu9122262815800634424.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/31_hu4124642480358507523.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/31_hu9122262815800634424.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Rudge Meadow&#34;
@@ -1146,10 +1146,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.devon.gov.uk/historicenvironment/tithe-map/lustleigh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Lustleigh Tithe Map, 1838&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/32.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/32.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/32_hu4398751744138544005.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/32_hu10865824541030255711.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/32_hu4398751744138544005.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/32_hu10865824541030255711.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The white-lichen covered granite pillar marking the exit of the meadow onto the road&#34;
@@ -1161,10 +1161,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Go through the gate and turn right down the road&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/33.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/33.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/33_hu5151840737192983751.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/33_hu11492921811466358530.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/33_hu5151840737192983751.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/33_hu11492921811466358530.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Old iron road sign&#34;
@@ -1177,10 +1177,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;At this junction, a short detour left is recommended to the viaduct&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;packsaddle-bridge-and-viaduct&#34;&gt;Packsaddle Bridge and Viaduct
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/34.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/34.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/34_hu17159960480707767927.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/34_hu17860259851818939494.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/34_hu17159960480707767927.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/34_hu17860259851818939494.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Packsaddle Bridge over the Wray Brook&#34;
@@ -1191,10 +1191,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/35.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/35.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/35_hu10480313726888177870.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/35_hu12427322107605495874.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/35_hu10480313726888177870.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/35_hu12427322107605495874.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Viaduct&#34;
@@ -1208,10 +1208,10 @@
 &lt;p&gt;The viaduct once carried the GWR Moretonhampstead Railway Branch Line. This opened in 1866 as an independent line, and amalgamated with the GWR ten years later. British Rail nationalised it in 1948 and it closed in 1964 - another victim of Dr Beeching&amp;rsquo;s cuts.&lt;/p&gt;
 &lt;p&gt;Part of this line remains from Newton Abbot to Heathfield, although it has not been used for several years. It was resurrected briefly in the 2000&amp;rsquo;s to take away timber from Teign Grace halt but has since been idle.&lt;/p&gt;
 &lt;p&gt;You can see more evidence of the railway in many places from Newton Abbot to Moretonhampstead - such as the railway sheds at Bovey Tracey, many viaducts such as this, and some engine sheds at the Thompson&amp;rsquo;s lorry yard where it terminated. Much of the route is now a shared-use path for walkers, cyclists and horseriders.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/36.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/36.jpg&#34;
 	width=&#34;448&#34;
 	height=&#34;448&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/36_hu14448079758516501157.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/36_hu14100171997503505501.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/36_hu14448079758516501157.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/36_hu14100171997503505501.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The railway passing the Railway Sheds at Bovey Tracey - now the main bypass. This is looking down towards the fire station&#34;
@@ -1231,10 +1231,10 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;When ready, turn around and head back towards the car park&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;drakeford-bridge&#34;&gt;Drakeford Bridge
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/37.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/37.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/37_hu8051033924701481425.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/37_hu6974847528021541087.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/37_hu8051033924701481425.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/37_hu6974847528021541087.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Drakeford Bridge over the River Bovey. SX 78935 80133&#34;
@@ -1246,10 +1246,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;William Crossing refers to this as New Bridge in the 1912 edition of Crossing&amp;rsquo;s Guide to Dartmoor, and it is also known as Letford Bridge. However, today, it is best known as Drakeford Bridge.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/pullabrook-woods/38.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/pullabrook-woods/38.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/pullabrook-woods/38_hu4154454778388636683.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/38_hu18239863364802356679.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/pullabrook-woods/38_hu4154454778388636683.jpg 480w, http://10.1.0.1:1313/p/pullabrook-woods/38_hu18239863364802356679.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Incised stone in the parapet&#34;
@@ -1289,15 +1289,15 @@
         </item>
         <item>
         <title>Hexworthy to Swincombe</title>
-        <link>https://dartmoorwalking.org/p/hexworthy-to-swincombe/</link>
+        <link>http://10.1.0.1:1313/p/hexworthy-to-swincombe/</link>
         <pubDate>Wed, 01 Jan 2025 10:30:07 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/p/hexworthy-to-swincombe/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/12.jpg" alt="Featured image of post Hexworthy to Swincombe" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+        <guid>http://10.1.0.1:1313/p/hexworthy-to-swincombe/</guid>
+        <description>&lt;img src="http://10.1.0.1:1313/p/hexworthy-to-swincombe/12.jpg" alt="Featured image of post Hexworthy to Swincombe" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;3 miles&lt;/b&gt;, walked by Keith Ryan and Simon Avery and transcribed by Simon Avery&lt;/li&gt;
 &lt;li&gt; Grade: &lt;b&gt;Gentle&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;https://dartmoorwalking.org/gpx/hexworthy-to-swincombe.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://10.1.0.1:1313/gpx/hexworthy-to-swincombe.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
 &lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.53916%2c-3.90538&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
     &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
     &lt;path d=&#34;M12 21v-4&#34; /&gt;
@@ -1310,10 +1310,10 @@
 &lt;li&gt; &lt;a href=&#34;https://w3w.co/flow.rectangular.facelift&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;flow.rectangular.facelift&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/map.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/map.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;445&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/map_hu10003473290849511545.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/map_hu6110367281366357765.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/map_hu10003473290849511545.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/map_hu6110367281366357765.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
@@ -1336,10 +1336,10 @@
     &gt;Anton Coaker&amp;rsquo;s &amp;ldquo;Our Farm&amp;rdquo; website&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;Start the walk by proceeding back 140 meters along the road you approached the parking along, then turn right at the end of the wall along a Bridlepath&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/1.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/1.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/1_hu5560745680026479099.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/1_hu2927984450507361339.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/1_hu5560745680026479099.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/1_hu2927984450507361339.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;An example of John Bishop&amp;rsquo;s semi-dressed dry stone walling&#34;
@@ -1353,10 +1353,10 @@
 &lt;p&gt;Dartmoor has had many fine dry stone wall builders, but perhaps the most famous of all was John Bishop (1821-1892). He was one of the first to use the shaped and squared building method in his walls. He tightly fitted large blocks of granite in such a way that very little daylight could be seen through the wall. He helped enclose many of the newtakes on Dartmoor and would have been in strong demand.&lt;/p&gt;
 &lt;p&gt;When asked how he lifted such heavy stones, John Bishop is alleged to have replied, “Aw, ‘tis surprisin’ what ee can do with a laiver or two.”&lt;/p&gt;
 &lt;p&gt;Many of the walls in this area were built or repaired by Mr Bishop who lived close by - we&amp;rsquo;ll visit his house on this walk - and are of a visibly better quality than most earlier walls, which were mostly built from natural moorstone, using &amp;ldquo;trigs&amp;rdquo; of small stone to wedge them in place. But no matter how well a dry stone wall is made, it needs repairing often due to weather and especially animals and people climbing it and loosening stone, so other men will have been involved over the years in keeping these walls stockproof.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/2.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/2.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/2_hu9987978189751325139.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/2_hu9553229685144169305.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/2_hu9987978189751325139.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/2_hu9553229685144169305.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Black and white Belted Galloway cows with the dry Wheal Emma leat behind them&#34;
@@ -1369,10 +1369,10 @@
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;dolly-trebbles-cott&#34;&gt;Dolly Trebble&amp;rsquo;s Cott
 &lt;/h2&gt;&lt;p&gt;&lt;em&gt;Leave the path after about 900 meters and head towards the ruins on the right as indicated on the map&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/3.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/3.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/3_hu7622855276626416856.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/3_hu9312397614529969020.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/3_hu7622855276626416856.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/3_hu9312397614529969020.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Dolly Trebble&amp;rsquo;s House&#34;
@@ -1383,10 +1383,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/4.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/4.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/4_hu16345304047001645732.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/4_hu16720800397217547659.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/4_hu16345304047001645732.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/4_hu16720800397217547659.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Two fireplace uprights&#34;
@@ -1407,10 +1407,10 @@
 &lt;h2 id=&#34;detour-to-swincombe-intake&#34;&gt;Detour to Swincombe Intake
 &lt;/h2&gt;&lt;p&gt;Possible detour (An extra mile and a half)&lt;/p&gt;
 &lt;p&gt;If you continue walking along this road to the west, after around 1.2km you&amp;rsquo;ll come to the Swincombe Intake. This is a small reservoir and unusual art-deco building that collects water which is piped to Venford Reservoir to help fill it.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/5.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/5.jpg&#34;
 	width=&#34;1379&#34;
 	height=&#34;1034&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/5_hu4665597357261744881.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/5_hu5728950693950341041.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/5_hu4665597357261744881.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/5_hu5728950693950341041.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Swincombe Intake&#34;
@@ -1421,10 +1421,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/6.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/6.jpg&#34;
 	width=&#34;1379&#34;
 	height=&#34;1034&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/6_hu1318514862693328748.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/6_hu17771776252795976078.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/6_hu1318514862693328748.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/6_hu17771776252795976078.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Swincombe Intake Building with unusual Art Deco motif&#34;
@@ -1446,10 +1446,10 @@
     &gt;Dartmoor Preservation Association - Swincombe&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;fairy-bridge&#34;&gt;Fairy Bridge
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/7.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/7.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/7_hu5441803459562429711.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/7_hu5814093708131179584.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/7_hu5441803459562429711.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/7_hu5814093708131179584.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Swincombe Fairy Bridge&#34;
@@ -1462,10 +1462,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;There has been a bridge at this location for hundreds of years, and noted by William Crossing in the early 1900s. It has been replaced several times.&lt;/p&gt;
 &lt;p&gt;It earned its nickname as a small porcelain fairy was mounted to one of the supports by persons unknown. Unfortunately it was damaged and replaced at least once.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/9.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/9.jpg&#34;
 	width=&#34;222&#34;
 	height=&#34;265&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/9_hu6512689625451934635.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/9_hu12062394339149865727.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/9_hu6512689625451934635.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/9_hu12062394339149865727.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The original fairy&#34;
@@ -1476,10 +1476,10 @@
 		data-flex-basis=&#34;201px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/8.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/8.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/8_hu11175930284526409038.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/8_hu9542873085740530197.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/8_hu11175930284526409038.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/8_hu9542873085740530197.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;What was left in 2009&#34;
@@ -1493,10 +1493,10 @@
 &lt;p&gt;&lt;em&gt;Please note that apparently the bridge has been replaced since these pictures were taken and it&amp;rsquo;s unknown whether the Fairy returned&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;john-bishops-house&#34;&gt;John Bishop&amp;rsquo;s House
 &lt;/h2&gt;&lt;p&gt;&lt;em&gt;Cross the bridge&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/10.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/10.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/10_hu10843934809136553666.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/10_hu3346190434886939423.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/10_hu10843934809136553666.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/10_hu3346190434886939423.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;First view of John Bishop&amp;rsquo;s House&#34;
@@ -1508,10 +1508,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;John Bishop was the dry stone waller whose work we inspected earlier. He lived in this house in the 1800s when it was in much better condition. Originally thatched, it was later converted to slates and was reported to be in liveable condition as late as the 1960s.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/11.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/11.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/11_hu5364697601612537742.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/11_hu11167458371240373461.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/11_hu5364697601612537742.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/11_hu11167458371240373461.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Approaching the cobbled path to the door&#34;
@@ -1522,10 +1522,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/12.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/12.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/12_hu7851036787257221216.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/12_hu12108669978140320794.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/12_hu7851036787257221216.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/12_hu12108669978140320794.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Another view, showing the impressive porch&#34;
@@ -1536,10 +1536,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/13.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/13.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/13_hu17890871322445150130.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/13_hu15768358194640448908.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/13_hu17890871322445150130.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/13_hu15768358194640448908.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;It&amp;rsquo;s not known whether John Bishop built this house or just lived here&#34;
@@ -1550,10 +1550,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/14.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/14.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/14_hu12748365324117287336.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/14_hu12743295920990656943.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/14_hu12748365324117287336.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/14_hu12743295920990656943.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A view around the side of the house, showing the lintel of the upstairs fireplace&#34;
@@ -1564,10 +1564,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/15.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/15.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/15_hu10357562676416871386.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/15_hu12704743257956447196.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/15_hu10357562676416871386.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/15_hu12704743257956447196.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The medieval Tavistock to Ashburton packhorse track nearby&#34;
@@ -1578,10 +1578,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/16.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/16.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/16_hu10520240907189702786.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/16_hu4725445355790021893.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/16_hu10520240907189702786.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/16_hu4725445355790021893.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;More structures along the lane&#34;
@@ -1592,10 +1592,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/17.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/17.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/17_hu4114010147153072905.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/17_hu13087436190287790001.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/17_hu4114010147153072905.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/17_hu13087436190287790001.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;One of what was once a pair of gateposts that marked the entrance to Sir Thomas Tyrwhitt&amp;rsquo;s estate from the east&#34;
@@ -1606,10 +1606,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/18.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/18.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/18_hu3871801068575246298.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/18_hu16217793073298264583.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/18_hu3871801068575246298.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/18_hu16217793073298264583.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;An &amp;ldquo;AT Stone&amp;rdquo; repurposed as a gatepost&#34;
@@ -1622,10 +1622,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;You can just make out the A for Ashburton in this picture, with a slightly fainter T for Tavistock on the rear face. This was used to mark the packhorse trail and give the direction to the respective towns.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Once you&amp;rsquo;ve explored the ruins, return over the bridge and follow the road East&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/19.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/19.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/19_hu5314226879832664870.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/19_hu7247174276151311428.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/19_hu5314226879832664870.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/19_hu7247174276151311428.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking up the Swincombe Valley over the ford above the bridge&#34;
@@ -1636,10 +1636,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/20.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/20.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/20_hu10837043894145245848.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/20_hu15451125315467553597.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/20_hu10837043894145245848.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/20_hu15451125315467553597.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Stepping stones, as well as the bridge and ford&#34;
@@ -1650,10 +1650,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/21.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/21.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/21_hu8672808512172984142.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/21_hu4995911445888706996.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/21_hu8672808512172984142.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/21_hu4995911445888706996.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Mother and Foal Dartmoor Ponies - part of Anton Coaker&amp;rsquo;s Sherberton herd&#34;
@@ -1667,10 +1667,10 @@
 &lt;h2 id=&#34;gobbett-mine&#34;&gt;Gobbett Mine
 &lt;/h2&gt;&lt;p&gt;Left and right of the path just before we leave this road, is the site of Gobbett Tin Mine. There are remnants of this work still visible, as well as the very obvious tunnel.&lt;/p&gt;
 &lt;p&gt;The mine ran from 1836 to 1874 but did not produce large yields.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/24.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/24.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/24_hu8894605672484429208.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/24_hu613744149123055664.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/24_hu8894605672484429208.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/24_hu613744149123055664.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A mortar stone where a vertical stamp smashed up and down against larger pieces of ore to make them small enough for the mill&#34;
@@ -1681,10 +1681,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/25.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/25.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/25_hu1046543169162181358.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/25_hu14711796615143832141.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/25_hu1046543169162181358.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/25_hu14711796615143832141.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Another mortar stone&#34;
@@ -1695,10 +1695,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/22.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/22.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/22_hu13494612771652695216.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/22_hu9778418387245852581.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/22_hu13494612771652695216.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/22_hu9778418387245852581.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Base stone of a crazing mill that was used to crush tin ore. SX 64510 72800&#34;
@@ -1709,10 +1709,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/23.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/23.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/23_hu7996558747038612846.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/23_hu4686763782881551840.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/23_hu7996558747038612846.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/23_hu4686763782881551840.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Top stone for the mill&#34;
@@ -1724,10 +1724,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Ore from the adit would be smashed down small enough to fit into the top hole of this stone which sat above the base stone. The top stone was then rotated, possibly by pony or donkey or water power, to grind the ore just as grain is turned into wheat. The resulting fine sand was then smelted to form ingots.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/26.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/26.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/26_hu10162236955290324439.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/26_hu17751661279066500119.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/26_hu10162236955290324439.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/26_hu17751661279066500119.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A 200lb mould stone&#34;
@@ -1742,10 +1742,10 @@
 &lt;ul&gt;
 &lt;li&gt;The chemical symbol for Tin is &amp;ldquo;Sn&amp;rdquo; which stands for stannous or stannic. From this comes the Latin for Tin, Stannum. From that, comes Stannator (Stannary parliament), stannary laws, stannary towns etc.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/27.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/27.jpg&#34;
 	width=&#34;750&#34;
 	height=&#34;563&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/27_hu17063233149381931721.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/27_hu4763612136067603222.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/27_hu17063233149381931721.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/27_hu4763612136067603222.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The remains of a wheelpit that once held a 40 foot water wheel, fed by the Swincombe river&#34;
@@ -1768,10 +1768,10 @@
 &lt;li&gt;When the Swincombe Intake was built in the 1920s, the builders needed to run a pipe from there to the Venford Reservoir some 6 kilometers away. They opted to reuse and extend this adit to run that pipe through.&lt;/li&gt;
 &lt;li&gt;The tunnel continues through the hill in a straight line for 540 meters, emerging in a field 150m North West of The Forest Inn.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/28.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/28.jpg&#34;
 	width=&#34;1379&#34;
 	height=&#34;1034&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/28_hu4115761216358382712.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/28_hu12559694952075903032.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/28_hu4115761216358382712.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/28_hu12559694952075903032.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Approach to the Tunnel portal above the road&#34;
@@ -1782,10 +1782,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/29.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/29.jpg&#34;
 	width=&#34;1379&#34;
 	height=&#34;1034&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/29_hu14406166972559007180.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/29_hu3387851920040066452.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/29_hu14406166972559007180.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/29_hu3387851920040066452.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Securely locked portal&#34;
@@ -1796,10 +1796,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/30.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/30.jpg&#34;
 	width=&#34;1379&#34;
 	height=&#34;1034&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/hexworthy-to-swincombe/30_hu3315876297139300169.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/30_hu12128891383177726257.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/hexworthy-to-swincombe/30_hu3315876297139300169.jpg 480w, http://10.1.0.1:1313/p/hexworthy-to-swincombe/30_hu12128891383177726257.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The pipe inside&#34;
@@ -1823,15 +1823,15 @@
         </item>
         <item>
         <title>Meldon and the West Okemont Valley</title>
-        <link>https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/</link>
+        <link>http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/</link>
         <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/16.jpg" alt="Featured image of post Meldon and the West Okemont Valley" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+        <guid>http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/</guid>
+        <description>&lt;img src="http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/16.jpg" alt="Featured image of post Meldon and the West Okemont Valley" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;3 miles&lt;/b&gt;, walked by Keith Ryan and transcribed by Simon Avery&lt;/li&gt;
 &lt;li&gt; Grade: &lt;b&gt;Medium&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;https://dartmoorwalking.org/gpx/meldon-and-the-west-okemont-valley.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://10.1.0.1:1313/gpx/meldon-and-the-west-okemont-valley.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
 &lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.70783070429545%2c-4.038875722532252&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
     &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
     &lt;path d=&#34;M12 21v-4&#34; /&gt;
@@ -1844,10 +1844,10 @@
 &lt;li&gt; &lt;a href=&#34;https://w3w.co/coasters.branching.eggs&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;coasters.branching.eggs&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/map.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/map.jpg&#34;
 	width=&#34;1199&#34;
 	height=&#34;1094&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/map_hu1373525499794887876.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/map_hu4880015651806706611.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/map_hu1373525499794887876.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/map_hu4880015651806706611.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
@@ -1860,10 +1860,10 @@
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;Although a short walk of less than 3 miles, this area contains a huge amount of variation in terms of nature, geology and industrial history.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/1.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/1.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/1_hu8969676065855145788.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/1_hu4361910790668148423.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/1_hu8969676065855145788.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/1_hu4361910790668148423.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Our Parking for the day&#34;
@@ -1874,10 +1874,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/2.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/2.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/2_hu1568496484196341514.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/2_hu2992022653338864564.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/2_hu1568496484196341514.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/2_hu2992022653338864564.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The walk is started via the small gate on the left beside the toilets and then through the small gate beside the field gate&#34;
@@ -1888,10 +1888,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/3.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/3.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/3_hu13266158613000974877.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/3_hu13935140701832999965.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/3_hu13266158613000974877.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/3_hu13935140701832999965.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;After leaving the car park and reaching the woods, the first thing we pass is this magnificent wall now almost completely enveloped by a row of beech trees&#34;
@@ -1903,10 +1903,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;tramway&#34;&gt;Tramway
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/4.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/4.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/4_hu4205898190244241672.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/4_hu8850909605388798052.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/4_hu4205898190244241672.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/4_hu8850909605388798052.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;After descending into the wood and reaching level ground, there is a former bridge on the right with a gate between the abutments&#34;
@@ -1919,10 +1919,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;The bank is apparently a former tramway but there is no mention of it in the usual reference sources.&lt;/p&gt;
 &lt;h2 id=&#34;tin-adit&#34;&gt;Tin Adit
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/5.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/5.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/5_hu901818768616662236.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/5_hu9713404874248087352.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/5_hu901818768616662236.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/5_hu9713404874248087352.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Adit at SX 56375 92020&#34;
@@ -1936,10 +1936,10 @@
 &lt;p&gt;The staining on the ground by metalliferous leaching indicates that there are metal ores in this vicinity. This particular mine was dug for Tin.&lt;/p&gt;
 &lt;p&gt;Adits are horizontal tunnels used in mining. Some are used for access in and out and some are used for draining upper levels of water. This one is only open for about 10 meters, and was worked in tandem with the shafts on the slope immediately above it.&lt;/p&gt;
 &lt;p&gt;There would have been a spoil heap here when they were dug, but that has been removed by later activity.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/6.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/6.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/6_hu18170264512150419523.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/6_hu3453668382086708761.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/6_hu18170264512150419523.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/6_hu3453668382086708761.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Internal view of the adit&#34;
@@ -1956,10 +1956,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV120320&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Heritage Gateway MDV120320 - Mine shafts west of the West Okement River at Meldon Quarry&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/7.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/7.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/7_hu2171022521886485110.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/7_hu8482410996022513024.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/7_hu2171022521886485110.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/7_hu8482410996022513024.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Wooden footbridge at SX 56427 920833, over the West Okement River&#34;
@@ -1971,10 +1971,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;wheelpits&#34;&gt;Wheelpits
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/8.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/8.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/8_hu5930314628835203496.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/8_hu11882570486158049688.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/8_hu5930314628835203496.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/8_hu11882570486158049688.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Wheelpit&#34;
@@ -1992,10 +1992,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV20471&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Heritage Gateway	MDV20471 - Northern wheel pit at Meldon Quarry&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/9.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/9.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/9_hu697218298125763136.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/9_hu8177696226057554507.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/9_hu697218298125763136.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/9_hu8177696226057554507.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A flat stone by the wheelpit with two drilled holes. This may have been used to secure the wheel axle or flat rods&#34;
@@ -2006,10 +2006,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/10.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/10.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/10_hu7113114380584842683.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/10_hu16927043604116195241.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/10_hu7113114380584842683.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/10_hu16927043604116195241.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Another worked stone in the wheelpit. It has a square sectioned iron strut embedded in it with a large nut and washer still attached&#34;
@@ -2020,10 +2020,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/11.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/11.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/11_hu16168584167722856522.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/11_hu2825964259793585709.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/11_hu16168584167722856522.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/11_hu2825964259793585709.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The second and newer wheelpit, about 30 meters upstream. SX 56418 92043&#34;
@@ -2036,10 +2036,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;This second wheelpit housed a water wheel some 18 foot in diameter. The walls are better preserved than the first but quite overgrown. Behind it, there is a depression which is a &amp;ldquo;bob-pit&amp;rdquo;. This housed a large counter-weight which kept tension on the flat-rods as they worked to operate the quarry pumps.&lt;/p&gt;
 &lt;h2 id=&#34;meldon-viaduct&#34;&gt;Meldon Viaduct
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/12.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/12.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/12_hu4961482908979184868.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/12_hu11078733241879407907.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/12_hu4961482908979184868.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/12_hu11078733241879407907.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A view of Meldon Viaduct&#34;
@@ -2050,10 +2050,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/13.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/13.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/13_hu1509561932839088915.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/13_hu6475978509797317449.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/13_hu1509561932839088915.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/13_hu6475978509797317449.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Zoomed view showing the fine ironwork&#34;
@@ -2073,10 +2073,10 @@
     &gt;Wikipedia - Meldon Viaduct&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;waste-dumps&#34;&gt;Waste Dumps
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/14.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/14.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/14_hu12215147095253056461.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/14_hu12857297271485432110.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/14_hu12215147095253056461.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/14_hu12857297271485432110.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Waste Dumps&#34;
@@ -2093,10 +2093,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV120325&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Heritage Gateway MDV120325 - Tramway routes at Meldon Limestone Quarry&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/15.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/15.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/15_hu3855873470355382643.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/15_hu5847449474713741425.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/15_hu3855873470355382643.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/15_hu5847449474713741425.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Abutments each side of the track&#34;
@@ -2108,10 +2108,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;meldon-pool&#34;&gt;Meldon Pool
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/16.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/16.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/16_hu17601962863789090285.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/16_hu4534792419262231316.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/16_hu17601962863789090285.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/16_hu4534792419262231316.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Meldon Pool - peaceful now&#34;
@@ -2129,10 +2129,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV4826&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Heritage Gateway MDV4826 - Meldon Lime Works&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/17.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/17.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/17_hu13721012644095774819.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/17_hu15430444876876748753.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/17_hu13721012644095774819.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/17_hu15430444876876748753.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View across Meldon Poo showing the strata&#34;
@@ -2143,10 +2143,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/18.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/18.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/18_hu1966098410008601402.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/18_hu16852245996312458853.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/18_hu1966098410008601402.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/18_hu16852245996312458853.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Meldon Pool from the North&#34;
@@ -2157,10 +2157,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/19.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/19.jpg&#34;
 	width=&#34;1152&#34;
 	height=&#34;587&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/19_hu8629515179366336265.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/19_hu7925479952153715170.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/19_hu8629515179366336265.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/19_hu7925479952153715170.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;1841 Tithe Map&#34;
@@ -2173,10 +2173,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;The limestone quarry was smaller in 1841 with various buildings around it that disappeared as the quarry became larger. Beyond the buildings, an inclined plane can be seen extending northwards to take stone to the kiln.&lt;/p&gt;
 &lt;h2 id=&#34;weigh-house&#34;&gt;Weigh House
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/20.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/20.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/20_hu8740628876433219947.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/20_hu11659210772286728159.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/20_hu8740628876433219947.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/20_hu11659210772286728159.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Weigh House and Weighbridge south of Meldon Viaduct - 2019&#34;
@@ -2192,10 +2192,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV120246&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Heritage Gateway MDV120246 - Weigh House and weighbridge south of the Meldon Viaduct&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/21.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/21.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/21_hu16873309769006356397.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/21_hu8214497689567188760.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/21_hu16873309769006356397.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/21_hu8214497689567188760.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Remains of the weighbridge&#34;
@@ -2212,10 +2212,10 @@
     &gt;Grace&amp;rsquo;s Guide to British Industrial History - Barlett &amp;amp; Son&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;lime-kiln&#34;&gt;Lime Kiln
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/22.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/22.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/22_hu3602774724783767513.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/22_hu2446161202330035457.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/22_hu3602774724783767513.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/22_hu2446161202330035457.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The west lime kiln beside the track just north of the Pool, SX 56425 92261&#34;
@@ -2236,10 +2236,10 @@
 &lt;li&gt;&lt;strong&gt;Manufacturing&lt;/strong&gt;: Lime is used for all sorts of things, including paper, steel, sugar, paint and other processes.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Medicine&lt;/strong&gt;: In the right conditions, lime is also a disinfectant, and is used in purification methods.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/23.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/23.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/23_hu16513628216697403289.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/23_hu8996670929930591464.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/23_hu16513628216697403289.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/23_hu8996670929930591464.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The grate to the rear is blocked, although it would originally have vented to the surface allowing more fuel to be added during the burn. There are also two recesses in the walls&#34;
@@ -2250,10 +2250,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/24.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/24.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/24_hu15841643326142581257.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/24_hu8550394276882504895.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/24_hu15841643326142581257.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/24_hu8550394276882504895.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;To the left of the kiln is an inclined plane running back to Meldon Pool, which was then still a quarry&#34;
@@ -2264,10 +2264,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/25.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/25.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/25_hu15605687023005400235.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/25_hu12468970132320828998.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/25_hu15605687023005400235.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/25_hu12468970132320828998.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Showing the weighbridge, kiln and a gate leading back underneath the viaduct&#34;
@@ -2279,10 +2279,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;under-the-viaduct&#34;&gt;Under the viaduct
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/26.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/26.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/26_hu3874301253949379694.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/26_hu12371098526016512884.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/26_hu3874301253949379694.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/26_hu12371098526016512884.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The viaduct crosses the narrowest part of the gorge&#34;
@@ -2293,10 +2293,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/27.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/27.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/27_hu18090774308775048940.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/27_hu4518763769942121049.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/27_hu18090774308775048940.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/27_hu4518763769942121049.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The London &amp; South Western Railway Co. from Exeter reached Okehampton in 1871&#34;
@@ -2308,10 +2308,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;The Railway was extended as a single track as far as Lydford in 1874 and this involved building the viaduct, spanning the river for 165 metres.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/28.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/28.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/28_hu13532296827538585998.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/28_hu5408065335817823420.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/28_hu13532296827538585998.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/28_hu5408065335817823420.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;SX 56336 92436 - an important turning off the main track to reach the next footbridge over the river&#34;
@@ -2322,10 +2322,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/29.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/29.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/29_hu2423701470266024847.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/29_hu2311190809324632482.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/29_hu2423701470266024847.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/29_hu2311190809324632482.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The second footbridge at SX 56465 92734&#34;
@@ -2336,10 +2336,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/30.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/30.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/30_hu15163727480182717785.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/30_hu1814811130010356589.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/30_hu15163727480182717785.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/30_hu1814811130010356589.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Viaduct supports&#34;
@@ -2350,10 +2350,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/31.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/31.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/31_hu5832631013881758625.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/31_hu176477850738556069.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/31_hu5832631013881758625.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/31_hu176477850738556069.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Gate off the road at SX 56485 92328 - go through here&#34;
@@ -2367,10 +2367,10 @@
 &lt;p&gt;Through this gate and to the left is an early lime kiln.&lt;/p&gt;
 &lt;p&gt;To the right is a bank that supported a tramway to the gate for bringing out old waste from the finger dumps, and down ahead is the Turbine House.&lt;/p&gt;
 &lt;p&gt;The possible crushing house feature (seen below) is just out of sight on the right in this image&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/32.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/32.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/32_hu1686624111195614784.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/32_hu16929105365115667425.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/32_hu1686624111195614784.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/32_hu16929105365115667425.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;East Lime Kiln&#34;
@@ -2387,10 +2387,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV120326&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Heritage Gateway MDV120326 - Site of crushing sheds at Meldon Limestone Quarry&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/33.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/33.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/33_hu11427416647124148805.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/33_hu16504666489532136999.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/33_hu11427416647124148805.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/33_hu16504666489532136999.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The open fire grate through which can be seen the floor of the large &amp;ldquo;well&amp;rdquo; at the back of the kiln that was loaded from the top&#34;
@@ -2401,10 +2401,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/34.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/34.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/34_hu9802698246601052873.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/34_hu12573504780395894427.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/34_hu9802698246601052873.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/34_hu12573504780395894427.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The view up the &amp;ldquo;well&amp;rdquo; or &amp;ldquo;chimney&amp;rdquo; where the charge of layers of limestone and charcoal would have been tipped before burning&#34;
@@ -2415,10 +2415,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/35.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/35.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/35_hu1605125362127238257.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/35_hu5781740436275694749.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/35_hu1605125362127238257.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/35_hu5781740436275694749.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;This feature is built into the tramway bank between the kiln and the turbine house&#34;
@@ -2431,10 +2431,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;This wall may be part of the crushing house where waste was brought from the finger dumps to be crushed and taken past the kiln by tramway up to sidings for use as ballast on the railways, but this is not certain as little is recorded about it.&lt;/p&gt;
 &lt;h2 id=&#34;turbine-house&#34;&gt;Turbine House
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/36.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/36.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/36_hu7347816731006613874.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/36_hu12930979415008561300.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/36_hu7347816731006613874.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/36_hu12930979415008561300.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A small stone and brick building on the east bank of the river, at SX 56476 92166, is the Turbine House that provided electricity for the quarry&#34;
@@ -2450,10 +2450,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV120311&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Devon &amp;amp; Dartmoor HER - MDV120311 - Turbine building at Meldon Quarries&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/37.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/37.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/37_hu1751198474485420235.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/37_hu7437364028161313065.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/37_hu1751198474485420235.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/37_hu7437364028161313065.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Base where the turbine once sat. Note the water exit channel to the right&#34;
@@ -2466,10 +2466,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;My guess from this base and similar designs is that this was a horizontal turbine with a &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Pelton_wheel&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;pelton wheel&lt;/a&gt; with one or more jets coming in from the side to power them. A central shaft would then have transferred power into a generator mounted directly above it &lt;cite&gt;&amp;ndash;Simon&lt;/cite&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/38.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/38.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/38_hu16644539343796139392.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/38_hu14062721311123562839.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/38_hu16644539343796139392.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/38_hu14062721311123562839.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The steel beam would have been used to position the turbine, and also to lift its cover or generator for servicing&#34;
@@ -2480,10 +2480,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/39.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/39.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/39_hu16532391736959725226.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/39_hu11109841600283826627.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/39_hu16532391736959725226.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/39_hu11109841600283826627.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The brick lined channel where waste water was released, having spent its energy&#34;
@@ -2496,10 +2496,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;Somewhere near to the turbine house there were once corrugated iron buildings that housed crushers. These worked previous spoil heaps, crushing limestone which was then loaded onto wagons on an incline that led to the railway sidings on the eastern edge of Meldon Viaduct.&lt;/p&gt;
 &lt;h2 id=&#34;explosives-magazine&#34;&gt;Explosives Magazine
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/40.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/40.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/40_hu1948355693641425558.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/40_hu4027481263753377215.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/40_hu1948355693641425558.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/40_hu4027481263753377215.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The explosives magazine, SX 56550 92162&#34;
@@ -2512,10 +2512,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;This stone ruin was once where explosives for the quarry were kept. Before each shift, the explosives handler would take only enough from here for that shift&amp;rsquo;s operation.&lt;/p&gt;
 &lt;p&gt;Such handlers were often selected from the most careful and thorough of the workers, and would avoid carrying any iron tools, or even removed iron hobnails from their boots to reduce the chance of sparks.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/41.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/41.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/41_hu342892890065846402.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/41_hu10583225356997286441.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/41_hu342892890065846402.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/41_hu10583225356997286441.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking over the store, with the rockface at Meldon Pool in the background&#34;
@@ -2527,10 +2527,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Although the walls are strong, explosives stores often had very weak roofs - typically made of stick and oilcloth. If there was an accident, then the force would be sent upwards instead of outwards and repairs to the building would therefore be relatively quick.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/42.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/42.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/42_hu5638663440986619834.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/42_hu8719871130360290885.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/42_hu5638663440986619834.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/42_hu8719871130360290885.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A ground anchor nearby&#34;
@@ -2543,10 +2543,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;This ground anchor looks very similar to those used through the 20th century to secure straining wires for telegraph and electricity poles. It was probably employed for a similar purpose here.&lt;/p&gt;
 &lt;h2 id=&#34;mineshaft&#34;&gt;Mineshaft
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/43.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/43.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/43_hu241433772953792740.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/43_hu11182759449283698696.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/43_hu241433772953792740.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/43_hu11182759449283698696.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;This ringed-pit at SX 56518 92088 is probably a capped mineshaft&#34;
@@ -2562,10 +2562,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV120322&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Devon &amp;amp; Dartmoor HER - MDV120322 - Mine shafts east of Meldon Pool&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/44.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/44.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/44_hu4776807512474486853.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/44_hu17537166179223445328.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/44_hu4776807512474486853.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/44_hu17537166179223445328.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Trees growing in a pit. SX 56661 92136&#34;
@@ -2578,10 +2578,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;This pit is part of a old tin-working gert running down towards the river. The gert ends at SX 56589 92163 where a spoil heap starts and ends closer to the river at SX 56562 92171, quite high above the surrounding ground.&lt;/p&gt;
 &lt;h2 id=&#34;the-bottle-factory&#34;&gt;The Bottle Factory
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/45.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/45.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/45_hu4055198662474217717.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/45_hu15742182888761311928.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/45_hu4055198662474217717.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/45_hu15742182888761311928.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Concrete buildings at SX 5668 9204&#34;
@@ -2597,10 +2597,10 @@
 &lt;p&gt;From the late 19th century, investigations were being made concerning the production of granulite (a granular metamorphic rock) at Meldon. There seemed to be potential to establish both glass and china works at the site.&lt;/p&gt;
 &lt;p&gt;There was little activity until 1920 when a syndicate from London decided to build a glass factory. Two furnaces were installed out of a planned 12, and about 500 men were required. However, by February 1921, the men had been laid off and new owners were being sought.&lt;/p&gt;
 &lt;p&gt;No obvious features remain of a glass industry, but large amounts of broken glass fragments can be seen, mostly representing small medicine and cosmetic bottles.  &lt;cite&gt;&amp;ndash; (Western Morning News 29/03/1920&lt;/cite&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/46.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/46.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/46_hu3707898652587473173.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/46_hu11228260922686756853.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/46_hu3707898652587473173.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/46_hu11228260922686756853.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Red-a-Ven Brook and possible take-off for the turbine&#34;
@@ -2612,10 +2612,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;south-quarry&#34;&gt;South Quarry
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/47.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/47.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/47_hu9712133075991848096.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/47_hu8757590772761826313.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/47_hu9712133075991848096.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/47_hu8757590772761826313.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The track towards Meldon Dam with the Southern aplite quarry on the left, and the ruined pier of a bridge to the right&#34;
@@ -2626,10 +2626,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/48.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/48.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/48_hu7555650082588723041.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/48_hu3984733324748649325.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/48_hu7555650082588723041.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/48_hu3984733324748649325.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A short distance down the Red-a-Ven Brook from the buildings are the ruins of the piers of a bridge which once spanned the brook and which carried a short tramway from the quarry to the now-disappeared works&#34;
@@ -2640,10 +2640,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/49.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/49.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/49_hu13449823129975207456.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/49_hu16686280864797008617.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/49_hu13449823129975207456.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/49_hu16686280864797008617.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Just below the bridge abutments there is a small building&#34;
@@ -2654,10 +2654,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/50.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/50.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;320&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/50_hu10994925507227734910.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/50_hu6741690251609429107.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/50_hu10994925507227734910.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/50_hu6741690251609429107.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The South aplite quarry at SX 5663 9195&#34;
@@ -2668,10 +2668,10 @@
 		data-flex-basis=&#34;1200px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/51.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/51.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/51_hu14124616940980781431.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/51_hu15519768716442835618.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/51_hu14124616940980781431.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/51_hu15519768716442835618.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;At the far end of the quarry&#34;
@@ -2684,10 +2684,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;Here we can see the darker aplite disappearing into the ground, with the less desired striped chirt, similar to that at Meldon Pool.&lt;/p&gt;
 &lt;h2 id=&#34;meldon-dam&#34;&gt;Meldon Dam
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/52.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/52.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/52_hu18126355773510456593.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/52_hu18443015814353838811.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/52_hu18126355773510456593.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/52_hu18443015814353838811.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The path to Meldon Dam&#34;
@@ -2698,10 +2698,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/53.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/53.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/53_hu4332748015979305340.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/53_hu11940679717559215926.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/53_hu4332748015979305340.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/53_hu11940679717559215926.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A last look back at the Viaduct&#34;
@@ -2712,10 +2712,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/55.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/55.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/55_hu14549075709856607635.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/55_hu6856812123145385656.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/55_hu14549075709856607635.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/55_hu6856812123145385656.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Across the dam&#34;
@@ -2747,10 +2747,10 @@
     &gt;Wikipedia - Meldon Dam&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/56.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/56.jpg&#34;
 	width=&#34;5179&#34;
 	height=&#34;2913&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/56_hu14266736673665179294.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/56_hu5902862741102825294.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/56_hu14266736673665179294.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/56_hu5902862741102825294.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Surveyors&amp;rsquo; Theodolite Platform&#34;
@@ -2762,10 +2762,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;At each end of the dam are these structures. They are used to check the dam&amp;rsquo;s alignment and curvature to ensure there is no movement.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/57.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/57.jpg&#34;
 	width=&#34;5184&#34;
 	height=&#34;2916&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/57_hu14035809756355325665.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/57_hu13685478273847200241.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/57_hu14035809756355325665.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/57_hu13685478273847200241.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View from the pillar&#34;
@@ -2776,10 +2776,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/58.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/58.jpg&#34;
 	width=&#34;5184&#34;
 	height=&#34;2916&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/58_hu5736672392765613673.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/58_hu7702885038838806307.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/58_hu5736672392765613673.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/58_hu7702885038838806307.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View across the reservoir from the dam&#34;
@@ -2790,10 +2790,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/54.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/54.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/54_hu17040997573845321081.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/54_hu7825563354588391720.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/54_hu17040997573845321081.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/54_hu7825563354588391720.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The system for the spillway to control overflow when the dam is full&#34;
@@ -2805,10 +2805,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;This spillway appears to be a combination of a straight chute and stepped spillway features. These are designed to reduce the kinetic energy of overflowing water and thereby reduce erosion damage. This system is essentially an uncontrolled system in that there are no mechanical gates or vanes to regulate the rate of overflow at the top of the dam.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/59.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/59.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/59_hu2963622936681114907.jpg 480w, https://dartmoorwalking.org/p/meldon-and-the-west-okemont-valley/59_hu7801210250228973917.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/59_hu2963622936681114907.jpg 480w, http://10.1.0.1:1313/p/meldon-and-the-west-okemont-valley/59_hu7801210250228973917.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Commemorative plaque&#34;

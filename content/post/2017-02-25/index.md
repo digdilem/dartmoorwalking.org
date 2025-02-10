@@ -67,9 +67,9 @@ We can be fairly sure that this report was inaccurate thanks to <cite>William Cr
 
 In the distance we can see Merrivale Quarry.
 
-William Duke opened this as "Tor Quarry" in 1876, its operations absorbing the old sett-making craft previously carried out under the Steeple Tors. 
+William Duke opened this as "Tor Quarry" in 1876, its operations absorbing the old sett-making craft previously carried out under the Staple Tors. 
 
-As well as cutting setts, Granite from this quarry was also used for Gravestones, agricultural rollers. It also provided the facing for the New Scotland Yard building in London. 
+As well as cutting setts, Granite from this quarry was also used for Gravestones, agricultural rollers and the like. It also provided the facing for the New Scotland Yard building in London. 
 
 The quarry closed in 1997, spending its final years dressing imported stone from Norway. 
 

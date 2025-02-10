@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Stone Circle on Dartmoor Walking</title>
-        <link>https://dartmoorwalking.org/tags/stone-circle/</link>
+        <link>http://10.1.0.1:1313/tags/stone-circle/</link>
         <description>Recent content in Stone Circle on Dartmoor Walking</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Simon Avery</copyright>
-        <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/stone-circle/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://10.1.0.1:1313/tags/stone-circle/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Belstone to the Nine Maidens</title>
-        <link>https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/</link>
+        <link>http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/</link>
         <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/1.jpg" alt="Featured image of post Belstone to the Nine Maidens" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+        <guid>http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/</guid>
+        <description>&lt;img src="http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/1.jpg" alt="Featured image of post Belstone to the Nine Maidens" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;3 miles&lt;/b&gt;, walked by Keith Ryan and transcribed by Simon Avery&lt;/li&gt;
 &lt;li&gt; Grade: &lt;b&gt;Gentle&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;https://dartmoorwalking.org/gpx/belstone-to-the-nine-maidens.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://10.1.0.1:1313/gpx/belstone-to-the-nine-maidens.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
 &lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.72743671504466%2c-3.9547570363415407&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
     &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
     &lt;path d=&#34;M12 21v-4&#34; /&gt;
@@ -30,10 +30,10 @@
 &lt;li&gt; &lt;a href=&#34;https://w3w.co/dentures.droplet.alerting&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;dentures.droplet.alerting&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/map.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/map.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;626&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/map_hu1077548328700036110.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/map_hu8457485145277513377.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/map_hu1077548328700036110.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/map_hu8457485145277513377.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
@@ -47,10 +47,10 @@
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;Belstone is one of the prettiest villages on Dartmoor and retains a strong farming link. The large lawn slopes away down to an ancient ford and often has Dartmoor Ponies and sheep grazing. This was once a mining village, with the valley between Belstone and Sticklepath hugely industrialised, although it&amp;rsquo;s hard to see traces of that now.&lt;/p&gt;
 &lt;h2 id=&#34;belstone-stocks&#34;&gt;Belstone Stocks
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/1.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/1.jpg&#34;
 	width=&#34;480&#34;
 	height=&#34;360&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/1_hu1759660418544771424.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/1_hu15852888976488878023.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/1_hu1759660418544771424.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/1_hu15852888976488878023.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Belstone Stocks&#34;
@@ -66,10 +66,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.legendarydartmoor.co.uk/2016/03/20/belst_stock/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Legendary Dartmoor - Belstone Stocks&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;memorial-stone&#34;&gt;Memorial Stone
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/2.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/2.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/2_hu15435525627256278088.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/2_hu4004196907856514329.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/2_hu15435525627256278088.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/2_hu4004196907856514329.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Memorial stone on the village green. Apparently, it bore an oil lamp in times past&#34;
@@ -80,10 +80,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/3.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/3.jpg&#34;
 	width=&#34;480&#34;
 	height=&#34;360&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/3_hu8054625730015340827.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/3_hu13211468335928441158.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/3_hu8054625730015340827.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/3_hu13211468335928441158.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Inscription 1&#34;
@@ -98,10 +98,10 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;22.VI 1911
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GRV = George Rex V
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;King George V - Coronation 22 June 1911
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/4.jpg&#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/4.jpg&#34;
 	width=&#34;480&#34;
 	height=&#34;360&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/4_hu584039015165836325.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/4_hu17764262145868161485.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/4_hu584039015165836325.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/4_hu17764262145868161485.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Inscription 2&#34;
@@ -116,10 +116,10 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1952 2002
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Commemorating 50 years reign of Queen Elizabeth II who acceded to the throne on the death of King George VI on 6 Feb 1952&lt;/p&gt;
 &lt;h2 id=&#34;the-pound&#34;&gt;The Pound
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/5.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/5.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;776&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/5_hu15618301699766122873.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/5_hu4441291801692065648.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/5_hu15618301699766122873.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/5_hu4441291801692065648.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Notice on a nearby gate&#34;
@@ -131,10 +131,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;zion-chapel-and-telegraph-office&#34;&gt;Zion Chapel and Telegraph Office
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/6.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/6.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/6_hu3347632260501045252.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/6_hu12241885338867927888.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/6_hu3347632260501045252.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/6_hu12241885338867927888.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A building with a history&#34;
@@ -146,10 +146,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;The sign above the door says &amp;ldquo;Telegraph Office&amp;rdquo; and there is a more modern telephone box outside, also an old Post Collection Box in the wall.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/7.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/7.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/7_hu14686445037140376740.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/7_hu3512559755885586957.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/7_hu14686445037140376740.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/7_hu3512559755885586957.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Zion Chapel 1841&#34;
@@ -166,10 +166,10 @@
     &gt;Heritage Gateway MDV109484 - Zion Chapel, Belstone&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;st-mary-the-virgin-church&#34;&gt;St Mary the Virgin Church
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/8.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/8.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/8_hu721222307467985551.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/8_hu17833501077257063655.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/8_hu721222307467985551.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/8_hu17833501077257063655.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Inside the Church&#34;
@@ -181,10 +181,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;A church was first built here in 1260.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/9.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/9.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/9_hu3670633241079542954.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/9_hu3172189272779705801.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/9_hu3670633241079542954.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/9_hu3172189272779705801.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The font&#34;
@@ -196,10 +196,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;incised-celtic-cross&#34;&gt;Incised Celtic Cross
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/10.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/10.jpg&#34;
 	width=&#34;563&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/10_hu982270745482583174.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/10_hu4685640721456235409.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/10_hu982270745482583174.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/10_hu4685640721456235409.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Belstone incised cross&#34;
@@ -211,10 +211,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;This celtic cross has moved around. Believed carved between the 7th and 9th centuries AD, William Crossing writes that it was rediscovered at this chapel when some stairs were taken down in 1861. It was then taken to a nearby rectory and built into a wall. It was returned here in 1920 when the Old Rectory was abandoned&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/11.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/11.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;1333&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/11_hu5711632496573313798.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/11_hu12183483054572780803.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/11_hu5711632496573313798.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/11_hu12183483054572780803.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Interpretation&#34;
@@ -231,10 +231,10 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;For our walk, we leave the village now by taking the road to the Northwest, before turning left into a path and then out onto the moor at Old Rectory Farm - the site where the above cross spent some time&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;belstone-cleave-rocks&#34;&gt;Belstone Cleave Rocks
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/12.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/12.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/12_hu7302044139703104800.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/12_hu2155549431973223655.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/12_hu7302044139703104800.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/12_hu2155549431973223655.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;This impressive tor sits atop the cleave&#34;
@@ -245,10 +245,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/13.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/13.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/13_hu4400855127181248388.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/13_hu13334867930392454300.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/13_hu4400855127181248388.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/13_hu13334867930392454300.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking across Belstone Cleave to Ashbury Tor at SX 6050 9405&#34;
@@ -259,10 +259,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/14.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/14.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/14_hu4443594583246986048.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/14_hu12835850439898926793.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/14_hu4443594583246986048.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/14_hu12835850439898926793.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking up Belstone Cleave towards Scarey Tor, with the East Okement River down in the valley&#34;
@@ -273,10 +273,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/15.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/15.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/15_hu1942311106897733578.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/15_hu14474099736242029190.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/15_hu1942311106897733578.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/15_hu14474099736242029190.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking North, we can see Exmoor in the far distance on a clear day&#34;
@@ -289,10 +289,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;We turn back south now, but follow the contour path due Southwards around the enclosures&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;watchett-hill-cottage&#34;&gt;Watchett Hill Cottage
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/16.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/16.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/16_hu13365031499644193480.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/16_hu10881495806347925947.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/16_hu13365031499644193480.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/16_hu10881495806347925947.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The ruin of Watchet Hill Cottage&#34;
@@ -308,10 +308,10 @@
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;The mean dwelling house of Watchet Hill faced north. Plain, tar-pitched, and slated, it huddled on the great slope - a blot against the gleaming furzes that rippled to its side.  &lt;cite&gt;&amp;ndash;Eden Phillpotts, The Secret Woman. 1905&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/17.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/17.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/17_hu3401231358153124106.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/17_hu13159697924977568748.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/17_hu3401231358153124106.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/17_hu13159697924977568748.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View to Yes Tor (Central) with West Mill Tor slightly to our right&#34;
@@ -324,10 +324,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Follow the path South until we&amp;rsquo;re clear of the walls on our left, then turn left and walk Eastwards until&amp;hellip;&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;nine-maidens&#34;&gt;Nine Maidens
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/18.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/18.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/18_hu17080934023245573882.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/18_hu14190205689011115516.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/18_hu17080934023245573882.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/18_hu14190205689011115516.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Nine Maidens&#34;
@@ -347,10 +347,10 @@
     &gt;Legendary Dartmoor - Nine Maidens&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;benchmark&#34;&gt;Benchmark
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/19.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/19.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/19_hu14553046740908745985.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/19_hu15438477589546411252.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/19_hu14553046740908745985.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/19_hu15438477589546411252.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Wall corner at SX 61315 93148 with benchmark&#34;
@@ -362,10 +362,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Benchmarks in stone walls are rare on Dartmoor - farmers know that stone is often moved when walls are rebuilt, although perhaps this example was thought too large to be easily relocated.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/20.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/20.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/20_hu17911137006188727019.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/20_hu6206959079716127836.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/20_hu17911137006188727019.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/20_hu6206959079716127836.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Closer view&#34;
@@ -380,10 +380,10 @@
     &gt;Benchmarks&lt;/a&gt; are fixed reference points used for surveying, often employed by the &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Ordnance_Survey&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Ordnance Survey&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Follow the paths to the Northeast as we start to descend back to the Village&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/21.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/21.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/21_hu6826392591444737123.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/21_hu2526136486874617713.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/21_hu6826392591444737123.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/21_hu2526136486874617713.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Tarka Trail marker as we rejoin the road&#34;
@@ -397,10 +397,10 @@
 &lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://www.northdevonbiosphere.org.uk/the-tarka-trail.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Tarka Trail&lt;/a&gt;  is a long distance foot and cyclepath taking a figure-8 tour of places described by Henry Williamson in his 1927 novel Tarka the Otter.&lt;/p&gt;
 &lt;h2 id=&#34;water-works&#34;&gt;Water Works
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/22.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/22.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;772&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/22_hu9406969936543169100.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/22_hu11092044411351051038.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/22_hu9406969936543169100.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/22_hu11092044411351051038.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Plaque at the Water works&#34;
@@ -411,10 +411,10 @@
 		data-flex-basis=&#34;310px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/23.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/23.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/23_hu931070102872595631.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/23_hu6092229112590047948.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/23_hu931070102872595631.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/23_hu6092229112590047948.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Water Works building. Behind it is a large underground reservoir&#34;
@@ -426,10 +426,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;the-tors&#34;&gt;The Tors
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/24.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/24.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/24_hu2527763798792570113.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/24_hu9803576728447923934.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/24_hu2527763798792570113.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/24_hu9803576728447923934.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Tors, where thirst and hunger can be slaked&#34;
@@ -440,10 +440,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/25.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/25.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/25_hu3972561358957279383.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/25_hu12964126984640019167.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/25_hu3972561358957279383.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/25_hu12964126984640019167.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;An interesting pound-like area on the end of a row of cottages&#34;
@@ -454,10 +454,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/26.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/26.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/26_hu15919670176066163198.jpg 480w, https://dartmoorwalking.org/p/belstone-to-the-nine-maidens/26_hu6467129222892285560.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/26_hu15919670176066163198.jpg 480w, http://10.1.0.1:1313/p/belstone-to-the-nine-maidens/26_hu6467129222892285560.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The gable-end of a picturesque thatched cottage&#34;

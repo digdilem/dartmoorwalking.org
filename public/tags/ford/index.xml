@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Ford on Dartmoor Walking</title>
-        <link>https://dartmoorwalking.org/tags/ford/</link>
+        <link>http://10.1.0.1:1313/tags/ford/</link>
         <description>Recent content in Ford on Dartmoor Walking</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Simon Avery</copyright>
-        <lastBuildDate>Sat, 01 Feb 2025 20:27:31 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/ford/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 01 Feb 2025 20:27:31 +0000</lastBuildDate><atom:link href="http://10.1.0.1:1313/tags/ford/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Lydford High Down to Doe Tor Farm Ruins</title>
-        <link>https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/</link>
+        <link>http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/</link>
         <pubDate>Sat, 01 Feb 2025 20:27:31 +0000</pubDate>
         
-        <guid>https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/</guid>
-        <description>&lt;img src="https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/7.jpg" alt="Featured image of post Lydford High Down to Doe Tor Farm Ruins" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+        <guid>http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/</guid>
+        <description>&lt;img src="http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/7.jpg" alt="Featured image of post Lydford High Down to Doe Tor Farm Ruins" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;3 miles&lt;/b&gt;, walked by Keith Ryan and transcribed by Simon Avery&lt;/li&gt;
 &lt;li&gt; Grade: &lt;b&gt;Medium&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;https://dartmoorwalking.org/gpx/lydford-high-down-to-doetor-farm-ruins.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://10.1.0.1:1313/gpx/lydford-high-down-to-doetor-farm-ruins.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
 &lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.64913%2c-4.08743&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
     &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
     &lt;path d=&#34;M12 21v-4&#34; /&gt;
@@ -30,10 +30,10 @@
 &lt;li&gt; &lt;a href=&#34;https://w3w.co/lake.squirts.greeting&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;lake.squirts.greeting&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/map.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/map.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;686&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/map_hu15919089803218460082.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/map_hu13295132025258551627.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/map_hu15919089803218460082.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/map_hu13295132025258551627.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
@@ -47,10 +47,10 @@
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;This fairly gentle walk has plenty to see along the way. We start with a walk across flattish open moorland to three seats with good views. Then we cross over the River Lyd by footbridge and walk down to the ruined Doe Tor Farmstead. Leaving there, we can return up the river, or detour across the Lyd by stepping stones to the abandoned 19th Century mine, Wheal Mary Emma.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Once parked, head off due East along a worn path for around 350 meters until you see a bench to the left.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/1.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/1.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;674&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/1_hu17873430081476998817.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/1_hu12670266968128763198.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/1_hu17873430081476998817.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/1_hu12670266968128763198.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Weather Worn Bench. SX 52918 85436&#34;
@@ -67,10 +67,10 @@
 &lt;li&gt;Brat Tor (SX 539 855, elevation 452 metres /1482 feet) (Also known as Brai, Bra or Bray Tor)&lt;/li&gt;
 &lt;li&gt;Sharp Tor (SX 550 848, elevation 519 metres / 1702 feet).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/2.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/2.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/2_hu11793953417743183647.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/2_hu4099021791587707219.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/2_hu11793953417743183647.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/2_hu4099021791587707219.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Zoomed picture of Arms tor, 1.4km distant. The &amp;ldquo;pimple&amp;rdquo; shown more clearly to be Great Links Tor behind&#34;
@@ -81,10 +81,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/3.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/3.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/3_hu1804398952458636506.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/3_hu5166481763531254139.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/3_hu1804398952458636506.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/3_hu5166481763531254139.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Even more zoomed, showing the Triangulation Pillar on Great Links Tor, 2.43km distant&#34;
@@ -95,10 +95,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/4.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/4.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/4_hu10434808228998145118.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/4_hu15494650479852845052.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/4_hu10434808228998145118.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/4_hu15494650479852845052.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Brat Tor, showing Widgery Cross&#34;
@@ -116,10 +116,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.legendarydartmoor.co.uk/2016/03/19/widg_crss/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Legendary Dartmoor - Widgery Cross&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/5.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/5.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/5_hu2383465328257847227.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/5_hu17252613982926197282.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/5_hu2383465328257847227.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/5_hu17252613982926197282.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Zoomed view of Widgery Cross&#34;
@@ -132,10 +132,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;When ready, continue Eastward along the path until you approach the River Lyd&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;building-or-enclosure&#34;&gt;Building or Enclosure
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/6.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/6.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;598&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/6_hu17985299293710036376.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/6_hu4810994458784993944.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/6_hu17985299293710036376.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/6_hu4810994458784993944.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Across the river, stone walls. SX 53230 85473&#34;
@@ -150,10 +150,10 @@
 &lt;p&gt;It does not appear in the tithe map of 1848, nor the OS 25-inch map from 1884, but does show up on the revised 1904 version. The mine was active in the 1860s so the timings are not far out if it was related.&lt;/p&gt;
 &lt;p&gt;Alternatively, it could be a farming or warren enclosure rather than a building.&lt;/p&gt;
 &lt;h2 id=&#34;black-rock-seats&#34;&gt;Black Rock Seats
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/10.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/10.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/10_hu12881899588971108774.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/10_hu18064858012821596025.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/10_hu12881899588971108774.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/10_hu18064858012821596025.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Black Rock, SX 53242 85388&#34;
@@ -165,10 +165,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;There are two somewhat hidden benches at Black Rock, shown here by the white circles.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/11.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/11.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/11_hu9826561598651382103.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/11_hu3708468151343028778.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/11_hu9826561598651382103.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/11_hu3708468151343028778.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Northern Seat&#34;
@@ -179,10 +179,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/12.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/12.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/12_hu7005108742780085824.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/12_hu2107396627656163223.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/12_hu7005108742780085824.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/12_hu2107396627656163223.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Southern Seat with Plaque&#34;
@@ -224,10 +224,10 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;AS I GAZED AT THE CROSS ON &amp;#34;WIDGERY TOR&amp;#34;.
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;When ready, turn Left and follow the riverbank Northwards to High Down Ford and Bridge&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;high-down-ford-and-bridge&#34;&gt;High Down Ford and Bridge
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/7.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/7.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/7_hu11207336846359924930.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/7_hu13969646129097691328.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/7_hu11207336846359924930.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/7_hu13969646129097691328.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;High Down Ford and Bridge crossing the River Lyd. SX 53162 85723&#34;
@@ -239,10 +239,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Cross the River and turn right, following the path down on the other bank until you reach and cross the footbridge over Doe Tor Brook&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/8.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/8.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/8_hu7226520693100876335.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/8_hu5125543031900989762.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/8_hu7226520693100876335.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/8_hu5125543031900989762.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking back at the Ford&#34;
@@ -253,10 +253,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/9.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/9.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/9_hu8852648206634230073.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/9_hu8907136715421042861.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/9_hu8852648206634230073.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/9_hu8907136715421042861.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Preferring wet hooves to using the stepping stones&#34;
@@ -268,10 +268,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;doe-tor-bridge-and-falls&#34;&gt;Doe Tor Bridge and Falls
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/13.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/13.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/13_hu1667595989671439985.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/13_hu6225283855053737416.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/13_hu1667595989671439985.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/13_hu6225283855053737416.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Doe Tor Bridge at the entrance to Doe Tor Farm&#34;
@@ -282,10 +282,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/14.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/14.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/14_hu9756820270491846709.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/14_hu11246404504604127691.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/14_hu9756820270491846709.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/14_hu11246404504604127691.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Doe Tor Falls - above and below the bridge, obscured by Furze&#34;
@@ -297,10 +297,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;doe-tor-farm&#34;&gt;Doe Tor Farm
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/15.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/15.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/15_hu474198115690410015.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/15_hu11628965244049504822.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/15_hu474198115690410015.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/15_hu11628965244049504822.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Entering the farm&amp;rsquo;s enclosures from the North&#34;
@@ -320,10 +320,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/39823/MoD_DOE_TOR.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;MOD Historic Site Survey (PDF)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/32.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/32.jpg&#34;
 	width=&#34;1224&#34;
 	height=&#34;861&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/32_hu14580182849050746004.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/32_hu14095579238078044344.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/32_hu14580182849050746004.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/32_hu14095579238078044344.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Plan of Doe Tor Farm - Wessex Archaeology, part of the above report&#34;
@@ -334,10 +334,10 @@
 		data-flex-basis=&#34;341px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/17.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/17.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/17_hu8195763869816910626.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/17_hu5733803584666882060.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/17_hu8195763869816910626.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/17_hu5733803584666882060.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The ruined outhouse&#34;
@@ -348,10 +348,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/18.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/18.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/18_hu7518908100171992072.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/18_hu6251157756496287916.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/18_hu7518908100171992072.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/18_hu6251157756496287916.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Another view of the outhouse&#34;
@@ -362,10 +362,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/19.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/19.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/19_hu3876543603795769020.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/19_hu7617127535202540066.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/19_hu3876543603795769020.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/19_hu7617127535202540066.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Recess in North wall of outhouse&#34;
@@ -376,10 +376,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/20.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/20.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/20_hu16309202631775869015.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/20_hu3352994385282436694.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/20_hu16309202631775869015.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/20_hu3352994385282436694.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Part of the Calf House&#34;
@@ -390,10 +390,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/21.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/21.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/21_hu13304183116717586877.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/21_hu11653760563255319375.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/21_hu13304183116717586877.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/21_hu11653760563255319375.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Possibly the lean-to kitchen&#34;
@@ -404,10 +404,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/16.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/16.jpg&#34;
 	width=&#34;799&#34;
 	height=&#34;493&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/16_hu11981313098791777102.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/16_hu8760805758449282882.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/16_hu11981313098791777102.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/16_hu8760805758449282882.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;How the farm looked in 1910 - (MOD/Wessex Archaeology)&#34;
@@ -418,10 +418,10 @@
 		data-flex-basis=&#34;388px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/34.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/34.jpg&#34;
 	width=&#34;563&#34;
 	height=&#34;409&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/34_hu9712842661383984500.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/34_hu12130001810385995373.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/34_hu9712842661383984500.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/34_hu12130001810385995373.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;And again in 1969 - (MOD/Wessex Archaeology)&#34;
@@ -432,10 +432,10 @@
 		data-flex-basis=&#34;330px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/22.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/22.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/22_hu12489979248928923809.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/22_hu12567901186872002885.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/22_hu12489979248928923809.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/22_hu12567901186872002885.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The &amp;ldquo;Lane&amp;rdquo; out to the moor&amp;#34;&#34;
@@ -447,10 +447,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;The lane is now used for penning/inspecting animals, hence the hurdles. The top left area in this picture are the ruins of the Shippon. The ruins to the top/right are the Calf House.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/23.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/23.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/23_hu11384877992219180375.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/23_hu7926251072963828646.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/23_hu11384877992219180375.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/23_hu7926251072963828646.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Possibly part of the garden&#34;
@@ -462,10 +462,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;There is apparently a millstone built in the walls hereabouts, but possibly now overgrown by turf.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/27.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/27.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/27_hu11995327131951646950.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/27_hu10084425134051895134.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/27_hu11995327131951646950.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/27_hu10084425134051895134.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Possibly site of a cider crushing edge runner stone. SX 53506 84983&#34;
@@ -478,10 +478,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;The above stone was well documented here. Flat on one side and curved on the other, to run against the outer curve of the circular trough. It was reported stolen in 2005.&lt;/p&gt;
 &lt;h2 id=&#34;doe-tor&#34;&gt;Doe Tor
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/26.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/26.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/26_hu4784874448108135133.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/26_hu9746573646783533250.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/26_hu4784874448108135133.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/26_hu9746573646783533250.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View of Doe Tor from the farm&#34;
@@ -492,10 +492,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/24.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/24.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/24_hu5013363126333814381.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/24_hu6722717163027304355.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/24_hu5013363126333814381.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/24_hu6722717163027304355.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Abandoned stone trough. SX 53755 84874&#34;
@@ -507,10 +507,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;This trough was abandoned soon after carving started. It&amp;rsquo;s on the near slope of Doe Tor, about 125 meters from the house.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/25.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/25.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/25_hu303159206347197912.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/25_hu12360376606692464194.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/25_hu303159206347197912.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/25_hu12360376606692464194.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;More context to the location of the abandoned trough&#34;
@@ -524,10 +524,10 @@
 &lt;h2 id=&#34;return-route---a-choice&#34;&gt;Return route - a choice
 &lt;/h2&gt;&lt;p&gt;When you leave the farm and cross over Doe Tor Bridge, you can either return back up the river to High Down Ford and, after crossing the Lyd, follow the hedge back to the car park taking in the mining site of Wheal Mary Emma tin mine.&lt;/p&gt;
 &lt;p&gt;Alternatively, if the weather is kind and the water level is low you may wish to brave a river crossing by some stepping stones. This path is marked in purple on the map and the rest of the description here follows that trail.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/29.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/29.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/29_hu6964828403290848378.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/29_hu3537552266183059295.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/29_hu6964828403290848378.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/29_hu3537552266183059295.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A mining pit beside the path down to the River Lyd&#34;
@@ -538,10 +538,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/31.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/31.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/31_hu1825731047088448955.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/31_hu14862927909011073554.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/31_hu1825731047088448955.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/31_hu14862927909011073554.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Lyd crossing at Wheal Mary Emma&#34;
@@ -552,10 +552,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/33.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/33.jpg&#34;
 	width=&#34;563&#34;
 	height=&#34;350&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/33_hu394822132023722695.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/33_hu944705949084655705.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/33_hu394822132023722695.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/33_hu944705949084655705.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;1920 Photograph showing the footbridge then - Wessex Archaeology&#34;
@@ -567,10 +567,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;wheal-mary-emma-purple-route&#34;&gt;Wheal Mary Emma (Purple Route)
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/28.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/28.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/28_hu12217132154611219906.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/28_hu7038990571821413485.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/28_hu12217132154611219906.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/28_hu7038990571821413485.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Wheal Mary Emma remains&#34;
@@ -581,10 +581,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/30.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/30.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/30_hu13139927014044748290.jpg 480w, https://dartmoorwalking.org/p/lydford-high-down-to-doe-tor-farm-ruins/30_hu14540825839605678797.jpg 1024w&#34;
+	srcset=&#34;http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/30_hu13139927014044748290.jpg 480w, http://10.1.0.1:1313/p/lydford-high-down-to-doe-tor-farm-ruins/30_hu14540825839605678797.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Main working platform and building remains of Wheal Mary Emma&#34;
