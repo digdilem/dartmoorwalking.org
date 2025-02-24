@@ -249,8 +249,8 @@
     &gt;Debian&lt;/a&gt;) for development&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://code.visualstudio.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;VSCode&lt;/a&gt; for page editing&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://utteranc.es/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Utterances&lt;/a&gt; to allow commenting&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;&lt;a class=&#34;link&#34; href=&#34;https://utteranc.es/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Utterances&lt;/a&gt; to allow commenting&lt;/del&gt; (Currently disabled)&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.openstreetmap.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;OpenStreetMap&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://leafletjs.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Leaflet&lt;/a&gt; for the Map of Walks, together with custom Perl to generate the Popups at build time&lt;/li&gt;
@@ -276,12 +276,12 @@
 &lt;h3 id=&#34;how-we-use-cookies&#34;&gt;How we use cookies
 &lt;/h3&gt;&lt;p&gt;We use cookies to:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Provide feedback via Utterances which, if you choose to log into Github to comment on this site, remembers who you are. Github have their own privacy policy.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Provide feedback via Utterances which, if you choose to log into Github to comment on this site, remembers who you are. Github have their own privacy policy.&lt;/del&gt;  (Utterences is currently disabled)&lt;/li&gt;
 &lt;li&gt;Anonymous user site preferences. (Eg, to remember if you want to site in Light or Dark mode)&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.cloudflare.com/en-gb/web-analytics/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Cloudflare Web Analytics&lt;/a&gt; runs to measure website performance. It does not track individuals.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;No Dartmoor Walking cookies require opt-in to satisfy GDPR so a user prompt is not required.&lt;/p&gt;
+&lt;p&gt;No cookies used on this website require opt-in to satisfy GDPR requirements so a user prompt is not required.&lt;/p&gt;
 &lt;h3 id=&#34;how-to-manage-cookies&#34;&gt;How to manage cookies
 &lt;/h3&gt;&lt;p&gt;You can control and/or delete cookies from your browser as you wish. Please see your browser&amp;rsquo;s documentation.&lt;/p&gt;
 </description>

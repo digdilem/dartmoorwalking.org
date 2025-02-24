@@ -72,7 +72,7 @@ This site is made entirely from [FOSS Software](https://en.wikipedia.org/wiki/Fr
 * [Stack](https://stack.jimmycai.com/) for the Hugo theme used, heavily modified
 * Linux (Specifically [Debian](https://www.debian.org/)) for development
 * [VSCode](https://code.visualstudio.com/) for page editing
-* [Utterances](https://utteranc.es/) to allow commenting
+* ~~[Utterances](https://utteranc.es/) to allow commenting~~ (Currently disabled)
 * [OpenStreetMap](https://www.openstreetmap.org/) and [Leaflet](https://leafletjs.com) for the Map of Walks, together with custom Perl to generate the Popups at build time
 
 And also
@@ -96,11 +96,11 @@ Cookies are small text files that are placed on your computer by websites that y
 
 We use cookies to:  
 
-* Provide feedback via Utterances which, if you choose to log into Github to comment on this site, remembers who you are. Github have their own privacy policy.
+* ~~Provide feedback via Utterances which, if you choose to log into Github to comment on this site, remembers who you are. Github have their own privacy policy.~~  (Utterences is currently disabled)
 * Anonymous user site preferences. (Eg, to remember if you want to site in Light or Dark mode)
 * [Cloudflare Web Analytics](https://www.cloudflare.com/en-gb/web-analytics/) runs to measure website performance. It does not track individuals. 
 
-No Dartmoor Walking cookies require opt-in to satisfy GDPR so a user prompt is not required.
+No cookies used on this website require opt-in to satisfy GDPR requirements so a user prompt is not required.
 
 ### How to manage cookies
 
