@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Green Lane on Dartmoor Walking</title>
-        <link>http://10.1.0.1:1313/tags/green-lane/</link>
+        <link>https://dartmoorwalking.org/tags/green-lane/</link>
         <description>Recent content in Green Lane on Dartmoor Walking</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Simon Avery</copyright>
-        <lastBuildDate>Mon, 16 Dec 2024 10:42:16 +0000</lastBuildDate><atom:link href="http://10.1.0.1:1313/tags/green-lane/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Dec 2024 10:42:16 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/green-lane/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Widecombe</title>
-        <link>http://10.1.0.1:1313/p/widecombe/</link>
+        <link>https://dartmoorwalking.org/p/widecombe/</link>
         <pubDate>Mon, 16 Dec 2024 10:42:16 +0000</pubDate>
         
-        <guid>http://10.1.0.1:1313/p/widecombe/</guid>
-        <description>&lt;img src="http://10.1.0.1:1313/p/widecombe/1.jpg" alt="Featured image of post Widecombe" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+        <guid>https://dartmoorwalking.org/p/widecombe/</guid>
+        <description>&lt;img src="https://dartmoorwalking.org/p/widecombe/1.jpg" alt="Featured image of post Widecombe" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;4 miles&lt;/b&gt;, walked by Keith Ryan and transcribed by Simon Avery&lt;/li&gt;
 &lt;li&gt; Grade: &lt;b&gt;Medium&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://10.1.0.1:1313/gpx/widecombe.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;https://dartmoorwalking.org/gpx/widecombe.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
 &lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.57759014440235%2c-3.810615239687079&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
     &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
     &lt;path d=&#34;M12 21v-4&#34; /&gt;
@@ -30,10 +30,10 @@
 &lt;li&gt; &lt;a href=&#34;https://w3w.co/mornings.cement.regret&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;mornings.cement.regret&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/map.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/map.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;1038&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/map_hu7416177703522119591.jpg 480w, http://10.1.0.1:1313/p/widecombe/map_hu7427628084525621430.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/map_hu7416177703522119591.jpg 480w, https://dartmoorwalking.org/p/widecombe/map_hu7427628084525621430.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
@@ -45,10 +45,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;widecombe-village&#34;&gt;Widecombe Village
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/1.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/1.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/1_hu5712950533189671060.jpg 480w, http://10.1.0.1:1313/p/widecombe/1_hu15365047766363618513.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/1_hu5712950533189671060.jpg 480w, https://dartmoorwalking.org/p/widecombe/1_hu15365047766363618513.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Widecombe Church of St. Pancras&#34;
@@ -64,10 +64,10 @@
 &lt;blockquote&gt;
 &lt;p&gt;Lady Sayer was still a tremendous force on Dartmoor into the late 1980s. Respected, and perhaps a little feared, by the staff at Dartmoor National Park Authority when I worked there &lt;cite&gt;&amp;ndash; Simon&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/3.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/3.jpg&#34;
 	width=&#34;1152&#34;
 	height=&#34;610&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/3_hu10059358767430622801.jpg 480w, http://10.1.0.1:1313/p/widecombe/3_hu2268513063994773653.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/3_hu10059358767430622801.jpg 480w, https://dartmoorwalking.org/p/widecombe/3_hu2268513063994773653.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;1843 Tithe Map of the Parish. Copyright Devon County Council&#34;
@@ -78,10 +78,10 @@
 		data-flex-basis=&#34;453px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/12.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/12.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/12_hu3341925814726093499.jpg 480w, http://10.1.0.1:1313/p/widecombe/12_hu12761361178229411388.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/12_hu3341925814726093499.jpg 480w, https://dartmoorwalking.org/p/widecombe/12_hu12761361178229411388.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The inscribed time capsule stone on The Village Green&#34;
@@ -98,10 +98,10 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ON THE 9th DAY OF SEPTEMBER IN THE YEAR 2000 AD
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;NOT TO BE OPENED FOR 100 YEARS
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;Follow the road through around the church&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/4.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/4.jpg&#34;
 	width=&#34;1838&#34;
 	height=&#34;1034&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/4_hu5568013123857676528.jpg 480w, http://10.1.0.1:1313/p/widecombe/4_hu8966842238574155530.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/4_hu5568013123857676528.jpg 480w, https://dartmoorwalking.org/p/widecombe/4_hu8966842238574155530.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Village Square&#34;
@@ -115,10 +115,10 @@
 &lt;blockquote&gt;
 &lt;p&gt;Please take a moment to admire the stone walls and pavers. As a young YTS employee of DNPA in the Winter of 1988, I was the labourer who mixed the mortar for the mason who built these walls and repaved the standing&amp;hellip; &lt;cite&gt;&amp;ndash; Simon&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/5.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/5.jpg&#34;
 	width=&#34;775&#34;
 	height=&#34;1034&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/5_hu17385157909018129656.jpg 480w, http://10.1.0.1:1313/p/widecombe/5_hu16234331951599147835.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/5_hu17385157909018129656.jpg 480w, https://dartmoorwalking.org/p/widecombe/5_hu16234331951599147835.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Old Yew and it&amp;rsquo;s impressive base which predates the surrounding stonework considerably&#34;
@@ -130,10 +130,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;The impressive base for this yew was originally constructed to hold a large granite cross, which is now located within the graveyard.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/6.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/6.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/6_hu14843952473866483266.jpg 480w, http://10.1.0.1:1313/p/widecombe/6_hu1934539587660132072.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/6_hu14843952473866483266.jpg 480w, https://dartmoorwalking.org/p/widecombe/6_hu1934539587660132072.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Church House&#34;
@@ -149,10 +149,10 @@
 &lt;p&gt;It then became a &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Poorhouse&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Poorhouse&lt;/a&gt; then in Victorian Times, a School.  Currently it is owned by The National Trust and a shop and craft centre.&lt;/p&gt;
 &lt;h2 id=&#34;widecombe-graveyard&#34;&gt;Widecombe Graveyard
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/14.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/14.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/14_hu1143367792190487681.jpg 480w, http://10.1.0.1:1313/p/widecombe/14_hu12607590709809505301.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/14_hu1143367792190487681.jpg 480w, https://dartmoorwalking.org/p/widecombe/14_hu12607590709809505301.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Lych Gate and Coffin Stone&#34;
@@ -165,10 +165,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;Note the large flat-topped stone in the gate. This is for coffins to be rested on as they pass through the &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Lychgate&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;lych gate&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/41.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/41.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/41_hu3231136952132768502.jpg 480w, http://10.1.0.1:1313/p/widecombe/41_hu8158082450147623730.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/41_hu3231136952132768502.jpg 480w, https://dartmoorwalking.org/p/widecombe/41_hu8158082450147623730.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Widecombe Churchyard Cross&#34;
@@ -184,10 +184,10 @@
     &gt;Dartmoor Crosses&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;beatrice-chase&#34;&gt;Beatrice Chase
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/15.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/15.jpg&#34;
 	width=&#34;1900&#34;
 	height=&#34;1069&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/15_hu5132308808193280081.jpg 480w, http://10.1.0.1:1313/p/widecombe/15_hu10295764161891182768.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/15_hu5132308808193280081.jpg 480w, https://dartmoorwalking.org/p/widecombe/15_hu10295764161891182768.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Two names for the same person. SX 71900 76774&#34;
@@ -207,10 +207,10 @@
     &gt;Beatrice Chase - Wikipedia&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;widecombe-church&#34;&gt;Widecombe Church
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/40.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/40.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/40_hu2389494745342806768.jpg 480w, http://10.1.0.1:1313/p/widecombe/40_hu18358972381524599678.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/40_hu2389494745342806768.jpg 480w, https://dartmoorwalking.org/p/widecombe/40_hu18358972381524599678.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Longer view of Widecombe Church and Graveyard&#34;
@@ -224,10 +224,10 @@
 &lt;p&gt;Dominating the village is the medieval &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Church_of_Saint_Pancras,_Widecombe-in-the-Moor&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Church of St. Pancras&lt;/a&gt; which dates from the late 1300, although there is a list of vicars which goes back to 1253 for the Village. It&amp;rsquo;s sometimes called The Cathedral Of The Moor due to it being so imposing, and also as it&amp;rsquo;s the biggest Church on Dartmoor. The 120ft tower was added in the 1400 or early 1500&amp;rsquo;s through the benevolence of the tinners&amp;rsquo; Guild of St Pancras.&lt;/p&gt;
 &lt;p&gt;Named after a Roman boy, Pancratius, martyred under Emperor Diocletian in 304 AD.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/2.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/2.jpg&#34;
 	width=&#34;582&#34;
 	height=&#34;1034&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/2_hu7584408853913397807.jpg 480w, http://10.1.0.1:1313/p/widecombe/2_hu1988422133316406331.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/2_hu7584408853913397807.jpg 480w, https://dartmoorwalking.org/p/widecombe/2_hu1988422133316406331.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The impressive ceiling&#34;
@@ -239,10 +239,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;The church was badly damaged in the Great Thunderstorm of 1638, apparently struck by ball lightning. An afternoon service was taking place at the time, and the building was packed with approximately 300 worshippers. Four of them were killed and 60 injured.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/13.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/13.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/13_hu9641921421560770653.jpg 480w, http://10.1.0.1:1313/p/widecombe/13_hu3424977309219972115.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/13_hu9641921421560770653.jpg 480w, https://dartmoorwalking.org/p/widecombe/13_hu3424977309219972115.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The church is often used for local displays&#34;
@@ -254,10 +254,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;the-old-inn&#34;&gt;The Old Inn
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/7.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/7.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/7_hu7089949929450395537.jpg 480w, http://10.1.0.1:1313/p/widecombe/7_hu3507739846605523948.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/7_hu7089949929450395537.jpg 480w, https://dartmoorwalking.org/p/widecombe/7_hu3507739846605523948.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Old Inn, facing the lych gate, was once the Priest&amp;rsquo;s House&#34;
@@ -268,10 +268,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/8.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/8.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/8_hu6858912721770172368.jpg 480w, http://10.1.0.1:1313/p/widecombe/8_hu8038196021089752278.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/8_hu6858912721770172368.jpg 480w, https://dartmoorwalking.org/p/widecombe/8_hu8038196021089752278.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Glebe House, opposite Church House, once the church&amp;rsquo;s Glebe farm&#34;
@@ -284,10 +284,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;A &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Glebe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;glebe&lt;/a&gt; is a piece of land in the parish used to raise revenues for the clergy.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/9.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/9.jpg&#34;
 	width=&#34;1599&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/9_hu2626542291913188471.jpg 480w, http://10.1.0.1:1313/p/widecombe/9_hu12661636208280029059.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/9_hu2626542291913188471.jpg 480w, https://dartmoorwalking.org/p/widecombe/9_hu12661636208280029059.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A wing at the rear of Glebe house was the original tithe barn for the Parish&#34;
@@ -298,10 +298,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/10.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/10.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/10_hu8024007873269192353.jpg 480w, http://10.1.0.1:1313/p/widecombe/10_hu5780244490950197602.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/10_hu8024007873269192353.jpg 480w, https://dartmoorwalking.org/p/widecombe/10_hu5780244490950197602.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Old Smithy, down the road from The Old Inn. Now a gift shop&#34;
@@ -313,10 +313,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Follow the road down the hillto the left of the smithy&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/11.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/11.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/11_hu4544794106496047769.jpg 480w, http://10.1.0.1:1313/p/widecombe/11_hu14281370827673617042.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/11_hu4544794106496047769.jpg 480w, https://dartmoorwalking.org/p/widecombe/11_hu14281370827673617042.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Old Post Office (and Manor Cottage), one of four in the history of Widecombe&#34;
@@ -328,10 +328,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;The original Post Office was down the bottom of this hill (Southcombe Villa, P.O.) where the Postmaster lived and one of the adjacent buildings was the stable for his horse. The Cafe on the Green and a building between here and the Green were also Post Offices at one time. &lt;cite&gt;Source: a local resident&lt;/cite&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/18.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/18.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/18_hu18039594370058476040.jpg 480w, http://10.1.0.1:1313/p/widecombe/18_hu4814840281869667081.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/18_hu18039594370058476040.jpg 480w, https://dartmoorwalking.org/p/widecombe/18_hu4814840281869667081.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The Old Rectory, labelled as &amp;ldquo;Vicarage&amp;rdquo; on the 1843 tithe map&#34;
@@ -343,10 +343,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;village-well-and-piggery&#34;&gt;Village well and Piggery
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/16.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/16.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/16_hu7163564974063054429.jpg 480w, http://10.1.0.1:1313/p/widecombe/16_hu7256644850221802819.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/16_hu7163564974063054429.jpg 480w, https://dartmoorwalking.org/p/widecombe/16_hu7256644850221802819.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Just down the hill from the Post Office is the Saxon Well&#34;
@@ -357,10 +357,10 @@
 		data-flex-basis=&#34;427px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/17.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/17.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/17_hu1260242833902192338.jpg 480w, http://10.1.0.1:1313/p/widecombe/17_hu12204036393209273378.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/17_hu1260242833902192338.jpg 480w, https://dartmoorwalking.org/p/widecombe/17_hu12204036393209273378.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Below the well is the Old Pig and Heritage Garden&#34;
@@ -375,10 +375,10 @@
     &gt;Moor Than Meets the Eye Project&lt;/a&gt; and is worth a look. It holds old tools and implements and is a small, free museum.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;For our walk, we turn and walk back uphill again. Past the Square and follow Church Road, which is left before the Village Green&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;kingshead-farm-gatepost&#34;&gt;Kingshead Farm Gatepost
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/19.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/19.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/19_hu13016748421359150803.jpg 480w, http://10.1.0.1:1313/p/widecombe/19_hu705815820530418593.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/19_hu13016748421359150803.jpg 480w, https://dartmoorwalking.org/p/widecombe/19_hu705815820530418593.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Gate to Kingshead Farm, at SX 71660 77062&#34;
@@ -390,10 +390,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;As we pass this gateway on the left to Kingshead Farm, and a footpath which leads out over Hameldon towards Grimspound, it&amp;rsquo;s worth looking more closely at the left post.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/20.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/20.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/20_hu16702837808652730521.jpg 480w, http://10.1.0.1:1313/p/widecombe/20_hu12488766376678686210.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/20_hu16702837808652730521.jpg 480w, https://dartmoorwalking.org/p/widecombe/20_hu12488766376678686210.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Incised Cross known as Kingshead Cross&#34;
@@ -409,10 +409,10 @@
     &gt;Dartmoor Crosses - Kingshead Lane Cross&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;wooder-manor&#34;&gt;Wooder Manor
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/21.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/21.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/21_hu4695403392425874749.jpg 480w, http://10.1.0.1:1313/p/widecombe/21_hu13228240201045687006.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/21_hu4695403392425874749.jpg 480w, https://dartmoorwalking.org/p/widecombe/21_hu13228240201045687006.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The entrance to Wooder Manor&#34;
@@ -429,10 +429,10 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;et Annae Uxoris Eius
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Vir Obiit 21 Octobris 1638
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Uxor Autem 17 Januarij 1648
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/22.jpg&#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/22.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/22_hu2845416510772609442.jpg 480w, http://10.1.0.1:1313/p/widecombe/22_hu12167865678348296477.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/22_hu2845416510772609442.jpg 480w, https://dartmoorwalking.org/p/widecombe/22_hu12167865678348296477.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The mysterious 1 mioL Stone. SX 72210 78038&#34;
@@ -450,10 +450,10 @@
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;thornhill-lane&#34;&gt;Thornhill Lane
 &lt;/h2&gt;&lt;p&gt;&lt;em&gt;We stay on the quiet metalled road for about a mile and a half, until we see the stony track leading up to the right&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/23.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/23.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/23_hu10967808000878264296.jpg 480w, http://10.1.0.1:1313/p/widecombe/23_hu870029148265554863.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/23_hu10967808000878264296.jpg 480w, https://dartmoorwalking.org/p/widecombe/23_hu870029148265554863.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Turning off the road up Thornhill Lane&#34;
@@ -465,10 +465,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Thornhill or Thorny Lanewas a medieval road going North from Hemsworthy Gate to Natsworthy that avoided going down the steep Widecombe Hill. This is still legally classified as a full motorable road (A Byway Open to All Traffic - or BOAT), and is legally used by cars and motorbikes today although, as you can see, it&amp;rsquo;s more suited to off road vehicles.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/24.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/24.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/24_hu10102505858107023370.jpg 480w, http://10.1.0.1:1313/p/widecombe/24_hu10548189401046680239.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/24_hu10102505858107023370.jpg 480w, https://dartmoorwalking.org/p/widecombe/24_hu10548189401046680239.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Honeybag Tor&#34;
@@ -479,10 +479,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/25.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/25.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/25_hu10046586625330939419.jpg 480w, http://10.1.0.1:1313/p/widecombe/25_hu7206534428989641159.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/25_hu10046586625330939419.jpg 480w, https://dartmoorwalking.org/p/widecombe/25_hu7206534428989641159.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Hameldon, or Hamel Down&#34;
@@ -495,10 +495,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;Hameldon, (Trig Point at SX 70313 80573, elevation 529 metres / 1735 feet) across the East Webburn River.&lt;/p&gt;
 &lt;p&gt;The East Webburn rises near Grimspound and flows through Widecombe to join the West Webburn River south of Widecombe at Lizwell Meet (Oakmoor Wood), at SX 71335 73703.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/26.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/26.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/26_hu1920041961558909339.jpg 480w, http://10.1.0.1:1313/p/widecombe/26_hu16164486652219258256.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/26_hu1920041961558909339.jpg 480w, https://dartmoorwalking.org/p/widecombe/26_hu16164486652219258256.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Chinkwell Tor (left) with Sharp Tor on it&amp;rsquo;s flank to the right&#34;
@@ -509,10 +509,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/27.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/27.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/27_hu538568867274476334.jpg 480w, http://10.1.0.1:1313/p/widecombe/27_hu3601473975851531103.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/27_hu538568867274476334.jpg 480w, https://dartmoorwalking.org/p/widecombe/27_hu3601473975851531103.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Sharp Tor, SX 7282 7807, elevation approx. 419 metres (1374 feet)&#34;
@@ -523,10 +523,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/28.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/28.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/28_hu10274708988532478272.jpg 480w, http://10.1.0.1:1313/p/widecombe/28_hu13842457454496542886.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/28_hu10274708988532478272.jpg 480w, https://dartmoorwalking.org/p/widecombe/28_hu13842457454496542886.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking back at Sharp Tor and Chinkwell Tor, which has a wind-shaped hawthorn tree near its summit&#34;
@@ -537,10 +537,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/29.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/29.jpg&#34;
 	width=&#34;1200&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/29_hu9130372898806846126.jpg 480w, http://10.1.0.1:1313/p/widecombe/29_hu954828260632523504.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/29_hu9130372898806846126.jpg 480w, https://dartmoorwalking.org/p/widecombe/29_hu954828260632523504.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Approaching Bonehill Rocks and Bonehill Lawn&#34;
@@ -551,10 +551,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/30.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/30.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/30_hu6165514284997479326.jpg 480w, http://10.1.0.1:1313/p/widecombe/30_hu14052862797520090379.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/30_hu6165514284997479326.jpg 480w, https://dartmoorwalking.org/p/widecombe/30_hu14052862797520090379.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Bel Tor, or Bell Tor, at SX 730 778. Elevation 404 meters (1325 feet)&#34;
@@ -565,10 +565,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/32.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/32.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/32_hu8467990756592227243.jpg 480w, http://10.1.0.1:1313/p/widecombe/32_hu15218995803998549045.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/32_hu8467990756592227243.jpg 480w, https://dartmoorwalking.org/p/widecombe/32_hu15218995803998549045.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Bonehill Rocks&#34;
@@ -580,10 +580,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;bonehill&#34;&gt;Bonehill
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/31.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/31.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/31_hu585906713713408309.jpg 480w, http://10.1.0.1:1313/p/widecombe/31_hu17516144294246752777.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/31_hu585906713713408309.jpg 480w, https://dartmoorwalking.org/p/widecombe/31_hu17516144294246752777.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Bonehill Gate where we rejoin the metalled road&#34;
@@ -599,10 +599,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV29743&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Heritage Gateway - MDV29743 Bonehill Medieval Settlement&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/33.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/33.jpg&#34;
 	width=&#34;1144&#34;
 	height=&#34;610&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/33_hu6534562018266745729.jpg 480w, http://10.1.0.1:1313/p/widecombe/33_hu3970149473385709338.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/33_hu6534562018266745729.jpg 480w, https://dartmoorwalking.org/p/widecombe/33_hu3970149473385709338.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;1843 Tithe Map of Bonehill. Copyright Devon County Council&#34;
@@ -613,10 +613,10 @@
 		data-flex-basis=&#34;450px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/34.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/34.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;791&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/34_hu11380411101782987291.jpg 480w, http://10.1.0.1:1313/p/widecombe/34_hu681637667484520829.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/34_hu11380411101782987291.jpg 480w, https://dartmoorwalking.org/p/widecombe/34_hu681637667484520829.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Google Earth image of Bonehill showing layout. Copyright Google 2018&#34;
@@ -627,10 +627,10 @@
 		data-flex-basis=&#34;485px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/35.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/35.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/35_hu3205607743905058685.jpg 480w, http://10.1.0.1:1313/p/widecombe/35_hu17372175460346464966.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/35_hu3205607743905058685.jpg 480w, https://dartmoorwalking.org/p/widecombe/35_hu17372175460346464966.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Higher Bonehill&#34;
@@ -641,10 +641,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/36.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/36.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/36_hu59538910859285932.jpg 480w, http://10.1.0.1:1313/p/widecombe/36_hu274392862785709073.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/36_hu59538910859285932.jpg 480w, https://dartmoorwalking.org/p/widecombe/36_hu274392862785709073.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Middle Bonehill&#34;
@@ -659,10 +659,10 @@
 &lt;p&gt;Middle Bonehill was owned by the Smerdon family throughout almost the entire post-medieval period. In fact, it was owned from mid-Elizabethan times until the closing years of the Victorian era by no less than eleven consecutive generations of John Smerdons.
 The last John Smerdon died and the property passed to Edwin Smerdon who died in 1900, when the family connection was finished. &lt;cite&gt;&amp;ndash; Mike Brown&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/37.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/37.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/37_hu5985977849188254823.jpg 480w, http://10.1.0.1:1313/p/widecombe/37_hu6326453180735136845.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/37_hu5985977849188254823.jpg 480w, https://dartmoorwalking.org/p/widecombe/37_hu6326453180735136845.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;There are many interesting aspects of Middle Bonehill&amp;rsquo;s old longhouse, the porch being one of them&#34;
@@ -673,10 +673,10 @@ The last John Smerdon died and the property passed to Edwin Smerdon who died in 
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/38.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/38.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/38_hu8830252839139610968.jpg 480w, http://10.1.0.1:1313/p/widecombe/38_hu13710791144973082660.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/38_hu8830252839139610968.jpg 480w, https://dartmoorwalking.org/p/widecombe/38_hu13710791144973082660.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Datestone of Middle Bonehill&#34;
@@ -690,10 +690,10 @@ The last John Smerdon died and the property passed to Edwin Smerdon who died in 
 &lt;blockquote&gt;
 &lt;p&gt;An impressive group of buildings stand huddled together in the small hamlet of Bonehill, the centrepiece of which is the imposing sixteenth century longhouse of Middle Bonehill with its fine porch bearing the inscription IS 1682 on the lintel. An early nineteenth century barn stands alongside, whilst a seventeenth century barn stands on the opposite side of the road. Lower Bonehill is another sixteenth century longhouse, in the middle of a group of five  seventeenth and eighteenth century outbuildings. Higher Bonehill is a sixteenth or seventeenth century farmhouse, not of the longhouse design. &lt;cite&gt;&amp;ndash; Mike Brown&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/widecombe/39.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/widecombe/39.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/widecombe/39_hu12053534904178896486.jpg 480w, http://10.1.0.1:1313/p/widecombe/39_hu2944415835023775508.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/widecombe/39_hu12053534904178896486.jpg 480w, https://dartmoorwalking.org/p/widecombe/39_hu2944415835023775508.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Lower Bonehill Farm&#34;

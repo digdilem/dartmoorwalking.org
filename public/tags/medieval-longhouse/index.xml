@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Medieval Longhouse on Dartmoor Walking</title>
-        <link>http://10.1.0.1:1313/tags/medieval-longhouse/</link>
+        <link>https://dartmoorwalking.org/tags/medieval-longhouse/</link>
         <description>Recent content in Medieval Longhouse on Dartmoor Walking</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Simon Avery</copyright>
-        <lastBuildDate>Fri, 17 Jan 2025 19:38:02 +0000</lastBuildDate><atom:link href="http://10.1.0.1:1313/tags/medieval-longhouse/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 17 Jan 2025 19:38:02 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/medieval-longhouse/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Ingra Tor</title>
-        <link>http://10.1.0.1:1313/p/ingra-tor/</link>
+        <link>https://dartmoorwalking.org/p/ingra-tor/</link>
         <pubDate>Fri, 17 Jan 2025 19:38:02 +0000</pubDate>
         
-        <guid>http://10.1.0.1:1313/p/ingra-tor/</guid>
-        <description>&lt;img src="http://10.1.0.1:1313/p/ingra-tor/9.jpg" alt="Featured image of post Ingra Tor" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+        <guid>https://dartmoorwalking.org/p/ingra-tor/</guid>
+        <description>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/9.jpg" alt="Featured image of post Ingra Tor" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;3 miles&lt;/b&gt;, walked by Keith Ryan and transcribed by Simon Avery&lt;/li&gt;
 &lt;li&gt; Grade: &lt;b&gt;Medium&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://10.1.0.1:1313/gpx/ingra-tor.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;https://dartmoorwalking.org/gpx/ingra-tor.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
 &lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.5198%2c-4.0322&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
     &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
     &lt;path d=&#34;M12 21v-4&#34; /&gt;
@@ -30,10 +30,10 @@
 &lt;li&gt; &lt;a href=&#34;https://w3w.co/squeezed.refrained.basher&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;squeezed.refrained.basher&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/map.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/map.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;736&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/map_hu17306528391121631309.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/map_hu4501009357782687923.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/map_hu17306528391121631309.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/map_hu4501009357782687923.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
@@ -47,10 +47,10 @@
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;This is an interesting walk over open moorland taking in a wide scope of history, from Bronze age and medieval remains, to an abandoned Victorian railway, and disused granite quarries - all with excellent views over Dartmoor and West Devon into Cornwall. There&amp;rsquo;s a small detour offered which takes in an abandoned Medieval Longhouse, its modern replacement and two ancient Pounds and hut circles.&lt;/p&gt;
 &lt;h2 id=&#34;sharpitor&#34;&gt;Sharpitor
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/1.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/1.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/1_hu148547063367282483.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/1_hu1164555224503365897.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/1_hu148547063367282483.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/1_hu1164555224503365897.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking South across the road to Sharpitor.&#34;
@@ -65,10 +65,10 @@
 &lt;p&gt;Also note the diagonal linear feature in this photo - this is part of the Walkhampton Common East Reave.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;When ready, walk along the path to the North towards the rocky line and hut circles as per the route on the map&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;reaves-and-hut-circles&#34;&gt;Reaves and Hut Circles
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/2.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/2.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/2_hu5445698959970955315.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/2_hu6696201027638122161.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/2_hu5445698959970955315.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/2_hu6696201027638122161.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;One of three small Bronze Age hut circles near to the road, again looking towards Sharpitor&#34;
@@ -79,10 +79,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/3.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/3.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/3_hu9894208394007969531.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/3_hu13962698797616976108.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/3_hu9894208394007969531.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/3_hu13962698797616976108.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The largest of the three. SX 56225 71108. This is #4 on the plan below&#34;
@@ -93,10 +93,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/4.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/4.jpg&#34;
 	width=&#34;1267&#34;
 	height=&#34;850&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/4_hu4334437362068768472.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/4_hu13491587420538876780.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/4_hu4334437362068768472.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/4_hu13491587420538876780.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image © J Butler 1994. Reproduced by kind permission (ref. 29 Sept. 2012)&#34;
@@ -107,10 +107,10 @@
 		data-flex-basis=&#34;357px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/5.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/5.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/5_hu8580396228091927205.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/5_hu15338672258426176147.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/5_hu8580396228091927205.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/5_hu15338672258426176147.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Standing on Walkhampton Common East Reave, looking uphill towards Leeden Tor&#34;
@@ -134,10 +134,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV15038&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Heritage Gateway MDV15038 - 	The Walkhampton Common Reave&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/6.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/6.jpg&#34;
 	width=&#34;1986&#34;
 	height=&#34;2161&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/6_hu10414029612789577234.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/6_hu494910182291827814.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/6_hu10414029612789577234.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/6_hu494910182291827814.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image reproduced by permission of Batsford Books&#34;
@@ -151,10 +151,10 @@
 &lt;p&gt;&lt;em&gt;The figure above is reproduced from Andrew Fleming (1988) The Dartmoor Reaves - Investigating Prehistoric Land Divisions, BT Batsford Ltd, London, page 41&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Continue walking uphill towards Leeden Tor&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;leeden-tor&#34;&gt;Leeden Tor
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/7.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/7.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/7_hu15630429336186553211.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/7_hu12160998935681084556.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/7_hu15630429336186553211.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/7_hu12160998935681084556.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Amongst the granite clitter of Leeden Tor. Elevation 389 metres (1276 feet)&#34;
@@ -172,10 +172,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/North_Hessary_Tor_transmitting_station&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;North Hessary Tor transmitting station &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/8.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/8.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/8_hu1164952091952283060.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/8_hu10342428130697151710.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/8_hu1164952091952283060.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/8_hu10342428130697151710.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Leeden Tor. A smaller and less famous rival for Bowerman&amp;rsquo;s Nose&#34;
@@ -186,10 +186,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/9.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/9.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/9_hu3368079263222757765.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/9_hu16337221802932548811.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/9_hu3368079263222757765.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/9_hu16337221802932548811.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Local residents&#34;
@@ -200,10 +200,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/10.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/10.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/10_hu7678239658444845744.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/10_hu1773395350166555808.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/10_hu7678239658444845744.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/10_hu1773395350166555808.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;A last look at Leeden Tor&#34;
@@ -215,10 +215,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;great-western-reave&#34;&gt;Great Western Reave
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/11.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/11.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/11_hu13156022679917193412.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/11_hu18032153456387983732.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/11_hu13156022679917193412.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/11_hu18032153456387983732.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Great Western Reave. SX 56260 71843&#34;
@@ -234,10 +234,10 @@
 &lt;p&gt;This very long reave is a territorial boundary something akin to a modern parish boundary (and type 4 from the list above)  It extends from near Sharpitor, near Dousland/Yelverton, to White Tor near Peter Tavy.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Head North West about 450 meters, to&amp;hellip;&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ingra-tor-cairn-and-cist&#34;&gt;Ingra Tor Cairn and Cist
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/12.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/12.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/12_hu2291616414606610113.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/12_hu18306634547479752032.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/12_hu2291616414606610113.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/12_hu18306634547479752032.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Ingra Tor cairn with a central cist. SX 55877 72083&#34;
@@ -248,10 +248,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/13.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/13.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/13_hu12178143470433016635.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/13_hu18083163461844795444.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/13_hu12178143470433016635.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/13_hu18083163461844795444.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Showing the displaced capstone of the cist, with Ingra Tor behind&#34;
@@ -262,10 +262,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/14.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/14.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/14_hu2445293250231936099.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/14_hu2875962032082612630.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/14_hu2445293250231936099.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/14_hu2875962032082612630.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;The cist, showing the opening into the grave&#34;
@@ -276,10 +276,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/15.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/15.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/15_hu17222230786089002812.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/15_hu1094961388173602424.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/15_hu17222230786089002812.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/15_hu1094961388173602424.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Inside the cist&#34;
@@ -290,10 +290,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/16.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/16.jpg&#34;
 	width=&#34;771&#34;
 	height=&#34;1012&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/16_hu6697255150329172761.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/16_hu8493229971813968094.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/16_hu6697255150329172761.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/16_hu8493229971813968094.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image © J Butler 1994. Reproduced by kind permission (ref. 29 Sept. 2012)&#34;
@@ -308,10 +308,10 @@
 &lt;p&gt;This cist is described by Jeremy Butler, 1994, Dartmoor Atlas of Antiquities  Vol. 3 - The South-West, 16: Ingra Tor cairn and cist (fig. 45.13),  page 51.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The cist is a few metres above the Routrundle leat, which is about 23 metres down the slope. The leat is marked by a downhill bank but is really quite non-photogenic and it is not easy to see the actual &amp;ldquo;trench&amp;rdquo; that was the water course in photographs, so it is not included here.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/17.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/17.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;901&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/17_hu10535707218175942204.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/17_hu9634537147385770497.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/17_hu10535707218175942204.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/17_hu9634537147385770497.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Scattered pits near the cairn are described as &amp;ldquo;stone pits&amp;rdquo; by Butler in his description of the cairn&#34;
@@ -324,10 +324,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;Stone pits are generally places where walling or building stone was easily won from the ground because of natural fissures or weathering. Sometimes they&amp;rsquo;re mistaken for tinning holes where the old men would find small deposits of cassiterite - a rich source of tin ore. Those would usually have some spoil heaps nearby though, which aren&amp;rsquo;t evident here, so stone pits seems likely. The only two certain things about these holes however, is that they are impossible to date, and that they were made by man.&lt;/p&gt;
 &lt;h2 id=&#34;ingra-tor-and-quarry&#34;&gt;Ingra Tor and Quarry
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/18.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/18.jpg&#34;
 	width=&#34;1599&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/18_hu5090075312853455325.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/18_hu7212230736485958038.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/18_hu5090075312853455325.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/18_hu7212230736485958038.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Ingra Tor. SX 555 721. Elevation 339 metres (1112 feet)&#34;
@@ -339,10 +339,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;We aim for the Tor and pass to the left of it&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/19.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/19.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/19_hu13786402287996006450.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/19_hu5359808531424652298.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/19_hu13786402287996006450.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/19_hu5359808531424652298.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking down into the quarry at two old crane bases&#34;
@@ -353,10 +353,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/20.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/20.jpg&#34;
 	width=&#34;1599&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/20_hu12978944305689614962.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/20_hu12789475493537186862.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/20_hu12978944305689614962.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/20_hu12789475493537186862.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;These two circular features were the bases of cranes used to load granite onto carts&#34;
@@ -367,10 +367,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/21.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/21.jpg&#34;
 	width=&#34;1024&#34;
 	height=&#34;698&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/21_hu15064744189952505816.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/21_hu6637001351352150011.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/21_hu15064744189952505816.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/21_hu6637001351352150011.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;An example of the cranes used in Haytor Quarry, similar to those used here and at Foggintor. Image reproduced with permission from the Dartmoor Trust Archive&#34;
@@ -384,10 +384,10 @@
 &lt;p&gt;Ingra Tor Quarry, like the nearby Swell Tor, King&amp;rsquo;s Tor and Foggintor Quarries, were run by the Johnson Brothers from 1820 to 1865 who paid a lease to the Duchy of Cornwall.&lt;/p&gt;
 &lt;p&gt;It was re-opened between 1936 and 1941 to cut kerbstones and granite setts for Devon County Council, and a platform was built on the railway called Ingra Tor Halt, just to the North of the Tor.&lt;/p&gt;
 &lt;h2 id=&#34;ingra-tor-halt&#34;&gt;Ingra Tor Halt
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/22.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/22.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/22_hu5843401848792436823.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/22_hu11651952441455769219.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/22_hu5843401848792436823.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/22_hu11651952441455769219.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;On the Railway, close to Ingra Tor Halt&#34;
@@ -398,10 +398,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/23.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/23.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/23_hu12287039783913648696.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/23_hu11726947614756257794.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/23_hu12287039783913648696.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/23_hu11726947614756257794.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking down to the railway and concrete base of a basic shelter - the only remains of Ingra Tor Halt&#34;
@@ -440,10 +440,10 @@
     &gt;Princetown Railway Website - Ingra Tor&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;When ready, walk a short distance to the little bridge to the West&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/24.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/24.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/24_hu11594027231084317187.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/24_hu11694966203219136879.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/24_hu11594027231084317187.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/24_hu11694966203219136879.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Under the cattle &amp;ldquo;creep&amp;rdquo; bridge&#34;
@@ -455,10 +455,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;This bridge was built to provide safe passage for cattle and other livestock to cross the railway. It&amp;rsquo;s worth noting that the railway was fenced with posts and wire to keep stock off the line, so creeps like this were essential to allow free grazing under commoners rights.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/25.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/25.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;899&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/25_hu17792302880554998108.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/25_hu14570139516063431535.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/25_hu17792302880554998108.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/25_hu14570139516063431535.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Evidence of recycling&#34;
@@ -470,10 +470,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;This curious set of holes shows that this block was once used for a tramway in one of the nearby quarries. These holes held an iron plate which held the iron rails above it. Wear from those rails can be seen above and below. No longer of use there, it was re-used in constructing this creep.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/26.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/26.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/26_hu7712122890029142573.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/26_hu11168060206423292136.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/26_hu7712122890029142573.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/26_hu11168060206423292136.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Closer view of the plate holes&#34;
@@ -484,10 +484,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/27.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/27.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/27_hu8729790990294848751.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/27_hu14162540610170065254.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/27_hu8729790990294848751.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/27_hu14162540610170065254.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View North-West showing an impressive display of Bluebells&#34;
@@ -498,10 +498,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/28.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/28.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/28_hu5693655325742940247.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/28_hu3141062940799108925.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/28_hu5693655325742940247.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/28_hu3141062940799108925.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking back towards Ingra Tor Halt&#34;
@@ -514,10 +514,10 @@
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;railway&#34;&gt;Railway
 &lt;/h2&gt;&lt;p&gt;&lt;em&gt;We continue walking Southerly along the railway for around 500 meters&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/29.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/29.jpg&#34;
 	width=&#34;1599&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/29_hu11981619878800161924.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/29_hu1502949729640170750.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/29_hu11981619878800161924.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/29_hu1502949729640170750.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;View of Ingra Tor from the West&#34;
@@ -530,10 +530,10 @@
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;routrundle-detour&#34;&gt;Routrundle (Detour)
 &lt;/h2&gt;&lt;p&gt;&lt;em&gt;If you want to explore some more history, leave the railway to the west just before the walls come up from Routrundle and walk towards &amp;ldquo;Homestead&amp;rdquo; on the map. Otherwise carry along the railway as per the marked route on the map&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/30.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/30.jpg&#34;
 	width=&#34;1599&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/30_hu16326775750183022734.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/30_hu15852734468825540989.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/30_hu16326775750183022734.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/30_hu15852734468825540989.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Looking over the wall to the private land of Routrundle&#34;
@@ -556,10 +556,10 @@
 &lt;li&gt;(Not pictured) There is a benchmark on the southwest side of the lane on a large boulder. SX55274 71832&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The collection of trees in the above photo marks a Bronze Age pound and collection of hut circles. These can be accessed from a Bridlepath off the railway a little further on, along with a Medieval Longhouse marked on the map as &amp;ldquo;homestead&amp;rdquo; a little way North of . This was called Babyland. This is a long-inhabited area of Dartmoor.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/31.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/31.jpg&#34;
 	width=&#34;1119&#34;
 	height=&#34;799&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/31_hu4853913647502510161.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/31_hu12441368319262037338.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/31_hu4853913647502510161.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/31_hu12441368319262037338.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Aerial View of Routrundle and Babyland - Copyright Google Maps 2024&#34;
@@ -570,10 +570,10 @@
 		data-flex-basis=&#34;336px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/32.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/32.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/32_hu14794956499643160025.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/32_hu611643291021310656.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/32_hu14794956499643160025.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/32_hu611643291021310656.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Some of the ruins of Babyland - this was possibly the site of a smithy. Central in the wall ahead is an inscribed stone showing &amp;ldquo;IW&amp;rdquo;&#34;
@@ -584,10 +584,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/33.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/33.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/33_hu7277989451737115889.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/33_hu10681172188509885956.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/33_hu7277989451737115889.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/33_hu10681172188509885956.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Ruins of the Medieval Longhouse&#34;
@@ -598,10 +598,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/34.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/34.jpg&#34;
 	width=&#34;983&#34;
 	height=&#34;610&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/34_hu12207053309189580922.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/34_hu6803624799904407492.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/34_hu12207053309189580922.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/34_hu6803624799904407492.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Tithe Map from 1836. Image copyright: Devon County Council&#34;
@@ -618,10 +618,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV14151&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Heritage Gateway MDV14151 - Babyland Deserted Farmstead&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/35.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/35.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/35_hu3215626745813292716.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/35_hu17765231497657210868.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/35_hu3215626745813292716.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/35_hu17765231497657210868.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Another benchmark in this area. SX 55729 71303&#34;
@@ -632,10 +632,10 @@
 		data-flex-basis=&#34;426px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/36.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/36.jpg&#34;
 	width=&#34;1111&#34;
 	height=&#34;625&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/36_hu5740724662469297512.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/36_hu8809114334986466364.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/36_hu5740724662469297512.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/36_hu8809114334986466364.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Map showing Benchmark locations. Ordnance Survey 6-inch Single Sheet Series Published 1884. Reproduced with the permission of the National Library of Scotland&#34;
@@ -648,10 +648,10 @@
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;end-routrundle-detour&#34;&gt;End Routrundle detour
 &lt;/h3&gt;&lt;p&gt;&lt;em&gt;Whether you continued along the railway or explored through Routrundle and emerged from the bridlepath, leave the railway where the bridlepath joins it and head Southward over open moor to the car park to conclude our walk&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://10.1.0.1:1313/p/ingra-tor/37.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dartmoorwalking.org/p/ingra-tor/37.jpg&#34;
 	width=&#34;1600&#34;
 	height=&#34;900&#34;
-	srcset=&#34;http://10.1.0.1:1313/p/ingra-tor/37_hu1004442868221374939.jpg 480w, http://10.1.0.1:1313/p/ingra-tor/37_hu11751678392744244060.jpg 1024w&#34;
+	srcset=&#34;https://dartmoorwalking.org/p/ingra-tor/37_hu1004442868221374939.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/37_hu11751678392744244060.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Heading back towards the car park&#34;
