@@ -1,7 +1,7 @@
 ---
 title: Wistman's Wood via Crockern and Littaford Tors
 description: A nicely rounded walk including two tors, Bronze Age settlements and the well known and evocative Wistman's Wood
-categories: Mid Dartmoor
+categories: ["Mid Dartmoor"]
 distance: 5
 coords: 50.55865,-3.96475
 grade: Medium 

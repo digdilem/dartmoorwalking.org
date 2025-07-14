@@ -3,6 +3,7 @@ languageCode: en-us
 theme: hugo-theme-stack
 title: Dartmoor Walking
 copyright: Simon Avery
+# Documentation: https://stack.jimmycai.com/
 
 taxonomies:
   category: categories
@@ -23,6 +24,7 @@ outputs:
   home:
   - html
   - rss
+#  - json
 
 languages:
     en:
@@ -87,14 +89,14 @@ params:
             default: Simon Avery 
 
     # Disabled 20250111 - not used so far. Maybe premature, but feedback link may be easier
-    comments:
-        enabled: false
-        provider: utterences
+    # comments:
+    #     enabled: false
+    #     provider: utterences
 
-        utterances:
-            repo: digdilem/dartmoorwalks_comments
-            issueTerm: pathname
-            #label:
+    #     utterances:
+    #         repo: digdilem/dartmoorwalks_comments
+    #         issueTerm: pathname
+    #         #label:
 
 
     widgets:

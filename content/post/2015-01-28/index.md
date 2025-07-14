@@ -1,7 +1,7 @@
 ---
 title: Wind Tor and Hutholes
 description: A visit to Wind Tor and a short walk along Dartmoor Lanes before arriving at Hutholes - a partially restored Medieval settlement.
-categories: East Dartmoor
+categories: ["East Dartmoor"]
 distance: 3
 coords: 50.57244,-3.82627
 grade: Gentle

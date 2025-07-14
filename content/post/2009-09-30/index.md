@@ -1,7 +1,7 @@
 ---
 title: Sheepstor Stone Circles
 description: A medium moorland walk amongst stone circles and cists.
-categories: West Dartmoor
+categories: ["West Dartmoor"]
 distance: 3
 coords: 50.48827,-4.00496
 grade: Gentle

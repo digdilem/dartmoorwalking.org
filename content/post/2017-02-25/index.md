@@ -1,7 +1,7 @@
 ---
 title: The Merrivale Bronze Age Sun Calendar and Foggintor School
 description: An easy, short walk taking in a huge spread of history including the amazing Bronze age sun calendar.
-categories: West Dartmoor
+categories: ["West Dartmoor"]
 distance: 2
 coords: 50.556047,-4.033461
 grade: Gentle

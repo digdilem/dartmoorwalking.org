@@ -1,7 +1,7 @@
 ---
 title: Princetown, Conchie Road, Crock of Gold
 description: A linear walk taking in historical points of interest from the Bronze Age through to World War 1 starting from Princetown. 
-categories: Mid Dartmoor
+categories: ["Mid Dartmoor"]
 distance: 4
 coords: 50.543966,-3.992101
 grade: Medium

@@ -1,7 +1,7 @@
 ---
 title: Ingra Tor
 description: A three mile circular walk over Walkhampton Common moorland, up to Leeden Tor and along via a burial cist to Ingra Tor, its quarry and railway station - then back via the abandoned railway with views over the Tamar valley and Cornwall.
-categories: West Dartmoor
+categories: ["West Dartmoor"]
 distance: 3
 coords: 50.5198,-4.0322
 grade: Medium

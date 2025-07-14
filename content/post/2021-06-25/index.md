@@ -1,7 +1,7 @@
 ---
 title: Haytor Rocks and Quarries
 description: A medium 3-mile walk through the iconic Haytor and surrounding quarries, pointing out points of interest along the way.
-categories: East Dartmoor
+categories: ["East Dartmoor"]
 distance: 4
 coords: 50.57689521254209,-3.753374366418201
 grade: Medium
@@ -187,9 +187,7 @@ And mounted on twelve-wheeled car
 -- Thomas Taverner 
 ```
 
-![First "points" seen on the walk at SX 76122 77722](32.jpg)
-
-![SX 76122 77722](33.jpg)
+![First "points" seen on the walk at SX 76122 77722](33.jpg)
 
 At junctions the wheels were guided by 'point tongues', pivoted on the granite-block rails. 
 

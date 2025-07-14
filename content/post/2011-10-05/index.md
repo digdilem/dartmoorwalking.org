@@ -1,7 +1,7 @@
 ---
 title: Cox Tor Circular
 walkdate: '2011-10-05'
-categories: West Dartmoor
+categories: ["West Dartmoor"]
 description: A walk around Cox Tor, inspecting ancient Reeve Stones.
 author: Simon Avery & Keith Ryan
 image: 6.jpg

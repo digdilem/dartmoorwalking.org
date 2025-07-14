@@ -1,7 +1,7 @@
 ---
 title: WALK TITLE NO PUNCTUATION XXXXXXXXXXX
 description: WALK DESCRIPTION XXXXXXXXXXX
-categories: XXXXXXXXXXX Dartmoor
+categories: ["XXXXXXXXXXX Dartmoor"]
 distance: XXXXXXXXXXX
 coords: XXXXXXXXXXX - in 50.579587,-3.797581 format, no spaces
 grade: Gentle/Medium/Strenuous  XXXXXXXXXXX

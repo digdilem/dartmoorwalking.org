@@ -1,7 +1,7 @@
 ---
 title: Venford Reservoir, Holne Moor
 walkdate: '2013-10-16'
-categories: East Dartmoor
+categories: ["East Dartmoor"]
 author: Simon Avery & Keith Ryan
 description: A short circular to the Northeast of Venford Reservoir. Including ancient woodlands, open moor, several Tors, Strip fields and a boundary stone from a past Lord of the Manor. 
 image: 9.jpg

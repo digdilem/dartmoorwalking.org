@@ -1,7 +1,7 @@
 ---
 title: Dr Blackall's Drive
 description: A medium 3 mile walk along the top of a valley with some nice views over the Dart Valley.
-categories: Mid Dartmoor
+categories: ["Mid Dartmoor"]
 distance: 3
 coords: 50.54321373947038,-3.8433758887899234
 grade: Medium

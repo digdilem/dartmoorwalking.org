@@ -1,7 +1,7 @@
 ---
 title: Widecombe
 description: A medium walk of four miles taking in many of the features of Widecombe village, up the quiet Wooder Lane, then back below Honeybag and Chinkwell Tors and through the medieval settlement, Bonehill 
-categories: Mid Dartmoor
+categories: ["Mid Dartmoor"]
 distance: 4
 coords: 50.57759014440235,-3.810615239687079
 grade: Medium

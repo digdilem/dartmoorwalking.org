@@ -1,7 +1,7 @@
 ---
 title: Cadover Bridge to the Dewerstone
 description: A 4 mile walk from the popular picnic spot of Cadover Bridge out to the impressive Dewerstone, taking in several thousand years of history.
-categories: South Dartmoor
+categories: ["South Dartmoor"]
 distance: 4
 coords: 50.46246,-4.03803
 grade: Medium

@@ -1,7 +1,7 @@
 ---
 title: Belstone to the Nine Maidens
 description: A fairly gentle walk around the pretty village of Belstone and then out on the moor to visit an ancient stone circle.
-categories: North Dartmoor
+categories: ["North Dartmoor"]
 distance: 3
 coords: 50.72743671504466,-3.9547570363415407
 grade: Gentle

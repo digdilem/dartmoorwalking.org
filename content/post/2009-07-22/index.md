@@ -1,7 +1,7 @@
 ---
 title: Hexworthy to Swincombe
 description: A walk through the Swincombe Valley, taking in two ruined farmhouses, crossing the Fairy Bridge, an ancient packhorse trail and old tin workings.
-categories: Mid Dartmoor
+categories: ["Mid Dartmoor"]
 distance: 3
 coords: 50.53916,-3.90538
 grade: Gentle

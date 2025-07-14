@@ -1,7 +1,7 @@
 ---
 title: Pullabrook Woods
 description: A gentle, level walk of just over two miles on good paths through ancient woodland, including crossing a beautiful medieval packhorse bridge.
-categories: East Dartmoor
+categories: ["East Dartmoor"]
 distance: 2
 coords: 50.60796,-3.71258
 grade: Gentle

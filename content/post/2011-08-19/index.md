@@ -1,7 +1,7 @@
 ---
 title: The Henroost and Skir Ford
 description: A walk over the open moorland of Down Ridge taking in some ancient crosses, clapper bridges and mining activity, with mention of American target practice.
-categories: East Dartmoor
+categories: ["East Dartmoor"]
 distance: 4
 coords: 50.53904,-3.9051
 grade: Medium

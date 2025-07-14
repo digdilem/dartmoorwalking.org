@@ -1,7 +1,7 @@
 ---
 title: Vitifer and Golden Dagger Mines
 description: A medium 4-mile linear walk taking taking in the Golden Dagger mine area and its many ruins.
-categories: Mid Dartmoor
+categories: ["Mid Dartmoor"]
 distance: 4
 coords: 50.61445026179867,-3.8731484098446116
 grade: Medium

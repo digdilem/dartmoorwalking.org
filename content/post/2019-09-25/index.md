@@ -1,7 +1,7 @@
 ---
 title: Buckland Beacon, Ten Commandments Stone
 description: A short 2 mile walk to the famous Ten Command Stones including other points of interests along the way.
-categories: East Dartmoor
+categories: ["East Dartmoor"]
 distance: 2
 coords: 50.554243,-3.779384
 grade: Gentle

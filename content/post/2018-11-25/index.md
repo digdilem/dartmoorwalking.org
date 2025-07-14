@@ -1,7 +1,7 @@
 ---
 title: Lydford High Down to Doe Tor Farm Ruins
 description: A medium 3 mile walk including open moorland, good views, a couple of river crossings with bridges, old mines and ruined farm buildings.
-categories: West Dartmoor
+categories: ["West Dartmoor"]
 distance: 3
 coords: 50.64913,-4.08743
 grade: Medium

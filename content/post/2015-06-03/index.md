@@ -1,7 +1,7 @@
 ---
 title: Fernworthy Assycombe Double Stone row
 description: A walk through the quiet Fernworthy Plantation visiting several hut circles to one of the lesser known but still impressive stone rows.
-categories: Mid Dartmoor
+categories: ["Mid Dartmoor"]
 distance: 3
 coords: 50.63734,-3.89543
 grade: Medium

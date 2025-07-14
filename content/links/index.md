@@ -19,12 +19,12 @@ links:
 
   - title: Dartmoor Tick Watch 
     description: Keith Ryan's study into Ticks on Dartmoor up until 2009
-    website: https://dartmoorticks.co.uk/
+    website: https://dartmoorticks.digdilem.org/
     image: dartmoorticks.jpg
 
   - title: Dartmoor Letterboxing Forum Archive
     description: The archive of dartmoorletterboxing.org - the original online place to talk about Letterboxing.
-    website: https://www.dartmoorletterboxing.org/
+    website: https://dartmoorletterboxing.digdilem.org/
     image: dartmoorletterboxing.jpg
 
 

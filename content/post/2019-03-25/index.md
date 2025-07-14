@@ -2,7 +2,7 @@
 title: Hound Tor, Bowerman's Nose, Kitty Jay's Grave
 walkdate: '2019-03-25'
 description: Hound Tor, Swallerton Gate, Kitty Jay's Grave, Logan stone, Bowerman's Nose 
-categories: East Dartmoor
+categories: ["East Dartmoor"]
 gpx: hound-tor-bowermans-nose-kitty-jays-grave
 
 author: Simon Avery & Keith Ryan

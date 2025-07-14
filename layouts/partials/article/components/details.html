@@ -29,7 +29,7 @@
     {{ if $showFooter }}
     <footer class="article-time">
  	{{ if .Params.distance }}
-	  A {{ lower .Params.grade }} {{ .Params.distance }} mile walk by {{ .Params.author }} on &nbsp; {{- .Params.walkdate | time.Format (or .Site.Params.dateFormat.published "Jan 02, 2006") -}}. &nbsp; Added on &nbsp; {{- .Date | time.Format (or .Site.Params.dateFormat.published "Jan 02, 2006") -}}
+	  A {{ lower .Params.grade }} {{ .Params.distance }} mile walk by {{ .Params.author }} on &nbsp; {{- .Params.walkdate | time.Format (or .Site.Params.dateFormat.published "Jan 02, 2006") -}}. &nbsp; Added on &nbsp; {{- .Date | time.Format (or .Site.Params.dateFormat.published "Jan 02, 2006") }}
 	{{ end }}
 
         {{ if and (.Params.showthedate) (.Site.Params.ShowDatesOnPosts) }}

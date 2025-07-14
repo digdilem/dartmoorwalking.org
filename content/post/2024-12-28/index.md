@@ -1,7 +1,7 @@
 ---
 title: Haytor Down
 description: A quiet walk of nice views and ancient woodland away from the busy honeypot of Haytor.
-categories: East Dartmoor
+categories: ["East Dartmoor"]
 distance: 3
 coords: 50.58693,-3.73816
 grade: Gentle

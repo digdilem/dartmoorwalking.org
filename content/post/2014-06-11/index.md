@@ -1,7 +1,7 @@
 ---
 title: Quarrymans Path and Merrivale
 description: A short but hilly walk with good views over open moorland, visiting several distinctive tors and the quarry workings at Merrivale, including the old sett-makers work areas.
-categories: West Dartmoor
+categories: ["West Dartmoor"]
 distance: 2
 coords: 50.55658,-4.0625
 grade: Medium

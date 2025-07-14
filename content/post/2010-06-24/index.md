@@ -1,7 +1,7 @@
 ---
 title: Foxtor Mire and Childe's Tomb
 description: A challenging and potentitally risky walk across a notorious mire, said to be the inspiration for Sherlock Holmes' Grimpen Mire. It includes lots of history and ruins dating from the Bronze Age up to more modern times.
-categories: Mid Dartmoor
+categories: ["Mid Dartmoor"]
 distance: 6
 coords: 50.52052,-3.96377
 grade: Strenuous
@@ -164,7 +164,7 @@ This girt is an artificial valley dug by men searching for tin, probably in the 
 
 ![Crossing over the River Swincombe](23.jpg)
 
-![Ruins near the River Swincombe](25.jpg)
+![Ruins near the River Swincombe](24.jpg)
 
 These ruins are possibly what's left of Sam Parr's house. 
 

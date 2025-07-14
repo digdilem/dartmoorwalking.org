@@ -2,7 +2,7 @@
 title: The Powder Mills
 walkdate: '2020-05-25'
 description: A walk of about 3 miles across open moorland to the historic Powder Mills site, near to Postbridge in central Dartmoor. 
-categories: Mid Dartmoor
+categories: ["Mid Dartmoor"]
 gpx: the-powder-mills
 
 proofed: yes

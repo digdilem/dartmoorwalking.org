@@ -25,6 +25,8 @@ hidetags: true
 ## About this Website
 The hope is that this site will provide a clear and informative way to inspire people to enjoy Dartmoor by providing self-guided walking information and suggested routes.
 
+*Dartmoor faces significant threats to its future. I believe that by encouraging people to use, enjoy and understand Dartmoor and its history, they will not only become richer themselves, but also form the same love for the moor as I have. We have recently seen attempts to remove legal rights, protections and funding from Dartmoor and by helping people to care, I think more of us are likely to object when we see Dartmoor under threat. The freedom to use Dartmoor for recreation is a legal right for everyone and we need to protect that. -- Simon*
+
 ### Background
 Many of the photographs, routes and research for this site were originally taken by Keith Ryan for his [DartmoorCam](https://dartmoorcam.co.uk) website. Sadly, Keith became unable to continue maintaining DartmoorCam and passed it to Simon Avery to preserve it. As well as preserving the original DartmoorCam, Simon has shared Keith's work here and added his own experience and knowledge of Dartmoor to create an entirely new and more accessible website.
 

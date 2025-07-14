@@ -1,7 +1,7 @@
 ---
 title: Prewley Moor and the Iceworks
 description: A stroll up to Sourton Tors taking in the ill-fated Iceworks
-categories: North Dartmoor
+categories: ["North Dartmoor"]
 distance: 3
 coords: 50.7005,-4.06213
 grade: Medium

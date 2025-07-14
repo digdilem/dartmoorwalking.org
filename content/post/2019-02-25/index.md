@@ -1,7 +1,7 @@
 ---
 title: Foggintor Quarry
 description: A mostly level and even linear walk to one of the biggest quarries on Dartmoor, rich in old buildings and history.
-categories: West Dartmoor
+categories: ["West Dartmoor"]
 distance: 3
 coords: 50.55694095427574,-4.023894675807629
 grade: Gentle
