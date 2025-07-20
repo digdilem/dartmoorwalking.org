@@ -98,8 +98,7 @@ Cookies are small text files that are placed on your computer by websites that y
 
 We use cookies to:  
 
-* ~~Provide feedback via Utterances which, if you choose to log into Github to comment on this site, remembers who you are. Github have their own privacy policy.~~  (Utterences is currently disabled)
-* Anonymous user site preferences. (Eg, to remember if you want to site in Light or Dark mode)
+* Anonymous user site preferences stored in your browser. (Eg, to remember if you want the site in Light or Dark mode)
 * [Cloudflare Web Analytics](https://www.cloudflare.com/en-gb/web-analytics/) runs to measure website performance. It does not track individuals. 
 
 No cookies used on this website require opt-in to satisfy GDPR requirements so a user prompt is not required.

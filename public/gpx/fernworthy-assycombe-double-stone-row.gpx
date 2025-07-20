@@ -121,7 +121,7 @@
 		<type>Waypoint</type>
 	</wpt>
 	<rte>
-		<name>GME exported route</name>
+		<name>dartmoorwalking.orged route</name>
 		<src>Manual entry</src>
 		<number>1</number>
 		<rtept lat="50.63749970829621" lon="-3.895554542541504">

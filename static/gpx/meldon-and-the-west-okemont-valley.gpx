@@ -249,7 +249,7 @@
 		<type>Waypoint</type>
 	</wpt>
 	<rte>
-		<name>GME exported route</name>
+		<name>dartmoorwalking.orged route</name>
 		<src>Manual entry</src>
 		<number>1</number>
 		<rtept lat="50.70783267975301" lon="-4.038569927215576">

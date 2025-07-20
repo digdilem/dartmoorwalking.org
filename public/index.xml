@@ -13730,8 +13730,7 @@ data-flex-basis="960px"
 &lt;h3 id="how-we-use-cookies">How we use cookies
 &lt;/h3>&lt;p>We use cookies to:&lt;/p>
 &lt;ul>
-&lt;li>&lt;del>Provide feedback via Utterances which, if you choose to log into Github to comment on this site, remembers who you are. Github have their own privacy policy.&lt;/del> (Utterences is currently disabled)&lt;/li>
-&lt;li>Anonymous user site preferences. (Eg, to remember if you want to site in Light or Dark mode)&lt;/li>
+&lt;li>Anonymous user site preferences stored in your browser. (Eg, to remember if you want the site in Light or Dark mode)&lt;/li>
 &lt;li>&lt;a class="link" href="https://www.cloudflare.com/en-gb/web-analytics/" target="_blank" rel="noopener"
 >Cloudflare Web Analytics&lt;/a> runs to measure website performance. It does not track individuals.&lt;/li>
 &lt;/ul>

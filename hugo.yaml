@@ -65,7 +65,7 @@ params:
 
     footer:
         since: 2022
-        customText: Please contact <a href="mailto:feedback@dartmoorwalking.org">feedback@dartmoorwalking.org</a> for any corrections, suggestions or feedback. Thank you.<br /><a href="/about/#cookies">Cookie Policy</a> &nbsp;&nbsp; <a rel="alternate" type="application/rss+xml" title="RSS Feed" href="/index.xml">RSS Feed </a>
+        customText: Please contact <a href="mailto:feedback@dartmoorwalking.org">feedback@dartmoorwalking.org</a> for any corrections, suggestions or feedback. Thank you.<br /><a href="/about/#cookie-policy">Cookie Policy</a> &nbsp;&nbsp; <a rel="alternate" type="application/rss+xml" title="RSS Feed" href="/index.xml">RSS Feed </a>
         
 
     dateFormat:
