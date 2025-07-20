@@ -77,7 +77,7 @@ The Victorians also carved steps into Haytor and erected a wrought-iron handrail
 
 ![The Eastern Pile of Haytor](6.jpg)
 
-The adventurous may wish to climb Haytor. You will find the staps up the shallower grade, with a small leap across to the main rock. 
+The adventurous may wish to climb Haytor. You will find the steps up the shallower grade, with a small leap across to the main rock. 
 
 This is not an easy climb and advised only for the fit and agile with suitable footwear, and to be avoided by all in icy or windy weather for obvious reasons.
 
