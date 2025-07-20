@@ -31,11 +31,11 @@ cd \code\dartmoorwalking\scripts
 
 
 
-@REM git add .
-@REM git commit -am "Updating to reflect development"
-@REM git push -f origin master
+git add .
+git commit -am "Updating to reflect development"
+git push -f origin master
 
-@REM npx wrangler pages deploy c:\code\dartmoorwalking\public --project-name=dartmoorwalking  --commit-dirty=true
+npx wrangler pages deploy c:\code\dartmoorwalking\public --project-name=dartmoorwalking  --commit-dirty=true
 
 
 
