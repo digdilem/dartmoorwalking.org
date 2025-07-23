@@ -51,14 +51,14 @@ date: '2025-07-22T19:55:23+01:00'
 
 ## Introduction
 
-This short walk starts at the Highest Pub in Southern England and climbs the gentle hill behind it, visiting several ancient sites on the way such as the Kings' Oven to the impressive Hurston Stone Row.  We then return along along a low ridge to another cairn atop Water Hill, before dropping back down to the starting point.  The views are impressive, and although never far from the road, it's possible to lose sight of modernity and step back in time in one's imagination to when this area was a thriving tin mining valley, or even further back to the bronze age when it was also busy with several nearby settlements.
+This short walk starts at the Highest Pub in Southern England and climbs the gentle hill behind it, visiting several ancient sites on the way such as the Kings' Oven to the impressive Hurston Stone Row.  We then return along a low ridge to another cairn atop Water Hill, before dropping back down to the starting point.  The views are impressive, and although never far from the road, it's possible to lose sight of modernity and step back in time in one's imagination to when this area was a thriving tin mining valley, or even further back to the bronze age when it was also busy with several nearby settlements.
 
 
 ## Warren House Inn
 
 ![Warren House Inn](1.jpg)
 
-This pub claims to be the most famous pub on Dartmoor and is certainly one of the most visited, especially on Summer's day. When the prison was working, visitors would often stop by here on their way to visit friends and relatives.
+This pub claims to be the most famous pub on Dartmoor and is certainly one of the most visited, especially on a Summer's day. When the prison was working, visitors would often stop by here on their way to visit friends and relatives.
 
 At 434m above sea level, it's the highest pub in Southern England and the second highest overall. It claims to have kept its fire burning continuously since 1845, which must make for exciting work as the pub's chimney sweep.
 
@@ -89,7 +89,7 @@ The letters WB are difficult to see now, occupying the upper six inches on the f
 
 ![The site of Cap'n Moses Bawden's Bungalow. SX 67532 81087](36.jpg)
 
-Near to our parking are the ruins of a stone build bungalow that belonged to Cap'n Moses, once captain of the Birch Tor & Vitifer Mine nearby. The bungalow was also known as King's Bungalow (after King's Oven) and it was demolished in 1976.  
+Near to our parking are the ruins of a stone-built bungalow that belonged to Cap'n Moses, once captain of the Birch Tor & Vitifer Mine nearby. The bungalow was also known as King's Bungalow (after King's Oven) and it was demolished in 1976.  
 
 ![On the front edge of the above bungalow, also at SX 67532 81087](37.jpg)
 
@@ -133,7 +133,7 @@ Two theories:
 
 1. The DTRG (Dartmoor Tinworking Research Group) Newsletter May 2020 No. 58 has a note on the "Kings Oven Stones" by Nick Walter on pages 9-10 that proposes a possible function for these stones. They could have been supports for a hand windlass that could have been used for raising loads from a small shaft in the nearby mine.
 
-2. The next issue of the same DTRG Newsletter, dated November 2020 No. 59, has a note on the "Kings Oven Stones" by Tom Greaves on page 19.  The stones may have derive from a single stone that is now broken. The cut recesses could have house the base (wood or metal) of a flagpole. They are situated near the foundations of the larger of two ruined buildings which might have been the mine office. It is recorded that at least one mine in this area flew such a flag when they were actively working. 
+2. The next issue of the same DTRG Newsletter, dated November 2020 No. 59, has a note on the "Kings Oven Stones" by Tom Greaves on page 19.  The stones may have derived from a single stone that is now broken. The cut recesses could have housed the base (wood or metal) of a flagpole. They are situated near the foundations of the larger of two ruined buildings which might have been the mine office. It is recorded that at least one mine in this area flew such a flag when they were actively working. 
 
 ![This open green area is not King's Oven - it is the site of an old building. SX 67531 81367](11.jpg)
 
@@ -220,7 +220,7 @@ During investigations on the cairn by Baring Gould, a "stone axe and a cinerary
 
 This is a good vantage point to view the Ace Fields to the Southeast on the lower slopes of Birch Tor.
 
-> Legend records that there are four fields, each one shaped for the suites of a pack of cards. A young tin mining wastrel, name of Jan Reynolds, dared to play cards during a church sermon. The Devil descended and bore Jan away on his large and fierce black horse, never to be seen again. As he was bourne away, Jan dropped his cards, forming these enclosures. (Full story at the link below)
+> Legend records that there are four fields, each one shaped for the suites of a pack of cards. A young tin mining wastrel, name of Jan Reynolds, dared to play cards during a church sermon. The Devil descended and bore Jan away on his large and fierce black horse, never to be seen again. As he was borne away, Jan dropped his cards, forming these enclosures. (Full story at the link below)
 
 * [Legendary Dartmoor - Jan Reynolds](https://www.legendarydartmoor.co.uk/2016/03/25/jan_reynolds/)
 
