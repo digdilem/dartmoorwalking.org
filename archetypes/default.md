@@ -50,3 +50,6 @@ date: '{{ .Date }}'
 
 ## Parking 
 
+## References
+{{< show-extracted-links >}}
+

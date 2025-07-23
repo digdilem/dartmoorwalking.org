@@ -25,7 +25,7 @@ hidetags: true
 ## About this Website
 The hope is that this site will provide a clear and informative way to inspire people to enjoy Dartmoor by providing self-guided walking information and suggested routes.
 
-*Dartmoor faces significant threats to its future. I believe that by encouraging people to use, enjoy and understand Dartmoor and its history, they will not only become richer themselves, but also form the same love for the moor as I have. We have recently seen attempts to remove legal rights, protections and funding from Dartmoor and by helping people to care, I think more of us are likely to object when we see Dartmoor under threat. The freedom to use Dartmoor for recreation is a legal right for everyone and we need to protect that. -- Simon*
+*Dartmoor faces significant threats to its future. I believe that by encouraging people to use, enjoy and understand Dartmoor and its history, they will not only become richer themselves, but also form the same love for the moor as I have. We have recently seen attempts to remove legal rights, protections and funding from Dartmoor and by helping people to care about it, I think more of us are likely to object when we see Dartmoor under threat. The freedom to use Dartmoor for recreation is a legal right for everyone and we need to protect that. -- Simon*
 
 ### Background
 Many of the photographs, routes and research for this site were originally taken by Keith Ryan for his [DartmoorCam](https://dartmoorcam.co.uk) website. Sadly, Keith became unable to continue maintaining DartmoorCam and passed it to Simon Avery to preserve it. As well as preserving the original DartmoorCam, Simon has shared Keith's work here and added his own experience and knowledge of Dartmoor to create an entirely new and more accessible website.
@@ -36,7 +36,7 @@ Many of the photographs, routes and research for this site were originally taken
 
 *Creator of [Dartmoorcam](https://dartmoorcam.co.uk)*
 
-Keith was born in Cornwall and spent his working life as a Marine Biologist based at Plymouth Hoe. He loved Dartmoor and started walking it in 1969, starting his website in 2004 to document the walks with photos and informed narrative. Keith led many group walks over the moor - notably with the [Dartmoor Trust](https://dartmoortrust.org/archive), meticulously researching both geographical and human history along the way. He recorded well over 600 walks on [Dartmoorcam](https://dartmoorcam.co.uk), all with many photographs, footnotes and information.  As well as his website of Dartmoor walks, Keith has also written several other sites which have been preserved. Please see the [links](/links) section.
+Keith was born in Cornwall and spent his working life as a Marine Biologist based at Plymouth Hoe. He loved Dartmoor and started walking it in 1969, starting his website in 2004 to document his walks with photos and informed narrative. Keith led many group walks over the moor - notably with the [Dartmoor Trust](https://dartmoortrust.org/archive), meticulously researching both geographical and human history along the way. He recorded well over 600 walks on [Dartmoorcam](https://dartmoorcam.co.uk), all with many photographs, footnotes and information.  As well as his website of Dartmoor walks, Keith has also written several other sites which have been preserved. Please see the [links](/links) section.
 
 Keith passed away at St Luke's Hospice in May, 2023.
 

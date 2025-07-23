@@ -1,0 +1,21 @@
+{{ $content := .Page.RawContent }}
+{{ $lines := split $content "\n" }}
+{{ $links := slice }}
+
+{{ range $lines }}
+  {{ $line := trim . " " }}
+  {{ if and (hasPrefix $line "* [") (findRE `\* \[.*\]\(.*\)` $line) }}
+    {{ $links = $links | append $line }}
+  {{ end }}
+{{ end }}
+
+{{ if gt (len $links) 0 }}
+<div class="extracted-links">
+  <ul>
+  {{- range $links }}
+    <li>{{ substr . 2 | markdownify }}</li>
+  {{- end }}
+  </ul>
+</div>
+{{ end }}
+
