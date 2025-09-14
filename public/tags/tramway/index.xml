@@ -1,498 +1,694 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tramway on Dartmoor Walking</title><link>https://dartmoorwalking.org/tags/tramway/</link><description>Recent content in Tramway on Dartmoor Walking</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Simon Avery</copyright><lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/tramway/index.xml" rel="self" type="application/rss+xml"/><item><title>Yennadon Down</title><link>https://dartmoorwalking.org/p/yennadon-down/</link><pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate><guid>https://dartmoorwalking.org/p/yennadon-down/</guid><description>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/34.jpg" alt="Featured image of post Yennadon Down" />&lt;h2 id="information">Information
-&lt;/h2>&lt;ul>
-&lt;li>Distance: &lt;b>3 miles&lt;/b>, walked by Keith Ryan and transcribed by &lt;a href="mailto:digdilem@gmail.com">Simon Avery&lt;/a>&lt;/li>
-&lt;li> Grade: &lt;b>&lt;a href="https://dartmoorwalking.org/tags/gentle/">Gentle&lt;/a>&lt;/b>&lt;/li>
-&lt;li> A GPX route of this walk is available: &lt;b>&lt;a href="https://dartmoorwalking.org/gpx/yennadon-down.gpx">Download GPX &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg>&lt;/a>&lt;/b>&lt;/li>
-&lt;li> &lt;a href="https://www.google.com/maps/dir/?api=1&amp;destination=50.504872%2c-4.049458">Directions to Car Park &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-directions">
-&lt;path stroke="none" d="M0 0h24v24H0z" fill="none" />
-&lt;path d="M12 21v-4" />
-&lt;path d="M12 13v-4" />
-&lt;path d="M12 5v-2" />
-&lt;path d="M10 21h4" />
-&lt;path d="M8 5v4h11l2 -2l-2 -2z" />
-&lt;path d="M14 13v4h-8l-2 -2l2 -2z" />
-&lt;/svg>&lt;/a>&lt;/li>
-&lt;li> &lt;a href="https://w3w.co/fattening.events.toward">What Three Words&lt;/a> &lt;code>fattening.events.toward&lt;/code>&lt;/li>
-&lt;/ul>
-&lt;h2 id="map">Map
-&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/map.jpg"
-width="1200"
-height="1429"
-srcset="https://dartmoorwalking.org/p/yennadon-down/map_hu_92938c213c1dcd35.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/map_hu_bbd2d1d145f9622f.jpg 1024w"
-loading="lazy"
-alt="Map of Route - Crown Copyright - Ordnance Survey Licence number 100047373"
-class="gallery-image"
-data-flex-grow="83"
-data-flex-basis="201px"
->&lt;/p>
-&lt;h2 id="lowery-cross">Lowery Cross
-&lt;/h2>&lt;p>Although not directly on our walk, if you came from the main road which is 300 meters to the Northeast of the suggested parking, then you likely drove past Lowery Cross and it&amp;rsquo;s worthy of mention.&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/1.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/1_hu_62dacbd17a710a14.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/1_hu_37ebfbf3490f2c8c.jpg 1024w"
-loading="lazy"
-alt="The back face of Lowery Cross facing the road. You can see a faint incised cross on the main shaft, starting to get swallowed by the moss"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/2.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/2_hu_e062764f1d7f3e75.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/2_hu_2f11a2a99b9e4bb8.jpg 1024w"
-loading="lazy"
-alt="The front face of the same cross"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/3.jpg"
-width="1150"
-height="607"
-srcset="https://dartmoorwalking.org/p/yennadon-down/3_hu_27ac474ec9672a2c.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/3_hu_dc0deddb90e10940.jpg 1024w"
-loading="lazy"
-alt="The 1823 tithe map showing the crossroads which then included a horse-drawn tramway running diagonally North-South across the modern day crossroads"
-class="gallery-image"
-data-flex-grow="189"
-data-flex-basis="454px"
->&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/4.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/4_hu_cb2b292b1e551e3d.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/4_hu_6e5ff4317e58603c.jpg 1024w"
-loading="lazy"
-alt="There is a PCWW 1917 (Plymouth Corporation Water Works) catchment boundary pillar built into the wall between the two car park entrances at Lowery Cross, at SX 54773 69243. Pew Tor can be seen towards the right edge"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>Once parked at the Lowery Cross car part, head off due West along a path.&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/5.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/5_hu_d6d7fa77511c05d2.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/5_hu_820025d97aa37942.jpg 1024w"
-loading="lazy"
-alt="The track after walking downhill towards Yennadon (Welltown) Cross and bearing left towards Dousland"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/6.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/6_hu_55d3fd4d00e6e11.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/6_hu_468768cb1f3d5ea7.jpg 1024w"
-loading="lazy"
-alt="An example of walling where the local slate is used. This is very different to many Dartmoor walls that are built of granite"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;h2 id="dousland-reservoir">Dousland Reservoir
-&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/7.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/7_hu_672d73e2421a219d.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/7_hu_27822962698dbb22.jpg 1024w"
-loading="lazy"
-alt="The dome covering Dousland Reservoir at SX 54307 69121, fed by a pipe from Devonport Leat. This is not “Yelverton Reservoir” that is mapped up behind Burrator Lodge"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;h2 id="1823-plymouth-and-dartmoor-railway">1823 Plymouth and Dartmoor Railway
-&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/8.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/8_hu_12cd5df2db35edb1.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/8_hu_cff127c9f576dc68.jpg 1024w"
-loading="lazy"
-alt="Field gate at SX 54235 69018"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>This gateway marks where Sir Thomas Tyrwhitt&amp;rsquo;s 1823 Plymouth &amp;amp; Dartmoor Railway (horse-drawn) left the Down on its way North to Princetown and its quarries.&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/9.jpg"
-width="1150"
-height="607"
-srcset="https://dartmoorwalking.org/p/yennadon-down/9_hu_980189bbe4884b9a.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/9_hu_68293800c67dd143.jpg 1024w"
-loading="lazy"
-alt="White X on the 1823 tithe map is this same location"
-class="gallery-image"
-data-flex-grow="189"
-data-flex-basis="454px"
->&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/10.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/10_hu_ce5bdeed95871ac8.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/10_hu_1ff3cf54b96f4e7b.jpg 1024w"
-loading="lazy"
-alt="At SX 54232 68799 - about a dozen granite setts remain from the horse drawn tramway"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/11.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/11_hu_82c0efc5e1672ff6.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/11_hu_9360cfee05a5bbe3.jpg 1024w"
-loading="lazy"
-alt="Granite sett with holes for fixing the rails"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;h2 id="yennadon-quarry">Yennadon Quarry
-&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/12.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/12_hu_33cbe8930ec7609f.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/12_hu_2d826a07dbf721b5.jpg 1024w"
-loading="lazy"
-alt="Looking into Yennadon Stone - the modern (hornfelsed) slate quarry"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>Hornfelsed means the Tavy slate was altered by heat from the adjacent intrusion of molten granite that formed the bulk of Dartmoor. The bedrock was laid down as sedimant in open seas about 359 to 383 million years ago.&lt;/p>
-&lt;p>&lt;a class="link" href="http://www.yennadonstone.com/index.html" target="_blank" rel="noopener"
->Yennadon Stone&lt;/a> is the last active stone quarry still working on moorland Dartmoor, out of scores that once existed.&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/13.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/13_hu_85814a5baa237d5b.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/13_hu_b35c2342d7a01a9c.jpg 1024w"
-loading="lazy"
-alt="This photograph is taken from the old tramway / road that runs from the field gate shown above to an area of railway that will be seen below. It shows one end of the gully / gert of the old Meavy Iron Mine"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/14.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/14_hu_1a7ed3645550d38d.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/14_hu_71c80633fb29fdb0.jpg 1024w"
-loading="lazy"
-alt="Looking down the main part of Iron Mine Lane that joins the Dousland / Meavy road"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/15.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/15_hu_1211996714710379.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/15_hu_243dc85050d40868.jpg 1024w"
-loading="lazy"
-alt="House name of the property on the right of the photo above"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;h2 id="iron-mine">Iron Mine
-&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/16.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/16_hu_e8787ecfc04f5b33.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/16_hu_32443114798fc4f0.jpg 1024w"
-loading="lazy"
-alt="The rough track running upslope beside the iron mine workings, on the left"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;blockquote>
-&lt;p>&amp;ldquo;In 1836 Ralph Lopes leased the area to George Stone Baron to &amp;lsquo;dig work mine and search for Iron, Iron Ore, Iron Stone and all other Ores&amp;rsquo; on what was then called Great Yennadon Common, the rent being 1s 8d in the on the gross value according to the price on the day of all such ores metals and minerals which shall be &amp;hellip; digged raised and gotten out of from or in the said premises&amp;rdquo;&lt;/p>&lt;/blockquote>
-&lt;p>There was no lease following this, so it must be concluded the venture was unsuccessful. In 1846, another license was issued to other adventurers!&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/17.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/17_hu_e2ed2da1ebb78b78.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/17_hu_9495f142c32d6f1b.jpg 1024w"
-loading="lazy"
-alt="Part of a mine gully"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/18.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/18_hu_66d807bec3656400.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/18_hu_d8e06e1ef2bc398e.jpg 1024w"
-loading="lazy"
-alt="The gully ends in a pit, of sorts"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/19.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/19_hu_56ad09874fe0057c.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/19_hu_2367c7d3af9fa038.jpg 1024w"
-loading="lazy"
-alt="This is looking down into a deep pit upslope in which tall trees are almost hidden from view. There is an area further up on the Down at SX 54507 68263 where there are two pools and perhaps capped shafts from later trials"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;h2 id="ww2-searchlight-battery">WW2 Searchlight Battery
-&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/20.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/20_hu_28b6dd89d390273a.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/20_hu_16a5f47b2b074cb0.jpg 1024w"
-loading="lazy"
-alt="The site of Second World War searchlight battery no. EXD, at Dousland"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>This searchlight was operational from 9 Feb. 1944. It would help protect Plymouth, Burrator Reservoir and RAF Harrowbeer at Yelverton.&lt;/p>
-&lt;p>All that remains now are the outlines of a row of four huts, of which only one has anything obvious.&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/21.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/21_hu_850f7b930b5a700b.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/21_hu_f8495d1609b6bc88.jpg 1024w"
-loading="lazy"
-alt="The hut base, looking in the other direction"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;h2 id="clapper-bridge">Clapper Bridge
-&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/22.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/22_hu_658a1253ae80fe60.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/22_hu_31b953de746fdef0.jpg 1024w"
-loading="lazy"
-alt="Clapper bridge with eight imposts at SX 54264 68001, over the “dry” Devonport Leat"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/23.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/23_hu_7b66be8dd72d2d2.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/23_hu_e6bc689cf690f86a.jpg 1024w"
-loading="lazy"
-alt="The gate at SX 54257 67930 where the 1823 horse-drawn tramway (Old Plymouth website) left this area of the Down to run north to Iron Mine Lane and past the Yennadon Quarry out through the field gate seen earlier"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;h2 id="steam-railway">Steam Railway
-&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/24.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/24_hu_3c5ce02010e08720.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/24_hu_9608da174b9ee941.jpg 1024w"
-loading="lazy"
-alt="The gate at SX 54195 67909 where both railways entered Yennadown Common"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>The first railway, the 1823 horse-drawn PDR of Sir Thomas Tyrwhitt has already been mentioned.&lt;/p>
-&lt;p>The second railway was the 1883 [Princetown Railway](&lt;a class="link" href="https://en.wikipedia.org/wiki/Princetown_Railway0" target="_blank" rel="noopener"
->https://en.wikipedia.org/wiki/Princetown_Railway0&lt;/a> (using steam locomotives) that replaced it, runnning from Yelverton to Princetown.&lt;/p>
-&lt;p>This one connected with the 1859 &lt;a class="link" href="https://en.wikipedia.org/wiki/South_Devon_and_Tavistock_Railway" target="_blank" rel="noopener"
->South Devon and Tavistock Railway Company (SD&amp;amp;TR) Plymouth-Tavistock line&lt;/a>. It was adopted by the GWR from 1st January 1922 and closed March 3rd, 1956.&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/25.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/25_hu_9cac8643dfd103e9.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/25_hu_e4e1bb6d8cd345a.jpg 1024w"
-loading="lazy"
-alt="Looking east, at the famous “Yennadon loop”"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>The horse-drawn tramway consisted of short wagons that could be pulled in quite a tight turn. The line enters this image at the far right, from the gateway seen above, swings around a hairpin bend (kindly marked by the sheep) and doubles back towards the camera at the left, from where it goes through the first gate above up to Iron Mine Lane and on to Princetown via the west side of the Down.&lt;/p>
-&lt;p>The steam railway could not turn a tight bend like this and was built running into this image at the bottom left and on into the distance towards the reservoir where it ran around the flank of the Down above the dam to Burrator &amp;amp; Sheepstor Halt and then on to Princetown, travelling up the east side of the Down.&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/26.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/26_hu_2fe5c349f4861e2b.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/26_hu_1dcdd697b965834d.jpg 1024w"
-loading="lazy"
-alt="These are the trees where the steam railway ran from left (beside the trees) to right towards Princetown after the horse tramway ran from left to right but then looped back left again to run up past the quarry to Princetown"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/27.jpg"
-width="1599"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/27_hu_753a4ab5269aa571.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/27_hu_1881e9d390b2f308.jpg 1024w"
-loading="lazy"
-alt="Following the old steam railway route east towards the reservoir, we approach a cattle creep"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;h2 id="cattle-creep">Cattle Creep
-&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/28.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/28_hu_d13711a2a1a3b075.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/28_hu_29c816c04faa9b3a.jpg 1024w"
-loading="lazy"
-alt="At the cattle creep, which would have been bridged in wood"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>These &amp;ldquo;creeps&amp;rdquo; (simply small tunnels) were installed at intervals along the railway to enable livestock to cross underneath the railway which would have been fenced along its route to keep livestock from entering the tracks.&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/29.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/29_hu_7fe004bba64361e.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/29_hu_88dab78c471e3569.jpg 1024w"
-loading="lazy"
-alt="Original railway fence post and stone facing detail of the creep"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/30.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/30_hu_912fd070c290e690.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/30_hu_d2172778ccef43f9.jpg 1024w"
-loading="lazy"
-alt="A cow or pony’s eye view of the creep under, at SX 54600 67800, much larger than a sheep creep"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/31.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/31_hu_745df989edcf7a79.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/31_hu_fc5903777a02b446.jpg 1024w"
-loading="lazy"
-alt="PCWW 1917 pillar at SX 54870 67751, the railway is just to the right of the pillar. This is about 90 metres from the road. At this point, the walk left the railway track and climbed up the slope onto the Down"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;h2 id="bronze-age-hut-circle">Bronze Age Hut Circle
-&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/32.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/32_hu_af53d745275b29ba.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/32_hu_c0ff42264a37e874.jpg 1024w"
-loading="lazy"
-alt="A solitary Bronze Age hut circle at SX 54905 67815. Some 95 metres from the quarry car park with Sheeps Tor behind"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/33.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/33_hu_4869b9b6ec8fb055.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/33_hu_f0307236a542e3f6.jpg 1024w"
-loading="lazy"
-alt="View with Peak Hill (left), Sharpitor (left of centre, with North Hessary Tor mast behind) and Leather Tor (right)"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;h2 id="bench-with-a-view">Bench with a view
-&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/34.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/34_hu_11c54a6590f72cc9.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/34_hu_50ef2a46ec21075f.jpg 1024w"
-loading="lazy"
-alt="Memorial bench at SX 54916 68258 with an impressive view"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/35.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/35_hu_f2aa15f3b989685f.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/35_hu_2bb4037c53056237.jpg 1024w"
-loading="lazy"
-alt="Inscription"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/36.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/36_hu_1a169037df5b70f0.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/36_hu_98827f3b6ece087c.jpg 1024w"
-loading="lazy"
-alt="Sheeps Tor with Narrator on its left flank"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/37.jpg"
-width="1599"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/37_hu_ebbf61807f44607d.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/37_hu_dd9f60ea9491e72b.jpg 1024w"
-loading="lazy"
-alt="One of the boundary stones of the iron mine “sett” (permitted working area)"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;blockquote>
-&lt;p>&amp;ldquo;One of the boundary stones which marked the sett has in fact survived, the existence of which had been overlooked by previous Dartmoor explorers and writers until I discovered it some years ago. A rough-hewn short pillar standing against the eastern enclosure wall 20 yards north of the wall corner, in exactly the position in which the last stone on the northern boundary was indicated on the 1836 map (see above)&amp;rdquo;&lt;/p>
-&lt;p>&amp;ndash; &lt;cite>Mike Brown (2001) Guide to Dartmoor, CD-ROM, Dartmoor Press, Grid Square 5489 6833&lt;/cite>&lt;/p>&lt;/blockquote>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/38.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/38_hu_775742d2d42427ba.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/38_hu_e1ad652629cf73fc.jpg 1024w"
-loading="lazy"
-alt="Looking back at SX 55035 68676, at the wood located behind the iron mine sett boundary stone. Down the slope from here, the route of the 1883 steam railway could be seen, now a cycle track"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/39.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/39_hu_56afc175a7ebcf8b.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/39_hu_1021849525567a8b.jpg 1024w"
-loading="lazy"
-alt="Having descended slightly, the walk rejoined the old Princetown Railway (later GWR) railway route / cycle route. Ahead is a modern bridge over the small road from Lowery Cross down to Burrator Discovery Centre"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/40.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/40_hu_f59b4dbc0002d619.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/40_hu_9c8abb306121dfd7.jpg 1024w"
-loading="lazy"
-alt="The Lowery Cross trees, the car park is at the righthand end of them"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;h2 id="crossing-keepers-cottage">Crossing Keeper&amp;rsquo;s Cottage
-&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/41.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/41_hu_636977e684b681bb.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/41_hu_a2861a311593b7e2.jpg 1024w"
-loading="lazy"
-alt="Approaching the site of Lowery Crossing, the crossing keeper’s cottage was on the open green area, the signal box was behind the lefthand fence"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>&lt;a class="link" href="https://maps.nls.uk/geo/explore/#zoom=18.0&amp;amp;lat=50.50490&amp;amp;lon=-4.04570&amp;amp;layers=168&amp;amp;b=1&amp;amp;o=100" target="_blank" rel="noopener"
->Link to OS map showing the keeper&amp;rsquo;s cottage, from 1892-1914&lt;/a>&lt;/p>
-&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/42.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/42_hu_cf64d3fea8d3c557.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/42_hu_b08f797397e9c904.jpg 1024w"
-loading="lazy"
-alt="Looking at the crossing keeper’s cottage area, along the steam railway route, across the road that runs from Lowery Cross (right) to Cross Gate (left)"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;h2 id="lowery-cross-godcake">Lowery Cross &amp;ldquo;Godcake&amp;rdquo;
-&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/yennadon-down/43.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/yennadon-down/43_hu_7ca9425175551f7f.jpg 480w, https://dartmoorwalking.org/p/yennadon-down/43_hu_d680fd2cc0339c14.jpg 1024w"
-loading="lazy"
-alt="Unusual ‘grave shaped’ grass triangle at Lowery Cross"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
->&lt;/p>
-&lt;p>This grass triangle is no burial place - it is a triangular piece of land that was left so that a horse and cart could negotiate a fork in the road where three lanes meet; or maybe it built up from these cart and wagon turnings over the centuries: this is called a godcake.&lt;/p>
-&lt;p>The so-called &amp;ldquo;&lt;a class="link" href="https://en.wikipedia.org/wiki/Coventry_Godcake" target="_blank" rel="noopener"
->Coventry Godcakes&lt;/a>&amp;rdquo; take their name from these triangle shapes and are not particular to any one county or city as they are found everywhere.&lt;/p>
-&lt;p>&lt;em>This walk was reached from the B3212 road from Dousland to Princetown by turning right at the first road encountered after leaving Dousland. This is a crossroads where the left turn goes downhill to Welltown. Parking is at the yellow cross and the P symbol indicated on the map&lt;/em>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tramway on Dartmoor Walking</title>
+        <link>http://localhost:1313/tags/tramway/</link>
+        <description>Recent content in Tramway on Dartmoor Walking</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Simon Avery</copyright>
+        <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tramway/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Yennadon Down</title>
+        <link>http://localhost:1313/p/yennadon-down/</link>
+        <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/yennadon-down/</guid>
+        <description>&lt;img src="http://localhost:1313/p/yennadon-down/34.jpg" alt="Featured image of post Yennadon Down" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Distance: &lt;b&gt;3 miles&lt;/b&gt;, walked by Keith Ryan and transcribed by &lt;a href=&#34;mailto:digdilem@gmail.com&#34;&gt;Simon Avery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; Grade: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/tags/gentle/&#34;&gt;Gentle&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/gpx/yennadon-down.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.504872%2c-4.049458&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
+    &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
+    &lt;path d=&#34;M12 21v-4&#34; /&gt;
+    &lt;path d=&#34;M12 13v-4&#34; /&gt;
+    &lt;path d=&#34;M12 5v-2&#34; /&gt;
+    &lt;path d=&#34;M10 21h4&#34; /&gt;
+    &lt;path d=&#34;M8 5v4h11l2 -2l-2 -2z&#34; /&gt;
+    &lt;path d=&#34;M14 13v4h-8l-2 -2l2 -2z&#34; /&gt;
+  &lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href=&#34;https://w3w.co/fattening.events.toward&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;fattening.events.toward&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;map&#34;&gt;Map
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/map.jpg&#34;
+	width=&#34;1200&#34;
+	height=&#34;1429&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/map_hu_92938c213c1dcd35.jpg 480w, http://localhost:1313/p/yennadon-down/map_hu_bbd2d1d145f9622f.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;83&#34;
+		data-flex-basis=&#34;201px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;lowery-cross&#34;&gt;Lowery Cross
+&lt;/h2&gt;&lt;p&gt;Although not directly on our walk, if you came from the main road which is 300 meters to the Northeast of the suggested parking, then you likely drove past Lowery Cross and it&amp;rsquo;s worthy of mention.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/1.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/1_hu_62dacbd17a710a14.jpg 480w, http://localhost:1313/p/yennadon-down/1_hu_37ebfbf3490f2c8c.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The back face of Lowery Cross facing the road. You can see a faint incised cross on the main shaft, starting to get swallowed by the moss&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/2.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/2_hu_e062764f1d7f3e75.jpg 480w, http://localhost:1313/p/yennadon-down/2_hu_2f11a2a99b9e4bb8.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The front face of the same cross&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/3.jpg&#34;
+	width=&#34;1150&#34;
+	height=&#34;607&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/3_hu_27ac474ec9672a2c.jpg 480w, http://localhost:1313/p/yennadon-down/3_hu_dc0deddb90e10940.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The 1823 tithe map showing the crossroads which then included a horse-drawn tramway running diagonally North-South across the modern day crossroads&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;189&#34;
+		data-flex-basis=&#34;454px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/4.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/4_hu_cb2b292b1e551e3d.jpg 480w, http://localhost:1313/p/yennadon-down/4_hu_6e5ff4317e58603c.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;There is a PCWW 1917 (Plymouth Corporation Water Works) catchment boundary pillar built into the wall between the two car park entrances at Lowery Cross, at SX 54773 69243. Pew Tor can be seen towards the right edge&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Once parked at the Lowery Cross car part, head off due West along a path.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/5.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/5_hu_d6d7fa77511c05d2.jpg 480w, http://localhost:1313/p/yennadon-down/5_hu_820025d97aa37942.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The track after walking downhill towards Yennadon (Welltown) Cross and bearing left towards Dousland&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/6.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/6_hu_55d3fd4d00e6e11.jpg 480w, http://localhost:1313/p/yennadon-down/6_hu_468768cb1f3d5ea7.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;An example of walling where the local slate is used. This is very different to many Dartmoor walls that are built of granite&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;dousland-reservoir&#34;&gt;Dousland Reservoir
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/7.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/7_hu_672d73e2421a219d.jpg 480w, http://localhost:1313/p/yennadon-down/7_hu_27822962698dbb22.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The dome covering Dousland Reservoir at SX 54307 69121, fed by a pipe from Devonport Leat. This is not “Yelverton Reservoir” that is mapped up behind Burrator Lodge&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;1823-plymouth-and-dartmoor-railway&#34;&gt;1823 Plymouth and Dartmoor Railway
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/8.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/8_hu_12cd5df2db35edb1.jpg 480w, http://localhost:1313/p/yennadon-down/8_hu_cff127c9f576dc68.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Field gate at SX 54235 69018&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;This gateway marks where Sir Thomas Tyrwhitt&amp;rsquo;s 1823 Plymouth &amp;amp; Dartmoor Railway (horse-drawn) left the Down on its way North to Princetown and its quarries.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/9.jpg&#34;
+	width=&#34;1150&#34;
+	height=&#34;607&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/9_hu_980189bbe4884b9a.jpg 480w, http://localhost:1313/p/yennadon-down/9_hu_68293800c67dd143.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;White X on the 1823 tithe map is this same location&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;189&#34;
+		data-flex-basis=&#34;454px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/10.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/10_hu_ce5bdeed95871ac8.jpg 480w, http://localhost:1313/p/yennadon-down/10_hu_1ff3cf54b96f4e7b.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;At SX 54232 68799 - about a dozen granite setts remain from the horse drawn tramway&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/11.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/11_hu_82c0efc5e1672ff6.jpg 480w, http://localhost:1313/p/yennadon-down/11_hu_9360cfee05a5bbe3.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Granite sett with holes for fixing the rails&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;yennadon-quarry&#34;&gt;Yennadon Quarry
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/12.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/12_hu_33cbe8930ec7609f.jpg 480w, http://localhost:1313/p/yennadon-down/12_hu_2d826a07dbf721b5.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Looking into Yennadon Stone - the modern (hornfelsed) slate quarry&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Hornfelsed means the Tavy slate was altered by heat from the adjacent intrusion of molten granite that formed the bulk of Dartmoor. The bedrock was laid down as sedimant in open seas about 359 to 383 million years ago.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.yennadonstone.com/index.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Yennadon Stone&lt;/a&gt; is the last active stone quarry still working on moorland Dartmoor, out of scores that once existed.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/13.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/13_hu_85814a5baa237d5b.jpg 480w, http://localhost:1313/p/yennadon-down/13_hu_b35c2342d7a01a9c.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;This photograph is taken from the old tramway / road that runs from the field gate shown above to an area of railway that will be seen below. It shows one end of the gully / gert of the old Meavy Iron Mine&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/14.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/14_hu_1a7ed3645550d38d.jpg 480w, http://localhost:1313/p/yennadon-down/14_hu_71c80633fb29fdb0.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Looking down the main part of Iron Mine Lane that joins the Dousland / Meavy road&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/15.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/15_hu_1211996714710379.jpg 480w, http://localhost:1313/p/yennadon-down/15_hu_243dc85050d40868.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;House name of the property on the right of the photo above&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;iron-mine&#34;&gt;Iron Mine
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/16.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/16_hu_e8787ecfc04f5b33.jpg 480w, http://localhost:1313/p/yennadon-down/16_hu_32443114798fc4f0.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The rough track running upslope beside the iron mine workings, on the left&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;In 1836 Ralph Lopes leased the area to George Stone Baron to &amp;lsquo;dig work mine and search for Iron, Iron Ore, Iron Stone and all other Ores&amp;rsquo; on what was then called Great Yennadon Common, the rent being 1s 8d in the on the gross value according to the price on the day of all such ores metals and minerals which shall be &amp;hellip; digged raised and gotten out of from or in the said premises&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;There was no lease following this, so it must be concluded the venture was unsuccessful. In 1846, another license was issued to other adventurers!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/17.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/17_hu_e2ed2da1ebb78b78.jpg 480w, http://localhost:1313/p/yennadon-down/17_hu_9495f142c32d6f1b.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Part of a mine gully&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/18.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/18_hu_66d807bec3656400.jpg 480w, http://localhost:1313/p/yennadon-down/18_hu_d8e06e1ef2bc398e.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The gully ends in a pit, of sorts&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/19.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/19_hu_56ad09874fe0057c.jpg 480w, http://localhost:1313/p/yennadon-down/19_hu_2367c7d3af9fa038.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;This is looking down into a deep pit upslope in which tall trees are almost hidden from view. There is an area further up on the Down at SX 54507 68263 where there are two pools and perhaps capped shafts from later trials&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ww2-searchlight-battery&#34;&gt;WW2 Searchlight Battery
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/20.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/20_hu_28b6dd89d390273a.jpg 480w, http://localhost:1313/p/yennadon-down/20_hu_16a5f47b2b074cb0.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The site of Second World War searchlight battery no. EXD, at Dousland&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;This searchlight was operational from 9 Feb. 1944. It would help protect Plymouth, Burrator Reservoir and RAF Harrowbeer at Yelverton.&lt;/p&gt;
+&lt;p&gt;All that remains now are the outlines of a row of four huts, of which only one has anything obvious.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/21.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/21_hu_850f7b930b5a700b.jpg 480w, http://localhost:1313/p/yennadon-down/21_hu_f8495d1609b6bc88.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The hut base, looking in the other direction&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;clapper-bridge&#34;&gt;Clapper Bridge
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/22.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/22_hu_658a1253ae80fe60.jpg 480w, http://localhost:1313/p/yennadon-down/22_hu_31b953de746fdef0.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Clapper bridge with eight imposts at SX 54264 68001, over the “dry” Devonport Leat&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/23.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/23_hu_7b66be8dd72d2d2.jpg 480w, http://localhost:1313/p/yennadon-down/23_hu_e6bc689cf690f86a.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The gate at SX 54257 67930 where the 1823 horse-drawn tramway (Old Plymouth website) left this area of the Down to run north to Iron Mine Lane and past the Yennadon Quarry out through the field gate seen earlier&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;steam-railway&#34;&gt;Steam Railway
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/24.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/24_hu_3c5ce02010e08720.jpg 480w, http://localhost:1313/p/yennadon-down/24_hu_9608da174b9ee941.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The gate at SX 54195 67909 where both railways entered Yennadown Common&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The first railway, the 1823 horse-drawn PDR of Sir Thomas Tyrwhitt has already been mentioned.&lt;/p&gt;
+&lt;p&gt;The second railway was the 1883 [Princetown Railway](&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Princetown_Railway0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://en.wikipedia.org/wiki/Princetown_Railway0&lt;/a&gt; (using steam locomotives) that replaced it, runnning from Yelverton to Princetown.&lt;/p&gt;
+&lt;p&gt;This one connected with the 1859 &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/South_Devon_and_Tavistock_Railway&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;South Devon and Tavistock Railway Company (SD&amp;amp;TR) Plymouth-Tavistock line&lt;/a&gt;. It was adopted by the GWR from 1st January 1922 and closed March 3rd, 1956.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/25.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/25_hu_9cac8643dfd103e9.jpg 480w, http://localhost:1313/p/yennadon-down/25_hu_e4e1bb6d8cd345a.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Looking east, at the famous “Yennadon loop”&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The horse-drawn tramway consisted of short wagons that could be pulled in quite a tight turn. The line enters this image at the far right, from the gateway seen above, swings around a hairpin bend (kindly marked by the sheep) and doubles back towards the camera at the left, from where it goes through the first gate above up to Iron Mine Lane and on to Princetown via the west side of the Down.&lt;/p&gt;
+&lt;p&gt;The steam railway could not turn a tight bend like this and was built running into this image at the bottom left and on into the distance towards the reservoir where it ran around the flank of the Down above the dam to Burrator &amp;amp; Sheepstor Halt and then on to Princetown, travelling up the east side of the Down.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/26.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/26_hu_2fe5c349f4861e2b.jpg 480w, http://localhost:1313/p/yennadon-down/26_hu_1dcdd697b965834d.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;These are the trees where the steam railway ran from left (beside the trees) to right towards Princetown after the horse tramway ran from left to right but then looped back left again to run up past the quarry to Princetown&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/27.jpg&#34;
+	width=&#34;1599&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/27_hu_753a4ab5269aa571.jpg 480w, http://localhost:1313/p/yennadon-down/27_hu_1881e9d390b2f308.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Following the old steam railway route east towards the reservoir, we approach a cattle creep&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;cattle-creep&#34;&gt;Cattle Creep
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/28.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/28_hu_d13711a2a1a3b075.jpg 480w, http://localhost:1313/p/yennadon-down/28_hu_29c816c04faa9b3a.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;At the cattle creep, which would have been bridged in wood&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;These &amp;ldquo;creeps&amp;rdquo; (simply small tunnels) were installed at intervals along the railway to enable livestock to cross underneath the railway which would have been fenced along its route to keep livestock from entering the tracks.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/29.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/29_hu_7fe004bba64361e.jpg 480w, http://localhost:1313/p/yennadon-down/29_hu_88dab78c471e3569.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Original railway fence post and stone facing detail of the creep&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/30.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/30_hu_912fd070c290e690.jpg 480w, http://localhost:1313/p/yennadon-down/30_hu_d2172778ccef43f9.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A cow or pony’s eye view of the creep under, at SX 54600 67800, much larger than a sheep creep&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/31.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/31_hu_745df989edcf7a79.jpg 480w, http://localhost:1313/p/yennadon-down/31_hu_fc5903777a02b446.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;PCWW 1917 pillar at SX 54870 67751, the railway is just to the right of the pillar. This is  about 90 metres from the road. At this point, the walk left the railway track and climbed up the slope onto the Down&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;bronze-age-hut-circle&#34;&gt;Bronze Age Hut Circle
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/32.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/32_hu_af53d745275b29ba.jpg 480w, http://localhost:1313/p/yennadon-down/32_hu_c0ff42264a37e874.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A solitary Bronze Age hut circle at SX 54905 67815. Some 95 metres from the quarry car park with Sheeps Tor behind&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/33.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/33_hu_4869b9b6ec8fb055.jpg 480w, http://localhost:1313/p/yennadon-down/33_hu_f0307236a542e3f6.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;View with Peak Hill (left), Sharpitor (left of centre, with North Hessary Tor mast behind) and Leather Tor (right)&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;bench-with-a-view&#34;&gt;Bench with a view
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/34.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/34_hu_11c54a6590f72cc9.jpg 480w, http://localhost:1313/p/yennadon-down/34_hu_50ef2a46ec21075f.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Memorial bench at SX 54916 68258 with an impressive view&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/35.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/35_hu_f2aa15f3b989685f.jpg 480w, http://localhost:1313/p/yennadon-down/35_hu_2bb4037c53056237.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Inscription&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/36.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/36_hu_1a169037df5b70f0.jpg 480w, http://localhost:1313/p/yennadon-down/36_hu_98827f3b6ece087c.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Sheeps Tor with Narrator on its left flank&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/37.jpg&#34;
+	width=&#34;1599&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/37_hu_ebbf61807f44607d.jpg 480w, http://localhost:1313/p/yennadon-down/37_hu_dd9f60ea9491e72b.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;One of the boundary stones of the iron mine “sett” (permitted working area)&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;One of the boundary stones which marked the sett has in fact survived, the existence of which had been overlooked by previous Dartmoor explorers and writers until I discovered it some years ago. A rough-hewn short pillar standing against the eastern enclosure wall 20 yards north of the wall corner, in exactly the position in which the last stone on the northern boundary was indicated on the 1836 map (see above)&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ndash;  &lt;cite&gt;Mike Brown (2001) Guide to Dartmoor, CD-ROM, Dartmoor Press, Grid Square 5489 6833&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/38.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/38_hu_775742d2d42427ba.jpg 480w, http://localhost:1313/p/yennadon-down/38_hu_e1ad652629cf73fc.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Looking back at SX 55035 68676, at the wood located behind the iron mine sett boundary stone. Down the slope from here, the route of the 1883 steam railway could be seen, now a cycle track&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/39.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/39_hu_56afc175a7ebcf8b.jpg 480w, http://localhost:1313/p/yennadon-down/39_hu_1021849525567a8b.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Having descended slightly, the walk rejoined the old Princetown Railway (later GWR) railway route / cycle route. Ahead is a modern bridge over the small road from Lowery Cross down to Burrator Discovery Centre&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/40.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/40_hu_f59b4dbc0002d619.jpg 480w, http://localhost:1313/p/yennadon-down/40_hu_9c8abb306121dfd7.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The Lowery Cross trees, the car park is at the righthand end of them&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;crossing-keepers-cottage&#34;&gt;Crossing Keeper&amp;rsquo;s Cottage
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/41.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/41_hu_636977e684b681bb.jpg 480w, http://localhost:1313/p/yennadon-down/41_hu_a2861a311593b7e2.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Approaching the site of Lowery Crossing, the crossing keeper’s cottage was on the open green area, the signal box was behind the lefthand fence&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://maps.nls.uk/geo/explore/#zoom=18.0&amp;amp;lat=50.50490&amp;amp;lon=-4.04570&amp;amp;layers=168&amp;amp;b=1&amp;amp;o=100&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Link to OS map showing the keeper&amp;rsquo;s cottage, from 1892-1914&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/42.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/42_hu_cf64d3fea8d3c557.jpg 480w, http://localhost:1313/p/yennadon-down/42_hu_b08f797397e9c904.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Looking at the crossing keeper’s cottage area, along the steam railway route, across the road that runs from Lowery Cross (right) to Cross Gate (left)&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;lowery-cross-godcake&#34;&gt;Lowery Cross &amp;ldquo;Godcake&amp;rdquo;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yennadon-down/43.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/yennadon-down/43_hu_7ca9425175551f7f.jpg 480w, http://localhost:1313/p/yennadon-down/43_hu_d680fd2cc0339c14.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Unusual ‘grave shaped’ grass triangle at Lowery Cross&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;This grass triangle is no burial place - it is a triangular piece of land that was left so that a horse and cart could negotiate a fork in the road where three lanes meet; or maybe it built up from these cart and wagon turnings over the centuries: this is called a godcake.&lt;/p&gt;
+&lt;p&gt;The so-called &amp;ldquo;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Coventry_Godcake&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Coventry Godcakes&lt;/a&gt;&amp;rdquo; take their name from these triangle shapes and are not particular to any one county or city as they are found everywhere.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This walk was reached from the B3212 road from Dousland to Princetown by turning right at the first road encountered after leaving Dousland. This is a crossroads where the left turn goes downhill to Welltown. Parking is at the yellow cross and the  P  symbol indicated on the map&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

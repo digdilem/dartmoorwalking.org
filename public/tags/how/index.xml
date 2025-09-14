@@ -1,28 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>How on Dartmoor Walking</title><link>https://dartmoorwalking.org/tags/how/</link><description>Recent content in How on Dartmoor Walking</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Simon Avery</copyright><lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/how/index.xml" rel="self" type="application/rss+xml"/><item><title>Helpful Tips</title><link>https://dartmoorwalking.org/helpful-tips/</link><pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate><guid>https://dartmoorwalking.org/helpful-tips/</guid><description>&lt;h2 id="a-few-brief-notes-about-walking-on-dartmoor">A few brief notes about walking on Dartmoor
-&lt;/h2>&lt;p>Nearly everybody who walks on Dartmoor has an enjoyable and safe time of it, bar the odd wet foot. Although once Dartmoor was &lt;a class="link" href="https://www.theguardian.com/science/2017/aug/07/making-old-bones-joint-mitnor-cave-reopens-with-replica-fossils" target="_blank" rel="noopener"
->home to Bears, Wolf, Hyena and even Mammoth&lt;/a>, there are no longer any dangerous mammals to hunt you.&lt;/p>
-&lt;p>The biggest risks to you as a Dartmoor walker are disorientation and exposure. Also, at 365 square miles, Dartmoor is relatively small and few areas are more than 2 or 3 hours walking from the road. That said, people do get in trouble on Dartmoor and need rescuing. It is prudent to take some care before setting off.&lt;/p>
-&lt;p>Your phone is unlikely to have signal for much of Dartmoor. Don&amp;rsquo;t rely upon it solely, but it can be a good tool.&lt;/p>
-&lt;h2 id="3-questions-to-ask-yourself">3 questions to ask yourself
-&lt;/h2>&lt;ol>
-&lt;li>Am I confident I have the knowledge and skills for the day?&lt;/li>
-&lt;li>Do I know what the weather will be like?&lt;/li>
-&lt;li>Do I have the right gear?&lt;/li>
-&lt;/ol>
-&lt;p>&lt;a class="link" href="https://getoutside.ordnancesurvey.co.uk/guides/mountain-safety/" target="_blank" rel="noopener"
->From Ordnance Survey mountain guide&lt;/a>&lt;/p>
-&lt;h2 id="apps-for-walking">Apps for walking
-&lt;/h2>&lt;p>Don&amp;rsquo;t rely on your phone having signal when on Dartmoor, most of the area has weak or no signal for data or voice.&lt;/p>
-&lt;p>That said, mapping apps are very useful, but ensure they can use offline maps and that you&amp;rsquo;ve downloaded the right area.&lt;/p>
-&lt;p>I use &lt;a class="link" href="https://play.google.com/store/apps/details?id=app.organicmaps&amp;amp;hl=en_GB" target="_blank" rel="noopener"
->Organic Maps&lt;/a> - Free, allows download of maps for offline use, can record your track and uses the excellent OpenStreetmaps mapsets.&lt;/p>
-&lt;p>Google Maps is pretty useless for walking - it has poor or no coverage of footpaths or bridle paths. Whilst there can be some value to Satellite images when planning, these don&amp;rsquo;t give useful information to ground conditions or terrain.&lt;/p>
-&lt;p>Purpose built handheld GPSrs like the Garmin Oregon or Montana ranges are rugged, weatherproof and if loaded with good maps and batteries, a very useful and reliable tool.&lt;/p>
-&lt;h2 id="if-you-do-get-lost">If you do get lost!
-&lt;/h2>&lt;p>Don&amp;rsquo;t panic! If you feel yourself starting to get worked up, spend three minutes focusing on nothing but calm breathing. Then use your brain and reason things out: Can you figure out roughly where you are? Can you backtrack? Can you hear a road? See any landmarks?&lt;/p>
-&lt;p>If you need to contact Mountain Rescue, then call 999 when you have signal.&lt;/p>
-&lt;p>If communication isn&amp;rsquo;t available, then try to find a river and follow it downhill. All rivers on Dartmoor take fairly direct routes off the moor and you will reach a road or buildings sooner or later.&lt;/p>
-&lt;h2 id="have-fun">Have fun!
-&lt;/h2>&lt;p>Walking in nature is fantastic for both your physical and mental health. No two walks are ever the same and on a place like Dartmoor where there is such a rich depth of natural and industrial history, there is so much to see and learn about.&lt;/p>
-&lt;blockquote>
-&lt;p>Ee puts wun fut in frunt of t&amp;rsquo;other, an on ee goes &lt;cite>&amp;ndash; How to walk on Dartmoor &lt;/cite>&lt;/p>&lt;/blockquote></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>How on Dartmoor Walking</title>
+        <link>http://localhost:1313/tags/how/</link>
+        <description>Recent content in How on Dartmoor Walking</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Simon Avery</copyright>
+        <lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/how/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Helpful Tips</title>
+        <link>http://localhost:1313/helpful-tips/</link>
+        <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/helpful-tips/</guid>
+        <description>&lt;h2 id=&#34;a-few-brief-notes-about-walking-on-dartmoor&#34;&gt;A few brief notes about walking on Dartmoor
+&lt;/h2&gt;&lt;p&gt;Nearly everybody who walks on Dartmoor has an enjoyable and safe time of it, bar the odd wet foot.  Although once Dartmoor was &lt;a class=&#34;link&#34; href=&#34;https://www.theguardian.com/science/2017/aug/07/making-old-bones-joint-mitnor-cave-reopens-with-replica-fossils&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;home to Bears, Wolf, Hyena and even Mammoth&lt;/a&gt;, there are no longer any dangerous mammals to hunt you.&lt;/p&gt;
+&lt;p&gt;The biggest risks to you as a Dartmoor walker are disorientation and exposure. Also, at 365 square miles, Dartmoor is relatively small and few areas are more than 2 or 3 hours walking from the road.  That said, people do get in trouble on Dartmoor and need rescuing. It is prudent to take some care before setting off.&lt;/p&gt;
+&lt;p&gt;Your phone is unlikely to have signal for much of Dartmoor. Don&amp;rsquo;t rely upon it solely, but it can be a good tool.&lt;/p&gt;
+&lt;h2 id=&#34;3-questions-to-ask-yourself&#34;&gt;3 questions to ask yourself
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Am I confident I have the knowledge and skills for the day?&lt;/li&gt;
+&lt;li&gt;Do I know what the weather will be like?&lt;/li&gt;
+&lt;li&gt;Do I have the right gear?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://getoutside.ordnancesurvey.co.uk/guides/mountain-safety/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;From Ordnance Survey mountain guide&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;apps-for-walking&#34;&gt;Apps for walking
+&lt;/h2&gt;&lt;p&gt;Don&amp;rsquo;t rely on your phone having signal when on Dartmoor, most of the area has weak or no signal for data or voice.&lt;/p&gt;
+&lt;p&gt;That said, mapping apps are very useful, but ensure they can use offline maps and that you&amp;rsquo;ve downloaded the right area.&lt;/p&gt;
+&lt;p&gt;I use &lt;a class=&#34;link&#34; href=&#34;https://play.google.com/store/apps/details?id=app.organicmaps&amp;amp;hl=en_GB&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Organic Maps&lt;/a&gt; - Free, allows download of maps for offline use, can record your track and uses the excellent OpenStreetmaps mapsets.&lt;/p&gt;
+&lt;p&gt;Google Maps is pretty useless for walking - it has poor or no coverage of footpaths or bridle paths. Whilst there can be some value to Satellite images when planning, these don&amp;rsquo;t give useful information to ground conditions or terrain.&lt;/p&gt;
+&lt;p&gt;Purpose built handheld GPSrs like the Garmin Oregon or Montana ranges are rugged, weatherproof and if loaded with good maps and batteries, a very useful and reliable tool.&lt;/p&gt;
+&lt;h2 id=&#34;if-you-do-get-lost&#34;&gt;If you do get lost!
+&lt;/h2&gt;&lt;p&gt;Don&amp;rsquo;t panic! If you feel yourself starting to get worked up, spend three minutes focusing on nothing but calm breathing. Then use your brain and reason things out: Can you figure out roughly where you are? Can you backtrack? Can you hear a road? See any landmarks?&lt;/p&gt;
+&lt;p&gt;If you need to contact Mountain Rescue, then call 999 when you have signal.&lt;/p&gt;
+&lt;p&gt;If communication isn&amp;rsquo;t available, then try to find a river and follow it downhill. All rivers on Dartmoor take fairly direct routes off the moor and you will reach a road or buildings sooner or later.&lt;/p&gt;
+&lt;h2 id=&#34;have-fun&#34;&gt;Have fun!
+&lt;/h2&gt;&lt;p&gt;Walking in nature is fantastic for both your physical and mental health. No two walks are ever the same and on a place like Dartmoor where there is such a rich depth of natural and industrial history, there is so much to see and learn about.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ee puts wun fut in frunt of t&amp;rsquo;other, an on ee goes &lt;cite&gt;&amp;ndash; How to walk on Dartmoor &lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
