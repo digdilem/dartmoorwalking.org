@@ -1,7 +1,7 @@
 ---
 title: Burrator Arboretum and Sheeps Tor circular
 description: A walk through the mystical and beautiful Arboretum at Burrator, extended out onto Yellowmead Down and around Sheeps Tor
-categories: ["Southern Dartmoor"]
+categories: ["South Dartmoor"]
 distance: 3
 coords: 50.50284,-4.01987
 grade: Medium
