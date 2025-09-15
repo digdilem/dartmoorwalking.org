@@ -1,682 +1,504 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Three Mile Walk on Dartmoor Walking</title>
-        <link>http://localhost:1313/tags/three-mile-walk/</link>
-        <description>Recent content in Three Mile Walk on Dartmoor Walking</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
-        <copyright>Simon Avery</copyright>
-        <lastBuildDate>Fri, 17 Jan 2025 19:38:02 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/three-mile-walk/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Ingra Tor</title>
-        <link>http://localhost:1313/p/ingra-tor/</link>
-        <pubDate>Fri, 17 Jan 2025 19:38:02 +0000</pubDate>
-        
-        <guid>http://localhost:1313/p/ingra-tor/</guid>
-        <description>&lt;img src="http://localhost:1313/p/ingra-tor/9.jpg" alt="Featured image of post Ingra Tor" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Distance: &lt;b&gt;3 miles&lt;/b&gt;, walked by Keith Ryan and transcribed by &lt;a href=&#34;mailto:digdilem@gmail.com&#34;&gt;Simon Avery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt; Grade: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/tags/medium/&#34;&gt;Medium&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/gpx/ingra-tor.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.5198%2c-4.0322&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
-    &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
-    &lt;path d=&#34;M12 21v-4&#34; /&gt;
-    &lt;path d=&#34;M12 13v-4&#34; /&gt;
-    &lt;path d=&#34;M12 5v-2&#34; /&gt;
-    &lt;path d=&#34;M10 21h4&#34; /&gt;
-    &lt;path d=&#34;M8 5v4h11l2 -2l-2 -2z&#34; /&gt;
-    &lt;path d=&#34;M14 13v4h-8l-2 -2l2 -2z&#34; /&gt;
-  &lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&#34;https://w3w.co/squeezed.refrained.basher&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;squeezed.refrained.basher&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/map.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;736&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/map_hu_dae2a11b8b6b778a.jpg 480w, http://localhost:1313/p/ingra-tor/map_hu_f8b68e445f149967.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;135&#34;
-		data-flex-basis=&#34;326px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction
-&lt;/h2&gt;&lt;p&gt;This is an interesting walk over open moorland taking in a wide scope of history, from Bronze age and medieval remains, to an abandoned Victorian railway, and disused granite quarries - all with excellent views over Dartmoor and West Devon into Cornwall. There&amp;rsquo;s a small detour offered which takes in an abandoned Medieval Longhouse, its modern replacement and two ancient Pounds and hut circles.&lt;/p&gt;
-&lt;h2 id=&#34;sharpitor&#34;&gt;Sharpitor
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/1.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/1_hu_c47c17f30f641662.jpg 480w, http://localhost:1313/p/ingra-tor/1_hu_869c2138a65c71a0.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking South across the road to Sharpitor.&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;Sharpitor is worth mentioning since it is owned since 1984 by Dartmoor Preservation Association and this ensures access will be preserved into the future.&lt;/p&gt;
-&lt;p&gt;Also note the diagonal linear feature in this photo - this is part of the Walkhampton Common East Reave.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;When ready, walk along the path to the North towards the rocky line and hut circles as per the route on the map&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;reaves-and-hut-circles&#34;&gt;Reaves and Hut Circles
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/2.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/2_hu_f9effa45c9d12cd3.jpg 480w, http://localhost:1313/p/ingra-tor/2_hu_6aedcaad3130544f.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;One of three small Bronze Age hut circles near to the road, again looking towards Sharpitor&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/3.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/3_hu_177f0c04a563fa19.jpg 480w, http://localhost:1313/p/ingra-tor/3_hu_a3f5dc6da2d8dc4f.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The largest of the three. SX 56225 71108. This is #4 on the plan below&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/4.jpg&#34;
-	width=&#34;1267&#34;
-	height=&#34;850&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/4_hu_5e57e8f8036250c0.jpg 480w, http://localhost:1313/p/ingra-tor/4_hu_e2b8a9076e4b58ef.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Image © J Butler 1994. Reproduced by kind permission (ref. 29 Sept. 2012)&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;149&#34;
-		data-flex-basis=&#34;357px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/5.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/5_hu_cdabe4094dc5b255.jpg 480w, http://localhost:1313/p/ingra-tor/5_hu_e9b2df18073568e4.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Standing on Walkhampton Common East Reave, looking uphill towards Leeden Tor&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Reaves - land boundaries of heaped stones&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;There are essentially four types of reaves:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Field boundaries to divide land into normally long strip-like fields for grazing or growing crops, akin to modern walls or hedges.&lt;/li&gt;
-&lt;li&gt;Terminal reaves that are uphill from field boundaries that marked lower divided areas from uphill open or &amp;ldquo;common&amp;rdquo; land&lt;/li&gt;
-&lt;li&gt;Reaves built usually along ridges to mark watersheds i.e. between river valleys&lt;/li&gt;
-&lt;li&gt;Long divisions over kilometres marking out territories akin to parishes.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;The Walkhampton Common Reave is 3170 meters long and mostly straight. It was built in the Bronze Age (Between 4000 BC and 1000 BC), and forms a division between the Walkham and Meavy valleys, thus identifying it as a Reave of type 3 in the above list - built to separate two watersheds.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV15038&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway MDV15038 - 	The Walkhampton Common Reave&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/6.jpg&#34;
-	width=&#34;1986&#34;
-	height=&#34;2161&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/6_hu_be894ea1c32803b4.jpg 480w, http://localhost:1313/p/ingra-tor/6_hu_1ef47cc2c27ff7cd.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Image reproduced by permission of Batsford Books&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;91&#34;
-		data-flex-basis=&#34;220px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;The figure above is reproduced from Andrew Fleming (1988) The Dartmoor Reaves - Investigating Prehistoric Land Divisions, BT Batsford Ltd, London, page 41&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Continue walking uphill towards Leeden Tor&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;leeden-tor&#34;&gt;Leeden Tor
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/7.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/7_hu_817f7281ba0c9e2e.jpg 480w, http://localhost:1313/p/ingra-tor/7_hu_8308aa77149e2c4e.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Amongst the granite clitter of Leeden Tor. Elevation 389 metres (1276 feet)&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;The modern mast of North Hessary Tor transmitting station can be seen in the background. This was built in 1955 to supply 405-line television to Devon and is 196 meters (643 feet) tall.&lt;/p&gt;
-&lt;p&gt;Today, it provides analogue FM radio covering a large area, including Devon, Cornwall, Somerset and South Wales.&lt;/p&gt;
-&lt;p&gt;Additionally, it provides Digital DAB radio and DVB-T television - and is a useful landmark to identify where Princetown is.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/North_Hessary_Tor_transmitting_station&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;North Hessary Tor transmitting station &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/8.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/8_hu_26ebbcf696d54106.jpg 480w, http://localhost:1313/p/ingra-tor/8_hu_3db3706859084751.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Leeden Tor. A smaller and less famous rival for Bowerman’s Nose&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/9.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/9_hu_855794e5a45ea8bc.jpg 480w, http://localhost:1313/p/ingra-tor/9_hu_19ca0be6f5f3c07d.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Local residents&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/10.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/10_hu_7e7f7e867292c1ec.jpg 480w, http://localhost:1313/p/ingra-tor/10_hu_6348973a831e5635.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A last look at Leeden Tor&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h2 id=&#34;great-western-reave&#34;&gt;Great Western Reave
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/11.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/11_hu_cb5c85feaf1a5803.jpg 480w, http://localhost:1313/p/ingra-tor/11_hu_d45c1a5555a5a996.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Great Western Reave. SX 56260 71843&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;Heading Northwest from Leeden Tor, we very soon cross another reave.&lt;/p&gt;
-&lt;p&gt;The Great Western Reave measures over 10 kilometres in length and is the longest known prehistoric land division boundary on Dartmoor. This record covers the most southerly section of the reave (two sections measuring a combined length of 2.58 kilometres). Along its length, the width of the reave varies between 2.5 metres and 4 metres, whilst its height varies between 0.2 metres and 0.7 metres - although it would have been higher when built. A second reave leads off at right angles at SX5577 7088 and there are hut circles and cairns associated with the reave.&lt;/p&gt;
-&lt;p&gt;This very long reave is a territorial boundary something akin to a modern parish boundary (and type 4 from the list above)  It extends from near Sharpitor, near Dousland/Yelverton, to White Tor near Peter Tavy.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Head North West about 450 meters, to&amp;hellip;&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ingra-tor-cairn-and-cist&#34;&gt;Ingra Tor Cairn and Cist
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/12.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/12_hu_4b587e779e6019ec.jpg 480w, http://localhost:1313/p/ingra-tor/12_hu_6515a67ec85d62f7.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Ingra Tor cairn with a central cist. SX 55877 72083&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/13.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/13_hu_9f8504a98ad9a401.jpg 480w, http://localhost:1313/p/ingra-tor/13_hu_2342c8a6ce1008e3.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Showing the displaced capstone of the cist, with Ingra Tor behind&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/14.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/14_hu_659d24b4fde340e5.jpg 480w, http://localhost:1313/p/ingra-tor/14_hu_a31d3c3c5df86983.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The cist, showing the opening into the grave&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/15.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/15_hu_5aa6ace2194302fb.jpg 480w, http://localhost:1313/p/ingra-tor/15_hu_84fe7cf3b1a4a7b5.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Inside the cist&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/16.jpg&#34;
-	width=&#34;771&#34;
-	height=&#34;1012&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/16_hu_8f515c7447043b58.jpg 480w, http://localhost:1313/p/ingra-tor/16_hu_f20fc3c3dd853e11.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Image © J Butler 1994. Reproduced by kind permission (ref. 29 Sept. 2012)&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;76&#34;
-		data-flex-basis=&#34;182px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;This cist is described by Jeremy Butler, 1994, Dartmoor Atlas of Antiquities  Vol. 3 - The South-West, 16: Ingra Tor cairn and cist (fig. 45.13),  page 51.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;The cist is a few metres above the Routrundle leat, which is about 23 metres down the slope. The leat is marked by a downhill bank but is really quite non-photogenic and it is not easy to see the actual &amp;ldquo;trench&amp;rdquo; that was the water course in photographs, so it is not included here.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/17.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;901&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/17_hu_7c221a352d61f082.jpg 480w, http://localhost:1313/p/ingra-tor/17_hu_289171b4c33a9d2f.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Scattered pits near the cairn are described as “stone pits” by Butler in his description of the cairn&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;Stone pits are generally places where walling or building stone was easily won from the ground because of natural fissures or weathering. Sometimes they&amp;rsquo;re mistaken for tinning holes where the old men would find small deposits of cassiterite - a rich source of tin ore. Those would usually have some spoil heaps nearby though, which aren&amp;rsquo;t evident here, so stone pits seems likely. The only two certain things about these holes however, is that they are impossible to date, and that they were made by man.&lt;/p&gt;
-&lt;h2 id=&#34;ingra-tor-and-quarry&#34;&gt;Ingra Tor and Quarry
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/18.jpg&#34;
-	width=&#34;1599&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/18_hu_17428aabf99c5306.jpg 480w, http://localhost:1313/p/ingra-tor/18_hu_2995191601718d34.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Ingra Tor. SX 555 721. Elevation 339 metres (1112 feet)&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;We aim for the Tor and pass to the left of it&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/19.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/19_hu_8a2edb85e23425a3.jpg 480w, http://localhost:1313/p/ingra-tor/19_hu_4f258e5010c86a5d.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking down into the quarry at two old crane bases&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/20.jpg&#34;
-	width=&#34;1599&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/20_hu_732eb0c8c23ddfe0.jpg 480w, http://localhost:1313/p/ingra-tor/20_hu_e28fef1854549aba.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;These two circular features were the bases of cranes used to load granite onto carts&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/21.jpg&#34;
-	width=&#34;1024&#34;
-	height=&#34;698&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/21_hu_4de085398d1ab120.jpg 480w, http://localhost:1313/p/ingra-tor/21_hu_b2fc607ca73b8716.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;An example of the cranes used in Haytor Quarry, similar to those used here and at Foggintor. Image reproduced with permission from the Dartmoor Trust Archive&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;146&#34;
-		data-flex-basis=&#34;352px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;Ingra Tor Quarry, like the nearby Swell Tor, King&amp;rsquo;s Tor and Foggintor Quarries, were run by the Johnson Brothers from 1820 to 1865 who paid a lease to the Duchy of Cornwall.&lt;/p&gt;
-&lt;p&gt;It was re-opened between 1936 and 1941 to cut kerbstones and granite setts for Devon County Council, and a platform was built on the railway called Ingra Tor Halt, just to the North of the Tor.&lt;/p&gt;
-&lt;h2 id=&#34;ingra-tor-halt&#34;&gt;Ingra Tor Halt
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/22.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/22_hu_a660088452420d5d.jpg 480w, http://localhost:1313/p/ingra-tor/22_hu_f3d525639a06844c.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;On the Railway, close to Ingra Tor Halt&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/23.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/23_hu_b832b2bbcccc72b4.jpg 480w, http://localhost:1313/p/ingra-tor/23_hu_a40ad541a861e7e0.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking down to the railway and concrete base of a basic shelter - the only remains of Ingra Tor Halt&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This once held a small shelter from the elements, built partly inside a pound.&lt;/li&gt;
-&lt;li&gt;There was a short wooden platform to the single track railway.&lt;/li&gt;
-&lt;li&gt;At the time of opening in 1936, a single fare from here to Princetown was 11 1/2d First Class, or 7d Second Class.&lt;/li&gt;
-&lt;li&gt;The halt was built for quarry workers, but when the quarries closed, was used exclusively by walkers, most coming up from Plymouth. Walking from here to Princetown and then riding back home was a popular route before the railway closed on March 3, 1956.&lt;/li&gt;
-&lt;li&gt;There was a famous sign here advising passengers to keep dogs on a lead due to the presence of adders. This sign is now kept at Buckfastleigh Station.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://princetownrailway.co.uk/wp-content/uploads/2021/09/Snakes.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Image of the famous sign of Ingra Tor - hosted by Princetown Railway&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;(Above image hosted by the &lt;a class=&#34;link&#34; href=&#34;https://princetownrailway.co.uk/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Princetown Railway site&lt;/a&gt;, which has a lot more interesting information about this railway)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;References&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Mike Brown Guide to Dartmoor - CD-ROM (2001)&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Ingra_Tor_Halt_railway_station&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Wikipedia - Ingra Tor Halt Railway Station&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://princetownrailway.co.uk/ingra-tor/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Princetown Railway Website - Ingra Tor&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;When ready, walk a short distance to the little bridge to the West&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/24.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/24_hu_a3649178e41fb5e7.jpg 480w, http://localhost:1313/p/ingra-tor/24_hu_c976357099ceb39a.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Under the cattle “creep” bridge&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;This bridge was built to provide safe passage for cattle and other livestock to cross the railway. It&amp;rsquo;s worth noting that the railway was fenced with posts and wire to keep stock off the line, so creeps like this were essential to allow free grazing under commoners rights.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/25.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;899&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/25_hu_19fbda17a140f074.jpg 480w, http://localhost:1313/p/ingra-tor/25_hu_6e4b868ac4a1e8ac.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Evidence of recycling&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;427px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;This curious set of holes shows that this block was once used for a tramway in one of the nearby quarries. These holes held an iron plate which held the iron rails above it. Wear from those rails can be seen above and below. No longer of use there, it was re-used in constructing this creep.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/26.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/26_hu_d95a255c8ba0dacc.jpg 480w, http://localhost:1313/p/ingra-tor/26_hu_81ce7f92d7fe2843.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Closer view of the plate holes&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/27.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/27_hu_438b7576affc6e6d.jpg 480w, http://localhost:1313/p/ingra-tor/27_hu_f38b3bff54a5afe6.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;View North-West showing an impressive display of Bluebells&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/28.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/28_hu_b6f053033961edc8.jpg 480w, http://localhost:1313/p/ingra-tor/28_hu_f6482fdc0b66f39a.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking back towards Ingra Tor Halt&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h2 id=&#34;railway&#34;&gt;Railway
-&lt;/h2&gt;&lt;p&gt;&lt;em&gt;We continue walking Southerly along the railway for around 500 meters&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/29.jpg&#34;
-	width=&#34;1599&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/29_hu_1fa5d59fa2d5cec6.jpg 480w, http://localhost:1313/p/ingra-tor/29_hu_6b3ab15def359952.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;View of Ingra Tor from the West&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h2 id=&#34;routrundle-detour&#34;&gt;Routrundle (Detour)
-&lt;/h2&gt;&lt;p&gt;&lt;em&gt;If you want to explore some more history, leave the railway to the west just before the walls come up from Routrundle and walk towards &amp;ldquo;Homestead&amp;rdquo; on the map. Otherwise carry along the railway as per the marked route on the map&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/30.jpg&#34;
-	width=&#34;1599&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/30_hu_36c7d2adef4f001d.jpg 480w, http://localhost:1313/p/ingra-tor/30_hu_a89b536c38c60f74.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking over the wall to the private land of Routrundle&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;This area of Dartmoor has been inhabited for at least four thousand years.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The earliest remains are the large circular pounds and nicely viewable via the aerial view below. This, together with the hut circles nearby, formed an early settlement around 4000 to 1000 BC and provide evidence of animal husbandry.&lt;/li&gt;
-&lt;li&gt;To the Northwest are the stone ruins of a Medieval Longhouse, Smithy and other buildings built between 1066 and 1539.&lt;/li&gt;
-&lt;li&gt;Routrundle is the &amp;ldquo;modern&amp;rdquo; farmhouse dating from a mere 1866, currently inhabited. Build after and probably to replace Babyland Longhouse. There are claims this house dates back to 1417, but it&amp;rsquo;s possible that is confused with the Babyland property.&lt;/li&gt;
-&lt;li&gt;Routrundle is no longer a working farm. It fell into disrepair and was left vacant after a Jim Fence left.&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Routrundle&amp;rdquo; is named after the Bronze Age &amp;ldquo;trundles&amp;rdquo; or pounds still so visible today.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://media.onthemarket.com/properties/3992108/doc_0_0.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Stags sales particulars (2018)&lt;/a&gt; give a good view of the property, inside and out. It sold for £618,000 in 2018.&lt;/li&gt;
-&lt;li&gt;(Not pictured) There is a benchmark on the southwest side of the lane on a large boulder. SX55274 71832&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The collection of trees in the above photo marks a Bronze Age pound and collection of hut circles. These can be accessed from a Bridlepath off the railway a little further on, along with a Medieval Longhouse marked on the map as &amp;ldquo;homestead&amp;rdquo; a little way North of . This was called Babyland. This is a long-inhabited area of Dartmoor.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/31.jpg&#34;
-	width=&#34;1119&#34;
-	height=&#34;799&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/31_hu_b019aa919ab0da8e.jpg 480w, http://localhost:1313/p/ingra-tor/31_hu_174615373b362a8b.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Aerial View of Routrundle and Babyland - Copyright Google Maps 2024&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;140&#34;
-		data-flex-basis=&#34;336px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/32.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/32_hu_88a4f2e68756d8dd.jpg 480w, http://localhost:1313/p/ingra-tor/32_hu_1bb3c585fde75395.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Some of the ruins of Babyland - this was possibly the site of a smithy. Central in the wall ahead is an inscribed stone showing “IW”&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/33.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/33_hu_124a41198033c786.jpg 480w, http://localhost:1313/p/ingra-tor/33_hu_fab724419ebb1301.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Ruins of the Medieval Longhouse&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/34.jpg&#34;
-	width=&#34;983&#34;
-	height=&#34;610&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/34_hu_67a47f7af60cc56e.jpg 480w, http://localhost:1313/p/ingra-tor/34_hu_294166aa0fdf1.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Tithe Map from 1836. Image copyright: Devon County Council&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;161&#34;
-		data-flex-basis=&#34;386px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Tithe_map&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Tithe maps&lt;/a&gt;  were produced to assess the tithe payable in cash to the parish church for the support of the church and its clergy. This tithe had been paid in kind until The Commutation Act was passed in 1836, when it was agreed that this should be converted to a monetary payment.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV14151&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway MDV14151 - Babyland Deserted Farmstead&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/35.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/35_hu_982a80c44be645f0.jpg 480w, http://localhost:1313/p/ingra-tor/35_hu_d63129c662345ad8.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Another benchmark in this area. SX 55729 71303&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/36.jpg&#34;
-	width=&#34;1111&#34;
-	height=&#34;625&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/36_hu_cb4052f140d2bc6c.jpg 480w, http://localhost:1313/p/ingra-tor/36_hu_4af7d989f041c3c4.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Map showing Benchmark locations. Ordnance Survey 6-inch Single Sheet Series Published 1884. Reproduced with the permission of the National Library of Scotland&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h3 id=&#34;end-routrundle-detour&#34;&gt;End Routrundle detour
-&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Whether you continued along the railway or explored through Routrundle and emerged from the bridlepath, leave the railway where the bridlepath joins it and head Southward over open moor to the car park to conclude our walk&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/ingra-tor/37.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/ingra-tor/37_hu_2b77aeaefd3725d2.jpg 480w, http://localhost:1313/p/ingra-tor/37_hu_30c3d581f1af48fc.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Heading back towards the car park&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h2 id=&#34;parking&#34;&gt;Parking
-&lt;/h2&gt;&lt;p&gt;There are a couple of good roadside car parks at the posted locations.&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Mike Brown Guide to Dartmoor - CD-ROM (2001)&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Ingra_Tor_Halt_railway_station&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Wikipedia - Ingra Tor Halt Railway Station&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://princetownrailway.co.uk/ingra-tor/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Princetown Railway Website - Ingra Tor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Tithe_map&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Tithe maps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV14151&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway MDV14151 - Babyland Deserted Farmstead&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Three Mile Walk on Dartmoor Walking</title><link>https://dartmoorwalking.org/tags/three-mile-walk/</link><description>Recent content in Three Mile Walk on Dartmoor Walking</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Simon Avery</copyright><lastBuildDate>Fri, 17 Jan 2025 19:38:02 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/three-mile-walk/index.xml" rel="self" type="application/rss+xml"/><item><title>Ingra Tor</title><link>https://dartmoorwalking.org/p/ingra-tor/</link><pubDate>Fri, 17 Jan 2025 19:38:02 +0000</pubDate><guid>https://dartmoorwalking.org/p/ingra-tor/</guid><description>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/9.jpg" alt="Featured image of post Ingra Tor" />&lt;h2 id="information">Information
+&lt;/h2>&lt;ul>
+&lt;li>Distance: &lt;b>3 miles&lt;/b>, walked by Keith Ryan and transcribed by &lt;a href="mailto:digdilem@gmail.com">Simon Avery&lt;/a>&lt;/li>
+&lt;li> Grade: &lt;b>&lt;a href="https://dartmoorwalking.org/tags/medium/">Medium&lt;/a>&lt;/b>&lt;/li>
+&lt;li> A GPX route of this walk is available: &lt;b>&lt;a href="https://dartmoorwalking.org/gpx/ingra-tor.gpx">Download GPX &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg>&lt;/a>&lt;/b>&lt;/li>
+&lt;li> &lt;a href="https://www.google.com/maps/dir/?api=1&amp;destination=50.5198%2c-4.0322">Directions to Car Park &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-directions">
+&lt;path stroke="none" d="M0 0h24v24H0z" fill="none" />
+&lt;path d="M12 21v-4" />
+&lt;path d="M12 13v-4" />
+&lt;path d="M12 5v-2" />
+&lt;path d="M10 21h4" />
+&lt;path d="M8 5v4h11l2 -2l-2 -2z" />
+&lt;path d="M14 13v4h-8l-2 -2l2 -2z" />
+&lt;/svg>&lt;/a>&lt;/li>
+&lt;li> &lt;a href="https://w3w.co/squeezed.refrained.basher">What Three Words&lt;/a> &lt;code>squeezed.refrained.basher&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;h2 id="map">Map
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/map.jpg"
+width="1000"
+height="736"
+srcset="https://dartmoorwalking.org/p/ingra-tor/map_hu_dae2a11b8b6b778a.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/map_hu_f8b68e445f149967.jpg 1024w"
+loading="lazy"
+alt="Map of Route - Crown Copyright - Ordnance Survey Licence number 100047373"
+class="gallery-image"
+data-flex-grow="135"
+data-flex-basis="326px"
+>&lt;/p>
+&lt;h2 id="introduction">Introduction
+&lt;/h2>&lt;p>This is an interesting walk over open moorland taking in a wide scope of history, from Bronze age and medieval remains, to an abandoned Victorian railway, and disused granite quarries - all with excellent views over Dartmoor and West Devon into Cornwall. There&amp;rsquo;s a small detour offered which takes in an abandoned Medieval Longhouse, its modern replacement and two ancient Pounds and hut circles.&lt;/p>
+&lt;h2 id="sharpitor">Sharpitor
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/1.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/1_hu_c47c17f30f641662.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/1_hu_869c2138a65c71a0.jpg 1024w"
+loading="lazy"
+alt="Looking South across the road to Sharpitor."
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>Sharpitor is worth mentioning since it is owned since 1984 by Dartmoor Preservation Association and this ensures access will be preserved into the future.&lt;/p>
+&lt;p>Also note the diagonal linear feature in this photo - this is part of the Walkhampton Common East Reave.&lt;/p>
+&lt;p>&lt;em>When ready, walk along the path to the North towards the rocky line and hut circles as per the route on the map&lt;/em>&lt;/p>
+&lt;h2 id="reaves-and-hut-circles">Reaves and Hut Circles
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/2.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/2_hu_f9effa45c9d12cd3.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/2_hu_6aedcaad3130544f.jpg 1024w"
+loading="lazy"
+alt="One of three small Bronze Age hut circles near to the road, again looking towards Sharpitor"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/3.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/3_hu_177f0c04a563fa19.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/3_hu_a3f5dc6da2d8dc4f.jpg 1024w"
+loading="lazy"
+alt="The largest of the three. SX 56225 71108. This is #4 on the plan below"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/4.jpg"
+width="1267"
+height="850"
+srcset="https://dartmoorwalking.org/p/ingra-tor/4_hu_5e57e8f8036250c0.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/4_hu_e2b8a9076e4b58ef.jpg 1024w"
+loading="lazy"
+alt="Image © J Butler 1994. Reproduced by kind permission (ref. 29 Sept. 2012)"
+class="gallery-image"
+data-flex-grow="149"
+data-flex-basis="357px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/5.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/5_hu_cdabe4094dc5b255.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/5_hu_e9b2df18073568e4.jpg 1024w"
+loading="lazy"
+alt="Standing on Walkhampton Common East Reave, looking uphill towards Leeden Tor"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;strong>Reaves - land boundaries of heaped stones&lt;/strong>&lt;/p>
+&lt;p>There are essentially four types of reaves:&lt;/p>
+&lt;ol>
+&lt;li>Field boundaries to divide land into normally long strip-like fields for grazing or growing crops, akin to modern walls or hedges.&lt;/li>
+&lt;li>Terminal reaves that are uphill from field boundaries that marked lower divided areas from uphill open or &amp;ldquo;common&amp;rdquo; land&lt;/li>
+&lt;li>Reaves built usually along ridges to mark watersheds i.e. between river valleys&lt;/li>
+&lt;li>Long divisions over kilometres marking out territories akin to parishes.&lt;/li>
+&lt;/ol>
+&lt;p>The Walkhampton Common Reave is 3170 meters long and mostly straight. It was built in the Bronze Age (Between 4000 BC and 1000 BC), and forms a division between the Walkham and Meavy valleys, thus identifying it as a Reave of type 3 in the above list - built to separate two watersheds.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV15038&amp;amp;resourceID=104" target="_blank" rel="noopener"
+>Heritage Gateway MDV15038 - The Walkhampton Common Reave&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/6.jpg"
+width="1986"
+height="2161"
+srcset="https://dartmoorwalking.org/p/ingra-tor/6_hu_be894ea1c32803b4.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/6_hu_1ef47cc2c27ff7cd.jpg 1024w"
+loading="lazy"
+alt="Image reproduced by permission of Batsford Books"
+class="gallery-image"
+data-flex-grow="91"
+data-flex-basis="220px"
+>&lt;/p>
+&lt;p>&lt;em>The figure above is reproduced from Andrew Fleming (1988) The Dartmoor Reaves - Investigating Prehistoric Land Divisions, BT Batsford Ltd, London, page 41&lt;/em>&lt;/p>
+&lt;p>&lt;em>Continue walking uphill towards Leeden Tor&lt;/em>&lt;/p>
+&lt;h2 id="leeden-tor">Leeden Tor
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/7.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/7_hu_817f7281ba0c9e2e.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/7_hu_8308aa77149e2c4e.jpg 1024w"
+loading="lazy"
+alt="Amongst the granite clitter of Leeden Tor. Elevation 389 metres (1276 feet)"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>The modern mast of North Hessary Tor transmitting station can be seen in the background. This was built in 1955 to supply 405-line television to Devon and is 196 meters (643 feet) tall.&lt;/p>
+&lt;p>Today, it provides analogue FM radio covering a large area, including Devon, Cornwall, Somerset and South Wales.&lt;/p>
+&lt;p>Additionally, it provides Digital DAB radio and DVB-T television - and is a useful landmark to identify where Princetown is.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://en.wikipedia.org/wiki/North_Hessary_Tor_transmitting_station" target="_blank" rel="noopener"
+>North Hessary Tor transmitting station &lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/8.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/8_hu_26ebbcf696d54106.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/8_hu_3db3706859084751.jpg 1024w"
+loading="lazy"
+alt="Leeden Tor. A smaller and less famous rival for Bowerman’s Nose"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/9.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/9_hu_855794e5a45ea8bc.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/9_hu_19ca0be6f5f3c07d.jpg 1024w"
+loading="lazy"
+alt="Local residents"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/10.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/10_hu_7e7f7e867292c1ec.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/10_hu_6348973a831e5635.jpg 1024w"
+loading="lazy"
+alt="A last look at Leeden Tor"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;h2 id="great-western-reave">Great Western Reave
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/11.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/11_hu_cb5c85feaf1a5803.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/11_hu_d45c1a5555a5a996.jpg 1024w"
+loading="lazy"
+alt="Great Western Reave. SX 56260 71843"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>Heading Northwest from Leeden Tor, we very soon cross another reave.&lt;/p>
+&lt;p>The Great Western Reave measures over 10 kilometres in length and is the longest known prehistoric land division boundary on Dartmoor. This record covers the most southerly section of the reave (two sections measuring a combined length of 2.58 kilometres). Along its length, the width of the reave varies between 2.5 metres and 4 metres, whilst its height varies between 0.2 metres and 0.7 metres - although it would have been higher when built. A second reave leads off at right angles at SX5577 7088 and there are hut circles and cairns associated with the reave.&lt;/p>
+&lt;p>This very long reave is a territorial boundary something akin to a modern parish boundary (and type 4 from the list above) It extends from near Sharpitor, near Dousland/Yelverton, to White Tor near Peter Tavy.&lt;/p>
+&lt;p>&lt;em>Head North West about 450 meters, to&amp;hellip;&lt;/em>&lt;/p>
+&lt;h2 id="ingra-tor-cairn-and-cist">Ingra Tor Cairn and Cist
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/12.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/12_hu_4b587e779e6019ec.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/12_hu_6515a67ec85d62f7.jpg 1024w"
+loading="lazy"
+alt="Ingra Tor cairn with a central cist. SX 55877 72083"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/13.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/13_hu_9f8504a98ad9a401.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/13_hu_2342c8a6ce1008e3.jpg 1024w"
+loading="lazy"
+alt="Showing the displaced capstone of the cist, with Ingra Tor behind"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/14.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/14_hu_659d24b4fde340e5.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/14_hu_a31d3c3c5df86983.jpg 1024w"
+loading="lazy"
+alt="The cist, showing the opening into the grave"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/15.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/15_hu_5aa6ace2194302fb.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/15_hu_84fe7cf3b1a4a7b5.jpg 1024w"
+loading="lazy"
+alt="Inside the cist"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/16.jpg"
+width="771"
+height="1012"
+srcset="https://dartmoorwalking.org/p/ingra-tor/16_hu_8f515c7447043b58.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/16_hu_f20fc3c3dd853e11.jpg 1024w"
+loading="lazy"
+alt="Image © J Butler 1994. Reproduced by kind permission (ref. 29 Sept. 2012)"
+class="gallery-image"
+data-flex-grow="76"
+data-flex-basis="182px"
+>&lt;/p>
+&lt;blockquote>
+&lt;p>This cist is described by Jeremy Butler, 1994, Dartmoor Atlas of Antiquities Vol. 3 - The South-West, 16: Ingra Tor cairn and cist (fig. 45.13), page 51.&lt;/p>&lt;/blockquote>
+&lt;p>The cist is a few metres above the Routrundle leat, which is about 23 metres down the slope. The leat is marked by a downhill bank but is really quite non-photogenic and it is not easy to see the actual &amp;ldquo;trench&amp;rdquo; that was the water course in photographs, so it is not included here.&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/17.jpg"
+width="1600"
+height="901"
+srcset="https://dartmoorwalking.org/p/ingra-tor/17_hu_7c221a352d61f082.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/17_hu_289171b4c33a9d2f.jpg 1024w"
+loading="lazy"
+alt="Scattered pits near the cairn are described as “stone pits” by Butler in his description of the cairn"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>Stone pits are generally places where walling or building stone was easily won from the ground because of natural fissures or weathering. Sometimes they&amp;rsquo;re mistaken for tinning holes where the old men would find small deposits of cassiterite - a rich source of tin ore. Those would usually have some spoil heaps nearby though, which aren&amp;rsquo;t evident here, so stone pits seems likely. The only two certain things about these holes however, is that they are impossible to date, and that they were made by man.&lt;/p>
+&lt;h2 id="ingra-tor-and-quarry">Ingra Tor and Quarry
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/18.jpg"
+width="1599"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/18_hu_17428aabf99c5306.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/18_hu_2995191601718d34.jpg 1024w"
+loading="lazy"
+alt="Ingra Tor. SX 555 721. Elevation 339 metres (1112 feet)"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;em>We aim for the Tor and pass to the left of it&lt;/em>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/19.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/19_hu_8a2edb85e23425a3.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/19_hu_4f258e5010c86a5d.jpg 1024w"
+loading="lazy"
+alt="Looking down into the quarry at two old crane bases"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/20.jpg"
+width="1599"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/20_hu_732eb0c8c23ddfe0.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/20_hu_e28fef1854549aba.jpg 1024w"
+loading="lazy"
+alt="These two circular features were the bases of cranes used to load granite onto carts"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/21.jpg"
+width="1024"
+height="698"
+srcset="https://dartmoorwalking.org/p/ingra-tor/21_hu_4de085398d1ab120.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/21_hu_b2fc607ca73b8716.jpg 1024w"
+loading="lazy"
+alt="An example of the cranes used in Haytor Quarry, similar to those used here and at Foggintor. Image reproduced with permission from the Dartmoor Trust Archive"
+class="gallery-image"
+data-flex-grow="146"
+data-flex-basis="352px"
+>&lt;/p>
+&lt;p>Ingra Tor Quarry, like the nearby Swell Tor, King&amp;rsquo;s Tor and Foggintor Quarries, were run by the Johnson Brothers from 1820 to 1865 who paid a lease to the Duchy of Cornwall.&lt;/p>
+&lt;p>It was re-opened between 1936 and 1941 to cut kerbstones and granite setts for Devon County Council, and a platform was built on the railway called Ingra Tor Halt, just to the North of the Tor.&lt;/p>
+&lt;h2 id="ingra-tor-halt">Ingra Tor Halt
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/22.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/22_hu_a660088452420d5d.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/22_hu_f3d525639a06844c.jpg 1024w"
+loading="lazy"
+alt="On the Railway, close to Ingra Tor Halt"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/23.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/23_hu_b832b2bbcccc72b4.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/23_hu_a40ad541a861e7e0.jpg 1024w"
+loading="lazy"
+alt="Looking down to the railway and concrete base of a basic shelter - the only remains of Ingra Tor Halt"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;ul>
+&lt;li>This once held a small shelter from the elements, built partly inside a pound.&lt;/li>
+&lt;li>There was a short wooden platform to the single track railway.&lt;/li>
+&lt;li>At the time of opening in 1936, a single fare from here to Princetown was 11 1/2d First Class, or 7d Second Class.&lt;/li>
+&lt;li>The halt was built for quarry workers, but when the quarries closed, was used exclusively by walkers, most coming up from Plymouth. Walking from here to Princetown and then riding back home was a popular route before the railway closed on March 3, 1956.&lt;/li>
+&lt;li>There was a famous sign here advising passengers to keep dogs on a lead due to the presence of adders. This sign is now kept at Buckfastleigh Station.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://princetownrailway.co.uk/wp-content/uploads/2021/09/Snakes.jpg"
+loading="lazy"
+alt="Image of the famous sign of Ingra Tor - hosted by Princetown Railway"
+>&lt;/p>
+&lt;p>&lt;em>(Above image hosted by the &lt;a class="link" href="https://princetownrailway.co.uk/" target="_blank" rel="noopener"
+>Princetown Railway site&lt;/a>, which has a lot more interesting information about this railway)&lt;/em>&lt;/p>
+&lt;p>References&lt;/p>
+&lt;ul>
+&lt;li>Mike Brown Guide to Dartmoor - CD-ROM (2001)&lt;/li>
+&lt;li>&lt;a class="link" href="https://en.wikipedia.org/wiki/Ingra_Tor_Halt_railway_station" target="_blank" rel="noopener"
+>Wikipedia - Ingra Tor Halt Railway Station&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://princetownrailway.co.uk/ingra-tor/" target="_blank" rel="noopener"
+>Princetown Railway Website - Ingra Tor&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>When ready, walk a short distance to the little bridge to the West&lt;/em>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/24.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/24_hu_a3649178e41fb5e7.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/24_hu_c976357099ceb39a.jpg 1024w"
+loading="lazy"
+alt="Under the cattle “creep” bridge"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>This bridge was built to provide safe passage for cattle and other livestock to cross the railway. It&amp;rsquo;s worth noting that the railway was fenced with posts and wire to keep stock off the line, so creeps like this were essential to allow free grazing under commoners rights.&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/25.jpg"
+width="1600"
+height="899"
+srcset="https://dartmoorwalking.org/p/ingra-tor/25_hu_19fbda17a140f074.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/25_hu_6e4b868ac4a1e8ac.jpg 1024w"
+loading="lazy"
+alt="Evidence of recycling"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="427px"
+>&lt;/p>
+&lt;p>This curious set of holes shows that this block was once used for a tramway in one of the nearby quarries. These holes held an iron plate which held the iron rails above it. Wear from those rails can be seen above and below. No longer of use there, it was re-used in constructing this creep.&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/26.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/26_hu_d95a255c8ba0dacc.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/26_hu_81ce7f92d7fe2843.jpg 1024w"
+loading="lazy"
+alt="Closer view of the plate holes"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/27.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/27_hu_438b7576affc6e6d.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/27_hu_f38b3bff54a5afe6.jpg 1024w"
+loading="lazy"
+alt="View North-West showing an impressive display of Bluebells"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/28.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/28_hu_b6f053033961edc8.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/28_hu_f6482fdc0b66f39a.jpg 1024w"
+loading="lazy"
+alt="Looking back towards Ingra Tor Halt"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;h2 id="railway">Railway
+&lt;/h2>&lt;p>&lt;em>We continue walking Southerly along the railway for around 500 meters&lt;/em>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/29.jpg"
+width="1599"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/29_hu_1fa5d59fa2d5cec6.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/29_hu_6b3ab15def359952.jpg 1024w"
+loading="lazy"
+alt="View of Ingra Tor from the West"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;h2 id="routrundle-detour">Routrundle (Detour)
+&lt;/h2>&lt;p>&lt;em>If you want to explore some more history, leave the railway to the west just before the walls come up from Routrundle and walk towards &amp;ldquo;Homestead&amp;rdquo; on the map. Otherwise carry along the railway as per the marked route on the map&lt;/em>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/30.jpg"
+width="1599"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/30_hu_36c7d2adef4f001d.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/30_hu_a89b536c38c60f74.jpg 1024w"
+loading="lazy"
+alt="Looking over the wall to the private land of Routrundle"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>This area of Dartmoor has been inhabited for at least four thousand years.&lt;/p>
+&lt;ul>
+&lt;li>The earliest remains are the large circular pounds and nicely viewable via the aerial view below. This, together with the hut circles nearby, formed an early settlement around 4000 to 1000 BC and provide evidence of animal husbandry.&lt;/li>
+&lt;li>To the Northwest are the stone ruins of a Medieval Longhouse, Smithy and other buildings built between 1066 and 1539.&lt;/li>
+&lt;li>Routrundle is the &amp;ldquo;modern&amp;rdquo; farmhouse dating from a mere 1866, currently inhabited. Build after and probably to replace Babyland Longhouse. There are claims this house dates back to 1417, but it&amp;rsquo;s possible that is confused with the Babyland property.&lt;/li>
+&lt;li>Routrundle is no longer a working farm. It fell into disrepair and was left vacant after a Jim Fence left.&lt;/li>
+&lt;li>&amp;ldquo;Routrundle&amp;rdquo; is named after the Bronze Age &amp;ldquo;trundles&amp;rdquo; or pounds still so visible today.&lt;/li>
+&lt;li>&lt;a class="link" href="https://media.onthemarket.com/properties/3992108/doc_0_0.pdf" target="_blank" rel="noopener"
+>Stags sales particulars (2018)&lt;/a> give a good view of the property, inside and out. It sold for £618,000 in 2018.&lt;/li>
+&lt;li>(Not pictured) There is a benchmark on the southwest side of the lane on a large boulder. SX55274 71832&lt;/li>
+&lt;/ul>
+&lt;p>The collection of trees in the above photo marks a Bronze Age pound and collection of hut circles. These can be accessed from a Bridlepath off the railway a little further on, along with a Medieval Longhouse marked on the map as &amp;ldquo;homestead&amp;rdquo; a little way North of . This was called Babyland. This is a long-inhabited area of Dartmoor.&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/31.jpg"
+width="1119"
+height="799"
+srcset="https://dartmoorwalking.org/p/ingra-tor/31_hu_b019aa919ab0da8e.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/31_hu_174615373b362a8b.jpg 1024w"
+loading="lazy"
+alt="Aerial View of Routrundle and Babyland - Copyright Google Maps 2024"
+class="gallery-image"
+data-flex-grow="140"
+data-flex-basis="336px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/32.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/32_hu_88a4f2e68756d8dd.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/32_hu_1bb3c585fde75395.jpg 1024w"
+loading="lazy"
+alt="Some of the ruins of Babyland - this was possibly the site of a smithy. Central in the wall ahead is an inscribed stone showing “IW”"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/33.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/33_hu_124a41198033c786.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/33_hu_fab724419ebb1301.jpg 1024w"
+loading="lazy"
+alt="Ruins of the Medieval Longhouse"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/34.jpg"
+width="983"
+height="610"
+srcset="https://dartmoorwalking.org/p/ingra-tor/34_hu_67a47f7af60cc56e.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/34_hu_294166aa0fdf1.jpg 1024w"
+loading="lazy"
+alt="Tithe Map from 1836. Image copyright: Devon County Council"
+class="gallery-image"
+data-flex-grow="161"
+data-flex-basis="386px"
+>&lt;/p>
+&lt;p>&lt;a class="link" href="https://en.wikipedia.org/wiki/Tithe_map" target="_blank" rel="noopener"
+>Tithe maps&lt;/a> were produced to assess the tithe payable in cash to the parish church for the support of the church and its clergy. This tithe had been paid in kind until The Commutation Act was passed in 1836, when it was agreed that this should be converted to a monetary payment.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV14151&amp;amp;resourceID=104" target="_blank" rel="noopener"
+>Heritage Gateway MDV14151 - Babyland Deserted Farmstead&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/35.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/35_hu_982a80c44be645f0.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/35_hu_d63129c662345ad8.jpg 1024w"
+loading="lazy"
+alt="Another benchmark in this area. SX 55729 71303"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/36.jpg"
+width="1111"
+height="625"
+srcset="https://dartmoorwalking.org/p/ingra-tor/36_hu_cb4052f140d2bc6c.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/36_hu_4af7d989f041c3c4.jpg 1024w"
+loading="lazy"
+alt="Map showing Benchmark locations. Ordnance Survey 6-inch Single Sheet Series Published 1884. Reproduced with the permission of the National Library of Scotland"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;h3 id="end-routrundle-detour">End Routrundle detour
+&lt;/h3>&lt;p>&lt;em>Whether you continued along the railway or explored through Routrundle and emerged from the bridlepath, leave the railway where the bridlepath joins it and head Southward over open moor to the car park to conclude our walk&lt;/em>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/ingra-tor/37.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/ingra-tor/37_hu_2b77aeaefd3725d2.jpg 480w, https://dartmoorwalking.org/p/ingra-tor/37_hu_30c3d581f1af48fc.jpg 1024w"
+loading="lazy"
+alt="Heading back towards the car park"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;h2 id="parking">Parking
+&lt;/h2>&lt;p>There are a couple of good roadside car parks at the posted locations.&lt;/p>
+&lt;h2 id="references">References
+&lt;/h2>&lt;ul>
+&lt;li>Mike Brown Guide to Dartmoor - CD-ROM (2001)&lt;/li>
+&lt;li>&lt;a class="link" href="https://en.wikipedia.org/wiki/Ingra_Tor_Halt_railway_station" target="_blank" rel="noopener"
+>Wikipedia - Ingra Tor Halt Railway Station&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://princetownrailway.co.uk/ingra-tor/" target="_blank" rel="noopener"
+>Princetown Railway Website - Ingra Tor&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://en.wikipedia.org/wiki/Tithe_map" target="_blank" rel="noopener"
+>Tithe maps&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV14151&amp;amp;resourceID=104" target="_blank" rel="noopener"
+>Heritage Gateway MDV14151 - Babyland Deserted Farmstead&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,536 +1,384 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Church on Dartmoor Walking</title>
-        <link>http://localhost:1313/tags/church/</link>
-        <description>Recent content in Church on Dartmoor Walking</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
-        <copyright>Simon Avery</copyright>
-        <lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/church/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Smeardon Down</title>
-        <link>http://localhost:1313/p/smeardon-down/</link>
-        <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/p/smeardon-down/</guid>
-        <description>&lt;img src="http://localhost:1313/p/smeardon-down/6.jpg" alt="Featured image of post Smeardon Down" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Distance: &lt;b&gt;4 miles&lt;/b&gt;, walked by Keith Ryan and transcribed by &lt;a href=&#34;mailto:digdilem@gmail.com&#34;&gt;Simon Avery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt; Grade: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/tags/medium/&#34;&gt;Medium&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/gpx/smeardon-down.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.581876%2c-4.089303&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
-    &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
-    &lt;path d=&#34;M12 21v-4&#34; /&gt;
-    &lt;path d=&#34;M12 13v-4&#34; /&gt;
-    &lt;path d=&#34;M12 5v-2&#34; /&gt;
-    &lt;path d=&#34;M10 21h4&#34; /&gt;
-    &lt;path d=&#34;M8 5v4h11l2 -2l-2 -2z&#34; /&gt;
-    &lt;path d=&#34;M14 13v4h-8l-2 -2l2 -2z&#34; /&gt;
-  &lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&#34;https://w3w.co/reworked.shells.motivator&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;reworked.shells.motivator&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/map.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/map_hu_18dd184a6d727944.jpg 480w, http://localhost:1313/p/smeardon-down/map_hu_33df920bad4ba6a7.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction
-&lt;/h2&gt;&lt;p&gt;&lt;em&gt;A circular walk over open moor, farmland and quiet country lanes taking in several historic sites on West Dartmoor&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;boulters-tor&#34;&gt;Boulter&amp;rsquo;s Tor
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/1.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/1_hu_be827a907e2d0df7.jpg 480w, http://localhost:1313/p/smeardon-down/1_hu_8ac95c1e9bbe86c4.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Outcrop near Boulter’s Tor on Smearn Down, now corrupted to Smeardon Down, near the track once heavily used by peat cutters&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h2 id=&#34;twist-farm&#34;&gt;Twist Farm
-&lt;/h2&gt;&lt;p&gt;Shown as &amp;ldquo;Twist&amp;rdquo; on the OS Map, but also locally known as Twyste farm.&lt;/p&gt;
-&lt;p&gt;Twist was mentioned in thge Domesday Book on 1086, and the owners had Venville rights, allowing them to take what they needed from the moor. Grazing, stone, peat - but not green oak or venison.&lt;/p&gt;
-&lt;p&gt;The farm was abandoned somewhere in the middle of the 1900s - the kitchen range and abandoned vehicles date from the 30&amp;rsquo;s onwards.&lt;/p&gt;
-&lt;p&gt;Twist was put up for sale in 1934 and likely fell into dereliction relatively soon afterwards, perhaps during the second world war which drained many young men from the country.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://dartmoorexplorations.co.uk/twist-twyste-or-twyst-farm/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;More information from Dartmoor Explorations&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/gateway/Results_Single.aspx?uid=MDV108041&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway Article&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Note that some pictures come from Simon&amp;rsquo;s visits in 2017 and 2019&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/2.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/2_hu_7ba818c3f78f9e99.jpg 480w, http://localhost:1313/p/smeardon-down/2_hu_eb97c6a0e391bdb4.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Twyste Farm, now Twist on the map, now abandoned&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/3.jpg&#34;
-	width=&#34;1379&#34;
-	height=&#34;1034&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/3_hu_d039d8413bebfb10.jpg 480w, http://localhost:1313/p/smeardon-down/3_hu_fdb5118d7f8bc94d.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;It is worth inspecting the old farm implements. This one came a long way to end its days rusting on Dartmoor&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/4.jpg&#34;
-	width=&#34;1379&#34;
-	height=&#34;1034&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/4_hu_240a98bfc183055d.jpg 480w, http://localhost:1313/p/smeardon-down/4_hu_30a32eb2a7f6eeb4.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Barn find. Only one owner, ran when parked&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/6.jpg&#34;
-	width=&#34;1379&#34;
-	height=&#34;1034&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/6_hu_cfe65ec5bc6634f0.jpg 480w, http://localhost:1313/p/smeardon-down/6_hu_4a44a12cfb5973e4.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;End view of the farmhouse&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/5.jpg&#34;
-	width=&#34;1379&#34;
-	height=&#34;1034&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/5_hu_2753bc150a3607f4.jpg 480w, http://localhost:1313/p/smeardon-down/5_hu_24200d230f6bbb06.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Sometimes the house plants get a little out of control&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/7.jpg&#34;
-	width=&#34;1379&#34;
-	height=&#34;1034&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/7_hu_baaa043f635f180f.jpg 480w, http://localhost:1313/p/smeardon-down/7_hu_c8785d6d436ba385.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The kitchen range&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h2 id=&#34;incomplete-venville-building&#34;&gt;Incomplete venville building
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/8.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/8_hu_27ae29f5cdac30e3.jpg 480w, http://localhost:1313/p/smeardon-down/8_hu_ac100fe2d0a6009d.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Believed site of one of the last attempted  “venville” holdings, the row of large stones with a pile by the gate&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;This unassuming pile of stones is perhaps the remains of a &amp;ldquo;cottage in a day&amp;rdquo; undertaking - wherein you could live on the land if you could &amp;ldquo;build and roof a house between the house of sunrise and sunset, and have smoke coming out of its chimney&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;In this case, it&amp;rsquo;s said that the building was interrupted by local residents who didn&amp;rsquo;t want it there and failed the challenge.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/9.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/9_hu_df2dbca0dacebe91.jpg 480w, http://localhost:1313/p/smeardon-down/9_hu_83bf2f893abbd4c8.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Slotted gate post, re-used for much later iron gate hangers&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/10.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/10_hu_29027ff4c8318cd3.jpg 480w, http://localhost:1313/p/smeardon-down/10_hu_c452cc173846b829.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Sheep creep through the hedge&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h2 id=&#34;clapper-bridge&#34;&gt;Clapper Bridge
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/11.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/11_hu_98adc00ee3e149fe.jpg 480w, http://localhost:1313/p/smeardon-down/11_hu_135d36dd388eedbb.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Broadmoor Brook, from Broadmoor Farm, with clapper bridge&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/12.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/12_hu_4af213b2293b7e86.jpg 480w, http://localhost:1313/p/smeardon-down/12_hu_28d6a3d4e883e1a.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A recently “layered” hazel hedge, where small branches are half-severed, bent down and woven into a living hedge&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/13.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/13_hu_f0f26c8e159f0dc8.jpg 480w, http://localhost:1313/p/smeardon-down/13_hu_7d6b60b7bccb789d.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;One of Dartmoor’s less legible signposts&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h2 id=&#34;devon-united-mine-and-shaft&#34;&gt;Devon United Mine and Shaft
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/14.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/14_hu_a740be90b6275350.jpg 480w, http://localhost:1313/p/smeardon-down/14_hu_60c7324dfeefea02.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A shaft of Devon United Mine which had north, central and south sections&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;The North mine was worked for copper until the 1850&amp;rsquo;s. The central and South mines were worked for tin and arsenic until 1922.&lt;/p&gt;
-&lt;p&gt;The South mine site went down to 50 fathoms (300 feet) and produced most of the tin. The central section produced mainly arsenic.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.mindat.org/loc-235493.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Mindat page for Devon United Mines&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/15.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/15_hu_93838bf87aa386ed.jpg 480w, http://localhost:1313/p/smeardon-down/15_hu_2c3f83e5031c7dc1.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Ruined mine buildings&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/16.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/16_hu_4f21e54ddc61be28.jpg 480w, http://localhost:1313/p/smeardon-down/16_hu_96691377c8a84a10.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Collapsed mineshaft&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/17.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/17_hu_5c79d9027bf2b09a.jpg 480w, http://localhost:1313/p/smeardon-down/17_hu_70a0f60e2ba6fae4.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Dry leat that fed the mins&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/18.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/18_hu_28f9928755412c3f.jpg 480w, http://localhost:1313/p/smeardon-down/18_hu_da20cfdc65685fec.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Same leat&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h2 id=&#34;six-foot-thomson-turbine&#34;&gt;Six foot Thomson Turbine
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/19.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/19_hu_648cf59ff3d7a6c4.jpg 480w, http://localhost:1313/p/smeardon-down/19_hu_704986263e5ddbd9.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34; A 6 foot diameter Thomson Turbine which powered a dynamo which provided electricity for various processes involved in the extraction of the tin ore&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;It also drove an air compressor, the remains of which can be seen lying in the tail race below the turbine.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/20.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/20_hu_32effd0bbb0236b9.jpg 480w, http://localhost:1313/p/smeardon-down/20_hu_ca73668cbb76a5ab.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Another view of the Thompson Turbine&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;This company still appears to be in operation. &lt;a class=&#34;link&#34; href=&#34;https://thomsongovernors.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Thomson Governors&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/21.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/21_hu_d9041f139c2455d9.jpg 480w, http://localhost:1313/p/smeardon-down/21_hu_5b9642b9ce30e661.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Modern poetic graffiti&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“When you pass me, don’t forget those days gone by when my brave heart beat to the sound of a thousand men’s voices echoed in water”&lt;/p&gt;&lt;/blockquote&gt;
-&lt;h2 id=&#34;river-tavy&#34;&gt;River Tavy
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/22.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/22_hu_1665b816331789c8.jpg 480w, http://localhost:1313/p/smeardon-down/22_hu_dface93f260af634.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The River Tavy&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/23.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/23_hu_c1ecf5adb48589b2.jpg 480w, http://localhost:1313/p/smeardon-down/23_hu_940ac6a940475c79.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Footbridge over the Tavy that leads to the Mary Tavy Hydroelectric Power Station&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h2 id=&#34;longtimber-tor&#34;&gt;Longtimber Tor
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/24.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/24_hu_f5769e25b33be2.jpg 480w, http://localhost:1313/p/smeardon-down/24_hu_10b2903709dcb603.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Longtimber Tor, an overgrown minor tor in the valley floor, SX 5094 7825&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/25.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/25_hu_c7e2a44b787c368b.jpg 480w, http://localhost:1313/p/smeardon-down/25_hu_18e946fdff30c334.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;St Peter’s Church, Peter Tavy&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.petertavyparishcouncil.org/local-groups/st-peters-church/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;More information about St Peter&amp;rsquo;s Church&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/26.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/26_hu_6dad8b7f972be032.jpg 480w, http://localhost:1313/p/smeardon-down/26_hu_95b4e2b3fe12a873.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;War Memorial&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/27.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/27_hu_2bce211d582cb2dd.jpg 480w, http://localhost:1313/p/smeardon-down/27_hu_c62570e344938dfc.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The crossed keys of St Peter with an anchor to their right, on the south face of the medieval crown stone, supporting the reconstructed village cross&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/28.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;1309&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/28_hu_f9125f439203347e.jpg 480w, http://localhost:1313/p/smeardon-down/28_hu_b2fd6eaa495ac181.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Local detail on the cross&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;76&#34;
-		data-flex-basis=&#34;183px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/29.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/29_hu_563f836fe35d2397.jpg 480w, http://localhost:1313/p/smeardon-down/29_hu_c4b2fac325ddc080.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Approaching the transept of the church&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/30.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/30_hu_270932253bd39542.jpg 480w, http://localhost:1313/p/smeardon-down/30_hu_ab859f8939790822.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A Norman feature&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/31.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/31_hu_60c625d6f9156476.jpg 480w, http://localhost:1313/p/smeardon-down/31_hu_da3895430d08fcab.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;… seen above the window&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/smeardon-down/32.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/smeardon-down/32_hu_dccb087577b98ab.jpg 480w, http://localhost:1313/p/smeardon-down/32_hu_19cd4622f7e11d7a.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A side door, a detail from the church&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;This walk was reached by turning off the A386 just north of Tavistock, by a camping signpost, to Harford Bridge (bear left here), to Peter Tavy, driving straight on, passing the church on your left, taking the first road o n the right and climbing to a small quarry car park marked on the map by the yellow cross and the P symbol&lt;/em&gt;&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Church on Dartmoor Walking</title><link>https://dartmoorwalking.org/tags/church/</link><description>Recent content in Church on Dartmoor Walking</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Simon Avery</copyright><lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/church/index.xml" rel="self" type="application/rss+xml"/><item><title>Smeardon Down</title><link>https://dartmoorwalking.org/p/smeardon-down/</link><pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate><guid>https://dartmoorwalking.org/p/smeardon-down/</guid><description>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/6.jpg" alt="Featured image of post Smeardon Down" />&lt;h2 id="information">Information
+&lt;/h2>&lt;ul>
+&lt;li>Distance: &lt;b>4 miles&lt;/b>, walked by Keith Ryan and transcribed by &lt;a href="mailto:digdilem@gmail.com">Simon Avery&lt;/a>&lt;/li>
+&lt;li> Grade: &lt;b>&lt;a href="https://dartmoorwalking.org/tags/medium/">Medium&lt;/a>&lt;/b>&lt;/li>
+&lt;li> A GPX route of this walk is available: &lt;b>&lt;a href="https://dartmoorwalking.org/gpx/smeardon-down.gpx">Download GPX &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg>&lt;/a>&lt;/b>&lt;/li>
+&lt;li> &lt;a href="https://www.google.com/maps/dir/?api=1&amp;destination=50.581876%2c-4.089303">Directions to Car Park &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-directions">
+&lt;path stroke="none" d="M0 0h24v24H0z" fill="none" />
+&lt;path d="M12 21v-4" />
+&lt;path d="M12 13v-4" />
+&lt;path d="M12 5v-2" />
+&lt;path d="M10 21h4" />
+&lt;path d="M8 5v4h11l2 -2l-2 -2z" />
+&lt;path d="M14 13v4h-8l-2 -2l2 -2z" />
+&lt;/svg>&lt;/a>&lt;/li>
+&lt;li> &lt;a href="https://w3w.co/reworked.shells.motivator">What Three Words&lt;/a> &lt;code>reworked.shells.motivator&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;h2 id="map">Map
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/map.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/map_hu_18dd184a6d727944.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/map_hu_33df920bad4ba6a7.jpg 1024w"
+loading="lazy"
+alt="Map of Route - Crown Copyright - Ordnance Survey Licence number 100047373"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="introduction">Introduction
+&lt;/h2>&lt;p>&lt;em>A circular walk over open moor, farmland and quiet country lanes taking in several historic sites on West Dartmoor&lt;/em>&lt;/p>
+&lt;h2 id="boulters-tor">Boulter&amp;rsquo;s Tor
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/1.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/1_hu_be827a907e2d0df7.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/1_hu_8ac95c1e9bbe86c4.jpg 1024w"
+loading="lazy"
+alt="Outcrop near Boulter’s Tor on Smearn Down, now corrupted to Smeardon Down, near the track once heavily used by peat cutters"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="twist-farm">Twist Farm
+&lt;/h2>&lt;p>Shown as &amp;ldquo;Twist&amp;rdquo; on the OS Map, but also locally known as Twyste farm.&lt;/p>
+&lt;p>Twist was mentioned in thge Domesday Book on 1086, and the owners had Venville rights, allowing them to take what they needed from the moor. Grazing, stone, peat - but not green oak or venison.&lt;/p>
+&lt;p>The farm was abandoned somewhere in the middle of the 1900s - the kitchen range and abandoned vehicles date from the 30&amp;rsquo;s onwards.&lt;/p>
+&lt;p>Twist was put up for sale in 1934 and likely fell into dereliction relatively soon afterwards, perhaps during the second world war which drained many young men from the country.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://dartmoorexplorations.co.uk/twist-twyste-or-twyst-farm/" target="_blank" rel="noopener"
+>More information from Dartmoor Explorations&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.heritagegateway.org.uk/gateway/Results_Single.aspx?uid=MDV108041&amp;amp;resourceID=104" target="_blank" rel="noopener"
+>Heritage Gateway Article&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>Note that some pictures come from Simon&amp;rsquo;s visits in 2017 and 2019&lt;/em>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/2.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/2_hu_7ba818c3f78f9e99.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/2_hu_eb97c6a0e391bdb4.jpg 1024w"
+loading="lazy"
+alt="Twyste Farm, now Twist on the map, now abandoned"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/3.jpg"
+width="1379"
+height="1034"
+srcset="https://dartmoorwalking.org/p/smeardon-down/3_hu_d039d8413bebfb10.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/3_hu_fdb5118d7f8bc94d.jpg 1024w"
+loading="lazy"
+alt="It is worth inspecting the old farm implements. This one came a long way to end its days rusting on Dartmoor"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/4.jpg"
+width="1379"
+height="1034"
+srcset="https://dartmoorwalking.org/p/smeardon-down/4_hu_240a98bfc183055d.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/4_hu_30a32eb2a7f6eeb4.jpg 1024w"
+loading="lazy"
+alt="Barn find. Only one owner, ran when parked"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/6.jpg"
+width="1379"
+height="1034"
+srcset="https://dartmoorwalking.org/p/smeardon-down/6_hu_cfe65ec5bc6634f0.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/6_hu_4a44a12cfb5973e4.jpg 1024w"
+loading="lazy"
+alt="End view of the farmhouse"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/5.jpg"
+width="1379"
+height="1034"
+srcset="https://dartmoorwalking.org/p/smeardon-down/5_hu_2753bc150a3607f4.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/5_hu_24200d230f6bbb06.jpg 1024w"
+loading="lazy"
+alt="Sometimes the house plants get a little out of control"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/7.jpg"
+width="1379"
+height="1034"
+srcset="https://dartmoorwalking.org/p/smeardon-down/7_hu_baaa043f635f180f.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/7_hu_c8785d6d436ba385.jpg 1024w"
+loading="lazy"
+alt="The kitchen range"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="incomplete-venville-building">Incomplete venville building
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/8.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/8_hu_27ae29f5cdac30e3.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/8_hu_ac100fe2d0a6009d.jpg 1024w"
+loading="lazy"
+alt="Believed site of one of the last attempted “venville” holdings, the row of large stones with a pile by the gate"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>This unassuming pile of stones is perhaps the remains of a &amp;ldquo;cottage in a day&amp;rdquo; undertaking - wherein you could live on the land if you could &amp;ldquo;build and roof a house between the house of sunrise and sunset, and have smoke coming out of its chimney&amp;rdquo;.&lt;/p>
+&lt;p>In this case, it&amp;rsquo;s said that the building was interrupted by local residents who didn&amp;rsquo;t want it there and failed the challenge.&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/9.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/9_hu_df2dbca0dacebe91.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/9_hu_83bf2f893abbd4c8.jpg 1024w"
+loading="lazy"
+alt="Slotted gate post, re-used for much later iron gate hangers"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/10.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/10_hu_29027ff4c8318cd3.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/10_hu_c452cc173846b829.jpg 1024w"
+loading="lazy"
+alt="Sheep creep through the hedge"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="clapper-bridge">Clapper Bridge
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/11.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/11_hu_98adc00ee3e149fe.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/11_hu_135d36dd388eedbb.jpg 1024w"
+loading="lazy"
+alt="Broadmoor Brook, from Broadmoor Farm, with clapper bridge"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/12.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/12_hu_4af213b2293b7e86.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/12_hu_28d6a3d4e883e1a.jpg 1024w"
+loading="lazy"
+alt="A recently “layered” hazel hedge, where small branches are half-severed, bent down and woven into a living hedge"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/13.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/13_hu_f0f26c8e159f0dc8.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/13_hu_7d6b60b7bccb789d.jpg 1024w"
+loading="lazy"
+alt="One of Dartmoor’s less legible signposts"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="devon-united-mine-and-shaft">Devon United Mine and Shaft
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/14.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/14_hu_a740be90b6275350.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/14_hu_60c7324dfeefea02.jpg 1024w"
+loading="lazy"
+alt="A shaft of Devon United Mine which had north, central and south sections"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>The North mine was worked for copper until the 1850&amp;rsquo;s. The central and South mines were worked for tin and arsenic until 1922.&lt;/p>
+&lt;p>The South mine site went down to 50 fathoms (300 feet) and produced most of the tin. The central section produced mainly arsenic.&lt;/p>
+&lt;p>&lt;a class="link" href="https://www.mindat.org/loc-235493.html" target="_blank" rel="noopener"
+>Mindat page for Devon United Mines&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/15.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/15_hu_93838bf87aa386ed.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/15_hu_2c3f83e5031c7dc1.jpg 1024w"
+loading="lazy"
+alt="Ruined mine buildings"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/16.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/16_hu_4f21e54ddc61be28.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/16_hu_96691377c8a84a10.jpg 1024w"
+loading="lazy"
+alt="Collapsed mineshaft"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/17.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/17_hu_5c79d9027bf2b09a.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/17_hu_70a0f60e2ba6fae4.jpg 1024w"
+loading="lazy"
+alt="Dry leat that fed the mins"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/18.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/18_hu_28f9928755412c3f.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/18_hu_da20cfdc65685fec.jpg 1024w"
+loading="lazy"
+alt="Same leat"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="six-foot-thomson-turbine">Six foot Thomson Turbine
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/19.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/19_hu_648cf59ff3d7a6c4.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/19_hu_704986263e5ddbd9.jpg 1024w"
+loading="lazy"
+alt=" A 6 foot diameter Thomson Turbine which powered a dynamo which provided electricity for various processes involved in the extraction of the tin ore"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>It also drove an air compressor, the remains of which can be seen lying in the tail race below the turbine.&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/20.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/20_hu_32effd0bbb0236b9.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/20_hu_ca73668cbb76a5ab.jpg 1024w"
+loading="lazy"
+alt="Another view of the Thompson Turbine"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>This company still appears to be in operation. &lt;a class="link" href="https://thomsongovernors.com/" target="_blank" rel="noopener"
+>Thomson Governors&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/21.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/21_hu_d9041f139c2455d9.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/21_hu_5b9642b9ce30e661.jpg 1024w"
+loading="lazy"
+alt="Modern poetic graffiti"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;blockquote>
+&lt;p>“When you pass me, don’t forget those days gone by when my brave heart beat to the sound of a thousand men’s voices echoed in water”&lt;/p>&lt;/blockquote>
+&lt;h2 id="river-tavy">River Tavy
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/22.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/22_hu_1665b816331789c8.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/22_hu_dface93f260af634.jpg 1024w"
+loading="lazy"
+alt="The River Tavy"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/23.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/23_hu_c1ecf5adb48589b2.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/23_hu_940ac6a940475c79.jpg 1024w"
+loading="lazy"
+alt="Footbridge over the Tavy that leads to the Mary Tavy Hydroelectric Power Station"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="longtimber-tor">Longtimber Tor
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/24.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/24_hu_f5769e25b33be2.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/24_hu_10b2903709dcb603.jpg 1024w"
+loading="lazy"
+alt="Longtimber Tor, an overgrown minor tor in the valley floor, SX 5094 7825"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/25.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/25_hu_c7e2a44b787c368b.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/25_hu_18e946fdff30c334.jpg 1024w"
+loading="lazy"
+alt="St Peter’s Church, Peter Tavy"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="http://www.petertavyparishcouncil.org/local-groups/st-peters-church/" target="_blank" rel="noopener"
+>More information about St Peter&amp;rsquo;s Church&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/26.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/26_hu_6dad8b7f972be032.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/26_hu_95b4e2b3fe12a873.jpg 1024w"
+loading="lazy"
+alt="War Memorial"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/27.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/27_hu_2bce211d582cb2dd.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/27_hu_c62570e344938dfc.jpg 1024w"
+loading="lazy"
+alt="The crossed keys of St Peter with an anchor to their right, on the south face of the medieval crown stone, supporting the reconstructed village cross"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/28.jpg"
+width="1000"
+height="1309"
+srcset="https://dartmoorwalking.org/p/smeardon-down/28_hu_f9125f439203347e.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/28_hu_b2fd6eaa495ac181.jpg 1024w"
+loading="lazy"
+alt="Local detail on the cross"
+class="gallery-image"
+data-flex-grow="76"
+data-flex-basis="183px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/29.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/29_hu_563f836fe35d2397.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/29_hu_c4b2fac325ddc080.jpg 1024w"
+loading="lazy"
+alt="Approaching the transept of the church"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/30.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/30_hu_270932253bd39542.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/30_hu_ab859f8939790822.jpg 1024w"
+loading="lazy"
+alt="A Norman feature"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/31.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/31_hu_60c625d6f9156476.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/31_hu_da3895430d08fcab.jpg 1024w"
+loading="lazy"
+alt="… seen above the window"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/smeardon-down/32.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/smeardon-down/32_hu_dccb087577b98ab.jpg 480w, https://dartmoorwalking.org/p/smeardon-down/32_hu_19cd4622f7e11d7a.jpg 1024w"
+loading="lazy"
+alt="A side door, a detail from the church"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;em>This walk was reached by turning off the A386 just north of Tavistock, by a camping signpost, to Harford Bridge (bear left here), to Peter Tavy, driving straight on, passing the church on your left, taking the first road o n the right and climbing to a small quarry car park marked on the map by the yellow cross and the P symbol&lt;/em>&lt;/p></description></item></channel></rss>

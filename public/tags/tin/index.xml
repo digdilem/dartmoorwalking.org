@@ -1,545 +1,401 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Tin on Dartmoor Walking</title>
-        <link>http://localhost:1313/tags/tin/</link>
-        <description>Recent content in Tin on Dartmoor Walking</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
-        <copyright>Simon Avery</copyright>
-        <lastBuildDate>Wed, 01 Jan 2025 10:30:07 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tin/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Hexworthy to Swincombe</title>
-        <link>http://localhost:1313/p/hexworthy-to-swincombe/</link>
-        <pubDate>Wed, 01 Jan 2025 10:30:07 +0000</pubDate>
-        
-        <guid>http://localhost:1313/p/hexworthy-to-swincombe/</guid>
-        <description>&lt;img src="http://localhost:1313/p/hexworthy-to-swincombe/12.jpg" alt="Featured image of post Hexworthy to Swincombe" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Distance: &lt;b&gt;3 miles&lt;/b&gt;, walked by Keith Ryan and Simon Avery and transcribed by &lt;a href=&#34;mailto:digdilem@gmail.com&#34;&gt;Simon Avery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt; Grade: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/tags/gentle/&#34;&gt;Gentle&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/gpx/hexworthy-to-swincombe.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.53916%2c-3.90538&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
-    &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
-    &lt;path d=&#34;M12 21v-4&#34; /&gt;
-    &lt;path d=&#34;M12 13v-4&#34; /&gt;
-    &lt;path d=&#34;M12 5v-2&#34; /&gt;
-    &lt;path d=&#34;M10 21h4&#34; /&gt;
-    &lt;path d=&#34;M8 5v4h11l2 -2l-2 -2z&#34; /&gt;
-    &lt;path d=&#34;M14 13v4h-8l-2 -2l2 -2z&#34; /&gt;
-  &lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&#34;https://w3w.co/flow.rectangular.facelift&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;flow.rectangular.facelift&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/map.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;445&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/map_hu_7a3509ac507c3e3d.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/map_hu_641388e9dc8b3f41.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;168&#34;
-		data-flex-basis=&#34;404px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction
-&lt;/h2&gt;&lt;p&gt;This is a pleasant walk up a historic valley with plenty to see along the way. I&amp;rsquo;ve included a possible detour if you wanted to extend the walk to include Swincombe Intake.&lt;/p&gt;
-&lt;p&gt;Much of this land is owned by Anton Coaker who lives at Sherberton Farm who farms the distinctive red Galloway cattle and Dartmoor ponies on this land.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The Coaker&amp;rsquo;s dedication to breeding good quality Dartmoor Ponies is well known and is several generations long. I recall visiting his mother, Diane Coaker, at Sherberton farm to view some of her ponies with my own mother in the 1980s.  &lt;cite&gt;&amp;ndash; Simon&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Anton himself is very well known as the author of several books, newspaper articles and is a very knowledgeable and erudite writer on Moorland and Hill Farming matters.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.anton-coaker.co.uk/our-farm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Anton Coaker&amp;rsquo;s &amp;ldquo;Our Farm&amp;rdquo; website&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Start the walk by proceeding back 140 meters along the road you approached the parking along, then turn right at the end of the wall along a Bridlepath&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/1.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/1_hu_787c94fbbb92d34c.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/1_hu_36189e8473d690eb.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;An example of John Bishop’s semi-dressed dry stone walling&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;Dartmoor has had many fine dry stone wall builders, but perhaps the most famous of all was John Bishop (1821-1892). He was one of the first to use the shaped and squared building method in his walls. He tightly fitted large blocks of granite in such a way that very little daylight could be seen through the wall. He helped enclose many of the newtakes on Dartmoor and would have been in strong demand.&lt;/p&gt;
-&lt;p&gt;When asked how he lifted such heavy stones, John Bishop is alleged to have replied, “Aw, ‘tis surprisin’ what ee can do with a laiver or two.”&lt;/p&gt;
-&lt;p&gt;Many of the walls in this area were built or repaired by Mr Bishop who lived close by - we&amp;rsquo;ll visit his house on this walk - and are of a visibly better quality than most earlier walls, which were mostly built from natural moorstone, using &amp;ldquo;trigs&amp;rdquo; of small stone to wedge them in place. But no matter how well a dry stone wall is made, it needs repairing often due to weather and especially animals and people climbing it and loosening stone, so other men will have been involved over the years in keeping these walls stockproof.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/2.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/2_hu_97183abe4a6e64e5.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/2_hu_32ffc1340e37872a.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Black and white Belted Galloway cows with the dry Wheal Emma leat behind them&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h2 id=&#34;dolly-trebbles-cott&#34;&gt;Dolly Trebble&amp;rsquo;s Cott
-&lt;/h2&gt;&lt;p&gt;&lt;em&gt;Leave the path after about 900 meters and head towards the ruins on the right as indicated on the map&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/3.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/3_hu_bf2419cad3e3d127.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/3_hu_191d3bbf93af74b8.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Dolly Trebble’s House&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/4.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/4_hu_17cbc43d2dc10f3a.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/4_hu_8fe36b99824d54cf.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Two fireplace uprights&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;Dolly Trebble was a particularly attractive girl who caught the eye of many men of Dartmoor in the 18th Century. Despite being married to William Trebble, she was courted by Sir Thomas Tyrwhitt (1762-1833) - an important man who shaped much of Princetown and Dartmoor, and no less than George IV, the Prince Regent who visited here several times.&lt;/p&gt;
-&lt;p&gt;She was written about by Sabine Baring Gould and Dolly was clearly a woman of some fame.  Tim Sandles has an entertaining version of Dolly&amp;rsquo;s story on his Legendary Dartmoor site if you&amp;rsquo;d like to learn more.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.legendarydartmoor.co.uk/2016/03/28/dolly_trebble/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Legendary Dartmoor - Dolly Treble&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;When ready, proceed down to join the moor road to the west and walk a short way to the bridge over the river Swincombe, where you have a choice&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;detour-to-swincombe-intake&#34;&gt;Detour to Swincombe Intake
-&lt;/h2&gt;&lt;p&gt;Possible detour (An extra mile and a half)&lt;/p&gt;
-&lt;p&gt;If you continue walking along this road to the west, after around 1.2km you&amp;rsquo;ll come to the Swincombe Intake. This is a small reservoir and unusual art-deco building that collects water which is piped to Venford Reservoir to help fill it.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/5.jpg&#34;
-	width=&#34;1379&#34;
-	height=&#34;1034&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/5_hu_1f9a92c363accd19.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/5_hu_850df556bb606416.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Swincombe Intake&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/6.jpg&#34;
-	width=&#34;1379&#34;
-	height=&#34;1034&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/6_hu_51b267a3e5397a6e.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/6_hu_2550a3aa802d1c1f.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Swincombe Intake Building with unusual Art Deco motif&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;The Swincombe Intake Reservoir was built between 1929 and 1933 by Paignton Urban District Council Waterworks Department. A particularly ugly building with the exception of an art deco motif over the modern door, as befitting its construction date.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;If you took this detour, head back to the same point at the Fairy bridge when you are ready to return&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;the-flooding-of-swincombe-valley&#34;&gt;The flooding of Swincombe Valley
-&lt;/h2&gt;&lt;p&gt;This valley starts up at Peat Cott with the infamous Foxtor Mire at its head, which acts as a huge sponge providing a steady flow throughout even the driest of summers.&lt;/p&gt;
-&lt;p&gt;It was that which prompted a plan in the 1960s to flood this entire valley to provide another reservoir on Dartmoor, far larger than the modest intake that has stood there for a hundred years.&lt;/p&gt;
-&lt;p&gt;Not surprisingly, this caused a lot of opposition. Perhaps the most vocal opponent was Lady Sylvia Sayer who, with the Dartmoor Preservation Association, resisted this at every turn. You will by now have noticed that you&amp;rsquo;re not under several meters of water, so it should be no surprise to learn that in 1970, the opposers won and permission was refused. Planning was retried several times through the 70s and 80s until in 1985, the DPA used funds from a bequest to acquire 50 acres of this valley to protect it.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://dartmoorpreservation.co.uk/swincombe/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dartmoor Preservation Association - Swincombe&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;fairy-bridge&#34;&gt;Fairy Bridge
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/7.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/7_hu_a8c5382645864bb.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/7_hu_e04f7925e25d4268.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The Swincombe Fairy Bridge&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;There has been a bridge at this location for hundreds of years, and noted by William Crossing in the early 1900s. It has been replaced several times.&lt;/p&gt;
-&lt;p&gt;It earned its nickname as a small porcelain fairy was mounted to one of the supports by persons unknown. Unfortunately it was damaged and replaced at least once.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/9.jpg&#34;
-	width=&#34;222&#34;
-	height=&#34;265&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/9_hu_81f2b77554a3746.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/9_hu_4b3ef13fc835a228.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The original fairy&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;83&#34;
-		data-flex-basis=&#34;201px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/8.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/8_hu_f730fc55edb60fca.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/8_hu_72401ad68a9417be.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;What was left in 2009&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Please note that apparently the bridge has been replaced since these pictures were taken and it&amp;rsquo;s unknown whether the Fairy returned&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;john-bishops-house&#34;&gt;John Bishop&amp;rsquo;s House
-&lt;/h2&gt;&lt;p&gt;&lt;em&gt;Cross the bridge&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/10.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/10_hu_310ae8741e3f7919.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/10_hu_392f88396185aca0.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;First view of John Bishop’s House&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;John Bishop was the dry stone waller whose work we inspected earlier. He lived in this house in the 1800s when it was in much better condition. Originally thatched, it was later converted to slates and was reported to be in liveable condition as late as the 1960s.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/11.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/11_hu_4919f456d34f8e20.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/11_hu_6447ad3c48745743.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Approaching the cobbled path to the door&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/12.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/12_hu_65a6ad1f1ca2cee0.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/12_hu_2da39924a9baf046.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Another view, showing the impressive porch&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/13.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/13_hu_50d158ff64c9d732.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/13_hu_9c81dec11aad3097.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;It’s not known whether John Bishop built this house or just lived here&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/14.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/14_hu_129620ed788bd246.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/14_hu_38322e33fe4cccc9.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A view around the side of the house, showing the lintel of the upstairs fireplace&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/15.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/15_hu_917e9d655d45884d.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/15_hu_844bf15c2cda2a24.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The medieval Tavistock to Ashburton packhorse track nearby&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/16.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/16_hu_e8022077dca5cd49.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/16_hu_89ddab389c5633b0.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;More structures along the lane&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/17.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/17_hu_a7786f06865f4a78.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/17_hu_4db72b3cb0aefcff.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;One of what was once a pair of gateposts that marked the entrance to Sir Thomas Tyrwhitt’s estate from the east&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/18.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/18_hu_fd0aa7916c94c573.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/18_hu_1117d7ed10054a7c.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;An “AT Stone” repurposed as a gatepost&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;You can just make out the A for Ashburton in this picture, with a slightly fainter T for Tavistock on the rear face. This was used to mark the packhorse trail and give the direction to the respective towns.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Once you&amp;rsquo;ve explored the ruins, return over the bridge and follow the road East&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/19.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/19_hu_eb5d9ee34800777f.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/19_hu_a8cfcbcc715b1c3a.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking up the Swincombe Valley over the ford above the bridge&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/20.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/20_hu_2152f3ab1f828871.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/20_hu_b2b0caef50189382.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Stepping stones, as well as the bridge and ford&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/21.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/21_hu_420505cffa5bbdce.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/21_hu_d258c14a12f1adf4.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Mother and Foal Dartmoor Ponies - part of Anton Coaker’s Sherberton herd&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h2 id=&#34;gobbett-mine&#34;&gt;Gobbett Mine
-&lt;/h2&gt;&lt;p&gt;Left and right of the path just before we leave this road, is the site of Gobbett Tin Mine. There are remnants of this work still visible, as well as the very obvious tunnel.&lt;/p&gt;
-&lt;p&gt;The mine ran from 1836 to 1874 but did not produce large yields.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/24.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/24_hu_1bcd8696cd880790.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/24_hu_c9662a7279c52503.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A mortar stone where a vertical stamp smashed up and down against larger pieces of ore to make them small enough for the mill&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/25.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/25_hu_3bd89f5e07362719.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/25_hu_f8de28fb13aac50b.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Another mortar stone&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/22.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/22_hu_b53911dc3923e923.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/22_hu_63af85a5d82dffd9.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Base stone of a crazing mill that was used to crush tin ore. SX 64510 72800&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/23.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/23_hu_a0ea5c259d09c3b6.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/23_hu_ce0d1fe7632006f2.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Top stone for the mill&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;Ore from the adit would be smashed down small enough to fit into the top hole of this stone which sat above the base stone. The top stone was then rotated, possibly by pony or donkey or water power, to grind the ore just as grain is turned into wheat. The resulting fine sand was then smelted to form ingots.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/26.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/26_hu_5282a0495e05a87e.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/26_hu_78ff7b55a5f660f3.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A 200lb mould stone&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;Once smelted and the impurities floated off, the near-pure tin was poured into a mould stone to form a 200lb ingot. This was a standard weight for transporting by pony off the moor.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The chemical symbol for Tin is &amp;ldquo;Sn&amp;rdquo; which stands for stannous or stannic. From this comes the Latin for Tin, Stannum. From that, comes Stannator (Stannary parliament), stannary laws, stannary towns etc.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/27.jpg&#34;
-	width=&#34;750&#34;
-	height=&#34;563&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/27_hu_934c52fcb9f361b9.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/27_hu_c15a3009f26cb0b0.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The remains of a wheelpit that once held a 40 foot water wheel, fed by the Swincombe river&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Tin&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Wikipedia - Tin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Dartmoor_tin_mining&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Wikipedia - Dartmoor Tin Mining&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;tunnel&#34;&gt;Tunnel
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Above the main Gobbett Mine workings was the main adit which followed the mineral seam.&lt;/li&gt;
-&lt;li&gt;When the Swincombe Intake was built in the 1920s, the builders needed to run a pipe from there to the Venford Reservoir some 6 kilometers away. They opted to reuse and extend this adit to run that pipe through.&lt;/li&gt;
-&lt;li&gt;The tunnel continues through the hill in a straight line for 540 meters, emerging in a field 150m North West of The Forest Inn.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/28.jpg&#34;
-	width=&#34;1379&#34;
-	height=&#34;1034&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/28_hu_f6b2685a17ea1704.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/28_hu_9a58234d4a82dcce.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Approach to the Tunnel portal above the road&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/29.jpg&#34;
-	width=&#34;1379&#34;
-	height=&#34;1034&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/29_hu_7727fef42cf1aae6.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/29_hu_d7a2d8f09663bcf4.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Securely locked portal&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hexworthy-to-swincombe/30.jpg&#34;
-	width=&#34;1379&#34;
-	height=&#34;1034&#34;
-	srcset=&#34;http://localhost:1313/p/hexworthy-to-swincombe/30_hu_8586d72f820c7797.jpg 480w, http://localhost:1313/p/hexworthy-to-swincombe/30_hu_e194335def75ecad.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The pipe inside&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;*When you are ready, join the larger access road to the East and follow it 400m upwards to the Parking.&lt;/p&gt;
-&lt;h2 id=&#34;parking&#34;&gt;Parking
-&lt;/h2&gt;&lt;p&gt;There is good roadside parking available at the posted coordinates, just outside the entrance to Sherberton&amp;rsquo;s land.&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://crockernfarm.wordpress.com/2012/08/21/dry-stone-wall/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Crockern Farm - John Bishop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Most of these pictures were taking from Keith&amp;rsquo;s walk in 2009, although I have added some of my own from 2011 for the Intake and Tunnel &lt;cite&gt;&amp;ndash; Simon&lt;/cite&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tin on Dartmoor Walking</title><link>https://dartmoorwalking.org/tags/tin/</link><description>Recent content in Tin on Dartmoor Walking</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Simon Avery</copyright><lastBuildDate>Wed, 01 Jan 2025 10:30:07 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/tin/index.xml" rel="self" type="application/rss+xml"/><item><title>Hexworthy to Swincombe</title><link>https://dartmoorwalking.org/p/hexworthy-to-swincombe/</link><pubDate>Wed, 01 Jan 2025 10:30:07 +0000</pubDate><guid>https://dartmoorwalking.org/p/hexworthy-to-swincombe/</guid><description>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/12.jpg" alt="Featured image of post Hexworthy to Swincombe" />&lt;h2 id="information">Information
+&lt;/h2>&lt;ul>
+&lt;li>Distance: &lt;b>3 miles&lt;/b>, walked by Keith Ryan and Simon Avery and transcribed by &lt;a href="mailto:digdilem@gmail.com">Simon Avery&lt;/a>&lt;/li>
+&lt;li> Grade: &lt;b>&lt;a href="https://dartmoorwalking.org/tags/gentle/">Gentle&lt;/a>&lt;/b>&lt;/li>
+&lt;li> A GPX route of this walk is available: &lt;b>&lt;a href="https://dartmoorwalking.org/gpx/hexworthy-to-swincombe.gpx">Download GPX &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg>&lt;/a>&lt;/b>&lt;/li>
+&lt;li> &lt;a href="https://www.google.com/maps/dir/?api=1&amp;destination=50.53916%2c-3.90538">Directions to Car Park &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-directions">
+&lt;path stroke="none" d="M0 0h24v24H0z" fill="none" />
+&lt;path d="M12 21v-4" />
+&lt;path d="M12 13v-4" />
+&lt;path d="M12 5v-2" />
+&lt;path d="M10 21h4" />
+&lt;path d="M8 5v4h11l2 -2l-2 -2z" />
+&lt;path d="M14 13v4h-8l-2 -2l2 -2z" />
+&lt;/svg>&lt;/a>&lt;/li>
+&lt;li> &lt;a href="https://w3w.co/flow.rectangular.facelift">What Three Words&lt;/a> &lt;code>flow.rectangular.facelift&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;h2 id="map">Map
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/map.jpg"
+width="750"
+height="445"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/map_hu_7a3509ac507c3e3d.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/map_hu_641388e9dc8b3f41.jpg 1024w"
+loading="lazy"
+alt="Map of Route - Crown Copyright - Ordnance Survey Licence number 100047373"
+class="gallery-image"
+data-flex-grow="168"
+data-flex-basis="404px"
+>&lt;/p>
+&lt;h2 id="introduction">Introduction
+&lt;/h2>&lt;p>This is a pleasant walk up a historic valley with plenty to see along the way. I&amp;rsquo;ve included a possible detour if you wanted to extend the walk to include Swincombe Intake.&lt;/p>
+&lt;p>Much of this land is owned by Anton Coaker who lives at Sherberton Farm who farms the distinctive red Galloway cattle and Dartmoor ponies on this land.&lt;/p>
+&lt;blockquote>
+&lt;p>The Coaker&amp;rsquo;s dedication to breeding good quality Dartmoor Ponies is well known and is several generations long. I recall visiting his mother, Diane Coaker, at Sherberton farm to view some of her ponies with my own mother in the 1980s. &lt;cite>&amp;ndash; Simon&lt;/cite>&lt;/p>&lt;/blockquote>
+&lt;p>Anton himself is very well known as the author of several books, newspaper articles and is a very knowledgeable and erudite writer on Moorland and Hill Farming matters.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.anton-coaker.co.uk/our-farm" target="_blank" rel="noopener"
+>Anton Coaker&amp;rsquo;s &amp;ldquo;Our Farm&amp;rdquo; website&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>Start the walk by proceeding back 140 meters along the road you approached the parking along, then turn right at the end of the wall along a Bridlepath&lt;/em>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/1.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/1_hu_787c94fbbb92d34c.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/1_hu_36189e8473d690eb.jpg 1024w"
+loading="lazy"
+alt="An example of John Bishop’s semi-dressed dry stone walling"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>Dartmoor has had many fine dry stone wall builders, but perhaps the most famous of all was John Bishop (1821-1892). He was one of the first to use the shaped and squared building method in his walls. He tightly fitted large blocks of granite in such a way that very little daylight could be seen through the wall. He helped enclose many of the newtakes on Dartmoor and would have been in strong demand.&lt;/p>
+&lt;p>When asked how he lifted such heavy stones, John Bishop is alleged to have replied, “Aw, ‘tis surprisin’ what ee can do with a laiver or two.”&lt;/p>
+&lt;p>Many of the walls in this area were built or repaired by Mr Bishop who lived close by - we&amp;rsquo;ll visit his house on this walk - and are of a visibly better quality than most earlier walls, which were mostly built from natural moorstone, using &amp;ldquo;trigs&amp;rdquo; of small stone to wedge them in place. But no matter how well a dry stone wall is made, it needs repairing often due to weather and especially animals and people climbing it and loosening stone, so other men will have been involved over the years in keeping these walls stockproof.&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/2.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/2_hu_97183abe4a6e64e5.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/2_hu_32ffc1340e37872a.jpg 1024w"
+loading="lazy"
+alt="Black and white Belted Galloway cows with the dry Wheal Emma leat behind them"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;h2 id="dolly-trebbles-cott">Dolly Trebble&amp;rsquo;s Cott
+&lt;/h2>&lt;p>&lt;em>Leave the path after about 900 meters and head towards the ruins on the right as indicated on the map&lt;/em>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/3.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/3_hu_bf2419cad3e3d127.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/3_hu_191d3bbf93af74b8.jpg 1024w"
+loading="lazy"
+alt="Dolly Trebble’s House"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/4.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/4_hu_17cbc43d2dc10f3a.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/4_hu_8fe36b99824d54cf.jpg 1024w"
+loading="lazy"
+alt="Two fireplace uprights"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>Dolly Trebble was a particularly attractive girl who caught the eye of many men of Dartmoor in the 18th Century. Despite being married to William Trebble, she was courted by Sir Thomas Tyrwhitt (1762-1833) - an important man who shaped much of Princetown and Dartmoor, and no less than George IV, the Prince Regent who visited here several times.&lt;/p>
+&lt;p>She was written about by Sabine Baring Gould and Dolly was clearly a woman of some fame. Tim Sandles has an entertaining version of Dolly&amp;rsquo;s story on his Legendary Dartmoor site if you&amp;rsquo;d like to learn more.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.legendarydartmoor.co.uk/2016/03/28/dolly_trebble/" target="_blank" rel="noopener"
+>Legendary Dartmoor - Dolly Treble&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>When ready, proceed down to join the moor road to the west and walk a short way to the bridge over the river Swincombe, where you have a choice&lt;/em>&lt;/p>
+&lt;h2 id="detour-to-swincombe-intake">Detour to Swincombe Intake
+&lt;/h2>&lt;p>Possible detour (An extra mile and a half)&lt;/p>
+&lt;p>If you continue walking along this road to the west, after around 1.2km you&amp;rsquo;ll come to the Swincombe Intake. This is a small reservoir and unusual art-deco building that collects water which is piped to Venford Reservoir to help fill it.&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/5.jpg"
+width="1379"
+height="1034"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/5_hu_1f9a92c363accd19.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/5_hu_850df556bb606416.jpg 1024w"
+loading="lazy"
+alt="Swincombe Intake"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/6.jpg"
+width="1379"
+height="1034"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/6_hu_51b267a3e5397a6e.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/6_hu_2550a3aa802d1c1f.jpg 1024w"
+loading="lazy"
+alt="Swincombe Intake Building with unusual Art Deco motif"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>The Swincombe Intake Reservoir was built between 1929 and 1933 by Paignton Urban District Council Waterworks Department. A particularly ugly building with the exception of an art deco motif over the modern door, as befitting its construction date.&lt;/p>
+&lt;p>&lt;em>If you took this detour, head back to the same point at the Fairy bridge when you are ready to return&lt;/em>&lt;/p>
+&lt;h2 id="the-flooding-of-swincombe-valley">The flooding of Swincombe Valley
+&lt;/h2>&lt;p>This valley starts up at Peat Cott with the infamous Foxtor Mire at its head, which acts as a huge sponge providing a steady flow throughout even the driest of summers.&lt;/p>
+&lt;p>It was that which prompted a plan in the 1960s to flood this entire valley to provide another reservoir on Dartmoor, far larger than the modest intake that has stood there for a hundred years.&lt;/p>
+&lt;p>Not surprisingly, this caused a lot of opposition. Perhaps the most vocal opponent was Lady Sylvia Sayer who, with the Dartmoor Preservation Association, resisted this at every turn. You will by now have noticed that you&amp;rsquo;re not under several meters of water, so it should be no surprise to learn that in 1970, the opposers won and permission was refused. Planning was retried several times through the 70s and 80s until in 1985, the DPA used funds from a bequest to acquire 50 acres of this valley to protect it.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://dartmoorpreservation.co.uk/swincombe/" target="_blank" rel="noopener"
+>Dartmoor Preservation Association - Swincombe&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="fairy-bridge">Fairy Bridge
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/7.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/7_hu_a8c5382645864bb.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/7_hu_e04f7925e25d4268.jpg 1024w"
+loading="lazy"
+alt="The Swincombe Fairy Bridge"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>There has been a bridge at this location for hundreds of years, and noted by William Crossing in the early 1900s. It has been replaced several times.&lt;/p>
+&lt;p>It earned its nickname as a small porcelain fairy was mounted to one of the supports by persons unknown. Unfortunately it was damaged and replaced at least once.&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/9.jpg"
+width="222"
+height="265"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/9_hu_81f2b77554a3746.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/9_hu_4b3ef13fc835a228.jpg 1024w"
+loading="lazy"
+alt="The original fairy"
+class="gallery-image"
+data-flex-grow="83"
+data-flex-basis="201px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/8.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/8_hu_f730fc55edb60fca.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/8_hu_72401ad68a9417be.jpg 1024w"
+loading="lazy"
+alt="What was left in 2009"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>&lt;em>Please note that apparently the bridge has been replaced since these pictures were taken and it&amp;rsquo;s unknown whether the Fairy returned&lt;/em>&lt;/p>
+&lt;h2 id="john-bishops-house">John Bishop&amp;rsquo;s House
+&lt;/h2>&lt;p>&lt;em>Cross the bridge&lt;/em>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/10.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/10_hu_310ae8741e3f7919.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/10_hu_392f88396185aca0.jpg 1024w"
+loading="lazy"
+alt="First view of John Bishop’s House"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>John Bishop was the dry stone waller whose work we inspected earlier. He lived in this house in the 1800s when it was in much better condition. Originally thatched, it was later converted to slates and was reported to be in liveable condition as late as the 1960s.&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/11.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/11_hu_4919f456d34f8e20.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/11_hu_6447ad3c48745743.jpg 1024w"
+loading="lazy"
+alt="Approaching the cobbled path to the door"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/12.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/12_hu_65a6ad1f1ca2cee0.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/12_hu_2da39924a9baf046.jpg 1024w"
+loading="lazy"
+alt="Another view, showing the impressive porch"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/13.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/13_hu_50d158ff64c9d732.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/13_hu_9c81dec11aad3097.jpg 1024w"
+loading="lazy"
+alt="It’s not known whether John Bishop built this house or just lived here"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/14.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/14_hu_129620ed788bd246.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/14_hu_38322e33fe4cccc9.jpg 1024w"
+loading="lazy"
+alt="A view around the side of the house, showing the lintel of the upstairs fireplace"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/15.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/15_hu_917e9d655d45884d.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/15_hu_844bf15c2cda2a24.jpg 1024w"
+loading="lazy"
+alt="The medieval Tavistock to Ashburton packhorse track nearby"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/16.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/16_hu_e8022077dca5cd49.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/16_hu_89ddab389c5633b0.jpg 1024w"
+loading="lazy"
+alt="More structures along the lane"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/17.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/17_hu_a7786f06865f4a78.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/17_hu_4db72b3cb0aefcff.jpg 1024w"
+loading="lazy"
+alt="One of what was once a pair of gateposts that marked the entrance to Sir Thomas Tyrwhitt’s estate from the east"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/18.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/18_hu_fd0aa7916c94c573.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/18_hu_1117d7ed10054a7c.jpg 1024w"
+loading="lazy"
+alt="An “AT Stone” repurposed as a gatepost"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>You can just make out the A for Ashburton in this picture, with a slightly fainter T for Tavistock on the rear face. This was used to mark the packhorse trail and give the direction to the respective towns.&lt;/p>
+&lt;p>&lt;em>Once you&amp;rsquo;ve explored the ruins, return over the bridge and follow the road East&lt;/em>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/19.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/19_hu_eb5d9ee34800777f.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/19_hu_a8cfcbcc715b1c3a.jpg 1024w"
+loading="lazy"
+alt="Looking up the Swincombe Valley over the ford above the bridge"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/20.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/20_hu_2152f3ab1f828871.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/20_hu_b2b0caef50189382.jpg 1024w"
+loading="lazy"
+alt="Stepping stones, as well as the bridge and ford"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/21.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/21_hu_420505cffa5bbdce.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/21_hu_d258c14a12f1adf4.jpg 1024w"
+loading="lazy"
+alt="Mother and Foal Dartmoor Ponies - part of Anton Coaker’s Sherberton herd"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;h2 id="gobbett-mine">Gobbett Mine
+&lt;/h2>&lt;p>Left and right of the path just before we leave this road, is the site of Gobbett Tin Mine. There are remnants of this work still visible, as well as the very obvious tunnel.&lt;/p>
+&lt;p>The mine ran from 1836 to 1874 but did not produce large yields.&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/24.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/24_hu_1bcd8696cd880790.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/24_hu_c9662a7279c52503.jpg 1024w"
+loading="lazy"
+alt="A mortar stone where a vertical stamp smashed up and down against larger pieces of ore to make them small enough for the mill"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/25.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/25_hu_3bd89f5e07362719.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/25_hu_f8de28fb13aac50b.jpg 1024w"
+loading="lazy"
+alt="Another mortar stone"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/22.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/22_hu_b53911dc3923e923.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/22_hu_63af85a5d82dffd9.jpg 1024w"
+loading="lazy"
+alt="Base stone of a crazing mill that was used to crush tin ore. SX 64510 72800"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/23.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/23_hu_a0ea5c259d09c3b6.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/23_hu_ce0d1fe7632006f2.jpg 1024w"
+loading="lazy"
+alt="Top stone for the mill"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>Ore from the adit would be smashed down small enough to fit into the top hole of this stone which sat above the base stone. The top stone was then rotated, possibly by pony or donkey or water power, to grind the ore just as grain is turned into wheat. The resulting fine sand was then smelted to form ingots.&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/26.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/26_hu_5282a0495e05a87e.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/26_hu_78ff7b55a5f660f3.jpg 1024w"
+loading="lazy"
+alt="A 200lb mould stone"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>Once smelted and the impurities floated off, the near-pure tin was poured into a mould stone to form a 200lb ingot. This was a standard weight for transporting by pony off the moor.&lt;/p>
+&lt;ul>
+&lt;li>The chemical symbol for Tin is &amp;ldquo;Sn&amp;rdquo; which stands for stannous or stannic. From this comes the Latin for Tin, Stannum. From that, comes Stannator (Stannary parliament), stannary laws, stannary towns etc.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/27.jpg"
+width="750"
+height="563"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/27_hu_934c52fcb9f361b9.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/27_hu_c15a3009f26cb0b0.jpg 1024w"
+loading="lazy"
+alt="The remains of a wheelpit that once held a 40 foot water wheel, fed by the Swincombe river"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://en.wikipedia.org/wiki/Tin" target="_blank" rel="noopener"
+>Wikipedia - Tin&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://en.wikipedia.org/wiki/Dartmoor_tin_mining" target="_blank" rel="noopener"
+>Wikipedia - Dartmoor Tin Mining&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tunnel">Tunnel
+&lt;/h2>&lt;ul>
+&lt;li>Above the main Gobbett Mine workings was the main adit which followed the mineral seam.&lt;/li>
+&lt;li>When the Swincombe Intake was built in the 1920s, the builders needed to run a pipe from there to the Venford Reservoir some 6 kilometers away. They opted to reuse and extend this adit to run that pipe through.&lt;/li>
+&lt;li>The tunnel continues through the hill in a straight line for 540 meters, emerging in a field 150m North West of The Forest Inn.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/28.jpg"
+width="1379"
+height="1034"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/28_hu_f6b2685a17ea1704.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/28_hu_9a58234d4a82dcce.jpg 1024w"
+loading="lazy"
+alt="Approach to the Tunnel portal above the road"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/29.jpg"
+width="1379"
+height="1034"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/29_hu_7727fef42cf1aae6.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/29_hu_d7a2d8f09663bcf4.jpg 1024w"
+loading="lazy"
+alt="Securely locked portal"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>&lt;img src="https://dartmoorwalking.org/p/hexworthy-to-swincombe/30.jpg"
+width="1379"
+height="1034"
+srcset="https://dartmoorwalking.org/p/hexworthy-to-swincombe/30_hu_8586d72f820c7797.jpg 480w, https://dartmoorwalking.org/p/hexworthy-to-swincombe/30_hu_e194335def75ecad.jpg 1024w"
+loading="lazy"
+alt="The pipe inside"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>*When you are ready, join the larger access road to the East and follow it 400m upwards to the Parking.&lt;/p>
+&lt;h2 id="parking">Parking
+&lt;/h2>&lt;p>There is good roadside parking available at the posted coordinates, just outside the entrance to Sherberton&amp;rsquo;s land.&lt;/p>
+&lt;h2 id="references">References
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="https://crockernfarm.wordpress.com/2012/08/21/dry-stone-wall/" target="_blank" rel="noopener"
+>Crockern Farm - John Bishop&lt;/a>&lt;/li>
+&lt;li>Most of these pictures were taking from Keith&amp;rsquo;s walk in 2009, although I have added some of my own from 2011 for the Intake and Tunnel &lt;cite>&amp;ndash; Simon&lt;/cite>&lt;/li>
+&lt;/ul></description></item></channel></rss>

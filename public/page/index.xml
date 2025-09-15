@@ -1,329 +1,154 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Pages on Dartmoor Walking</title>
-        <link>http://localhost:1313/page/</link>
-        <description>Recent content in Pages on Dartmoor Walking</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
-        <copyright>Simon Avery</copyright>
-        <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>GPX Route Downloads</title>
-        <link>http://localhost:1313/gpx-route-downloads/</link>
-        <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/gpx-route-downloads/</guid>
-        <description>&lt;h2 id=&#34;download-all-the-gpx-files-from-each-walk&#34;&gt;Download all the GPX files from each walk
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/dartmoorwalking.org-gpxfiles.zip&#34; &gt;Download a zip file containing all the GPX files&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;download-individual-walks&#34;&gt;Download Individual Walks
-&lt;/h2&gt;&lt;ul&gt;
-
-  
-
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/belstone-to-the-nine-maidens.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; belstone-to-the-nine-maidens.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/buckland-beacon-ten-commandments-stone.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; buckland-beacon-ten-commandments-stone.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/burrator-arboretum-sheepstor.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; burrator-arboretum-sheepstor.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/cadover-bridge-to-the-dewerstone.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; cadover-bridge-to-the-dewerstone.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/cox-tor-circular.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; cox-tor-circular.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/dr-blackalls-drive.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; dr-blackalls-drive.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/dunnabridge-pound.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; dunnabridge-pound.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/fernworthy-assycombe-double-stone-row.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; fernworthy-assycombe-double-stone-row.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/foggintor-quarry.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; foggintor-quarry.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/foxtor-mire-and-childes-tomb.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; foxtor-mire-and-childes-tomb.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/haytor-down.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; haytor-down.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/haytor-rocks-and-quarries.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; haytor-rocks-and-quarries.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/hexworthy-to-swincombe.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; hexworthy-to-swincombe.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/hound-tor-bowermans-nose-kitty-jays-grave.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; hound-tor-bowermans-nose-kitty-jays-grave.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/hurston-stone-row.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; hurston-stone-row.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/ingra-tor.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; ingra-tor.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/lydford-high-down-to-doetor-farm-ruins.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; lydford-high-down-to-doetor-farm-ruins.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/meldon-and-the-west-okemont-valley.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; meldon-and-the-west-okemont-valley.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/norsworthy-bridge-devonport-leat.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; norsworthy-bridge-devonport-leat.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/prewley-moor-and-the-iceworks.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; prewley-moor-and-the-iceworks.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/princetown-conchie-road-crock-of-gold.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; princetown-conchie-road-crock-of-gold.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/pullabrook-woods.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; pullabrook-woods.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/quarrymans-path-and-merrivale.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; quarrymans-path-and-merrivale.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/sheepstor-stone-circles.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; sheepstor-stone-circles.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/smeardon-down.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; smeardon-down.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/the-henroost-and-skir-ford.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; the-henroost-and-skir-ford.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/the-merrivale-bronze-age-sun-calendar-and-foggintor-school.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; the-merrivale-bronze-age-sun-calendar-and-foggintor-school.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/the-powder-mills.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; the-powder-mills.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/venford-reservoir-holne-moor.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; venford-reservoir-holne-moor.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/vitifer-and-golden-dagger-mines.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; vitifer-and-golden-dagger-mines.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/widecombe.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; widecombe.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/wind-tor-and-hutholes.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; wind-tor-and-hutholes.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/wistmans-wood-via-crockern-and-littaford-tors.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; wistmans-wood-via-crockern-and-littaford-tors.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/yennadon-down.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; yennadon-down.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-  
-    &lt;li&gt;&lt;a href=&#34;http://localhost:1313/gpx/yes-tor-via-row-tor.gpx&#34;&gt;&lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt; yes-tor-via-row-tor.gpx&lt;/a&gt;&lt;/li&gt;
-  
-
-&lt;/ul&gt;
-
-</description>
-        </item>
-        <item>
-        <title>Map of Walks</title>
-        <link>http://localhost:1313/map-of-walks/</link>
-        <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/map-of-walks/</guid>
-        <description>&lt;iframe width=&#34;100%&#34; height=&#34;600&#34; name=&#34;iframe&#34; src=&#34;http://localhost:1313/map.html&#34; &gt;&lt;/iframe&gt;
-</description>
-        </item>
-        <item>
-        <title>Helpful Tips</title>
-        <link>http://localhost:1313/helpful-tips/</link>
-        <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/helpful-tips/</guid>
-        <description>&lt;h2 id=&#34;a-few-brief-notes-about-walking-on-dartmoor&#34;&gt;A few brief notes about walking on Dartmoor
-&lt;/h2&gt;&lt;p&gt;Nearly everybody who walks on Dartmoor has an enjoyable and safe time of it, bar the odd wet foot.  Although once Dartmoor was &lt;a class=&#34;link&#34; href=&#34;https://www.theguardian.com/science/2017/aug/07/making-old-bones-joint-mitnor-cave-reopens-with-replica-fossils&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;home to Bears, Wolf, Hyena and even Mammoth&lt;/a&gt;, there are no longer any dangerous mammals to hunt you.&lt;/p&gt;
-&lt;p&gt;The biggest risks to you as a Dartmoor walker are disorientation and exposure. Also, at 365 square miles, Dartmoor is relatively small and few areas are more than 2 or 3 hours walking from the road.  That said, people do get in trouble on Dartmoor and need rescuing. It is prudent to take some care before setting off.&lt;/p&gt;
-&lt;p&gt;Your phone is unlikely to have signal for much of Dartmoor. Don&amp;rsquo;t rely upon it solely, but it can be a good tool.&lt;/p&gt;
-&lt;h2 id=&#34;3-questions-to-ask-yourself&#34;&gt;3 questions to ask yourself
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;Am I confident I have the knowledge and skills for the day?&lt;/li&gt;
-&lt;li&gt;Do I know what the weather will be like?&lt;/li&gt;
-&lt;li&gt;Do I have the right gear?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://getoutside.ordnancesurvey.co.uk/guides/mountain-safety/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;From Ordnance Survey mountain guide&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;apps-for-walking&#34;&gt;Apps for walking
-&lt;/h2&gt;&lt;p&gt;Don&amp;rsquo;t rely on your phone having signal when on Dartmoor, most of the area has weak or no signal for data or voice.&lt;/p&gt;
-&lt;p&gt;That said, mapping apps are very useful, but ensure they can use offline maps and that you&amp;rsquo;ve downloaded the right area.&lt;/p&gt;
-&lt;p&gt;I use &lt;a class=&#34;link&#34; href=&#34;https://play.google.com/store/apps/details?id=app.organicmaps&amp;amp;hl=en_GB&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Organic Maps&lt;/a&gt; - Free, allows download of maps for offline use, can record your track and uses the excellent OpenStreetmaps mapsets.&lt;/p&gt;
-&lt;p&gt;Google Maps is pretty useless for walking - it has poor or no coverage of footpaths or bridle paths. Whilst there can be some value to Satellite images when planning, these don&amp;rsquo;t give useful information to ground conditions or terrain.&lt;/p&gt;
-&lt;p&gt;Purpose built handheld GPSrs like the Garmin Oregon or Montana ranges are rugged, weatherproof and if loaded with good maps and batteries, a very useful and reliable tool.&lt;/p&gt;
-&lt;h2 id=&#34;if-you-do-get-lost&#34;&gt;If you do get lost!
-&lt;/h2&gt;&lt;p&gt;Don&amp;rsquo;t panic! If you feel yourself starting to get worked up, spend three minutes focusing on nothing but calm breathing. Then use your brain and reason things out: Can you figure out roughly where you are? Can you backtrack? Can you hear a road? See any landmarks?&lt;/p&gt;
-&lt;p&gt;If you need to contact Mountain Rescue, then call 999 when you have signal.&lt;/p&gt;
-&lt;p&gt;If communication isn&amp;rsquo;t available, then try to find a river and follow it downhill. All rivers on Dartmoor take fairly direct routes off the moor and you will reach a road or buildings sooner or later.&lt;/p&gt;
-&lt;h2 id=&#34;have-fun&#34;&gt;Have fun!
-&lt;/h2&gt;&lt;p&gt;Walking in nature is fantastic for both your physical and mental health. No two walks are ever the same and on a place like Dartmoor where there is such a rich depth of natural and industrial history, there is so much to see and learn about.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Ee puts wun fut in frunt of t&amp;rsquo;other, an on ee goes &lt;cite&gt;&amp;ndash; How to walk on Dartmoor &lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;
-</description>
-        </item>
-        <item>
-        <title>About</title>
-        <link>http://localhost:1313/about/</link>
-        <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/about/</guid>
-        <description>&lt;h2 id=&#34;contact&#34;&gt;Contact
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Webmaster: &lt;a class=&#34;link&#34; href=&#34;mailto:feedback@dartmoorwalking.org&#34; &gt;Simon Avery&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;about-this-website&#34;&gt;About this Website
-&lt;/h2&gt;&lt;p&gt;The hope is that this site will provide a clear and informative way to inspire people to enjoy Dartmoor by providing self-guided walking information and suggested routes.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Dartmoor faces significant threats to its future. I believe that by encouraging people to use, enjoy and understand Dartmoor and its history, they will not only become richer themselves, but also form the same love for the moor as I have. We have recently seen attempts to remove legal rights, protections and funding from Dartmoor and by helping people to care about it, I think more of us are likely to object when we see Dartmoor under threat. The freedom to use Dartmoor for recreation is a legal right for everyone and we need to protect that. &amp;ndash; Simon&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&#34;background&#34;&gt;Background
-&lt;/h3&gt;&lt;p&gt;Many of the photographs, routes and research for this site were originally taken by Keith Ryan for his &lt;a class=&#34;link&#34; href=&#34;https://dartmoorcam.co.uk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;DartmoorCam&lt;/a&gt; website. Sadly, Keith became unable to continue maintaining DartmoorCam and passed it to Simon Avery to preserve it. As well as preserving the original DartmoorCam, Simon has shared Keith&amp;rsquo;s work here and added his own experience and knowledge of Dartmoor to create an entirely new and more accessible website.&lt;/p&gt;
-&lt;h2 id=&#34;people&#34;&gt;People
-&lt;/h2&gt;&lt;h3 id=&#34;keith-ryan&#34;&gt;Keith Ryan
-&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Creator of &lt;a class=&#34;link&#34; href=&#34;https://dartmoorcam.co.uk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dartmoorcam&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Keith was born in Cornwall and spent his working life as a Marine Biologist based at Plymouth Hoe. He loved Dartmoor and started walking it in 1969, starting his website in 2004 to document his walks with photos and informed narrative. Keith led many group walks over the moor - notably with the &lt;a class=&#34;link&#34; href=&#34;https://dartmoortrust.org/archive&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dartmoor Trust&lt;/a&gt;, meticulously researching both geographical and human history along the way. He recorded well over 600 walks on &lt;a class=&#34;link&#34; href=&#34;https://dartmoorcam.co.uk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dartmoorcam&lt;/a&gt;, all with many photographs, footnotes and information.  As well as his website of Dartmoor walks, Keith has also written several other sites which have been preserved. Please see the &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/links&#34; &gt;links&lt;/a&gt; section.&lt;/p&gt;
-&lt;p&gt;Keith passed away at St Luke&amp;rsquo;s Hospice in May, 2023.&lt;/p&gt;
-&lt;h3 id=&#34;simon-avery&#34;&gt;Simon Avery
-&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Creator and maintainer of this website and co-author or author of the walks therein&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Simon lives on Dartmoor and has worked on and with many people associated with it since the 1980s. As countless others do, he loves Dartmoor, its nature and rich history. Simon worked for two years in the late 1980s as part of Dartmoor National Park Authority&amp;rsquo;s Works Department out of Station Yard, Bovey Tracey. In 2018, he also served on the Community Stakeholder&amp;rsquo;s group for the Moor than Meets the Eye project, using National Lottery money to improve Dartmoor. Additionally, he spent over twenty years working for the Mare &amp;amp; Foal Sanctuary, working with Dartmoor Hill Ponies, Habitats, Organisations and Owners.&lt;/p&gt;
-&lt;h2 id=&#34;website-roadmap&#34;&gt;Website Roadmap
-&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://dartmoorcam.co.uk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;DartmoorCam&lt;/a&gt; is a wonderful website with a huge wealth of data and Keith was rightly proud of it. Unfortunately, that size has made it somewhat difficult to navigate and use and feedback suggests it can be overwhelming.  The site consists of over 6,000 html files and more than 50,000 image files, and with some parts of the code dating back to 2002, it has also proved difficult to manage.&lt;/p&gt;
-&lt;p&gt;The hope with this site was to make some of that information more accessible and appealing to more people. It is not intended to replace DartmoorCam, only to share the information more widely.&lt;/p&gt;
-&lt;p&gt;It is hoped that in time, this site may grow to include other people&amp;rsquo;s favourite walks too.&lt;/p&gt;
-&lt;p&gt;More walks from DartmoorCam are gradually being added to this site, and where possible, extended from personal and researched knowledge.&lt;/p&gt;
-&lt;p&gt;It is hoped that Keith would have approved.&lt;/p&gt;
-&lt;h2 id=&#34;legacy&#34;&gt;Legacy
-&lt;/h2&gt;&lt;p&gt;People give a huge amount of their time and knowledge to create websites for the benefit of other people. As custodian of Keith&amp;rsquo;s websites as well as others, I would like to make not just these websites free use, but also provide the source code to them in somewhere permanent and known so that if I am no longer able to maintain and pay for them, they will continue to exist in some form. So many useful websites have already been lost in the short time the internet has been in use, that permanent archiving is very much something I would like to provide. This is a key reason that the code for this website is published on &lt;a class=&#34;link&#34; href=&#34;https://github.com/digdilem/dartmoorwalking.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Github&lt;/a&gt; and should remain available forever.&lt;/p&gt;
-&lt;h2 id=&#34;copyright-and-media-enquiries&#34;&gt;Copyright and Media Enquiries
-&lt;/h2&gt;&lt;p&gt;Before his death, Keith transferred all Copyrights and ownership to text and images used on these Websites to Simon Avery. It is on that assertion that this website has been created from Keith&amp;rsquo;s original content.&lt;/p&gt;
-&lt;p&gt;Any enquiries, or requests to re-use words or images used on this or the following sites should be made to &lt;a class=&#34;link&#34; href=&#34;mailto:feedback@dartmoorwalking.org&#34; &gt;Simon Avery&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Ordnance Survey Maps are Crown Copyright Ordnance Survey, reproduced under Licence number 100047373&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.openstreetmap.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;OpenStreetMap&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://leafletjs.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Leaflet&lt;/a&gt; Copyrights&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;software-used-in-this-site&#34;&gt;Software used in this site
-&lt;/h2&gt;&lt;p&gt;This site is made entirely from &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Free_and_open-source_software&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;FOSS Software&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Hugo&lt;/a&gt; for static site generation&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://stack.jimmycai.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Stack&lt;/a&gt; for the Hugo theme used, heavily modified&lt;/li&gt;
-&lt;li&gt;Linux (Specifically &lt;a class=&#34;link&#34; href=&#34;https://www.debian.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Debian&lt;/a&gt;) for development&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://code.visualstudio.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;VSCode&lt;/a&gt; for page editing&lt;/li&gt;
-&lt;li&gt;&lt;del&gt;&lt;a class=&#34;link&#34; href=&#34;https://utteranc.es/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Utterances&lt;/a&gt; to allow commenting&lt;/del&gt; (Currently disabled)&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.openstreetmap.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;OpenStreetMap&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://leafletjs.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Leaflet&lt;/a&gt; for the Map of Walks, together with custom Perl to generate the Popups at build time&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;And also&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://pages.cloudflare.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Cloudflare Pages&lt;/a&gt; for site hosting&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The Source code to this Website is mirrored to Github&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/digdilem/dartmoorwalking.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Github - Dartmoorwalking.org&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- ============================================================ --&gt;
-&lt;h2 id=&#34;cookie-policy&#34;&gt;Cookie Policy
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;This website does not track your online activity or use cookies for advertising or commercial purposes.&lt;/li&gt;
-&lt;li&gt;We do not sell, trade or pass your information to others in any way.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;what-are-cookies&#34;&gt;What are cookies?
-&lt;/h3&gt;&lt;p&gt;Cookies are small text files that are placed on your computer by websites that you visit. They are widely used to make websites work more efficiently, as well as to provide information to the website owners.&lt;/p&gt;
-&lt;h3 id=&#34;how-we-use-cookies&#34;&gt;How we use cookies
-&lt;/h3&gt;&lt;p&gt;We use cookies to:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Anonymous user site preferences stored in your browser. (Eg, to remember if you want the site in Light or Dark mode)&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.cloudflare.com/en-gb/web-analytics/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Cloudflare Web Analytics&lt;/a&gt; runs to measure website performance. It does not track individuals.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;No cookies used on this website require opt-in to satisfy GDPR requirements so a user prompt is not required.&lt;/p&gt;
-&lt;h3 id=&#34;how-to-manage-cookies&#34;&gt;How to manage cookies
-&lt;/h3&gt;&lt;p&gt;You can control and/or delete cookies from your browser as you wish. Please see your browser&amp;rsquo;s documentation.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>The Walks</title>
-        <link>http://localhost:1313/walks/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/walks/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Search</title>
-        <link>http://localhost:1313/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/search/</guid>
-        <description>&lt;p&gt;Text edited in /layouts/page/search.html&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Dartmoor Walking</title><link>https://dartmoorwalking.org/page/</link><description>Recent content in Pages on Dartmoor Walking</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Simon Avery</copyright><lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/page/index.xml" rel="self" type="application/rss+xml"/><item><title>GPX Route Downloads</title><link>https://dartmoorwalking.org/gpx-route-downloads/</link><pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate><guid>https://dartmoorwalking.org/gpx-route-downloads/</guid><description>&lt;h2 id="download-all-the-gpx-files-from-each-walk">Download all the GPX files from each walk
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="https://dartmoorwalking.org/dartmoorwalking.org-gpxfiles.zip" >Download a zip file containing all the GPX files&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="download-individual-walks">Download Individual Walks
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/belstone-to-the-nine-maidens.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> belstone-to-the-nine-maidens.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/buckland-beacon-ten-commandments-stone.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> buckland-beacon-ten-commandments-stone.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/burrator-arboretum-sheepstor.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> burrator-arboretum-sheepstor.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/cadover-bridge-to-the-dewerstone.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> cadover-bridge-to-the-dewerstone.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/cox-tor-circular.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> cox-tor-circular.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/dr-blackalls-drive.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> dr-blackalls-drive.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/dunnabridge-pound.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> dunnabridge-pound.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/fernworthy-assycombe-double-stone-row.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> fernworthy-assycombe-double-stone-row.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/foggintor-quarry.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> foggintor-quarry.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/foxtor-mire-and-childes-tomb.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> foxtor-mire-and-childes-tomb.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/haytor-down.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> haytor-down.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/haytor-rocks-and-quarries.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> haytor-rocks-and-quarries.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/hexworthy-to-swincombe.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> hexworthy-to-swincombe.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/hound-tor-bowermans-nose-kitty-jays-grave.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> hound-tor-bowermans-nose-kitty-jays-grave.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/hurston-stone-row.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> hurston-stone-row.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/ingra-tor.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> ingra-tor.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/lydford-high-down-to-doetor-farm-ruins.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> lydford-high-down-to-doetor-farm-ruins.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/meldon-and-the-west-okemont-valley.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> meldon-and-the-west-okemont-valley.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/norsworthy-bridge-devonport-leat.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> norsworthy-bridge-devonport-leat.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/prewley-moor-and-the-iceworks.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> prewley-moor-and-the-iceworks.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/princetown-conchie-road-crock-of-gold.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> princetown-conchie-road-crock-of-gold.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/pullabrook-woods.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> pullabrook-woods.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/quarrymans-path-and-merrivale.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> quarrymans-path-and-merrivale.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/sheepstor-stone-circles.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> sheepstor-stone-circles.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/smeardon-down.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> smeardon-down.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/the-henroost-and-skir-ford.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> the-henroost-and-skir-ford.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/the-merrivale-bronze-age-sun-calendar-and-foggintor-school.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> the-merrivale-bronze-age-sun-calendar-and-foggintor-school.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/the-powder-mills.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> the-powder-mills.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/venford-reservoir-holne-moor.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> venford-reservoir-holne-moor.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/vitifer-and-golden-dagger-mines.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> vitifer-and-golden-dagger-mines.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/widecombe.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> widecombe.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/wind-tor-and-hutholes.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> wind-tor-and-hutholes.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/wistmans-wood-via-crockern-and-littaford-tors.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> wistmans-wood-via-crockern-and-littaford-tors.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/yennadon-down.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> yennadon-down.gpx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dartmoorwalking.org/gpx/yes-tor-via-row-tor.gpx">&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download">&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/>&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" />&lt;path d="M7 11l5 5l5 -5" />&lt;path d="M12 4l0 12" />&lt;/svg> yes-tor-via-row-tor.gpx&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Map of Walks</title><link>https://dartmoorwalking.org/map-of-walks/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://dartmoorwalking.org/map-of-walks/</guid><description>&lt;iframe width="100%" height="600" name="iframe" src="https://dartmoorwalking.org/map.html" >&lt;/iframe></description></item><item><title>Helpful Tips</title><link>https://dartmoorwalking.org/helpful-tips/</link><pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate><guid>https://dartmoorwalking.org/helpful-tips/</guid><description>&lt;h2 id="a-few-brief-notes-about-walking-on-dartmoor">A few brief notes about walking on Dartmoor
+&lt;/h2>&lt;p>Nearly everybody who walks on Dartmoor has an enjoyable and safe time of it, bar the odd wet foot. Although once Dartmoor was &lt;a class="link" href="https://www.theguardian.com/science/2017/aug/07/making-old-bones-joint-mitnor-cave-reopens-with-replica-fossils" target="_blank" rel="noopener"
+>home to Bears, Wolf, Hyena and even Mammoth&lt;/a>, there are no longer any dangerous mammals to hunt you.&lt;/p>
+&lt;p>The biggest risks to you as a Dartmoor walker are disorientation and exposure. Also, at 365 square miles, Dartmoor is relatively small and few areas are more than 2 or 3 hours walking from the road. That said, people do get in trouble on Dartmoor and need rescuing. It is prudent to take some care before setting off.&lt;/p>
+&lt;p>Your phone is unlikely to have signal for much of Dartmoor. Don&amp;rsquo;t rely upon it solely, but it can be a good tool.&lt;/p>
+&lt;h2 id="3-questions-to-ask-yourself">3 questions to ask yourself
+&lt;/h2>&lt;ol>
+&lt;li>Am I confident I have the knowledge and skills for the day?&lt;/li>
+&lt;li>Do I know what the weather will be like?&lt;/li>
+&lt;li>Do I have the right gear?&lt;/li>
+&lt;/ol>
+&lt;p>&lt;a class="link" href="https://getoutside.ordnancesurvey.co.uk/guides/mountain-safety/" target="_blank" rel="noopener"
+>From Ordnance Survey mountain guide&lt;/a>&lt;/p>
+&lt;h2 id="apps-for-walking">Apps for walking
+&lt;/h2>&lt;p>Don&amp;rsquo;t rely on your phone having signal when on Dartmoor, most of the area has weak or no signal for data or voice.&lt;/p>
+&lt;p>That said, mapping apps are very useful, but ensure they can use offline maps and that you&amp;rsquo;ve downloaded the right area.&lt;/p>
+&lt;p>I use &lt;a class="link" href="https://play.google.com/store/apps/details?id=app.organicmaps&amp;amp;hl=en_GB" target="_blank" rel="noopener"
+>Organic Maps&lt;/a> - Free, allows download of maps for offline use, can record your track and uses the excellent OpenStreetmaps mapsets.&lt;/p>
+&lt;p>Google Maps is pretty useless for walking - it has poor or no coverage of footpaths or bridle paths. Whilst there can be some value to Satellite images when planning, these don&amp;rsquo;t give useful information to ground conditions or terrain.&lt;/p>
+&lt;p>Purpose built handheld GPSrs like the Garmin Oregon or Montana ranges are rugged, weatherproof and if loaded with good maps and batteries, a very useful and reliable tool.&lt;/p>
+&lt;h2 id="if-you-do-get-lost">If you do get lost!
+&lt;/h2>&lt;p>Don&amp;rsquo;t panic! If you feel yourself starting to get worked up, spend three minutes focusing on nothing but calm breathing. Then use your brain and reason things out: Can you figure out roughly where you are? Can you backtrack? Can you hear a road? See any landmarks?&lt;/p>
+&lt;p>If you need to contact Mountain Rescue, then call 999 when you have signal.&lt;/p>
+&lt;p>If communication isn&amp;rsquo;t available, then try to find a river and follow it downhill. All rivers on Dartmoor take fairly direct routes off the moor and you will reach a road or buildings sooner or later.&lt;/p>
+&lt;h2 id="have-fun">Have fun!
+&lt;/h2>&lt;p>Walking in nature is fantastic for both your physical and mental health. No two walks are ever the same and on a place like Dartmoor where there is such a rich depth of natural and industrial history, there is so much to see and learn about.&lt;/p>
+&lt;blockquote>
+&lt;p>Ee puts wun fut in frunt of t&amp;rsquo;other, an on ee goes &lt;cite>&amp;ndash; How to walk on Dartmoor &lt;/cite>&lt;/p>&lt;/blockquote></description></item><item><title>About</title><link>https://dartmoorwalking.org/about/</link><pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate><guid>https://dartmoorwalking.org/about/</guid><description>&lt;h2 id="contact">Contact
+&lt;/h2>&lt;ul>
+&lt;li>Webmaster: &lt;a class="link" href="mailto:feedback@dartmoorwalking.org" >Simon Avery&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="about-this-website">About this Website
+&lt;/h2>&lt;p>The hope is that this site will provide a clear and informative way to inspire people to enjoy Dartmoor by providing self-guided walking information and suggested routes.&lt;/p>
+&lt;p>&lt;em>Dartmoor faces significant threats to its future. I believe that by encouraging people to use, enjoy and understand Dartmoor and its history, they will not only become richer themselves, but also form the same love for the moor as I have. We have recently seen attempts to remove legal rights, protections and funding from Dartmoor and by helping people to care about it, I think more of us are likely to object when we see Dartmoor under threat. The freedom to use Dartmoor for recreation is a legal right for everyone and we need to protect that. &amp;ndash; Simon&lt;/em>&lt;/p>
+&lt;h3 id="background">Background
+&lt;/h3>&lt;p>Many of the photographs, routes and research for this site were originally taken by Keith Ryan for his &lt;a class="link" href="https://dartmoorcam.co.uk" target="_blank" rel="noopener"
+>DartmoorCam&lt;/a> website. Sadly, Keith became unable to continue maintaining DartmoorCam through ill health and passed it to Simon Avery to preserve it. As well as keeping the original DartmoorCam online, Simon has shared Keith&amp;rsquo;s work here and added his own experience and knowledge of Dartmoor to create an entirely new and more accessible website.&lt;/p>
+&lt;h2 id="people">People
+&lt;/h2>&lt;h3 id="keith-ryan">Keith Ryan
+&lt;/h3>&lt;p>&lt;em>Creator of &lt;a class="link" href="https://dartmoorcam.co.uk" target="_blank" rel="noopener"
+>Dartmoorcam&lt;/a>&lt;/em>&lt;/p>
+&lt;p>Keith was born in Cornwall and spent his working life as a Marine Biologist based at Plymouth Hoe. He loved Dartmoor and started walking it in 1969, starting his website in 2004 to document his walks with photos and informed narrative. Keith led many group walks over the moor - notably with the &lt;a class="link" href="https://dartmoortrust.org/archive" target="_blank" rel="noopener"
+>Dartmoor Trust&lt;/a>, meticulously researching both geographical and human history along the way. He recorded well over 600 walks on &lt;a class="link" href="https://dartmoorcam.co.uk" target="_blank" rel="noopener"
+>Dartmoorcam&lt;/a>, all with many photographs, footnotes and information. As well as his website of Dartmoor walks, Keith has also written several other sites which have been preserved. Please see the &lt;a class="link" href="https://dartmoorwalking.org/links" >links&lt;/a> section.&lt;/p>
+&lt;p>Keith passed away at St Luke&amp;rsquo;s Hospice in May, 2023.&lt;/p>
+&lt;h3 id="simon-avery">Simon Avery
+&lt;/h3>&lt;p>&lt;em>Creator and maintainer of this website and co-author or author of the walks therein&lt;/em>&lt;/p>
+&lt;p>Simon lives on Dartmoor and has worked on and with many people associated with it since the 1980s. As countless others do, he loves Dartmoor, its nature and rich history. Simon worked for two years in the late 1980s as part of Dartmoor National Park Authority&amp;rsquo;s Works Department out of Station Yard, Bovey Tracey. In 2018, he also served on the Community Stakeholder&amp;rsquo;s group for the Moor than Meets the Eye project, using National Lottery money to improve Dartmoor. Additionally, he spent over twenty years working for the Mare &amp;amp; Foal Sanctuary, working with Dartmoor Hill Ponies, Habitats, Organisations and Owners.&lt;/p>
+&lt;h2 id="website-roadmap">Website Roadmap
+&lt;/h2>&lt;p>&lt;a class="link" href="https://dartmoorcam.co.uk" target="_blank" rel="noopener"
+>DartmoorCam&lt;/a> is a wonderful website with a huge wealth of data and Keith was rightly proud of it. Unfortunately, that size has made it somewhat difficult to navigate and use and feedback suggests it can be overwhelming. The site consists of over 6,000 html files and more than 50,000 image files, and with some parts of the code dating back to 2002, it has also proved difficult to manage.&lt;/p>
+&lt;p>The hope with this site was to make some of that information more accessible and appealing to more people. It is not intended to replace DartmoorCam, only to share the information more widely.&lt;/p>
+&lt;p>It is hoped that in time, this site may grow to include other people&amp;rsquo;s favourite walks too.&lt;/p>
+&lt;p>More walks from DartmoorCam are gradually being added to this site, and where possible, extended from personal and researched knowledge.&lt;/p>
+&lt;p>It is hoped that Keith would have approved.&lt;/p>
+&lt;h2 id="legacy">Legacy
+&lt;/h2>&lt;p>People give a huge amount of their time and knowledge to create websites for the benefit of other people. As custodian of Keith&amp;rsquo;s websites as well as others, I would like to make not just these websites free use, but also provide the source code to them in somewhere permanent and known so that if I am no longer able to maintain and pay for them, they will continue to exist in some form. So many useful websites have already been lost in the short time the internet has been in use, that permanent archiving is very much something I would like to provide. This is a key reason that the code for this website is published on &lt;a class="link" href="https://github.com/digdilem/dartmoorwalking.org" target="_blank" rel="noopener"
+>Github&lt;/a> and should remain available forever.&lt;/p>
+&lt;h2 id="copyright-and-media-enquiries">Copyright and Media Enquiries
+&lt;/h2>&lt;p>Before his death, Keith transferred all Copyrights and ownership to text and images used on these Websites to Simon Avery. It is on that assertion that this website has been created from Keith&amp;rsquo;s original content.&lt;/p>
+&lt;p>Any enquiries, or requests to re-use words or images used on this or the following sites should be made to &lt;a class="link" href="mailto:feedback@dartmoorwalking.org" >Simon Avery&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>Ordnance Survey Maps are Crown Copyright Ordnance Survey, reproduced under Licence number 100047373&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.openstreetmap.org/" target="_blank" rel="noopener"
+>OpenStreetMap&lt;/a> and &lt;a class="link" href="https://leafletjs.com" target="_blank" rel="noopener"
+>Leaflet&lt;/a> Copyrights&lt;/li>
+&lt;/ul>
+&lt;h2 id="software-used-in-this-site">Software used in this site
+&lt;/h2>&lt;p>This site is made entirely from &lt;a class="link" href="https://en.wikipedia.org/wiki/Free_and_open-source_software" target="_blank" rel="noopener"
+>FOSS Software&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://gohugo.io/" target="_blank" rel="noopener"
+>Hugo&lt;/a> for static site generation&lt;/li>
+&lt;li>&lt;a class="link" href="https://stack.jimmycai.com/" target="_blank" rel="noopener"
+>Stack&lt;/a> for the Hugo theme used, heavily modified&lt;/li>
+&lt;li>Linux (Specifically &lt;a class="link" href="https://www.debian.org/" target="_blank" rel="noopener"
+>Debian&lt;/a>) for development&lt;/li>
+&lt;li>&lt;a class="link" href="https://code.visualstudio.com/" target="_blank" rel="noopener"
+>VSCode&lt;/a> for page editing&lt;/li>
+&lt;li>&lt;del>&lt;a class="link" href="https://utteranc.es/" target="_blank" rel="noopener"
+>Utterances&lt;/a> to allow commenting&lt;/del> (Currently disabled)&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.openstreetmap.org/" target="_blank" rel="noopener"
+>OpenStreetMap&lt;/a> and &lt;a class="link" href="https://leafletjs.com" target="_blank" rel="noopener"
+>Leaflet&lt;/a> for the Map of Walks, together with custom Perl to generate the Popups at build time&lt;/li>
+&lt;/ul>
+&lt;p>And also&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://pages.cloudflare.com/" target="_blank" rel="noopener"
+>Cloudflare Pages&lt;/a> for site hosting&lt;/li>
+&lt;/ul>
+&lt;p>The Source code to this Website is mirrored to Github&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/digdilem/dartmoorwalking.org" target="_blank" rel="noopener"
+>Github - Dartmoorwalking.org&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- ============================================================ -->
+&lt;h2 id="cookie-policy">Cookie Policy
+&lt;/h2>&lt;ul>
+&lt;li>This website does not track your online activity nor use cookies for advertising or commercial purposes.&lt;/li>
+&lt;li>We do not collect, store, sell, trade or pass your information to others in any way.&lt;/li>
+&lt;/ul>
+&lt;h3 id="what-are-cookies">What are cookies?
+&lt;/h3>&lt;p>Cookies are small text files that are placed on your computer by websites that you visit. They are widely used to make websites work more efficiently, as well as to provide information to the website owners.&lt;/p>
+&lt;h3 id="how-we-use-cookies">How we use cookies
+&lt;/h3>&lt;p>We use cookies to:&lt;/p>
+&lt;ul>
+&lt;li>Anonymous user site preferences stored in your browser. (Eg, to remember if you want the site in Light or Dark mode)&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.cloudflare.com/en-gb/web-analytics/" target="_blank" rel="noopener"
+>Cloudflare Web Analytics&lt;/a> runs to measure website performance. It does not track individuals.&lt;/li>
+&lt;/ul>
+&lt;p>No cookies used on this website require opt-in to satisfy GDPR requirements so a user prompt is not required.&lt;/p>
+&lt;h3 id="how-to-manage-cookies">How to manage cookies
+&lt;/h3>&lt;p>You can control and/or delete cookies from your browser as you wish. Please see your browser&amp;rsquo;s documentation.&lt;/p></description></item><item><title>The Walks</title><link>https://dartmoorwalking.org/walks/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://dartmoorwalking.org/walks/</guid><description/></item><item><title>Search</title><link>https://dartmoorwalking.org/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dartmoorwalking.org/search/</guid><description>&lt;p>Text edited in /layouts/page/search.html&lt;/p></description></item></channel></rss>
