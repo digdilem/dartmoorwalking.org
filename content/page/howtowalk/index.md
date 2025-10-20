@@ -12,7 +12,7 @@ tags:
   - how
 menu:
     main: 
-        weight: 250        
+        weight: 500
         params:
             icon: trekking
 hidetags: true

@@ -27,13 +27,9 @@ links:
     website: https://dartmoorletterboxing.digdilem.org/
     image: dartmoorletterboxing.jpg
 
-
-      
-
-
 menu:
     main: 
-        weight: 400
+        weight: 700
         params:
             icon: link
 

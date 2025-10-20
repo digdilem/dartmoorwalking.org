@@ -13,7 +13,7 @@ tags:
   - about
 menu:
     main: 
-        weight: 300        
+        weight: 600
         params:
             icon: user
 hidetags: true

@@ -11,7 +11,7 @@ tags:
   - maps
 menu:
     main: 
-        weight: 260        
+        weight: 300
         params:
             icon: download
 hidetags: true

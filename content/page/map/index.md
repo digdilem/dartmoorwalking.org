@@ -16,7 +16,7 @@ keywords:
   - map of dartmoor walks
 menu:
     main: 
-        weight: 250        
+        weight: 200
         params:
             icon: map
 hidetags: true

@@ -5,7 +5,7 @@ layout: "archives"
 slug: "walks"
 menu:
     main:
-        weight: -100        
+        weight: 100        
         params: 
             icon: walk
 ---
