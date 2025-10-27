@@ -6,7 +6,7 @@ distance: 3
 coords: 50.61364,-3.87413
 grade: Medium 
 w3w: treaty.kingpin.budding
-gpx: 
+gpx: hurston-stone-row
 
 image: 26.jpg
 tags: 
