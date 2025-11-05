@@ -56,7 +56,7 @@ date: '2024-12-29T14:18:32Z'
 
 This is one of my favourite walks and is never busy, despite being so close to Haytor Rock. Most people seem to overlook Haytor Down in their eagerness to get into other parts of the moor but there is much to appreciate here, from stunning views over Teignmouth's coastline, to an abandoned quarry, the stover granite tramway and a lovely stretch of ancient woodland.
 
-This walk can be done in either direction, but anti-clockwise is advised, as you can then appreciate the views full as you walk down the Granite Tramway.
+This walk can be done in either direction, but anti-clockwise is advised, as you can then appreciate the views fully as you face them, walking down the Granite Tramway.
 
 ## Geocaching
 

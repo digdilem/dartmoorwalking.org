@@ -11,24 +11,14 @@ set "HUGOPROJECT_DIR=C:\code\dartmoorwalking"
 if "%~1"=="" (
     echo.
     echo Error: Missing section argument.
-    echo Usage: %~nx0 ^<section_name^> ^<content_name^>
-    echo Example: %~nx0 posts my-new-post
-    echo.
-    goto :eof
-)
-
-:: Check if the second argument (content name) is provided
-if "%~2"=="" (
-    echo.
-    echo Error: Missing content name argument.
-    echo Usage: %~nx0 ^<section_name^> ^<content_name^>
-    echo Example: %~nx0 posts my-new-post
+    echo Usage: %~nx0 date-post
+    echo Example: %~nx0 yyyy-mm-dd
     echo.
     goto :eof
 )
 
 :: Assign arguments to more descriptive variables, removing any surrounding quotes
-set "SECTION=%~1"
+set "SECTION=post"
 set "CONTENT_NAME=%~2"
 
 :: --- Directory Navigation ---
