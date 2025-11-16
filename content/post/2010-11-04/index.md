@@ -51,7 +51,7 @@ This is a nice walk that follows the River Dart uphill to the picturesque Deeper
 
 After your walk, there is often an Ice Cream Van at the Newbridge Car Park, and [The Tavistock Inn](https://www.facebook.com/TavistockInn/) a mile up the road at Poundsgate serves good food.
 
-# Newbridge
+## Newbridge
 
 ![New Bridge](1.jpg)
 
@@ -72,7 +72,7 @@ The bridge is mentioned in the book "Orphan Dinah" by Eden Phillpotts, Dinah lea
 
 *Follow the path from the car park down to the river and turn left, passing underneath the bridge*
 
-# River Dart
+## River Dart
 
 ![A fast flowing section of the river, going over submerged rocks](7.jpg)
 
@@ -84,7 +84,7 @@ Newbridge  is one of the British Canoe Union's official access points to the Dar
 
 ![Marker for the Two Moors Way linking Ivybridge to the South and the North Coast of Exmoor](6.jpg)
 
-# Deeper Marsh / Spitchwick
+## Deeper Marsh / Spitchwick
 
 *The footpath opens out into the much loved area known as Deeper Marsh. This used to get extremely busy during summer months, but sadly damage caused by visitors led the landowner to close the car parks in 2017 and they remain closed*
 
@@ -104,7 +104,7 @@ Newbridge  is one of the British Canoe Union's official access points to the Dar
 
 ![At the bend in the river, a popular place for wild swimming](18.jpg)
 
-# Pound
+## Pound
 
 ![Approaching the Iron Age Pound](15.jpg)
 
@@ -118,7 +118,7 @@ The exact origin of this site is disputed. It's been described as a Neolithic He
 
 *Once you've finished exploring Spitchwick, cross the road to the north and follow the signed footpath up the hill alongside the wall*
 
-# Leigh Tor
+## Leigh Tor
 
 ![Climbing the slope at the back of Leigh Tor, looking towards Buckland Beacon on the horizon](20.jpg)
 
@@ -138,7 +138,7 @@ Note the 200 Mhz aerial, likely for telemetry information, but information about
 
 *Continue walking up the footpath along the hedge until you come to a small car park. Cross the road here and when you reach the second road, turn left and follow it*
 
-# Aish Tor
+## Aish Tor
 
 A short way along the road, you'll spot a granite seat above it. A worthy spot for a rest with a very nice view.
 
@@ -152,7 +152,7 @@ A short way along the road, you'll spot a granite seat above it. A worthy spot f
 
 ![Autumn colours](26.jpg)
 
-# Hannaford Manor
+## Hannaford Manor
 
 The farmland area to our left as we descend the hill is Hannaford, containing three properties of which the most noteworthy is Hannaford Manor
 
@@ -171,7 +171,7 @@ There is also Higher and Lower Hannaford Farms. Fine examples of local Dartmoor 
 
 *Follow the path downhill close to the hedge on your left until you reach...*
 
-# Deadman's Corner
+## Deadman's Corner
 
 *Sorry, but the reasons for this naming seem to be lost to time*
 
@@ -179,7 +179,7 @@ There is also Higher and Lower Hannaford Farms. Fine examples of local Dartmoor 
 
 ![A pleasant and easy bit of walking leads back to the car park](31.jpg)
 
-# Hannaford Lily Pond
+## Hannaford Lily Pond
 
 ![Hannaford Lily Pond](32.jpg)
 

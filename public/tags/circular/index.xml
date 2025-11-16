@@ -29,8 +29,8 @@ data-flex-basis="320px"
 &lt;/h2>&lt;p>This is a nice walk that follows the River Dart uphill to the picturesque Deeper Marsh, which is much nicer than its name suggests - perhaps why so many prefer to call it Spitchwick. After inspecting the ancient pound, we climb uphill to Leigh Tor and take in some lovely views of the valley before descending through the quiet moorland below Aish tor back down behind Hannaford Farms to the river and walk past a Victorian Lily Pond. There&amp;rsquo;s a lot of variety in three short miles!&lt;/p>
 &lt;p>After your walk, there is often an Ice Cream Van at the Newbridge Car Park, and &lt;a class="link" href="https://www.facebook.com/TavistockInn/" target="_blank" rel="noopener"
 >The Tavistock Inn&lt;/a> a mile up the road at Poundsgate serves good food.&lt;/p>
-&lt;h1 id="newbridge">Newbridge
-&lt;/h1>&lt;p>&lt;img src="https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/1.jpg"
+&lt;h2 id="newbridge">Newbridge
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/1.jpg"
 width="1000"
 height="750"
 srcset="https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/1_hu_7206792e673f3555.jpg 480w, https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/1_hu_51c97aa1b27f0788.jpg 1024w"
@@ -80,8 +80,8 @@ data-flex-grow="133"
 data-flex-basis="319px"
 >&lt;/p>
 &lt;p>&lt;em>Follow the path from the car park down to the river and turn left, passing underneath the bridge&lt;/em>&lt;/p>
-&lt;h1 id="river-dart">River Dart
-&lt;/h1>&lt;p>&lt;img src="https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/7.jpg"
+&lt;h2 id="river-dart">River Dart
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/7.jpg"
 width="1000"
 height="750"
 srcset="https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/7_hu_b42f1feefee6b46b.jpg 480w, https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/7_hu_55fe3539c91e4028.jpg 1024w"
@@ -122,8 +122,8 @@ class="gallery-image"
 data-flex-grow="133"
 data-flex-basis="320px"
 >&lt;/p>
-&lt;h1 id="deeper-marsh--spitchwick">Deeper Marsh / Spitchwick
-&lt;/h1>&lt;p>&lt;em>The footpath opens out into the much loved area known as Deeper Marsh. This used to get extremely busy during summer months, but sadly damage caused by visitors led the landowner to close the car parks in 2017 and they remain closed&lt;/em>&lt;/p>
+&lt;h2 id="deeper-marsh--spitchwick">Deeper Marsh / Spitchwick
+&lt;/h2>&lt;p>&lt;em>The footpath opens out into the much loved area known as Deeper Marsh. This used to get extremely busy during summer months, but sadly damage caused by visitors led the landowner to close the car parks in 2017 and they remain closed&lt;/em>&lt;/p>
 &lt;p>&lt;img src="https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/9.jpg"
 width="1000"
 height="750"
@@ -195,8 +195,8 @@ class="gallery-image"
 data-flex-grow="133"
 data-flex-basis="320px"
 >&lt;/p>
-&lt;h1 id="pound">Pound
-&lt;/h1>&lt;p>&lt;img src="https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/15.jpg"
+&lt;h2 id="pound">Pound
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/15.jpg"
 width="1000"
 height="750"
 srcset="https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/15_hu_e29d4eb324c6b17e.jpg 480w, https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/15_hu_4512e66735bdebff.jpg 1024w"
@@ -238,8 +238,8 @@ data-flex-grow="133"
 data-flex-basis="320px"
 >&lt;/p>
 &lt;p>&lt;em>Once you&amp;rsquo;ve finished exploring Spitchwick, cross the road to the north and follow the signed footpath up the hill alongside the wall&lt;/em>&lt;/p>
-&lt;h1 id="leigh-tor">Leigh Tor
-&lt;/h1>&lt;p>&lt;img src="https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/20.jpg"
+&lt;h2 id="leigh-tor">Leigh Tor
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/20.jpg"
 width="999"
 height="750"
 srcset="https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/20_hu_7a81a0615265243f.jpg 480w, https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/20_hu_ac4ff5e1675500f7.jpg 1024w"
@@ -302,8 +302,8 @@ data-flex-basis="320px"
 >&lt;/p>
 &lt;p>Note the 200 Mhz aerial, likely for telemetry information, but information about this station is scarce, including where it pumps to and from.&lt;/p>
 &lt;p>&lt;em>Continue walking up the footpath along the hedge until you come to a small car park. Cross the road here and when you reach the second road, turn left and follow it&lt;/em>&lt;/p>
-&lt;h1 id="aish-tor">Aish Tor
-&lt;/h1>&lt;p>A short way along the road, you&amp;rsquo;ll spot a granite seat above it. A worthy spot for a rest with a very nice view.&lt;/p>
+&lt;h2 id="aish-tor">Aish Tor
+&lt;/h2>&lt;p>A short way along the road, you&amp;rsquo;ll spot a granite seat above it. A worthy spot for a rest with a very nice view.&lt;/p>
 &lt;p>&lt;img src="https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/27.jpg"
 width="1000"
 height="750"
@@ -345,8 +345,8 @@ class="gallery-image"
 data-flex-grow="133"
 data-flex-basis="320px"
 >&lt;/p>
-&lt;h1 id="hannaford-manor">Hannaford Manor
-&lt;/h1>&lt;p>The farmland area to our left as we descend the hill is Hannaford, containing three properties of which the most noteworthy is Hannaford Manor&lt;/p>
+&lt;h2 id="hannaford-manor">Hannaford Manor
+&lt;/h2>&lt;p>The farmland area to our left as we descend the hill is Hannaford, containing three properties of which the most noteworthy is Hannaford Manor&lt;/p>
 &lt;p>This is the furthest from us and is a Grade II listed Arts and Crafts manor house. It was built between 1904 and 1911 by A. Wickham Jarvis with the gardens designed by Gertrude Jekyll and are said to be very fine.&lt;/p>
 &lt;p>It was sold for £1.5m recently&lt;/p>
 &lt;ul>
@@ -363,8 +363,8 @@ data-flex-basis="320px"
 &lt;/ul>
 &lt;p>There is also Higher and Lower Hannaford Farms. Fine examples of local Dartmoor farms.&lt;/p>
 &lt;p>&lt;em>Follow the path downhill close to the hedge on your left until you reach&amp;hellip;&lt;/em>&lt;/p>
-&lt;h1 id="deadmans-corner">Deadman&amp;rsquo;s Corner
-&lt;/h1>&lt;p>&lt;em>Sorry, but the reasons for this naming seem to be lost to time&lt;/em>&lt;/p>
+&lt;h2 id="deadmans-corner">Deadman&amp;rsquo;s Corner
+&lt;/h2>&lt;p>&lt;em>Sorry, but the reasons for this naming seem to be lost to time&lt;/em>&lt;/p>
 &lt;p>&lt;img src="https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/30.jpg"
 width="1000"
 height="750"
@@ -385,8 +385,8 @@ class="gallery-image"
 data-flex-grow="133"
 data-flex-basis="320px"
 >&lt;/p>
-&lt;h1 id="hannaford-lily-pond">Hannaford Lily Pond
-&lt;/h1>&lt;p>&lt;img src="https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/32.jpg"
+&lt;h2 id="hannaford-lily-pond">Hannaford Lily Pond
+&lt;/h2>&lt;p>&lt;img src="https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/32.jpg"
 width="1000"
 height="750"
 srcset="https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/32_hu_a04ce888480b85e.jpg 480w, https://dartmoorwalking.org/p/newbridge-and-deeper-marsh/32_hu_457ac79fbdcf79d2.jpg 1024w"
