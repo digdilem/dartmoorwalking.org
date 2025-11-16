@@ -2,6 +2,11 @@
 title: Links
 links:
 
+  - title: Dartmoor Weather Camera
+    description: Dartcom's long lived and very useful camera of conditions on Dartmoor, sited at the Powdermills near to Postbridge. Dartcom also provide independant weather data.
+    website: https://www.dartcom.co.uk/webcam
+    image: dartcom.jpg
+
   - title: DartmoorCam
     description: Keith Ryan's original walking website, from which much content of this site was taken.
     website: https://www.dartmoorcam.co.uk/
