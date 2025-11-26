@@ -163,6 +163,7 @@ catch {
 git add .
 git commit -am "Updating to reflect development"
 git push -f origin master
+git push gitea master
 
 npx wrangler pages deploy c:\code\dartmoorwalking\public --project-name=dartmoorwalking  --commit-dirty=true 
 
