@@ -15,14 +15,14 @@ links:
   - title: Digital Dilemma
     description: Simon Avery's personal site and blog.
     website: https://digdilem.org/
-    image: digdilem.jpg        
+    image: digdilem.jpg
 
   - title: The Cornish Pasty and Pastypaedia
     description: Keith Ryan's Cornish Pasty page. Probably the world's biggest archive of the Cornish and other Pasties.
     website: https://cornishpasties.org.uk/
     image: cornishpasties.jpg
 
-  - title: Dartmoor Tick Watch 
+  - title: Dartmoor Tick Watch
     description: Keith Ryan's study into Ticks on Dartmoor up until 2009
     website: https://dartmoorticks.digdilem.org/
     image: dartmoorticks.jpg
@@ -32,8 +32,13 @@ links:
     website: https://dartmoorletterboxing.digdilem.org/
     image: dartmoorletterboxing.jpg
 
+  - title: Source code for dartmoorwalking.org
+    description: The code for this website is available for free.
+    website: https://github.com/digdilem/dartmoorwalking.org
+    image: github-logo.png
+
 menu:
-    main: 
+    main:
         weight: 700
         params:
             icon: link
