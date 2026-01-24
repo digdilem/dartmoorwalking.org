@@ -55,7 +55,7 @@ permalinks:
 
 params:
     ShowDatesOnPosts: true
-    
+
     mainSections:
         - post
     featuredImageField: image
@@ -66,11 +66,11 @@ params:
     footer:
         since: 2022
         customText: Please contact <a href="mailto:feedback@dartmoorwalking.org">feedback@dartmoorwalking.org</a> for any corrections, suggestions or feedback. Thank you.<br /><a href="/about/#cookie-policy">Cookie Policy</a> &nbsp;&nbsp; <a rel="alternate" type="application/rss+xml" title="RSS Feed" href="/index.xml">RSS Feed </a>
-        
+
 
     dateFormat:
         published: Jan 02, 2006
-        lastUpdated: Jan 02, 2006 15:04 
+        lastUpdated: Jan 02, 2006 15:04
 
     sidebar:
 #        emoji: 🍥
@@ -86,7 +86,7 @@ params:
         readingTime: true
         license:
             enabled: false
-            default: Simon Avery 
+            default: Simon Avery
 
     # Disabled 20250111 - not used so far. Maybe premature, but feedback link may be easier
     # comments:
@@ -140,7 +140,7 @@ params:
             enabled: true
         content:
             enabled: true
-           
+
 
 ### Custom menu
 ### See https://stack.jimmycai.com/config/menu
@@ -171,7 +171,7 @@ related:
 
         - name: categories
           weight: 200
-       
+
 
 markup:
     goldmark:
