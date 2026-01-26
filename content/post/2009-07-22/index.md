@@ -9,15 +9,15 @@ w3w: flow.rectangular.facelift
 gpx: hexworthy-to-swincombe
 
 image: 12.jpg
-tags: 
-  - circular 
-  - 3 mile walk  
+tags:
+  - circular
+  - 3 mile walk
   - gentle
   - ruins
   - bridge
   - mining
   - tin
-keywords: 
+keywords:
   - dartmoor
   - walk
   - walking
@@ -36,7 +36,7 @@ keywords:
   - ruins
   - bridge
   - mining
-  - tin  
+  - tin
 comments: true
 draft: false
 author: Keith Ryan and Simon Avery
@@ -51,13 +51,13 @@ date: '2025-01-01T10:30:07Z'
 
 ## Introduction
 
-This is a pleasant walk up a historic valley with plenty to see along the way. I've included a possible detour if you wanted to extend the walk to include Swincombe Intake. 
+This is a pleasant walk up a historic valley with plenty to see along the way. I've included a possible detour if you wanted to extend the walk to include Swincombe Intake.
 
-Much of this land is owned by Anton Coaker who lives at Sherberton Farm who farms the distinctive red Galloway cattle and Dartmoor ponies on this land.  
+Much of this land is owned by Anton Coaker who lives at Sherberton Farm who farms the distinctive red Galloway cattle and Dartmoor ponies on this land.
 
 > The Coaker's dedication to breeding good quality Dartmoor Ponies is well known and is several generations long. I recall visiting his mother, Diane Coaker, at Sherberton farm to view some of her ponies with my own mother in the 1980s.  <cite>-- Simon</cite>
 
-Anton himself is very well known as the author of several books, newspaper articles and is a very knowledgeable and erudite writer on Moorland and Hill Farming matters. 
+Anton himself is very well known as the author of several books, newspaper articles and is a very knowledgeable and erudite writer on Moorland and Hill Farming matters.
 
 * [Anton Coaker's "Our Farm" website](https://www.anton-coaker.co.uk/our-farm)
 
@@ -65,7 +65,7 @@ Anton himself is very well known as the author of several books, newspaper artic
 
 ![An example of John Bishop's semi-dressed dry stone walling](1.jpg)
 
-Dartmoor has had many fine dry stone wall builders, but perhaps the most famous of all was John Bishop (1821-1892). He was one of the first to use the shaped and squared building method in his walls. He tightly fitted large blocks of granite in such a way that very little daylight could be seen through the wall. He helped enclose many of the newtakes on Dartmoor and would have been in strong demand. 
+Dartmoor has had many fine dry stone wall builders, but perhaps the most famous of all was John Bishop (1821-1892). He was one of the first to use the shaped and squared building method in his walls. He tightly fitted large blocks of granite in such a way that very little daylight could be seen through the wall. He helped enclose many of the newtakes on Dartmoor and would have been in strong demand.
 
 When asked how he lifted such heavy stones, John Bishop is alleged to have replied, “Aw, ‘tis surprisin’ what ee can do with a laiver or two.”
 
@@ -81,7 +81,7 @@ Many of the walls in this area were built or repaired by Mr Bishop who lived clo
 
 ![Two fireplace uprights](4.jpg)
 
-Dolly Trebble was a particularly attractive girl who caught the eye of many men of Dartmoor in the 18th Century. Despite being married to William Trebble, she was courted by Sir Thomas Tyrwhitt (1762-1833) - an important man who shaped much of Princetown and Dartmoor, and no less than George IV, the Prince Regent who visited here several times. 
+Dolly Trebble was a particularly attractive girl who caught the eye of many men of Dartmoor in the 18th Century. Despite being married to William Trebble, she was courted by Sir Thomas Tyrwhitt (1762-1833) - an important man who shaped much of Princetown and Dartmoor, and no less than George IV, the Prince Regent who visited here several times.
 
 She was written about by Sabine Baring Gould and Dolly was clearly a woman of some fame.  Tim Sandles has an entertaining version of Dolly's story on his Legendary Dartmoor site if you'd like to learn more.
 
@@ -91,9 +91,9 @@ She was written about by Sabine Baring Gould and Dolly was clearly a woman of so
 
 ## Detour to Swincombe Intake
 
-Possible detour (An extra mile and a half) 
+Possible detour (An extra mile and a half)
 
-If you continue walking along this road to the west, after around 1.2km you'll come to the Swincombe Intake. This is a small reservoir and unusual art-deco building that collects water which is piped to Venford Reservoir to help fill it. 
+If you continue walking along this road to the west, after around 1.2km you'll come to the Swincombe Intake. This is a small reservoir and unusual art-deco building that collects water which is piped to Venford Reservoir to help fill it.
 
 ![Swincombe Intake](5.jpg)
 
@@ -103,9 +103,9 @@ The Swincombe Intake Reservoir was built between 1929 and 1933 by Paignton Urban
 
 *If you took this detour, head back to the same point at the Fairy bridge when you are ready to return*
 
-## The flooding of Swincombe Valley 
+## The flooding of Swincombe Valley
 
-This valley starts up at Peat Cott with the infamous Foxtor Mire at its head, which acts as a huge sponge providing a steady flow throughout even the driest of summers. 
+This valley starts up at Peat Cott with the infamous Foxtor Mire at its head, which acts as a huge sponge providing a steady flow throughout even the driest of summers.
 
 It was that which prompted a plan in the 1960s to flood this entire valley to provide another reservoir on Dartmoor, far larger than the modest intake that has stood there for a hundred years.
 
@@ -121,7 +121,7 @@ There has been a bridge at this location for hundreds of years, and noted by Wil
 
 It earned its nickname as a small porcelain fairy was mounted to one of the supports by persons unknown. Unfortunately it was damaged and replaced at least once.
 
-![The original fairy](9.jpg)
+![The original fairy - photo by Liz Miall](9.jpg)
 
 ![What was left in 2009](8.jpg)
 
@@ -161,7 +161,7 @@ You can just make out the A for Ashburton in this picture, with a slightly faint
 
 ![Mother and Foal Dartmoor Ponies - part of Anton Coaker's Sherberton herd](21.jpg)
 
-## Gobbett Mine 
+## Gobbett Mine
 
 Left and right of the path just before we leave this road, is the site of Gobbett Tin Mine. There are remnants of this work still visible, as well as the very obvious tunnel.
 
@@ -175,7 +175,7 @@ The mine ran from 1836 to 1874 but did not produce large yields.
 
 ![Top stone for the mill](23.jpg)
 
-Ore from the adit would be smashed down small enough to fit into the top hole of this stone which sat above the base stone. The top stone was then rotated, possibly by pony or donkey or water power, to grind the ore just as grain is turned into wheat. The resulting fine sand was then smelted to form ingots. 
+Ore from the adit would be smashed down small enough to fit into the top hole of this stone which sat above the base stone. The top stone was then rotated, possibly by pony or donkey or water power, to grind the ore just as grain is turned into wheat. The resulting fine sand was then smelted to form ingots.
 
 ![A 200lb mould stone](26.jpg)
 
@@ -190,8 +190,8 @@ Once smelted and the impurities floated off, the near-pure tin was poured into a
 
 ## Tunnel
 
-* Above the main Gobbett Mine workings was the main adit which followed the mineral seam. 
-* When the Swincombe Intake was built in the 1920s, the builders needed to run a pipe from there to the Venford Reservoir some 6 kilometers away. They opted to reuse and extend this adit to run that pipe through. 
+* Above the main Gobbett Mine workings was the main adit which followed the mineral seam.
+* When the Swincombe Intake was built in the 1920s, the builders needed to run a pipe from there to the Venford Reservoir some 6 kilometers away. They opted to reuse and extend this adit to run that pipe through.
 * The tunnel continues through the hill in a straight line for 540 meters, emerging in a field 150m North West of The Forest Inn.
 
 ![Approach to the Tunnel portal above the road](28.jpg)
@@ -202,7 +202,7 @@ Once smelted and the impurities floated off, the near-pure tin was poured into a
 
 *When you are ready, join the larger access road to the East and follow it 400m upwards to the Parking.
 
-## Parking 
+## Parking
 
 There is good roadside parking available at the posted coordinates, just outside the entrance to Sherberton's land.
 

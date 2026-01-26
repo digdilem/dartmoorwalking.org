@@ -1,6 +1,6 @@
 ---
-title: About 
-description: 
+title: About
+description:
 date: '2024-11-16'
 aliases:
   - about-us
@@ -12,7 +12,7 @@ disableComments: true
 tags:
   - about
 menu:
-    main: 
+    main:
         weight: 600
         params:
             icon: user
@@ -36,7 +36,7 @@ Many of the photographs, routes and research for this site were originally taken
 
 *Creator of [Dartmoorcam](https://dartmoorcam.co.uk)*
 
-Keith was born in Cornwall and spent his working life as a Marine Biologist based at Plymouth Hoe. He loved Dartmoor and started walking it in 1969, starting his website in 2004 to document his walks with photos and informed narrative. Keith led many group walks over the moor - notably with the [Dartmoor Trust](https://dartmoortrust.org/archive), meticulously researching both geographical and human history along the way. He recorded well over 600 walks on [Dartmoorcam](https://dartmoorcam.co.uk), all with many photographs, footnotes and information.  As well as his website of Dartmoor walks, Keith has also written several other sites which have been preserved. Please see the [links](/links) section.
+Keith was born in Cornwall and spent his working life as a Marine Biologist based at Plymouth Hoe. He loved Dartmoor and started walking it in 1969, starting the DartmoorCam website in 2004 to document his walks with photos and informed narrative. Keith led many group walks over the moor - notably with the [Dartmoor Trust](https://dartmoortrust.org/archive), meticulously researching both geographical and human history along the way. He recorded well over 600 walks on [Dartmoorcam](https://dartmoorcam.co.uk), all with many photographs, footnotes and information.  As well as his website of Dartmoor walks, Keith has also written several other sites which have been preserved. Please see the [links](/links) section.
 
 Keith passed away at St Luke's Hospice in May, 2023.
 
@@ -44,7 +44,7 @@ Keith passed away at St Luke's Hospice in May, 2023.
 
 *Creator and maintainer of this website and co-author or author of the walks therein*
 
-Simon lives on Dartmoor and has worked on and with many people associated with it since the 1980s. As countless others do, he loves Dartmoor, its nature and rich history. Simon worked for two years in the late 1980s as part of Dartmoor National Park Authority's Works Department out of Station Yard, Bovey Tracey. In 2018, he also served on the Community Stakeholder's group for the Moor than Meets the Eye project, using National Lottery money to improve Dartmoor. Additionally, he spent over twenty years working for the Mare & Foal Sanctuary, working with Dartmoor Hill Ponies, Habitats, Organisations and Owners. 
+Simon lives on Dartmoor and has worked on and with many people associated with it since the 1980s. As countless others do, he loves Dartmoor, its nature and rich history. Simon worked for two years in the late 1980s as part of Dartmoor National Park Authority's Works Department out of Station Yard, Bovey Tracey. In 2018, he also served on the Community Stakeholder's group for the Moor than Meets the Eye project, using National Lottery money to improve Dartmoor. Additionally, he spent over twenty years working for the Mare & Foal Sanctuary, working with Dartmoor Hill Ponies, Habitats, Organisations and Owners.
 
 ##  Website Roadmap
 [DartmoorCam](https://dartmoorcam.co.uk) is a wonderful website with a huge wealth of data and Keith was rightly proud of it. Unfortunately, that size has made it somewhat difficult to navigate and use and feedback suggests it can be overwhelming.  The site consists of over 6,000 html files and more than 50,000 image files, and with some parts of the code dating back to 2002, it has also proved difficult to manage.
@@ -61,7 +61,7 @@ It is hoped that Keith would have approved.
 People give a huge amount of their time and knowledge to create websites for the benefit of other people. As custodian of Keith's websites as well as others, I would like to make not just these websites free use, but also provide the source code to them in somewhere permanent and known so that if I am no longer able to maintain and pay for them, they will continue to exist in some form. So many useful websites have already been lost in the short time the internet has been in use, that permanent archiving is very much something I would like to provide. This is a key reason that the code for this website is published on [Github](https://github.com/digdilem/dartmoorwalking.org) and should remain available forever.
 
 ## Copyright and Media Enquiries
-Before his death, Keith transferred all Copyrights and ownership to text and images used on these Websites to Simon Avery. It is on that assertion that this website has been created from Keith's original content. 
+Before his death, Keith transferred all Copyrights and ownership to text and images used on these Websites to Simon Avery. It is on that assertion that this website has been created from Keith's original content.
 
 Any enquiries, or requests to re-use words or images used on this or the following sites should be made to [Simon Avery](mailto:feedback@dartmoorwalking.org)
 
@@ -92,14 +92,14 @@ The Source code to this Website is mirrored to Github
 
 ### What are cookies?
 
-Cookies are small text files that are placed on your computer by websites that you visit. They are widely used to make websites work more efficiently, as well as to provide information to the website owners.  
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used to make websites work more efficiently, as well as to provide information to the website owners.
 
 ### How we use cookies
 
-We use cookies to:  
+We use cookies to:
 
 * Anonymous user site preferences stored in your browser. (Eg, to remember if you want the site in Light or Dark mode)
-* [Cloudflare Web Analytics](https://www.cloudflare.com/en-gb/web-analytics/) runs to measure website performance. It does not track individuals. 
+* [Cloudflare Web Analytics](https://www.cloudflare.com/en-gb/web-analytics/) runs to measure website performance. It does not track individuals.
 
 No cookies used on this website require opt-in to satisfy GDPR requirements so a user prompt is not required.
 
