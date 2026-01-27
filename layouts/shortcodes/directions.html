@@ -2,7 +2,7 @@
 
 <ul>
 <li>Distance: <b>
-{{ .Page.Params.distance }} miles</b>, created by {{ .Page.Params.author }} {{ if .Page.Params.recorder }} and recorded by {{ .Page.Params.recorder }}. {{ end }} &nbsp; Edited by <a href="mailto:digdilem@gmail.com">Simon Avery</a></li>
+{{ .Page.Params.distance }} miles</b>. Edited by <a href="mailto:digdilem@gmail.com">Simon Avery</a></li>
 <li> Grade: <b><a href="/tags/{{ .Page.Params.grade | strings.ToLower }}/">{{ .Page.Params.grade }}</a></b></li>
 
 {{ if isset .Page.Params "gpx" }}
