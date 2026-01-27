@@ -9,9 +9,9 @@ w3w: good.highlighted.supple
 gpx: prewley-moor-and-the-iceworks
 
 image: 13.jpg
-tags: 
-  - circular 
-  - 3 mile walk  
+tags:
+  - circular
+  - 3 mile walk
   - medium
   - industry
   - iceworks
@@ -19,8 +19,8 @@ tags:
   - reave
   - granite
   - ww2
-  - d-day preparations  
-keywords: 
+  - d-day preparations
+keywords:
   - dartmoor
   - ww2
   - d-day preparations
@@ -44,7 +44,8 @@ keywords:
   - england
 comments: true
 draft: false
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2009-03-25'
 date: '2024-12-27T15:58:53Z'
@@ -68,7 +69,7 @@ Dartmoor reaves are ancient long, straight lines of stone or earth that were bui
 
 The exact purpose of the reaves remains somewhat debated, but they are believed to have served a variety of functions, such as Boundary Markers, Agricultural features to contain livestock or for ceremonial or ritual practices.
 
-Dartmoor has the most extensive and well preserved systems of prehistoric field boundaries in Europe. 
+Dartmoor has the most extensive and well preserved systems of prehistoric field boundaries in Europe.
 
 * [Wikipedia - Reave](https://en.wikipedia.org/wiki/Reave)
 
@@ -78,11 +79,11 @@ Dartmoor has the most extensive and well preserved systems of prehistoric field 
 
 This system of earthworks and ruined buildings hints at one of the attempts to bend Dartmoor to man's will. It can be viewed as a Folly, for it was not successful.
 
-These works date from 1875 when a Mr James Henderson leased the land from the Duchy of Cornwall for a period of 15 years and he was allowed to "form ponds, and collect, and store ice for a term of 21 years running from February 1875 at an annual rent of £10."  He spent several thousand pounds setting up this endeavour. 
+These works date from 1875 when a Mr James Henderson leased the land from the Duchy of Cornwall for a period of 15 years and he was allowed to "form ponds, and collect, and store ice for a term of 21 years running from February 1875 at an annual rent of £10."  He spent several thousand pounds setting up this endeavour.
 
 The ponds were not allowed to be deeper than three feet and must be securely fenced. It was an agreement that upon completion, that the land be returned to its natural state.
 
-The plan was simple enough - to fill ponds with water and wait for winter to freeze them. Then ice would be cut and transported to Plymouth for sale, at up to £3 a ton. 
+The plan was simple enough - to fill ponds with water and wait for winter to freeze them. Then ice would be cut and transported to Plymouth for sale, at up to £3 a ton.
 
 Unfortunately, events worked against Mr Henderson. A series of unusually mild winters meant little or no ice was produced, and then a rival company set up in Plymouth that created ice all year around, and that dropped the price to just £1 a ton, with none of the transport costs associated with hauling it there. Although this spelled the ending for these Iceworks, the Plymouth Rival also went out of business.
 
@@ -158,7 +159,7 @@ American Soldiers trained in this area when preparing for D-Day in 1945. Althoug
 
 *Keep following the gradient below the Western side of Sourton Tors and then head back to the parking*
 
-## Parking 
+## Parking
 
 Turn off at the main A386 Tavistock to Okehampton road, passing between the embankments of the old railway - now the Granite Way. Over a cattle grid and park alongside the single track road.
 
