@@ -9,14 +9,14 @@ w3w: dentures.droplet.alerting
 gpx: belstone-to-the-nine-maidens
 
 image: 1.jpg
-tags: 
-  - circular 
-  - 3 mile walk  
+tags:
+  - circular
+  - 3 mile walk
   - gentle
-  - village  
+  - village
   - stone circle
   - bronze age
-keywords: 
+keywords:
   - dartmoor
   - walk
   - village
@@ -37,7 +37,8 @@ keywords:
   - england
 comments: true
 draft: false
-author: Keith Ryan
+author: Tom Soby
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2010-07-21'
 date: '2024-12-20'
@@ -91,7 +92,7 @@ Commemorating 50 years reign of Queen Elizabeth II who acceded to the throne on 
 
 ![A building with a history](6.jpg)
 
-The sign above the door says "Telegraph Office" and there is a more modern telephone box outside, also an old Post Collection Box in the wall. 
+The sign above the door says "Telegraph Office" and there is a more modern telephone box outside, also an old Post Collection Box in the wall.
 
 ![Zion Chapel 1841](7.jpg)
 
@@ -103,7 +104,7 @@ Before it was a Telegraph Office (1937-1979) this building was a Zion Methodist 
 
 ![Inside the Church](8.jpg)
 
-A church was first built here in 1260. 
+A church was first built here in 1260.
 
 ![The font](9.jpg)
 
@@ -135,7 +136,7 @@ This celtic cross has moved around. Believed carved between the 7th and 9th cent
 
 ![The ruin of Watchet Hill Cottage](16.jpg)
 
-Watchet Hill Cottage, also known as Black Hut or Black House, was built around 1800 and last occupied in the mid 1960s before falling into disrepair. 
+Watchet Hill Cottage, also known as Black Hut or Black House, was built around 1800 and last occupied in the mid 1960s before falling into disrepair.
 
 Notably, the author Eden Philpotts stayed here before making the house of the main locations in his famous novel, The Secret Woman.
 
@@ -149,7 +150,7 @@ Notably, the author Eden Philpotts stayed here before making the house of the ma
 
 ![Nine Maidens](18.jpg)
 
-Here were once nine young ladies who dared to dance on the Sabbath and were so turned to stone. A single stone apart from the others was the piper who played a tune for them, and he was similarly treated. 
+Here were once nine young ladies who dared to dance on the Sabbath and were so turned to stone. A single stone apart from the others was the piper who played a tune for them, and he was similarly treated.
 
 Apparently, if you visit at noon or when the Belstone church bells ring, you can see the stones swaying gently.
 

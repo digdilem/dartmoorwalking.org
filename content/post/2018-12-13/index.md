@@ -7,8 +7,8 @@ gpx: norsworthy-bridge-devonport-leat
 
 author: Simon Avery & Keith Ryan
 image: 1.jpg
-tags: 
-  - circular 
+tags:
+  - circular
   - 3 mile walk
   - medium
   - historic
@@ -21,9 +21,9 @@ tags:
   - leat
   - medium
   - longhouse
-  - cross  
+  - cross
   - rock splitting
-keywords: 
+keywords:
   - dartmoor
   - cist
   - wheelpit
@@ -64,7 +64,7 @@ date: '2024-11-13'
 
 ## Introduction
 
-A short and interesting walk with many historic points of interest. 
+A short and interesting walk with many historic points of interest.
 
 Starting at the Norsworthy Bridge car part, we climb established tracks taking in many points of interest along the way. These include old tinner's stones, several artificial caves, a longhouse, a ruined tin mill, the Devonport leat, wheel pits and an abandoned tare and feathers still wedged in the rock.
 
@@ -122,7 +122,7 @@ This adit is found down the slope below Leathertor Farm. Look down the slope for
 
 ![Fougou internal view](22.jpg)
 
-Note the granite slabs forming the roof, making this a man-made cave (for tools) rather than the more usual potato cave. Potato caves are normally dug into growan ("rotted" granite). In this photograph, there is water in the fougou. The dimensions are 11-feet deep, 3-feet wide, 4-feet high, with the entrance being just 2-feet high (Hemery, High Dartmoor,  p.124).  There is a traditional potato cave just 50 metres away on the track below Leathertor Farm.  
+Note the granite slabs forming the roof, making this a man-made cave (for tools) rather than the more usual potato cave. Potato caves are normally dug into growan ("rotted" granite). In this photograph, there is water in the fougou. The dimensions are 11-feet deep, 3-feet wide, 4-feet high, with the entrance being just 2-feet high (Hemery, High Dartmoor,  p.124).  There is a traditional potato cave just 50 metres away on the track below Leathertor Farm.
 
 [Heritage Gateway Article for this fougou](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV3474&resourceID=104)
 
@@ -130,7 +130,7 @@ Note the granite slabs forming the roof, making this a man-made cave (for tools)
 
 ![Leathertor Farm, at SX 5668 6980](23.jpg)
 
-Leathertor Farm is first recorded in Bailiff's Accounts for the Manor of Dartmoor in 1362, regarding the renting of land at Leddertorre. Later, in 1511, more detailed reports were made. The last tenant was William Lillicrap who abandoned the farm in 1924. Some occupants were also tinners. 
+Leathertor Farm is first recorded in Bailiff's Accounts for the Manor of Dartmoor in 1362, regarding the renting of land at Leddertorre. Later, in 1511, more detailed reports were made. The last tenant was William Lillicrap who abandoned the farm in 1924. Some occupants were also tinners.
 
 Source: Paul Rendell (2007) Exploring Around Burrator, The Dartmoor Company, Okehampton, pages 20 and 55. The more modern buildings, above the track to the leat, were once West Leathertor
 
@@ -156,9 +156,9 @@ This gauge dates from before 1892 and is shown on the [OS 1892-1914](https://map
 
 ![A feature located around the back of the ruined farm buildings, or accessed by going up the track past the ruins and cutting back, up to the left](30.jpg)
 
-One authority has described this feature as "two granite plinths which may once have been the supports for a cider press": Source: Mike Brown (2001) Guide to Dartmoor, Grid Square 5667 6982.  
+One authority has described this feature as "two granite plinths which may once have been the supports for a cider press": Source: Mike Brown (2001) Guide to Dartmoor, Grid Square 5667 6982.
 
-I am inclined to disagree and suggest this is the base for a large, mounted sharpening stone, the bottom of which could run through water in the trough, making it a wet stone (not to be confused with whet, an old word that means to "sharpen").  
+I am inclined to disagree and suggest this is the base for a large, mounted sharpening stone, the bottom of which could run through water in the trough, making it a wet stone (not to be confused with whet, an old word that means to "sharpen").
 
 I have provided the horse-power for a similar stone - but with an iron strap frame and without the trough, when my father wanted to sharpen his axe - around 1956-1964!
 
@@ -184,11 +184,11 @@ I have provided the horse-power for a similar stone - but with an iron strap fra
 
 ![Leathertor Bridge, at SX 5688 6996](37.jpg)
 
-Walkhampton Parish Council decided on 20th June 1833 to build a bridge over Riddipit Stream (nowadays, the River Meavy) at this spot (this is the site of the Riddipit Steps stepping stones crossing place). 
+Walkhampton Parish Council decided on 20th June 1833 to build a bridge over Riddipit Stream (nowadays, the River Meavy) at this spot (this is the site of the Riddipit Steps stepping stones crossing place).
 
-At the next meeting the following month (25th July) it was resolved to accept a tender from George Worth and Wm. Mashford for £26.10s. This is a little more elaborate than most clapper bridges in that it has parapets.  
+At the next meeting the following month (25th July) it was resolved to accept a tender from George Worth and Wm. Mashford for £26.10s. This is a little more elaborate than most clapper bridges in that it has parapets.
 
-- Source: Eric Hemery, High Dartmoor, page 126. Apparently, this was the last clapper bridge to be built on Dartmoor (Johnies Meanderings, 20th August 2012). 
+- Source: Eric Hemery, High Dartmoor, page 126. Apparently, this was the last clapper bridge to be built on Dartmoor (Johnies Meanderings, 20th August 2012).
 
 ![Looking up-stream](38.jpg)
 
@@ -213,7 +213,7 @@ Riddipit Stream rises above the site and crosses the track in a granite conduit.
 
 Crossing's Guide, p.100:  Riddy Pit, there are stones with hollows in them (i.e. mortar stones), now in the paving of the track, a little beyond this view up the track. Close by, is an old wall, in the nearby hedge is a stone with a cavity on each side. Another curious stone with a round top and a piece of iron leaded into it is probably the upper stone of a crushing mill: this was never found by Hemery.
 
-First recorded 1564, abandoned by 1871 when the enclosures were incorporated into Leather Tor Farm. 
+First recorded 1564, abandoned by 1871 when the enclosures were incorporated into Leather Tor Farm.
 
 - Source: Paul Rendell (2007) Exploring Around Burrator, The Dartmoor Company, pages 31 and 57
 
@@ -231,9 +231,9 @@ First recorded 1564, abandoned by 1871 when the enclosures were incorporated int
 
 ![Riddipit Tin Mill right beside the track, at SX 57020 70162](48.jpg)
 
-Described as a blowing house, but with no trace of a leat, launder bank or wheel pit, three necessary signs for a blowing house or tin mill, therefore probably a cart shed for the farm (Hemery p.128). 
+Described as a blowing house, but with no trace of a leat, launder bank or wheel pit, three necessary signs for a blowing house or tin mill, therefore probably a cart shed for the farm (Hemery p.128).
 
-However, the field behind this hedge is called "Mill Park" in the tithe apportionments (Plot 930). 
+However, the field behind this hedge is called "Mill Park" in the tithe apportionments (Plot 930).
 
 Also, the remains an old mortar stone is to be found here under the leaves and debris - but mortar stones are found widespread in the area.
 
@@ -273,7 +273,7 @@ Tin mining started with men following alluvial deposits up streams and rivers an
 
 Early tin workings, while being a large industry in medieval times, finally ceased production by 1750 (Newman, Ibid, p.55).
 
-In the late 1700s and 1800s, workings started going underground - with drainage effected by adits, horizontal tunnels driven into hillsides to let water run out of the workings e.g. Keaglesborough and Eylesborough. 
+In the late 1700s and 1800s, workings started going underground - with drainage effected by adits, horizontal tunnels driven into hillsides to let water run out of the workings e.g. Keaglesborough and Eylesborough.
 
 ![General view of the adit in Keaglesborough Gert, at SX 57220 70074](57.jpg)
 
@@ -291,7 +291,7 @@ In the late 1700s and 1800s, workings started going underground - with drainage 
 
 There are two "dressing floors" on this site, these being areas where mined rock is treated to concentrate the tin by crushing (under iron "stamps" falling againt mortar stones) to separate the tin-bearing rock from other rock of no value. The end of the leat that powered the waterwheel is probably the raised grassy area seen towards the top right in the photograph .....
 
-This wheel was operating in 1801; length of wheelpit - 6.2 metres (20 feet) with a double-sided dressing floor, rectangular buddles. Source: Newman, Landscape, p.53 (see below for full reference).  
+This wheel was operating in 1801; length of wheelpit - 6.2 metres (20 feet) with a double-sided dressing floor, rectangular buddles. Source: Newman, Landscape, p.53 (see below for full reference).
 
 [Heritage Gateway MDV35575 - Keaglesborough Mine](http://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV35575&resourceID=104)
 
@@ -313,10 +313,10 @@ This wheel was operating in 1801; length of wheelpit - 6.2 metres (20 feet) with
 
 ![Google Earth image of the Keaglesborough Mine area. Copyright: Image from Google Earth (c) 2018](72.jpg)
 
-Tinning was important on Dartmoor from about 1150 and throughout the Middle Ages.  
-Stannary records show that in the busiest period, 1515-1538, the "average" output of white tin metal presented annually for coinage was about 500,000 lbs i.e. 223 tons. 
-Thus, over this 24 years, this would have been 5,357 tons. If a mould stone produced ingots that weighed about 1 cwt then this means 107,143 ingots were produced. 
-It is believed that not all tin was presented for coinage and taxation.  
+Tinning was important on Dartmoor from about 1150 and throughout the Middle Ages.
+Stannary records show that in the busiest period, 1515-1538, the "average" output of white tin metal presented annually for coinage was about 500,000 lbs i.e. 223 tons.
+Thus, over this 24 years, this would have been 5,357 tons. If a mould stone produced ingots that weighed about 1 cwt then this means 107,143 ingots were produced.
+It is believed that not all tin was presented for coinage and taxation.
 
 *Source: Interpretation of data in: Tom Greeves (2017),The World of the Dartmoor Tinner: An Historical Context 12th to 20th Century.  In: Phil Newman (Ed), The Tinworking Landscape of Dartmoor in a European Context, 1-14. Dartmoor Tinworking Research Group*
 

@@ -9,14 +9,14 @@ w3w: robes.dusts.mass
 gpx: buckland-beacon-ten-commandments-stone
 
 image: 16.jpg
-tags: 
-  - circular 
-  - 2 mile walk  
+tags:
+  - circular
+  - 2 mile walk
   - gentle
   - ten commandments stone
   - military
   - rifle range
-keywords: 
+keywords:
   - dartmoor
   - walk
   - hike
@@ -30,7 +30,8 @@ keywords:
   - england
 comments: true
 draft: false
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2019-09-25'
 date: '2024-12-03'
@@ -53,7 +54,7 @@ This walk starts with a gentle uphill route along some nice granite walling with
 
 ![The first EPB 1837 Buckland Manor stone encountered on the walk, at SX73913 74153](2.jpg)
 
-EPB stands for [Edmund Pollexfen Bastard](https://en.wikipedia.org/wiki/Edmund_Pollexfen_Bastard), Lord of the Manor of Buckland in the Moor. 
+EPB stands for [Edmund Pollexfen Bastard](https://en.wikipedia.org/wiki/Edmund_Pollexfen_Bastard), Lord of the Manor of Buckland in the Moor.
 
 He is also mentioned on the [cross at Buckland Manor](http://www.dartmoor-crosses.org.uk/buckland_manor.htm) and several other nearby stones. These were erected to mark the boundary of Buckland Manor in 1837, a year before his death.
 
@@ -65,7 +66,7 @@ A = Ashburton,  B = Buckland. Also has EPB roughly carved on one side.
 
 ![Double boundary stones beside the Welstor Newtake Wall, at SX 73734 73858](5.jpg)
 
-The old (left in this picture) and new boundary stones, marked A, B and EPB as above. 
+The old (left in this picture) and new boundary stones, marked A, B and EPB as above.
 
 The Welstor Newtake wall behind was built in 1771 to enclose open moorland for grazing. We keep it on our left all the way to Buckland Beacon.
 
@@ -97,11 +98,11 @@ This interesting little copse looks like it may have been planted to shelter a h
 
 Reaching Buckland Beacon, we pass by on its left side and find the commandment stones laying open like the pages of a book.
 
-The stones were commissioned by William Whitely of Wellstor, Lord of Buckland Manor, in 1928, in celebration of the rejection by Parliament of a proposed new Book of Common Prayer that was deemed "too popish" by many. 
+The stones were commissioned by William Whitely of Wellstor, Lord of Buckland Manor, in 1928, in celebration of the rejection by Parliament of a proposed new Book of Common Prayer that was deemed "too popish" by many.
 
-There are two dates on the stones: 15th Dec 1927 and 14 June 1928, that are the dates on which the revised book was rejected. 
+There are two dates on the stones: 15th Dec 1927 and 14 June 1928, that are the dates on which the revised book was rejected.
 
-When it was realised that there would be room to spare, the third verse of the hymn "Oh God our help in ages past" was added to the second stone. 
+When it was realised that there would be room to spare, the third verse of the hymn "Oh God our help in ages past" was added to the second stone.
 
 There are 1,547 letters on the two stones and, due to weathering, the stones have needed to be recut several times, sometimes highlighted in black paint to aid legibility. This recutting is known to have happened in 1995, 2009, 2017 and most recently in 2020 as part of the "Moor than Meets the Eye" project.
 
@@ -189,10 +190,10 @@ NEIGHBOUR'S HOUSE THOU<br>
 SHALT NOT COVET THY NEIGHBOUR'S<br>
 WIFE NOR HIS SERVANT NOR HIS<br>
 MAID NOR HIS OX NOR HIS ASS<br>
-                                     
+
 
 DEUTERONOMY 4 vv 2  6  8<br>
-                                     
+
 
 A NEW COMMANDMENT<br>
 I<br>
@@ -256,7 +257,7 @@ This stone has been known as the "Grey Mare" for at least 150 years and mentione
 
 ![The 'Targets' of the Butts](27.jpg)
 
-The building above is shown in [the 1886 OS map](https://maps.nls.uk/view/106005602) at the top right corner, titled, "Targets". 
+The building above is shown in [the 1886 OS map](https://maps.nls.uk/view/106005602) at the top right corner, titled, "Targets".
 
 The rest of the range is shown down the lower-right edge of [this 1886 OS map](https://maps.nls.uk/view/106005578) which clearly defines the 200, 300, 600 and 800 yard firing positions that would have fired upon this target. Note: These firing positions are not at all obvious and they were originally probably little more than low earth banks for the men to lie down to aim from.
 
@@ -266,7 +267,7 @@ One supposes that wooden or canvas targets were raised above it, with the stone 
 
 There is a World War 2 Rifle range nearby on Halshanger Common. (It is the massive brick structure you may already have seen on this walk a mile or so to the East)
 
-![To the south of the building is a disused quarry, labelled as Old Sand Pit on some maps and dated to early 20th, so it came after the rifle range](28.jpg) 
+![To the south of the building is a disused quarry, labelled as Old Sand Pit on some maps and dated to early 20th, so it came after the rifle range](28.jpg)
 
 * [Heritage Gateway page for this quarry](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV25193&resourceID=104)
 
@@ -280,9 +281,9 @@ There is a World War 2 Rifle range nearby on Halshanger Common. (It is the massi
 
 From 1910 to the mid 1920s, this was the home of the [Ashburton Golf Course](https://www.golfsmissinglinks.co.uk/index.php/england/south-west/devon/979-dev-ashburton-golf-club-devon) - although no sign of it remains.
 
-> "On Wednesday 16th February 1910 Mr J T Barker presided at a meeting in the Market Hall to discuss and consider the proposed golf club for Ashburton. 
-> The chairman stated that a committee had already been appointed to try and find a suitable location for the course and as a result a large portion of land on Welstor Common had been obtained. 
-> It had been generously offered by Mr Parnell Tucker at a nominal rent, he was also willing to erect a clubhouse which could also be rented. 
+> "On Wednesday 16th February 1910 Mr J T Barker presided at a meeting in the Market Hall to discuss and consider the proposed golf club for Ashburton.
+> The chairman stated that a committee had already been appointed to try and find a suitable location for the course and as a result a large portion of land on Welstor Common had been obtained.
+> It had been generously offered by Mr Parnell Tucker at a nominal rent, he was also willing to erect a clubhouse which could also be rented.
 > The area had been inspected by several experts and a professional all of them were strongly in favour of the location."
 
 ![Iron gate hanger](31.jpg)

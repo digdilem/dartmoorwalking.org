@@ -9,9 +9,9 @@ w3w: reissued.lushly.handy
 gpx: fernworthy-assycombe-double-stone-row
 
 image: 11.jpg
-tags: 
-  - circular 
-  - 3 mile walk  
+tags:
+  - circular
+  - 3 mile walk
   - woodland
   - historic
   - bronze age
@@ -20,7 +20,7 @@ tags:
   - ruins
   - hut circle
   - medium
-keywords: 
+keywords:
   - dartmoor
   - woodland
   - historic
@@ -45,7 +45,8 @@ keywords:
   - england
 comments: true
 draft: false
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2015-06-03'
 date: '2024-12-25T19:39:23Z'
@@ -57,7 +58,7 @@ date: '2024-12-25T19:39:23Z'
 
 ## Introduction
 
-An impressive, but little known double stone row - one of several on Dartmoor. A medium walk through quiet woodland with some climbs on mostly firm forestry tracks. 
+An impressive, but little known double stone row - one of several on Dartmoor. A medium walk through quiet woodland with some climbs on mostly firm forestry tracks.
 
 ![Parking by the Shed](25.jpg)
 
@@ -111,7 +112,7 @@ This gatepost was cut much later than the hut circles, likely in the medieval pe
 * 125 meters long
 * Faces North Westerly and oriented East Northeast to West Southwest.
 * Restored in the 1890s
-* There's a menhir at the top end and a blocking stone at the bottom. 
+* There's a menhir at the top end and a blocking stone at the bottom.
 * Includes 133 medium and large sized stones. Originally there were 11 more stones, including a second blocking stone.
 * J Butler notes that the row is very similar to the Hurston Ridge Double Stone Row, only 1km away.
 
@@ -129,7 +130,7 @@ The hut circles probably came long after the stone row was erected, and it's tho
 
 ![Image © J Butler 1991. Reproduced by kind permission (ref. 29 Sept. 2012)](17.jpg)
 
-The stone row is described by J. Butler (1991), Dartmoor Atlas of Antiquities  Vol. 2 - Asacombe Hill stone rows.  This double row is similar to its neighbour on Hurston Ridge, a kilometre to the east. It is possible that a third row was planned but never installed, because the rows do not align well with the centre of the cairn. 
+The stone row is described by J. Butler (1991), Dartmoor Atlas of Antiquities  Vol. 2 - Asacombe Hill stone rows.  This double row is similar to its neighbour on Hurston Ridge, a kilometre to the east. It is possible that a third row was planned but never installed, because the rows do not align well with the centre of the cairn.
 
 ![Hut circle about 100 metres below the end of the stone row, at SX 65930 82458](18.jpg)
 
@@ -139,7 +140,7 @@ The stone row is described by J. Butler (1991), Dartmoor Atlas of Antiquities  V
 
 ![Assycombe Farm Area. SX 6590 8279](19.jpg)
 
-Assycombe (Also Asacombe) Farm is the ruin of a deserted Medieval and Post-Medieval farmstead. There are two rectangular buildings with a field. 
+Assycombe (Also Asacombe) Farm is the ruin of a deserted Medieval and Post-Medieval farmstead. There are two rectangular buildings with a field.
 
 * A shard of pottery recovered from this site has been positively dated to 13th-14th Century
 * The Longhouse to the South is the oldest of the two buildings.
@@ -162,8 +163,8 @@ Assycombe (Also Asacombe) Farm is the ruin of a deserted Medieval and Post-Medie
 ## References
 
 * [Old Ordnance Survey Map - Pre reservoir](http://maps.nls.uk/geo/explore/#zoom=17&lat=50.6282&lon=-3.8951&layers=171)
- 
-## Parking 
 
-* When approaching Fernworthy, continue past the signed car park until you reach the marked position, by a large wooden storage shed. 
+## Parking
+
+* When approaching Fernworthy, continue past the signed car park until you reach the marked position, by a large wooden storage shed.
 * Toilets are available at the signed car park, and sometimes a refreshment van in the Summer.

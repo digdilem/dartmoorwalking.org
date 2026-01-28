@@ -9,23 +9,23 @@ w3w: album.twice.flashback
 gpx: wind-tor-and-hutholes
 
 image: 28.jpg
-tags: 
-  - circular 
-  - 3 mile walk  
+tags:
+  - circular
+  - 3 mile walk
   - gentle
   - historic
   - bronze age
   - hut circles
   - settlement
   - tor
-keywords: 
+keywords:
   - dartmoor
   - walk
   - historic
   - bronze age
   - hut circles
   - settlement
-  - tor  
+  - tor
   - walking
   - walks
   - rambling
@@ -41,7 +41,8 @@ keywords:
   - england
 comments: true
 draft: false
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2015-01-28'
 date: '2024-12-26T20:10:52Z'
@@ -117,7 +118,7 @@ This was probably one a gate hanger stone, where the upright of the gate was cup
 
 ![Drywell Cross](17.jpg)
 
-This stone was once a waymarker to Widecombe Church and was restored in 1967 by Dartmoor Preservation Association.  The replacement shaft matches the cross head in that all limbs are octagonal. 
+This stone was once a waymarker to Widecombe Church and was restored in 1967 by Dartmoor Preservation Association.  The replacement shaft matches the cross head in that all limbs are octagonal.
 
 ![Closer view, showing unusual cavity](18.jpg)
 
@@ -145,9 +146,9 @@ Dockwell dates back to at least the Medieval period and has several traditional 
 
 Hutholes was a settlement of six buildings dating back to the Saxon period. It was certainly occupied at the time of the Norman Conquest in 1066 and seized by the invading French.
 
-Daily routine revolved around farming, growing crops, animal husbandry and household chores. 
+Daily routine revolved around farming, growing crops, animal husbandry and household chores.
 
-Abandoned some time in the 14th century, it lay largely forgotten until 1963 when the local farmer, Mr Hermon French, talked about it to a Mrs Minter, who organised an archaeological dig, 
+Abandoned some time in the 14th century, it lay largely forgotten until 1963 when the local farmer, Mr Hermon French, talked about it to a Mrs Minter, who organised an archaeological dig,
 
 ![Closer view of the main interpretation board](31.jpg)
 
@@ -163,7 +164,7 @@ We use the house numbers as given on the board.
 
 ![House 3](28.jpg)
 
-House 3, believed to be occupied up to the 12th century. This was probably original Depdona Manor house. The name was later changed to Dewdon and once this site was abandoned, was relocated half a mile away and renamed again, this time to Jordan. 
+House 3, believed to be occupied up to the 12th century. This was probably original Depdona Manor house. The name was later changed to Dewdon and once this site was abandoned, was relocated half a mile away and renamed again, this time to Jordan.
 
 In the Domesday Book (1066 AD), Depdona was owned by a wealthy Englishman called Alric. By 1086 it had been relinquished to one of the conquerors, William de la Falaise <cite>-- (Butler, Vol. 1 page 142)</cite>
 
@@ -177,7 +178,7 @@ In the Domesday Book (1066 AD), Depdona was owned by a wealthy Englishman called
 
 ![Looking backwards as we approach our parking area, with Corndon Down (Elevation 434m, 1423 feet) in the distance](32.jpg)
 
-## Parking 
+## Parking
 
 There is roadside parking at the top of Wind Hill. If it's full, there is usually some spaces down the road to the Southwest. The nearest facilities will be in Widecombe.
 

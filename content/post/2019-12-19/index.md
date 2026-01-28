@@ -9,11 +9,11 @@ w3w: forkful.drainage.debt
 gpx: burrator-arboretum-sheepstor
 
 image: 11.jpg
-tags: 
-  - circular 
-  - 3 mile walk  
+tags:
+  - circular
+  - 3 mile walk
   - medium
-keywords: 
+keywords:
   - dartmoor
   - walk
   - walking
@@ -38,7 +38,8 @@ keywords:
   - folklore
 comments: true
 draft: false
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2019-12-19'
 date: '2025-09-14T19:36:24+01:00'
@@ -50,7 +51,7 @@ date: '2025-09-14T19:36:24+01:00'
 
 ## Introduction
 
-This is a walk of two distinct halves. To start with, we leave the car park and are immediately embraced by the rich woodland surrounding Burrator Reservoir. A short climb through the trees and the path opens out onto open moorland with the imposing gray shape of Sheeps Tor and its jumbled mass of granite within sight as we walk clockwise around it. We investigate several Bronze Age hut circles, other ancient relics such as gateways, waymarking stones, a vermin trap, a distant stone circle and enjoy some great views to Great Mis Tor, over Burrator Reservoir and wider vistas. 
+This is a walk of two distinct halves. To start with, we leave the car park and are immediately embraced by the rich woodland surrounding Burrator Reservoir. A short climb through the trees and the path opens out onto open moorland with the imposing gray shape of Sheeps Tor and its jumbled mass of granite within sight as we walk clockwise around it. We investigate several Bronze Age hut circles, other ancient relics such as gateways, waymarking stones, a vermin trap, a distant stone circle and enjoy some great views to Great Mis Tor, over Burrator Reservoir and wider vistas.
 
 No visit to Sheeps Tor would be complete without investigating Pixies' House - which has entranced generations of OS Map readers with its evocative name!
 
@@ -62,9 +63,9 @@ Alternatively, there is a shorter circular walk of around half a mile that is pr
 
 ![Notice in the Arboretum car park](1.jpg)
 
-* Burrator Arboretum is a Nature reserve with woodlands, meadows, ponds and footpaths which is designed to be accessible. 
+* Burrator Arboretum is a Nature reserve with woodlands, meadows, ponds and footpaths which is designed to be accessible.
 * It was planted in the late 1980s after storms caused damage in the areas. *(The editor spent many years working in Forestry clearing up after these storms and remembers them well!)*
-* Its purpose is to create a collection of native and non-native tree species, develop wetlands and ponds, increase biodiversity and provide easy access for visitors, especially those who might struggle with more rugged terrain. 
+* Its purpose is to create a collection of native and non-native tree species, develop wetlands and ponds, increase biodiversity and provide easy access for visitors, especially those who might struggle with more rugged terrain.
 * It is maintained by South West Lakes Trust
 
 ![The entry gate into the Arboretum on a cold and frosty morning](2.jpg)
@@ -113,7 +114,7 @@ Over the years, Sheeps Tor has been known as;
 * Shittestor 1474
 * Shipstor 1607
 * Shetelstor
-* Shepstor, 
+* Shepstor,
 * Shitstor (Elford tablet, Widecombe) 1650
 * Shippistor alias Shittistor 1691
 * Sheepstor alias Shittestor 1695
@@ -130,7 +131,7 @@ PCWW being the old Plymouth Corporation Water Works. There are many of these gra
 
 ## Hut Circles
 
-There are five hut circles shown on the 1:10,000 map but not on the higher scaled 1:25,000 map in this area, with two quite near this pillar. 
+There are five hut circles shown on the 1:10,000 map but not on the higher scaled 1:25,000 map in this area, with two quite near this pillar.
 
 The huts are hard to find but should be at SX 56967 68250 (Hut 1), SX 56960 68188 (Hut 2), SX 56942 68180 (Hut 3), SX 56930 68160 (Hut 4) and SX 56900 68155 (Hut 5). Hut 2 is worth looking at, it is about 30 metres along a track from the PCWW pillar leading south. Hut 4 is also recognisable with a few stones remaining. The other huts have been badly "robbed" of their stones. It was difficult to take useful photographs, so they have been left out of this page.
 
@@ -138,9 +139,9 @@ The huts are hard to find but should be at SX 56967 68250 (Hut 1), SX 56960 6818
 
 More information and photographs of this restored stone circle can be found on our [Sheepstor Stone Circles](/p/sheepstor-stone-circles/) walk.
 
-![Zoomed view to Combshead Tor, in the direction of Ter Hill and Combestone Tor (6 miles distant)](16.jpg) 
+![Zoomed view to Combshead Tor, in the direction of Ter Hill and Combestone Tor (6 miles distant)](16.jpg)
 
-Note Cuckoo Rock at the bottom of the photograph, right of centre. 
+Note Cuckoo Rock at the bottom of the photograph, right of centre.
 
 ![Highly zoomed view to Great Mis Tor, SX 563 769, elevation 538 metres (1765 feet), 8.75 km (5.4) miles away](17.jpg)
 
@@ -161,7 +162,7 @@ Note Cuckoo Rock at the bottom of the photograph, right of centre.
 
 ![Vermin Trap. SX 56643 68119 below the climbing face](21.jpg)
 
-This feature is a little hard to make out, but consists of an X-arrangement of low walls which would guide stoats, weasels and similar predators into a centrally positioned trap mechanism. 
+This feature is a little hard to make out, but consists of an X-arrangement of low walls which would guide stoats, weasels and similar predators into a centrally positioned trap mechanism.
 
 *To help you orient yourself, in the distance are the fir trees at the Scout Hut and, beyond, is Gutter Tor and, further away, is the pyramid shape of Hen Tor.*
 
@@ -169,7 +170,7 @@ This feature is a little hard to make out, but consists of an X-arrangement of l
 
 ![Vermin trap, looking north at the X-arrangement](22.jpg)
 
-This is the direction of the trap designed to catch vermin passing around the tor. There are artificial rabbit buries (i.e. warrens) and a Warrener's house on the south flank of Sheeps Tor. Rabbits were bred as meat for the local tinners. 
+This is the direction of the trap designed to catch vermin passing around the tor. There are artificial rabbit buries (i.e. warrens) and a Warrener's house on the south flank of Sheeps Tor. Rabbits were bred as meat for the local tinners.
 
 ## Pixies House
 
@@ -197,15 +198,15 @@ Also, during the Civil War, Lord of the Manor of Longston, Mr John Elford, was t
 
 ![Rabbit bury, warren or "pillow mound" at SX 56535 67998](28.jpg)
 
-These artificial warrens were often arranged sloping downhill with a drainage ditch around to keep the rabbits dry. The rabbits would generally be caught by netting, where the men would creep up to the warren at dusk when the rabbits were out feeding and put long, low, fine-meshed nets out across the rabbit holes. Then someone would scare them from the other side and the startled rabbits, racing to the safety of their burrows, would be caught in the nets. 
+These artificial warrens were often arranged sloping downhill with a drainage ditch around to keep the rabbits dry. The rabbits would generally be caught by netting, where the men would creep up to the warren at dusk when the rabbits were out feeding and put long, low, fine-meshed nets out across the rabbit holes. Then someone would scare them from the other side and the startled rabbits, racing to the safety of their burrows, would be caught in the nets.
 
 ![Sheepstor Warren House, SX 56447 68035, very ruined](29.jpg)
 
-Nearby are the ruined remains of the Warreners House. 
+Nearby are the ruined remains of the Warreners House.
 
-Below it are the remains of Chubstone Wood that was felled during WW1 to supply the front with timber. The Warren House shows no stone cutter marks, and dates perhaps from 1500-1600s (Hemery, p.160). 
+Below it are the remains of Chubstone Wood that was felled during WW1 to supply the front with timber. The Warren House shows no stone cutter marks, and dates perhaps from 1500-1600s (Hemery, p.160).
 
-The Sheeps Tor Tithe Maps of 1843 and 1882 shows this area as a "Pasture" then "Fir trees", which prove the house had been abandoned before 1843. 
+The Sheeps Tor Tithe Maps of 1843 and 1882 shows this area as a "Pasture" then "Fir trees", which prove the house had been abandoned before 1843.
 
 ![Another view of the foundations of the Warreners House](30.jpg)
 
@@ -221,7 +222,7 @@ The Sheeps Tor Tithe Maps of 1843 and 1882 shows this area as a "Pasture" then "
 
 ![Sheepstor Church](35.jpg)
 
-A visit to this church is recommended as it has some unique history. The three [White Rajahs](https://en.wikipedia.org/wiki/White_Rajahs) of the Sarawak Kingdom are buried there.  
+A visit to this church is recommended as it has some unique history. The three [White Rajahs](https://en.wikipedia.org/wiki/White_Rajahs) of the Sarawak Kingdom are buried there.
 
 * [St Leonard's, Sheepstor. Website](https://www.westdartmoor.church/parish-churches/st-leonards-sheepstor/)
 * [Sheepstor Church, Legendary Dartmoor](https://www.legendarydartmoor.co.uk/2016/03/31/sheepstor_church/)
@@ -241,7 +242,7 @@ A visit to this church is recommended as it has some unique history. The three [
 
 ![A good section through a corn ditch wall](39.jpg)
 
-A "corn ditch wall" is a particular style of stone wall found throughout South Western England. It's a normal vertical stone wall on one side, but the other side is either banked and sloping, or at a higher level. It's designed so that animals can jump down from one side, but not return from the other. The name comes from one purpose where animals were desired to be kept out of corn fields, but to allow any that did get in, a route of exit. 
+A "corn ditch wall" is a particular style of stone wall found throughout South Western England. It's a normal vertical stone wall on one side, but the other side is either banked and sloping, or at a higher level. It's designed so that animals can jump down from one side, but not return from the other. The name comes from one purpose where animals were desired to be kept out of corn fields, but to allow any that did get in, a route of exit.
 
 In this case, Dartmoor was a Royal Hunting area (also known as a Forest, even though sparsely wooded) where deer were hunted. It was illegal for the commoners to interfere with deer - indeed, many were put to death through England for poaching when merely trying to feed their families - and this was a method developed by farmers to still protect their crops without harming the Royal animals.
 
@@ -267,10 +268,10 @@ In this case, Dartmoor was a Royal Hunting area (also known as a Forest, even th
 
 ![Sheepstor Tithe Map 1843 - Copyright Devon County Council](47.jpg)
 
-* NARRATOR - Earliest record - 1718. Last used in 1923. 
-* Named after the Narrator outcrop of Sheeps Tor. 
-* In 1718, John Elford of Longstone paid for repairs to "Harris", a yearly event. 
-* In 1732, it was referred to as "Harris alias Narrator" - a name change. There are various records of payments and at least 19 tenants. One record has John Bayly as Lord of the Manor in 1850 and living at Narrow Tor. 
+* NARRATOR - Earliest record - 1718. Last used in 1923.
+* Named after the Narrator outcrop of Sheeps Tor.
+* In 1718, John Elford of Longstone paid for repairs to "Harris", a yearly event.
+* In 1732, it was referred to as "Harris alias Narrator" - a name change. There are various records of payments and at least 19 tenants. One record has John Bayly as Lord of the Manor in 1850 and living at Narrow Tor.
 * By 1914, the tenant was paying rent to Plymouth Corporation. <cite>Source: Paul Rendell (2007), Exploring Around Burrator - A Dartmoor Reservoir</cite>
 
 ![Ruined building at Narrator](48.jpg)
@@ -293,18 +294,17 @@ The cross is included in the Dartmoor Crosses web site where it is suggested it 
 
 
 
-## Old Maps of the area    
+## Old Maps of the area
 * [25-inch Single Sheet 1882/1887](https://maps.nls.uk/view/106005929)
 * [OS 25-inch whole country England and Wales, 1841-1952](https://maps.nls.uk/geo/explore/#zoom=16.0&lat=50.49600&lon=-4.02970&layers=168&b=1&o=100)
 
 
-## Parking 
+## Parking
 
-There is parking at the posted coordinates specifically for the Arboretum. If it is full, then Nosworthy Bridge parking is nearby. 
+There is parking at the posted coordinates specifically for the Arboretum. If it is full, then Nosworthy Bridge parking is nearby.
 
-There are accessible toilets at Burrator Discovery Centre. What3Words: most.measuring.rocket, and more toilets at the Dam. 
+There are accessible toilets at Burrator Discovery Centre. What3Words: most.measuring.rocket, and more toilets at the Dam.
 
 ## References
 {{< show-extracted-links >}}
 
- 

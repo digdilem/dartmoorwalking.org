@@ -9,11 +9,11 @@ w3w: masks.calibrate.burden
 gpx: the-merrivale-bronze-age-sun-calendar-and-foggintor-school
 
 image: 4.jpg
-tags: 
-  - circular 
-  - 2 mile walk  
+tags:
+  - circular
+  - 2 mile walk
   - gentle
-keywords: 
+keywords:
   - dartmoor
   - walk
   - hike
@@ -26,6 +26,7 @@ keywords:
 comments: true
 draft: false
 author: Keith Ryan
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2017-02-25'
 date: '2024-12-06'
@@ -41,7 +42,7 @@ This walk is mostly on open moorland avoiding steep hills. There is a huge amoun
 
 ## Parking
 
-Park at the coordinates above, which is also SX 560 748. An isolated spot surrounded by trees on the B3357 road between the Dartmoor Inn, at Merrivale, and the turnoff to Princetown on the road to Two Bridges.  This is marked by the yellow cross and the the P symbol on the map.  
+Park at the coordinates above, which is also SX 560 748. An isolated spot surrounded by trees on the B3357 road between the Dartmoor Inn, at Merrivale, and the turnoff to Princetown on the road to Two Bridges.  This is marked by the yellow cross and the the P symbol on the map.
 
 Leave the car park due west, running parallel to the road.
 
@@ -49,7 +50,7 @@ Leave the car park due west, running parallel to the road.
 
 ![The Apple Crusher](1.jpg)
 
-The round object in the left foreground is often described as an abandoned runner, that is, the running wheel, that would be turned on an axle pulled by a horse with the stone running in a circular trough crushing apples for making cider: i.e. an abandoned apple crusher. 
+The round object in the left foreground is often described as an abandoned runner, that is, the running wheel, that would be turned on an axle pulled by a horse with the stone running in a circular trough crushing apples for making cider: i.e. an abandoned apple crusher.
 
 However, that is not accurate...
 
@@ -67,17 +68,17 @@ We can be fairly sure that this report was inaccurate thanks to <cite>William Cr
 
 In the distance we can see Merrivale Quarry.
 
-William Duke opened this as "Tor Quarry" in 1876, its operations absorbing the old sett-making craft previously carried out under the Staple Tors. 
+William Duke opened this as "Tor Quarry" in 1876, its operations absorbing the old sett-making craft previously carried out under the Staple Tors.
 
-As well as cutting setts, Granite from this quarry was also used for Gravestones, agricultural rollers and the like. It also provided the facing for the New Scotland Yard building in London. 
+As well as cutting setts, Granite from this quarry was also used for Gravestones, agricultural rollers and the like. It also provided the facing for the New Scotland Yard building in London.
 
-The quarry closed in 1997, spending its final years dressing imported stone from Norway. 
+The quarry closed in 1997, spending its final years dressing imported stone from Norway.
 
-The name "Merrivale" for this part of Walkhampton Common is said to derive from "mara val" in old Cornish, meaning "plague market".  This is thought to have been corrupted from "tin market", although "potato market" has also been suggested.  
+The name "Merrivale" for this part of Walkhampton Common is said to derive from "mara val" in old Cornish, meaning "plague market".  This is thought to have been corrupted from "tin market", although "potato market" has also been suggested.
 
-In times of the Black Death (1348-1353: when 50 million people died in Europe (Not to be confused with the Great Plague of London, 1665-1666), farmers left food here for Tavistock people who left coins as payment soaking in vinegar to clean them of the badness.  
+In times of the Black Death (1348-1353: when 50 million people died in Europe (Not to be confused with the Great Plague of London, 1665-1666), farmers left food here for Tavistock people who left coins as payment soaking in vinegar to clean them of the badness.
 
-"Mar val" has also been interpreted as Mirey Vale. 
+"Mar val" has also been interpreted as Mirey Vale.
 
 * [Heritage Gateway article for this hut circle](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV53410&resourceID=104)
 
@@ -91,7 +92,7 @@ Both stone rows are double - that is consisting of two rows of stones about a me
 
 ![A view along the southern row, looking to the west](7.jpg)
 
-The double nature of the row is seen well here. The first, larger, stone in the row casts its shadow quite symmetrically onto the blocking stone at mid-winter solstice. 
+The double nature of the row is seen well here. The first, larger, stone in the row casts its shadow quite symmetrically onto the blocking stone at mid-winter solstice.
 
 ![Looking north over the east end of the northern row](8.jpg)
 
@@ -121,7 +122,7 @@ Long Ash Leat is seen at the very bottom of the photograph and Roos Tor, SX 543 
 
 ![Menhir and circle looking west/north-west](17.jpg)
 
-Celtic (maen = stone + hir = long i.e. 'longstone'). The function of this stone has been suggested in Dartmoor Sun as a midwinter sunset marker when viewed from a leaning stone at SX 55461 74683. 
+Celtic (maen = stone + hir = long i.e. 'longstone'). The function of this stone has been suggested in Dartmoor Sun as a midwinter sunset marker when viewed from a leaning stone at SX 55461 74683.
 
 ![Another view, with Great Staple Tor (left) and Roos Tor (right)](18.jpg)
 
@@ -129,35 +130,35 @@ Celtic (maen = stone + hir = long i.e. 'longstone'). The function of this stone 
 
 ![Long Ash Pits](19.jpg)
 
-Early, possibly medieval or even earlier, tin workings where tinners collected alluvial deposits along stream beds. 
+Early, possibly medieval or even earlier, tin workings where tinners collected alluvial deposits along stream beds.
 
-The eroded tin ore could form quite pure tin gravel in such areas, having been washed down from the surrounding granite.  
+The eroded tin ore could form quite pure tin gravel in such areas, having been washed down from the surrounding granite.
 
-The early tinners "leated" water to a trench at the lower end of the ground, called a 'tye' and water was used to wash away the lighter 'gangue' gravels. 
+The early tinners "leated" water to a trench at the lower end of the ground, called a 'tye' and water was used to wash away the lighter 'gangue' gravels.
 
-This method left banks of waste behind. The area is surrounded by a scarp that shows the original level of the land and the depth of the deposits. 
+This method left banks of waste behind. The area is surrounded by a scarp that shows the original level of the land and the depth of the deposits.
 
 Tin streaming was often followed by open cast mining to go deeper, into big cuttings called "gerts", but this is not seen here.
 
 ![Another view of the tin workings including Pila Brook](20.jpg)
 
-It was presumably this water source that was diverted and used for washing away the lighter sediments so as to leave the heavier tin-bearing gravels and sands for smelting.  This would have been among the earliest tin-extraction methods. 
+It was presumably this water source that was diverted and used for washing away the lighter sediments so as to leave the heavier tin-bearing gravels and sands for smelting.  This would have been among the earliest tin-extraction methods.
 
-This photograph also shows the scarp surrounding this area that suggests how much the early tinners changed the look of the landscape. 
+This photograph also shows the scarp surrounding this area that suggests how much the early tinners changed the look of the landscape.
 
 ## Packhorse Trail
 
 ![T-A marker stones along the Ashburton-Tavistock Packhorse Track](21.jpg)
 
-In the photograph above, a portion of the pillar has been enhanced to show the "A" more clearly, facing towards Ashburton. 
+In the photograph above, a portion of the pillar has been enhanced to show the "A" more clearly, facing towards Ashburton.
 
-In the Middle Ages,this trading route was very important, especially for wool and cloth or yarn, going via Sheepstor - which was famed for its sheep and wool. 
+In the Middle Ages,this trading route was very important, especially for wool and cloth or yarn, going via Sheepstor - which was famed for its sheep and wool.
 
-The track was superseded by the turnpike road in 1792. 
+The track was superseded by the turnpike road in 1792.
 
-Strangers to the moor often had to tackle this high lonely route, this section over the Princetown area was the highest part and the most exposed. Princetown, or Thomas Tyrwhitt's "Prince's Town", did not exist in those days.  
+Strangers to the moor often had to tackle this high lonely route, this section over the Princetown area was the highest part and the most exposed. Princetown, or Thomas Tyrwhitt's "Prince's Town", did not exist in those days.
 
-Guide posts were erected along the way and what we see today are possibly the more 'modern' (1669) improved series, which were sponsored by Plymouth Corporation at the princely sum of £2. 
+Guide posts were erected along the way and what we see today are possibly the more 'modern' (1669) improved series, which were sponsored by Plymouth Corporation at the princely sum of £2.
 
 ![The next marker stone, standing out on the skyline](22.jpg)
 
@@ -175,27 +176,27 @@ This leat was built in the 1880s to take water Long Ash.
 
 ![Four Winds, once the site of Foggintor School, is now our car park](25.jpg)
 
-Four Winds was the site of Foggintor School, built 1914, opened April 1915 with 55 children from the nearby cottages associated with Foggintor and other quarries. 
+Four Winds was the site of Foggintor School, built 1914, opened April 1915 with 55 children from the nearby cottages associated with Foggintor and other quarries.
 
-Mr & Mrs Stoyle were the teachers, it was a spacious building with a wood block floor and central heating - the pipes were used for warming their pasties. 
+Mr & Mrs Stoyle were the teachers, it was a spacious building with a wood block floor and central heating - the pipes were used for warming their pasties.
 
-There were periods of closure due to snow and whooping cough. The garden had bees, poultry, a goat and rabbits. 
+There were periods of closure due to snow and whooping cough. The garden had bees, poultry, a goat and rabbits.
 
-Besides the school building there was also School House, for the teachers. One section of the enclosure was the playing field. 
+Besides the school building there was also School House, for the teachers. One section of the enclosure was the playing field.
 
-The school was run throughout its history by Fred Stoyle, the youngest head-teacher in the country. 
+The school was run throughout its history by Fred Stoyle, the youngest head-teacher in the country.
 
 Their son, Ivan, planted the Christmas tree from 1924 in the school garden and this is the tree that stands there today - over a hundred years later.
 
-After the school closed in 1936, the teachers' house was renamed "Four Winds". The school buildings were demolished in 1964 and the private house in 1965.  
+After the school closed in 1936, the teachers' house was renamed "Four Winds". The school buildings were demolished in 1964 and the private house in 1965.
 
 Stone from the buildings was used in the road modifications at Devil's Elbow near Princetown.  From this, we know that the tree is in the old garden and the other enclosure used to be the play area.
 
 ## Foggintor Mission School
 
-Before Foggintor School was built, there was another school opposite the entrance to the track to Yellowmead. This was in the Foggintor Mission Hall, built in 1887.  It served also as a school from Aug. 1896, opening with 41 pupils. 
+Before Foggintor School was built, there was another school opposite the entrance to the track to Yellowmead. This was in the Foggintor Mission Hall, built in 1887.  It served also as a school from Aug. 1896, opening with 41 pupils.
 
-It had 95 pupils in 1903 and closed in Sep. 1912.  The building was demolished in 1965.  The numbers of young children give some idea of the population in the area, associated mainly with the busy quarries.  
+It had 95 pupils in 1903 and closed in Sep. 1912.  The building was demolished in 1965.  The numbers of young children give some idea of the population in the area, associated mainly with the busy quarries.
 
 
 ## References
@@ -229,4 +230,3 @@ These sources were used when researching this walk:
 
 
 
- 

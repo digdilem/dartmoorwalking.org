@@ -4,20 +4,20 @@ description: A nicely rounded walk including two tors, Bronze Age settlements an
 categories: ["Mid Dartmoor"]
 distance: 5
 coords: 50.55865,-3.96475
-grade: Medium 
+grade: Medium
 w3w: slowly.seats.impressed
 gpx: wistmans-wood-via-crockern-and-littaford-tors
 
 image: 29.jpg
-tags: 
-  - circular 
-  - 5 mile walk  
+tags:
+  - circular
+  - 5 mile walk
   - medium
   - woodland
   - tor
   - mining
   - bronze age
-keywords: 
+keywords:
   - dartmoor
   - walk
   - walking
@@ -35,7 +35,8 @@ keywords:
   - england
 comments: true
 draft: false
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2020-02-25'
 date: '2025-03-09T19:39:14Z'
@@ -47,10 +48,10 @@ date: '2025-03-09T19:39:14Z'
 
 ## Introduction
 
-This walk takes us up along a ridge taking in several tors, including one that was very important for the old Tin Mining Stannary laws. Then it drops into the West Dart River, exploring some Bronze Age Hut Circles and then back past Wistman's Wood and down the valley back to the start. 
+This walk takes us up along a ridge taking in several tors, including one that was very important for the old Tin Mining Stannary laws. Then it drops into the West Dart River, exploring some Bronze Age Hut Circles and then back past Wistman's Wood and down the valley back to the start.
 
 **Please note: In accordance with [Dartmoor National Park's guidance](https://www.dartmoor.gov.uk/enjoy-dartmoor/places/wistmans-wood), please do not enter Wistman's Wood itself, or disturb it in any way.**
-Sadly, due to huge numbers of visitors over recent years, significant damage has been caused even by those simply walking through it as well as those removing moss, branches or littering. 
+Sadly, due to huge numbers of visitors over recent years, significant damage has been caused even by those simply walking through it as well as those removing moss, branches or littering.
 
 *If you just want to visit Wistman's Wood, you can follow the path up from the given parking coordinates. This shortens the walk to about a mile each way and is a pleasant easy walk, although not accessible to wheelchairs. [Jump to Wistman's Wood](#wistmans-wood)*
 
@@ -58,11 +59,11 @@ Sadly, due to huge numbers of visitors over recent years, significant damage has
 
 ![Two Bridges Tor](1.jpg)
 
-Before we leave our parking space, take a moment to look at the sides of the quarry. 
+Before we leave our parking space, take a moment to look at the sides of the quarry.
 
-This place is known as "Two Bridges Tor" as there is a distinct granite formation at the back which helps show how Tors on Dartmoor were formed, even when the Tor is underground. Rain water, being slightly acidic, soaks into the ground and rots the rock, primarily at cracks and weaknesses to form horizontal and vertical joints. Over a long period of time, the harder rock is left behind as the rest is changed into growan (Decomposed granite) and sand. 
+This place is known as "Two Bridges Tor" as there is a distinct granite formation at the back which helps show how Tors on Dartmoor were formed, even when the Tor is underground. Rain water, being slightly acidic, soaks into the ground and rots the rock, primarily at cracks and weaknesses to form horizontal and vertical joints. Over a long period of time, the harder rock is left behind as the rest is changed into growan (Decomposed granite) and sand.
 
-We see this here as this quarry was dug to provide sand and gravel for road building. 
+We see this here as this quarry was dug to provide sand and gravel for road building.
 
 Once exposed to the atmosphere, then weathering continues the early work of underground decay with with, rain and the freeze/thaw action of the winter to further attack the rock.
 
@@ -82,22 +83,22 @@ There seems to be a well repeated rumour that I've heard from several people who
 
 ## Crockern Tor and the Stannary Parliament
 
-![Approaching Crockern Tor. Note the rock stack to the right - Parliament Rock](5.jpg) 
+![Approaching Crockern Tor. Note the rock stack to the right - Parliament Rock](5.jpg)
 
-- Crockern Tor. SX 61560 75778. Elevation 400 meters (1312 feet) 
+- Crockern Tor. SX 61560 75778. Elevation 400 meters (1312 feet)
 
 ![Parliament Rock](6.jpg)
 
-This imposing rock was chosen as the meeting place of Great Court of Devon Tinners dating from around at least 1300AD and possibly as far back as 1100. The court would meet here and establish tin laws, mete out punishments for breaches, pay taxes and distribute earnings. 
+This imposing rock was chosen as the meeting place of Great Court of Devon Tinners dating from around at least 1300AD and possibly as far back as 1100. The court would meet here and establish tin laws, mete out punishments for breaches, pay taxes and distribute earnings.
 
-There was also an impressive Chair made of slabs of granite with a tall back and overhang placed here by a granite table for court proceedings. The chair was moved to Dunnabridge Pound by a Mr Leaman using "12 yoke of oxen" - a team of 24 beasts - and it can be seen there today, just a few miles away. 
+There was also an impressive Chair made of slabs of granite with a tall back and overhang placed here by a granite table for court proceedings. The chair was moved to Dunnabridge Pound by a Mr Leaman using "12 yoke of oxen" - a team of 24 beasts - and it can be seen there today, just a few miles away.
 
 ![Another view of the imposing Parliament Rock](9.jpg)
 
 Parliament Rock itself has a natural shelf which was used as a "Court Cryer's Chair" - presumably to shout for order and repeat the findings of the court to the wider audience.
 
 - "Stannary" comes from the latin name for tin, Stannum. It also gives it its periodic definition, 'Sn'
-- Before the fourth century, "Tin" was used to describe any alloy of silver and lead, rather than the metal Tin. 
+- Before the fourth century, "Tin" was used to describe any alloy of silver and lead, rather than the metal Tin.
 
 ![Possibly the Judge's Table](8.jpg)
 
@@ -132,7 +133,7 @@ Sadly, these mounds they don't photograph well, and just appear as lumpy brown a
 
 ## Pillow Mounds
 
-- Pillow Mounds are man made rabbit warrens dating from at least the medieval period. 
+- Pillow Mounds are man made rabbit warrens dating from at least the medieval period.
 - Their name comes from the pillow shape of the mounds.
 - They were used to breed rabbits (Also known as Conies) for meat and fur. Rabbit was a mainstay of the local tin miners and was sometimes the only meat they would regularly eat.
 - Rabbit farming like this was done throughout Britain, and you can find many references to "Warren" in place names that persist today.
@@ -162,7 +163,7 @@ WENTWORTH BULLER
 ON SEPT. 16TH 1868 CUT DOWN A TREE NEAR THIS SPOT
 IT MEASURED 9 IN IN DIAMETER
 AND APPEARED TO BE ABOUT
-163 YEARS OLD 
+163 YEARS OLD
 ```
 
 ![The Buller Stone, at the line of the wood](16.jpg)
@@ -185,20 +186,20 @@ You will probably have seen some of the many hut circles on this walk. There are
 > Altogether a remarkable place, said by early antiquaries to be the home of the druids, supposing Wistman to be a corruption of “wise man”. But, quite aside from the reality that there is no evidence whatsoever to associate these white-bearded priests with Dartmoor, this supposed derivation of the name is incorrect. There are two more plausible explanations for the name, either that it is derived from Welshman’s Wood, “Welsh” or “Wealas” being the Saxon word for “foreigners”, or that it comes from the Devon word “wisht” meaning “haunted”. --<cite>Mike Brown (2001), Guide to Dartmoor</cite>
 
 - The Trees are mostly Pendunculate (or English) Oak *Quercus Robur* and known to be hundreds of years old, and some Rowan *Sorbus Aucuparia* mixed in.
-- Shaped by the climate, weather and ground conditions almost unique to this location, they have naturally grown dwarfed. 
+- Shaped by the climate, weather and ground conditions almost unique to this location, they have naturally grown dwarfed.
 
 ![Top path of Wistman's Wood](20.jpg)
 
-- Few of the trees grow to more than 4.5 meters tall, with none more than 7m. 
+- Few of the trees grow to more than 4.5 meters tall, with none more than 7m.
 - Pendunculate Oak in other locations can reach 40 meters in height.
-  
+
 ![Wistman's Wood](28.jpg)
 
 - The name of Wistman's Wood may derive from the dialect word "wisht", meaning "eerie/uncanny" or "pixie-led/haunted".
 
 ![Wistman's Wood](29.jpg)
 
-- The legendary Wild Hunt in Devon, whose hellhounds are known as Yeth (Heath) or Wisht Hounds in the Devonshire dialect, is particularly associated with Wistman's Wood. 
+- The legendary Wild Hunt in Devon, whose hellhounds are known as Yeth (Heath) or Wisht Hounds in the Devonshire dialect, is particularly associated with Wistman's Wood.
 - Sir Arthur Conan Doyle was inspired by the Wild Hunt to write The Hound of the Baskervilles.
 
 ![Wistman's Wood](30.jpg)
@@ -217,7 +218,7 @@ You will probably have seen some of the many hut circles on this walk. There are
 
 ## Two Bridges
 
-Close to the parking is the area known as Two Bridges. 
+Close to the parking is the area known as Two Bridges.
 
 ![View of the West Dart from the modern road bridge at Two Bridges, opened 1931](23.jpg)
 
@@ -229,7 +230,7 @@ Close to the parking is the area known as Two Bridges.
 
 The pub changed its name to Two Bridges Hotel some time prior to 1849, so pre-dates the modern road bridge.
 
-Saracen's Head Inn: a booklet to mark its 225-year history records that "By 1772 the Turnpike bridge had been constructed across the Dart at Two Bridges and by 1794 Francis Buller had constructed the inn near the site. The inn bore the name of **The Saracen's Head**, a familiar name for pubs at the time but likely also connected to the fact that the Buller family crest was a Saracen's head 'affronte, couped, proper'".  Source: Alex Mettler (2015, rev.edn. 2018), Air Like Champagne: A short history of the Two Bridges Hotel, Dartmoor. Published by Two Bridges Hotel.. 
+Saracen's Head Inn: a booklet to mark its 225-year history records that "By 1772 the Turnpike bridge had been constructed across the Dart at Two Bridges and by 1794 Francis Buller had constructed the inn near the site. The inn bore the name of **The Saracen's Head**, a familiar name for pubs at the time but likely also connected to the fact that the Buller family crest was a Saracen's head 'affronte, couped, proper'".  Source: Alex Mettler (2015, rev.edn. 2018), Air Like Champagne: A short history of the Two Bridges Hotel, Dartmoor. Published by Two Bridges Hotel..
 
 The name "Two Bridges Hotel" seems to first appear after a change of landlord in May 1849 in an advertisement in the Western Morning News.  In 1885, the name The Saracen's Head Inn appeared in an advetisement to let including "that well known Inn House 'The Saracen's Head' ..... with buildings, stables, sheds and appurtenanes etc'". The Two Bridges Inn was destroyed by fire in late May 1866, as reported in the Exeter Flying Post.  The old name continued to be used for some time.
 
@@ -238,9 +239,9 @@ Wentworth Buller, who cut the tree in 1868, was no doubt related to Sir Francis 
 ![The earlier 1772 turnpike road bridge](27.jpg)
 
 
-## Parking 
+## Parking
 
-There is some limited parking at a small quarry close by the Two Bridges Hotel. It does get full at busy times, and there is some other parking on the roadside towards Postbridge. 
+There is some limited parking at a small quarry close by the Two Bridges Hotel. It does get full at busy times, and there is some other parking on the roadside towards Postbridge.
 
 ## References
 

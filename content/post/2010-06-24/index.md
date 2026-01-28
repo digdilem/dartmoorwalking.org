@@ -9,16 +9,16 @@ w3w: monkey.farms.companies
 gpx: foxtor-mire-and-childes-tomb
 
 image: 15.jpg
-tags: 
-  - circular 
-  - 6 mile walk  
-  - strenuous 
+tags:
+  - circular
+  - 6 mile walk
+  - strenuous
   - mire
   - tomb
   - kistvaen
   - mining
   - clapper bridge
-keywords: 
+keywords:
   - dartmoor
   - walk
   - walking
@@ -46,7 +46,7 @@ date: '2025-02-23T18:34:20Z'
 
 {{% routemap %}}
 
-Notes:  The GPX file is an approximation only and should not be relied upon. Additionally, the given map was an accurate log of safe walking, it was several years ago and paths in mires do move around. 
+Notes:  The GPX file is an approximation only and should not be relied upon. Additionally, the given map was an accurate log of safe walking, it was several years ago and paths in mires do move around.
 
 **Warning: DO NOT ATTEMPT THIS WALK IN THE WINTER OR AFTER HEAVY RAIN**
 
@@ -56,7 +56,7 @@ This route includes crossing the Foxtor Mire. It can be dangerous even in summer
 
 ## Introduction
 
-Few areas on Dartmoor include such a deep amount of historical, farming, religious, mining and legend as the Whiteworks area of Dartmoor. This walk takes us past mineshafts and directly across Foxtor Mire to the Goldsmith's cross, then along to Childe's Tomb - a burial site with a legendary tale. Then a walk up Foxtor itself, around to the ruined remains of Foxtor Farm, visits some Bronze Age Cairns, crosses a river and passes the hut circles of an ancient village on our return. 
+Few areas on Dartmoor include such a deep amount of historical, farming, religious, mining and legend as the Whiteworks area of Dartmoor. This walk takes us past mineshafts and directly across Foxtor Mire to the Goldsmith's cross, then along to Childe's Tomb - a burial site with a legendary tale. Then a walk up Foxtor itself, around to the ruined remains of Foxtor Farm, visits some Bronze Age Cairns, crosses a river and passes the hut circles of an ancient village on our return.
 
 ![Parking area in a small quarry by the Devonport Leat](1.jpg)
 
@@ -72,27 +72,27 @@ The name "Whiteworks" comes from kaolin, the white clay that lies in this natura
 
 ![One of the fenced off mineshafts of Whiteworks](4.jpg)
 
-The vast majority of visible remains of buildings and shafts are from the 19th Century when this was a very industrialised area. A Google Maps satellite view shows long lines of open cast pits, which were dug down by hand to expose a seam of ore.  Later, as the easier pickings were used up, shafts and mines were dug 
+The vast majority of visible remains of buildings and shafts are from the 19th Century when this was a very industrialised area. A Google Maps satellite view shows long lines of open cast pits, which were dug down by hand to expose a seam of ore.  Later, as the easier pickings were used up, shafts and mines were dug
 
 ![A shallower or partially filled shaft surrounded by a stone wall](5.jpg)
 
-Mining activity gradually declined and finally ceased at Whiteworks in 1914, when the remaining men were drafted for the First World War. As with many mines on Dartmoor and throughout Britain at that time, they never reopened. 
+Mining activity gradually declined and finally ceased at Whiteworks in 1914, when the remaining men were drafted for the First World War. As with many mines on Dartmoor and throughout Britain at that time, they never reopened.
 
 ## Foxtor Mire
 
 ![Drift Gate, a gateway to Foxtor Mire](6.jpg)
 
-The distinction between "Mire" and "Bog" is that bogs are fed by rainfall, and mires are fed by groundwater springs. 
+The distinction between "Mire" and "Bog" is that bogs are fed by rainfall, and mires are fed by groundwater springs.
 
 ![A view from the middle of the mire, looking north-eastwards towards the Swincombe valley](7.jpg)
 
 The exact depth of the mire is disputed. There are stories that the Army drove a tank into it and it disappeared never to be seen again! That's probably just a story, but it is certainly deep enough to drown a person, and the author has personally poked a stick in at least six feet over large parts of it. It will also grow and ebb depending on recent rainfall like a large sponge. Although it's fed by springs, it's also fed by surface water and slows the passage of water down the Swincombe valley.
 
-There was a railway sleeper laid across the river to aid crossing roughly in the centre of the mire and this is marked "FB" on Ordnance Survey Maps. 
+There was a railway sleeper laid across the river to aid crossing roughly in the centre of the mire and this is marked "FB" on Ordnance Survey Maps.
 
 ![Zoomed view to civilisation, at Whiteworks! The cottage on the left is a 20-bed bunkhouse owned by Plymouth College and is leased out for Outward Bound-type activities](8.jpg)
 
-Please be aware that the safe path across Foxtor Mire moves around each year as livestock moves around to graze. It is not possible to rely on maps or GPX tracks. 
+Please be aware that the safe path across Foxtor Mire moves around each year as livestock moves around to graze. It is not possible to rely on maps or GPX tracks.
 
 ![Near the middle of the mire, with the cottages at Whiteworks in the background](9.jpg)
 
@@ -106,7 +106,7 @@ This cross is named after Lt. Goldsmith R.N. who rediscovered it in 1903, after 
 
 - [Dartmoor Crosses - Goldsmith's Cross](http://www.dartmoor-crosses.org.uk/goldsmith's.htm)
 
-Although the exact origin and date of the cross is unknown, it is thought that the cross was used to guide travellers across the mire, and indeed it is approximately where the current path. 
+Although the exact origin and date of the cross is unknown, it is thought that the cross was used to guide travellers across the mire, and indeed it is approximately where the current path.
 
 ![Goldsmith's Cross with Whiteworks in the background, across the mire](11.jpg)
 
@@ -134,7 +134,7 @@ The first mention of the tomb was in the 1600's but the story may be much older.
 
 ![The interior of the large cavity inside Childe's Tomb](17.jpg)
 
-The stone of the tomb was robbed by workmen building the nearby Foxtor Farm in 1812. 
+The stone of the tomb was robbed by workmen building the nearby Foxtor Farm in 1812.
 
 In 1885, Mr Tanner of the Dartmoor Preservation Association directed the restoration of the tomb and cross as you see it today.
 
@@ -166,9 +166,9 @@ This girt is an artificial valley dug by men searching for tin, probably in the 
 
 ![Ruins near the River Swincombe](24.jpg)
 
-These ruins are possibly what's left of Sam Parr's house. 
+These ruins are possibly what's left of Sam Parr's house.
 
-Sam Parr was a labourer who worked at the nearby Fox Tor Farm in the mid 1800s. He had a wife and two children who were baptised in Princetown. 
+Sam Parr was a labourer who worked at the nearby Fox Tor Farm in the mid 1800s. He had a wife and two children who were baptised in Princetown.
 
 The ruins have also been identified as a blowing house for turning tin ore into ingots - there are certainly many remains of tinworkings and several tinner's huts nearby, and it's possible that Sam turned it into a home.
 
@@ -178,7 +178,7 @@ On the inner face of a large flat slab in the southeast corner of the building i
 
 ![Some of the ruins of Foxtor Farm](27.jpg)
 
-In the early 1800s, there were efforts to "Improve" Dartmoor for agricultural purposes - led largely by Sir Thomas Tyrwhitt who was responsible for much of Princetown's growth. The farm was build with locally sourced granite, including some stone robbed from the nearby Childe's Tomb. 
+In the early 1800s, there were efforts to "Improve" Dartmoor for agricultural purposes - led largely by Sir Thomas Tyrwhitt who was responsible for much of Princetown's growth. The farm was build with locally sourced granite, including some stone robbed from the nearby Childe's Tomb.
 
 ![Foxtor Farm](28.jpg)
 
@@ -224,7 +224,7 @@ This incongruous item is about 10m from the following cist. It's possibly an old
 
 !["DPA", marking a boundary of the Swincombe valley property holding](41.jpg)
 
-Dartmoor Preservation Association strongly opposed the proposed flooding of this valley. In 1970, a parliamentary committee ultimately decided against the scheme. 
+Dartmoor Preservation Association strongly opposed the proposed flooding of this valley. In 1970, a parliamentary committee ultimately decided against the scheme.
 
 In 1985, the DPA used funds from a bequest to acquire 50 acres of land to try and prevent a similar scheme in the future. These stones mark its boundary.
 
@@ -233,7 +233,7 @@ In 1985, the DPA used funds from a bequest to acquire 50 acres of land to try an
 *Once you've cross the river, there is a settlement marked on the map with several hut circles, dating from the Bronze Age. Once visited, we conclude our walk by heading back to Whiteworks over the open moor*
 
 
-## Parking 
+## Parking
 
 The posted coordinates are for a small parking area just where the Devonport Leat crosses under the road. Sometimes this gets full, but if so, returning a short way back towards Princetown there are several other parking areas a short distance.
 

@@ -9,21 +9,21 @@ w3w: cosmetic.outlawing.limes
 gpx: pullabrook-woods
 
 image: 30.jpg
-tags: 
-  - circular 
-  - 3 mile walk  
+tags:
+  - circular
+  - 3 mile walk
   - gentle
   - woodland
   - forest
   - bridge
   - river
-keywords: 
+keywords:
   - dartmoor
   - walk
   - wildlife
   - bovey
   - birds
-  - pullabrook 
+  - pullabrook
   - hisley
   - rudge
   - forest
@@ -45,7 +45,8 @@ keywords:
   - england
 comments: true
 draft: false
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2019-06-25'
 date: '2025-01-12T16:27:24Z'
@@ -67,11 +68,11 @@ Owned and managed by the [Woodland Trust](https://www.woodlandtrust.org.uk/visit
 
 ## Pullabrook Woods
 
-Also known as "Pullbrook Woods", if only by Ordance Survey, these woodlands are 50 acres (20ha) in size and are a mix of ancient woodland and wildflower-rich wet meadows in the steep-sided valley of the River Bovey. 
+Also known as "Pullbrook Woods", if only by Ordance Survey, these woodlands are 50 acres (20ha) in size and are a mix of ancient woodland and wildflower-rich wet meadows in the steep-sided valley of the River Bovey.
 
 The name Pullabrook probably comes from the personal name, "Polla", so in modern terms, "Polla's Brook"
 
-The nearby Pullabrook Farm is mentioned in the Domesday book of 1086 where it is written as "Polebroc" and was seized by William the Conquerer as part of the Bovi estate when the Normans invaded. As a reward for his support, William gave this estate to  Geoffrey de Mowbray the Bishop of Coutances. The current farmhouse dates from the sixteenth century and is Grade II listed. 
+The nearby Pullabrook Farm is mentioned in the Domesday book of 1086 where it is written as "Polebroc" and was seized by William the Conquerer as part of the Bovi estate when the Normans invaded. As a reward for his support, William gave this estate to  Geoffrey de Mowbray the Bishop of Coutances. The current farmhouse dates from the sixteenth century and is Grade II listed.
 
 * [Bovey Tracey History - Pullabrook](https://boveytraceyhistory.org.uk/places/pullabrook/)
 
@@ -89,11 +90,11 @@ The nearby Pullabrook Farm is mentioned in the Domesday book of 1086 where it is
 
 ![The track emerges here and we turn right to the North West. SX 78322 79547](7.jpg)
 
-We briefly leave The Woodland's Trust land and enter the bottom edge of Trendlebere Down, owned by English Heritage. 
+We briefly leave The Woodland's Trust land and enter the bottom edge of Trendlebere Down, owned by English Heritage.
 
-This unsealed track is, in fact, a fully legal road and you may see cars and motorbikes using it as well as cyclists, horseriders and walkers.  
+This unsealed track is, in fact, a fully legal road and you may see cars and motorbikes using it as well as cyclists, horseriders and walkers.
 
-Before the road that travels above us on Trendlebere Down was built in the 19th Century, this was the original and main road between Bovey Tracey and Manaton. 
+Before the road that travels above us on Trendlebere Down was built in the 19th Century, this was the original and main road between Bovey Tracey and Manaton.
 
 It's now a Byway Open to All Traffic (BOAT) which means any road going vehicle can legally use it provided they are taxed and insured - although much of it is only suitable to off road vehicles.
 
@@ -117,7 +118,7 @@ LP stands for Lustleigh Parish which extends to the North.
 
 ![Ordnance Survey Benchmark](12.jpg)
 
-The name "Pudding Stone" describe several types of rock around the world. In this case, it's likely that this is just a natural lumps of granite that happens to resemble a pudding. 
+The name "Pudding Stone" describe several types of rock around the world. In this case, it's likely that this is just a natural lumps of granite that happens to resemble a pudding.
 
 If you look closely, you will see that it has a inscribed feature of an arrow and line. This is a benchmark, likely carved during the 1800s when the Ordnance Survey did detailed mapping of the UK. There are over half a million of these symbols, some dating back to 1831, which provide a fixed point of reference. They are no longer created as technology has made them obsolete, but still a good reminder of how we created the most accurate maps in the world by measuring angles.
 
@@ -138,7 +139,7 @@ The pillar in the middle of the bridge is a modern addition to prevent off road 
 
 ![Slotted gatepost](18.jpg)
 
-Note the slotted gatepost to one side, presumably to control use by pack pony drivers or to prevent livestock from crossing. 
+Note the slotted gatepost to one side, presumably to control use by pack pony drivers or to prevent livestock from crossing.
 
 ![Slotted gatepost re-used as a hanging gatepost](19.jpg)
 
@@ -200,15 +201,15 @@ Emerging from Rudge Woods, we find ourselves in Rudge Meadow. On the 1838 Tithe 
 
 ![Viaduct](35.jpg)
 
-The viaduct once carried the GWR Moretonhampstead Railway Branch Line. This opened in 1866 as an independent line, and amalgamated with the GWR ten years later. British Rail nationalised it in 1948 and it closed in 1964 - another victim of Dr Beeching's cuts. 
+The viaduct once carried the GWR Moretonhampstead Railway Branch Line. This opened in 1866 as an independent line, and amalgamated with the GWR ten years later. British Rail nationalised it in 1948 and it closed in 1964 - another victim of Dr Beeching's cuts.
 
-Part of this line remains from Newton Abbot to Heathfield, although it has not been used for several years. It was resurrected briefly in the 2000's to take away timber from Teign Grace halt but has since been idle. 
+Part of this line remains from Newton Abbot to Heathfield, although it has not been used for several years. It was resurrected briefly in the 2000's to take away timber from Teign Grace halt but has since been idle.
 
 You can see more evidence of the railway in many places from Newton Abbot to Moretonhampstead - such as the railway sheds at Bovey Tracey, many viaducts such as this, and some engine sheds at the Thompson's lorry yard where it terminated. Much of the route is now a shared-use path for walkers, cyclists and horseriders.
 
 ![The railway passing the Railway Sheds at Bovey Tracey - now the main bypass. This is looking down towards the fire station](36.jpg)
 
-There was a nearby Pullabrook Halt railway stop, which was renamed in 1955 from Hawksmoor Halt, for the (not so nearby) Tuberculosis Sanitorium. 
+There was a nearby Pullabrook Halt railway stop, which was renamed in 1955 from Hawksmoor Halt, for the (not so nearby) Tuberculosis Sanitorium.
 
 * [Wikipedia - Moretonhampstead and South Devon Railway](https://en.wikipedia.org/wiki/Moretonhampstead_and_South_Devon_Railway)
 * [Wikipedia - Pullabrook Halt Railway Station](https://en.wikipedia.org/wiki/Pullabrook_Halt_railway_station)
@@ -219,7 +220,7 @@ There was a nearby Pullabrook Halt railway stop, which was renamed in 1955 from 
 
 ![Drakeford Bridge over the River Bovey. SX 78935 80133](37.jpg)
 
-William Crossing refers to this as New Bridge in the 1912 edition of Crossing's Guide to Dartmoor, and it is also known as Letford Bridge. However, today, it is best known as Drakeford Bridge. 
+William Crossing refers to this as New Bridge in the 1912 edition of Crossing's Guide to Dartmoor, and it is also known as Letford Bridge. However, today, it is best known as Drakeford Bridge.
 
 ![Incised stone in the parapet](38.jpg)
 
@@ -232,7 +233,7 @@ COVNTY
 ```
 Note: The '4' is carved back to front.
 
-## Parking 
+## Parking
 
 There is a free car park at the posted coordinates operated by the Woodland Trust. There is some parking at Trendlebeer Down also, if you don't mind a stiff walk back up the hill.
 

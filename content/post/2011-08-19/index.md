@@ -9,11 +9,11 @@ w3w: disprove.heaven.plodding
 gpx: the-henroost-and-skir-ford
 
 image: 6.jpg
-tags: 
-  - circular 
-  - 4 mile walk  
+tags:
+  - circular
+  - 4 mile walk
   - medium
-keywords: 
+keywords:
   - dartmoor
   - walk
   - walking
@@ -31,7 +31,8 @@ keywords:
   - england
 comments: true
 draft: false
-author: Keith Ryan and Simon Avery
+author: Liz Miall and Simon Avery
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2011-08-19'
 date: '2025-05-11T18:32:04+01:00'
@@ -45,12 +46,12 @@ date: '2025-05-11T18:32:04+01:00'
 
 Down Ridge near to Hexworthy is a quiet area that doesn't get too many tourists even when other parts of the moor are busy. I've personally spent 8 hours walking a large loop around here without seeing a single person - a rare thing even on Dartmoor.
 
-This is a walk that involves a fairly gentle slope upwards, following an old mining track and taking in some notable features. We pass a once imposing building which was used as target practice in the 1940s by the US forces training for D-Day, the wonderfully named Hooten Wheals mine close to the Henroost, both once profitable tin mines. There are also Bronze age remains nearby - all worth investigating. 
+This is a walk that involves a fairly gentle slope upwards, following an old mining track and taking in some notable features. We pass a once imposing building which was used as target practice in the 1940s by the US forces training for D-Day, the wonderfully named Hooten Wheals mine close to the Henroost, both once profitable tin mines. There are also Bronze age remains nearby - all worth investigating.
 
 A small detour is offered to explore Hooten Wheals.
 
 
-## Parking 
+## Parking
 
 There is a smallish parking area close to the given coordinates. Please be considerate to traffic continuing along the road to Sherberton.
 
@@ -60,9 +61,9 @@ There is a smallish parking area close to the given coordinates. Please be consi
 
 ![Follow the old track](2.jpg)
 
-This was the main track leading to several mines in this area, taking supplies and workers to, and ore and tiredness back towards the welcoming fire of The Forest Inn, Hexworthy. 
+This was the main track leading to several mines in this area, taking supplies and workers to, and ore and tiredness back towards the welcoming fire of The Forest Inn, Hexworthy.
 
-To the East and Southwest - but not visible from the track, there are a lot of Bronze age remains of hut circles, and medieval field systems. 
+To the East and Southwest - but not visible from the track, there are a lot of Bronze age remains of hut circles, and medieval field systems.
 
 ![You can see the Week Ford stepping stones across the river Dart in the distance to the East](3.jpg)
 
@@ -79,7 +80,7 @@ To the East and Southwest - but not visible from the track, there are a lot of B
 * Horse Ford Cross has been lost and discovered. At one time it disappeared entirely and wasn't seen for many years when in 1884 a local labourer discovered it buried in heather and turf. It was subsequently repaired with the iron strap and re-erected at its current location, although it's much shorter than it was originally
 * It stands 1.05m (3'5" high and 0.67m (2'2") across the arms
 * There are many references to Horses across Dartmoor, giving reference to their importance in day to day life
-* Horse Ford itself is directly below the Cross, providing a crossing of the O Brook. 
+* Horse Ford itself is directly below the Cross, providing a crossing of the O Brook.
 
 ![Another view of Horse Ford Cross](6.jpg)
 
@@ -89,7 +90,7 @@ To the East and Southwest - but not visible from the track, there are a lot of B
 
 ![Scant remains of the Mine Office](7.jpg)
 
-This was probably a fairly small building, positioned closely to the track so that incoming stores and workers could be closely monitored - and perhaps measuring tin that left the site. It's thought that as well as being the site office, the mine captain lived here, away from the main body of men. 
+This was probably a fairly small building, positioned closely to the track so that incoming stores and workers could be closely monitored - and perhaps measuring tin that left the site. It's thought that as well as being the site office, the mine captain lived here, away from the main body of men.
 
 ![Steps leading into the Mine Office](8.jpg)
 
@@ -125,7 +126,7 @@ Locally known as the Barracks, this once large building was also known as "The D
 
 ![Track looking South West](15.jpg)
 
-There is much evidence of various diggings in pursuit of the ore seams visible from this location in all directions. For example, the very straight track heading exactly due East just before the barracks leads to a now collapsed adit. 
+There is much evidence of various diggings in pursuit of the ore seams visible from this location in all directions. For example, the very straight track heading exactly due East just before the barracks leads to a now collapsed adit.
 
 
 ## O Brook Clapper Bridges
@@ -149,7 +150,7 @@ These gerts predate the more modern workings and were made by "The old men" of t
 
 *At the Clapper bridges, you can take a short detour along the well defined path left to the Southeast to explore the working platforms and above them, the collapsed adits and shafts. Sadly I have lost my photos of these*
 
-* Hooten Wheals was a highly industrialised area in the past, with a 45' (13.7m) water wheel providing power to 12 Cornish Stamps and 16 Californian Stamps to crush the ore bearing rock into smaller pieces. These stamps were positioned on the flat concrete stepped areas, using gravity to feed materials and water to help the process. This area was also roofed with corrugated iron, which was removed along with the stamps and other machiner when the mine closed. 
+* Hooten Wheals was a highly industrialised area in the past, with a 45' (13.7m) water wheel providing power to 12 Cornish Stamps and 16 Californian Stamps to crush the ore bearing rock into smaller pieces. These stamps were positioned on the flat concrete stepped areas, using gravity to feed materials and water to help the process. This area was also roofed with corrugated iron, which was removed along with the stamps and other machiner when the mine closed.
 * Stamps are fearsomely noisy things, just simply large chunks of iron being lifted and dropped back down repeatedly to break the stone. Combined with vibrating chutes to feed ore in and out, it would have been heard a long distance away
 * Naming:
    * "Hooten" originates from Old English language and means "Heel or spur of land", referring to a ridge or piece of high ground. Indeed, contour lines do show that Skir Hill above the workings is a projection. An alternative theory is that Hooten can also mean an old farmstead, and perhaps one of the nearby farms once shared its name to the mine

@@ -9,11 +9,11 @@ w3w: custodial.amphibian.hinted
 gpx: quarrymans-path-and-merrivale
 
 image: 5.jpg
-tags: 
-  - circular 
-  - 2 mile walk  
+tags:
+  - circular
+  - 2 mile walk
   - medium
-keywords: 
+keywords:
   - dartmoor
   - walk
   - quarry
@@ -36,7 +36,8 @@ keywords:
   - england
 comments: true
 draft: false
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2014-06-11'
 date: '2025-02-09T19:48:24Z'
@@ -46,7 +47,7 @@ date: '2025-02-09T19:48:24Z'
 
 {{% routemap %}}
 
-This circular walk takes in some great views, visits some attractive tors and points out some old quarrying history on the way down to Merrivale. 
+This circular walk takes in some great views, visits some attractive tors and points out some old quarrying history on the way down to Merrivale.
 
 *Park at the given coordinates and when ready, follow one of the paths due North away from the road*
 
@@ -56,12 +57,12 @@ This circular walk takes in some great views, visits some attractive tors and po
 
 Who was Rees Jeffreys?  (1871-1954)
 
-A British cyclist and campaigner for road improvements, who became responsible for British roads being classified as "A" or "B" roads. 
+A British cyclist and campaigner for road improvements, who became responsible for British roads being classified as "A" or "B" roads.
 
-> "the greatest authority on roads in the United Kingdom and one of the greatest in the whole world."  
+> "the greatest authority on roads in the United Kingdom and one of the greatest in the whole world."
 
-The Rees Jeffreys Road Fund is an organisation that seeks to encourage and promote better and safer roads. 
- 
+The Rees Jeffreys Road Fund is an organisation that seeks to encourage and promote better and safer roads.
+
 * [Wikipedia - Rees Jeffreys](https://en.wikipedia.org/wiki/William_Rees_Jeffreys)
 * [The Rees Jeffreys Road Fund](https://reesjeffreys.co.uk/)
 
@@ -71,7 +72,7 @@ The Rees Jeffreys Road Fund is an organisation that seeks to encourage and promo
 
 ![The Rock Basin atop Little Staple Tor](3.jpg)
 
-Rock Basins feature on many Dartmoor Tors. They are formed by the repeated freezing or water in surface irregularities where the expanding ice gradually prises out individual mineral grains.  
+Rock Basins feature on many Dartmoor Tors. They are formed by the repeated freezing or water in surface irregularities where the expanding ice gradually prises out individual mineral grains.
 
 * [DNPA - Geology PDF](https://www.dartmoor.gov.uk/__data/assets/pdf_file/0019/72109/lab-geology.pdf)
 
@@ -137,8 +138,8 @@ Traditional stonemasons still work very similarly to this, but now have tungsten
 
 > When I worked for DNPA in the late 1980s, they often employed a traditional stonemason who would work just inside the entrance of the Works Depot in Bovey Tracey. He had a 45 gallon oil drum full of granite chips on which he’d place his work, which might be a perfectly spherical ball to sit atop a gatepost. He’d stand there all day, chipping away. Pausing every now and then to offer up a hardboard template to check his progress, or check diameter with a set of large calipers. He wore a full face respirator, with a battery pack and inlet on his belt at the back, similar to those used by industrial welders, which blew filtered air into the mask. – Simon
 
-There are Bankers all around this area.     
- 
+There are Bankers all around this area.
+
 ![Side view of the banker, better showing the chips and waste rock split off to make the setts](18.jpg)
 
 ![Another view of the manmade track](19.jpg)
@@ -155,7 +156,7 @@ There are Bankers all around this area.
 
 ![Duke's Folly, below us in the valley](20.jpg)
 
-This noticeably man made structure is known as Duke's Folly, after William Duke who opened Merrivale Quarry in 1875. His grand plan was to build a railway across Long Ask to link with the Plymouth and Dartmoor Railway at Swell Tor Quarry, to provide an easy route out for his stone to Plymouth. 
+This noticeably man made structure is known as Duke's Folly, after William Duke who opened Merrivale Quarry in 1875. His grand plan was to build a railway across Long Ask to link with the Plymouth and Dartmoor Railway at Swell Tor Quarry, to provide an easy route out for his stone to Plymouth.
 
 His Folly here is a granite embankment made up of mostly waste rock from the main quarry, but is about as far as he got before the plan was abandoned.
 
@@ -189,9 +190,9 @@ This leat was built in the 1800s to carry water seven miles to the 13th Century 
 
 
 
-## Parking 
+## Parking
 
-There is a decent sized parking area at the given coordinates. If this is full, there is a smaller area a little way west, or at the Dartmoor Inn nearby. 
+There is a decent sized parking area at the given coordinates. If this is full, there is a smaller area a little way west, or at the Dartmoor Inn nearby.
 
 ## References
 

@@ -9,9 +9,9 @@ w3w: coasters.branching.eggs
 gpx: meldon-and-the-west-okemont-valley
 
 image: 16.jpg
-tags: 
-  - circular 
-  - 3 mile walk  
+tags:
+  - circular
+  - 3 mile walk
   - medium
   - reservoir
   - lake
@@ -23,7 +23,7 @@ tags:
   - industrial
   - adit
   - quarry
-keywords: 
+keywords:
   - dartmoor
   - reservoir
   - lake
@@ -57,7 +57,7 @@ date: '2024-12-18'
 
 ## Introduction
 
-Although a short walk of less than 3 miles, this area contains a huge amount of variation in terms of nature, geology and industrial history. 
+Although a short walk of less than 3 miles, this area contains a huge amount of variation in terms of nature, geology and industrial history.
 
 ![Our Parking for the day](1.jpg)
 
@@ -69,7 +69,7 @@ Although a short walk of less than 3 miles, this area contains a huge amount of 
 
 ![After descending into the wood and reaching level ground, there is a former bridge on the right with a gate between the abutments](4.jpg)
 
-The bank is apparently a former tramway but there is no mention of it in the usual reference sources. 
+The bank is apparently a former tramway but there is no mention of it in the usual reference sources.
 
 ## Tin Adit
 
@@ -77,7 +77,7 @@ The bank is apparently a former tramway but there is no mention of it in the usu
 
 The staining on the ground by metalliferous leaching indicates that there are metal ores in this vicinity. This particular mine was dug for Tin.
 
-Adits are horizontal tunnels used in mining. Some are used for access in and out and some are used for draining upper levels of water. This one is only open for about 10 meters, and was worked in tandem with the shafts on the slope immediately above it. 
+Adits are horizontal tunnels used in mining. Some are used for access in and out and some are used for draining upper levels of water. This one is only open for about 10 meters, and was worked in tandem with the shafts on the slope immediately above it.
 
 There would have been a spoil heap here when they were dug, but that has been removed by later activity.
 
@@ -126,7 +126,7 @@ It's now used by [The Granite Way](https://en.wikipedia.org/wiki/The_Granite_Way
 
 ![Waste Dumps](14.jpg)
 
-These are some of the quarry's waste dumps, more properly named as "finger dumps" for their shape. 
+These are some of the quarry's waste dumps, more properly named as "finger dumps" for their shape.
 
 In the late 1800s the "waste" was taken in trucks to a series of corrugated iron buildings at the northern end of the east side tramway. A transfer shed was used where the finished material was consigned to wagons operating on an incline leading to the London and South Western Rail sidings on the eastern edge of Meldon Viaduct. This incline becomes apparent as an earthwork partially obscuring the mouth of the early lime kiln. The crushed stone was used as ballast on railways and roads across the country and any unsuitable stone ended up here.
 
@@ -158,7 +158,7 @@ The limestone quarry was smaller in 1841 with various buildings around it that d
 
 ![The Weigh House and Weighbridge south of Meldon Viaduct - 2019](20.jpg)
 
-The Weigh House was ruined, but during 2019 was being rebuilt. 
+The Weigh House was ruined, but during 2019 was being rebuilt.
 
 * [Heritage Gateway MDV120246 - Weigh House and weighbridge south of the Meldon Viaduct](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV120246&resourceID=104)
 
@@ -172,9 +172,9 @@ The carts of finished stone were weighed here before leaving for the railway. Th
 
 ![The west lime kiln beside the track just north of the Pool, SX 56425 92261](22.jpg)
 
-This lime kiln was built between 1880 and 1885. 
+This lime kiln was built between 1880 and 1885.
 
-Lime was made in the kiln by setting alternating layers of limestone and charcoal made from coppiced hazel trees. Once the kiln was filled to the brim, the fire was lit and everything burned at a high temperature for three days, leaving behind quicklime, Calcium Oxide. 
+Lime was made in the kiln by setting alternating layers of limestone and charcoal made from coppiced hazel trees. Once the kiln was filled to the brim, the fire was lit and everything burned at a high temperature for three days, leaving behind quicklime, Calcium Oxide.
 
 Slaked lime can be made, carefully, from lime by adding water. This process is called hydration and as the reaction is exothermic, a huge amount of heat is produced and this can be extremely dangerous. Quicklime was so named from the old word "quick" which means "alive", as it acted like it was alive when water was added as it churned and boiled.
 
@@ -209,15 +209,15 @@ The Railway was extended as a single track as far as Lydford in 1874 and this in
 
 Through this gate and to the left is an early lime kiln.
 
-To the right is a bank that supported a tramway to the gate for bringing out old waste from the finger dumps, and down ahead is the Turbine House. 
+To the right is a bank that supported a tramway to the gate for bringing out old waste from the finger dumps, and down ahead is the Turbine House.
 
 The possible crushing house feature (seen below) is just out of sight on the right in this image
 
 ![East Lime Kiln](32.jpg)
 
-This is the earlier kiln, built before an Okehampton Estate map of 1790 and originally serving a small nearby quarry. It became disused but was used again when the Meldon Pool quarry started up. 
+This is the earlier kiln, built before an Okehampton Estate map of 1790 and originally serving a small nearby quarry. It became disused but was used again when the Meldon Pool quarry started up.
 
-This is earliest building in the valley to exploit the local geology. The view is partially blocked by an inclined tramway that took quarried stone up to the railway viaduct, which was built in 1874. 
+This is earliest building in the valley to exploit the local geology. The view is partially blocked by an inclined tramway that took quarried stone up to the railway viaduct, which was built in 1874.
 
 * [Heritage Gateway MDV120326 - Site of crushing sheds at Meldon Limestone Quarry](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV120326&resourceID=104)
 
@@ -245,23 +245,23 @@ Water was piped from the Red-a-ven brook to a turbine housed in this building, g
 
 ![The brick lined channel where waste water was released, having spent its energy](39.jpg)
 
-Somewhere near to the turbine house there were once corrugated iron buildings that housed crushers. These worked previous spoil heaps, crushing limestone which was then loaded onto wagons on an incline that led to the railway sidings on the eastern edge of Meldon Viaduct. 
+Somewhere near to the turbine house there were once corrugated iron buildings that housed crushers. These worked previous spoil heaps, crushing limestone which was then loaded onto wagons on an incline that led to the railway sidings on the eastern edge of Meldon Viaduct.
 
 ## Explosives Magazine
 
 ![The explosives magazine, SX 56550 92162](40.jpg)
 
-This stone ruin was once where explosives for the quarry were kept. Before each shift, the explosives handler would take only enough from here for that shift's operation. 
+This stone ruin was once where explosives for the quarry were kept. Before each shift, the explosives handler would take only enough from here for that shift's operation.
 
 Such handlers were often selected from the most careful and thorough of the workers, and would avoid carrying any iron tools, or even removed iron hobnails from their boots to reduce the chance of sparks.
 
 ![Looking over the store, with the rockface at Meldon Pool in the background](41.jpg)
 
-Although the walls are strong, explosives stores often had very weak roofs - typically made of stick and oilcloth. If there was an accident, then the force would be sent upwards instead of outwards and repairs to the building would therefore be relatively quick. 
+Although the walls are strong, explosives stores often had very weak roofs - typically made of stick and oilcloth. If there was an accident, then the force would be sent upwards instead of outwards and repairs to the building would therefore be relatively quick.
 
 ![A ground anchor nearby](42.jpg)
 
-This ground anchor looks very similar to those used through the 20th century to secure straining wires for telegraph and electricity poles. It was probably employed for a similar purpose here. 
+This ground anchor looks very similar to those used through the 20th century to secure straining wires for telegraph and electricity poles. It was probably employed for a similar purpose here.
 
 ## Mineshaft
 
@@ -283,9 +283,9 @@ These modern buildings are associated with more recent quarrying after 1921. The
 
 Before these buildings, there was a failed glass bottle operation on this site.
 
-From the late 19th century, investigations were being made concerning the production of granulite (a granular metamorphic rock) at Meldon. There seemed to be potential to establish both glass and china works at the site. 
+From the late 19th century, investigations were being made concerning the production of granulite (a granular metamorphic rock) at Meldon. There seemed to be potential to establish both glass and china works at the site.
 
-There was little activity until 1920 when a syndicate from London decided to build a glass factory. Two furnaces were installed out of a planned 12, and about 500 men were required. However, by February 1921, the men had been laid off and new owners were being sought. 
+There was little activity until 1920 when a syndicate from London decided to build a glass factory. Two furnaces were installed out of a planned 12, and about 500 men were required. However, by February 1921, the men had been laid off and new owners were being sought.
 
 No obvious features remain of a glass industry, but large amounts of broken glass fragments can be seen, mostly representing small medicine and cosmetic bottles.  <cite>-- (Western Morning News 29/03/1920</cite>
 

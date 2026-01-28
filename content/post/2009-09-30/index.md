@@ -9,14 +9,14 @@ w3w: overlaps.pelted.revisits
 gpx: sheepstor-stone-circles
 
 image: 16.jpg
-tags: 
-  - circular 
-  - 3 mile walk  
+tags:
+  - circular
+  - 3 mile walk
   - bronze age
   - stone circles
   - cists
   - gentle
-keywords: 
+keywords:
   - dartmoor
   - stone circles
   - cists
@@ -37,7 +37,8 @@ keywords:
   - england
 comments: true
 draft: false
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2009-09-30'
 date: '2024-12-22T15:09:35Z'
@@ -61,7 +62,7 @@ This walk takes us over open moorland amongst bronze age hut circles, burial cis
 
 ![Sheeps Tor from a corn ditch wall at SX 58092 67935](2.jpg)
 
-A Corn Ditch Wall is an artificial barrier separating grazing land and the common moorland. 
+A Corn Ditch Wall is an artificial barrier separating grazing land and the common moorland.
 
 Where it differs from a normal wall is that the land approaching it from the moor side is steep and difficult to negotiate, but the earth on the other side ramps up to its top. This is to allow animals to leave the richer farm grazing and venture forth onto the moor.
 
@@ -144,7 +145,7 @@ Note the disturbed ground from one of the trenches from the 2008 excavation comp
 
 
 
-## Parking 
+## Parking
 
 There is usually parking at the Gutter Tor car park, shown with a yellow cross on the [map](map.jpg)
 

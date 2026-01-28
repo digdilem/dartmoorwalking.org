@@ -1,6 +1,6 @@
 ---
 title: Widecombe
-description: A medium walk of four miles taking in many of the features of Widecombe village, up the quiet Wooder Lane, then back below Honeybag and Chinkwell Tors and through the medieval settlement, Bonehill 
+description: A medium walk of four miles taking in many of the features of Widecombe village, up the quiet Wooder Lane, then back below Honeybag and Chinkwell Tors and through the medieval settlement, Bonehill
 categories: ["Mid Dartmoor"]
 distance: 4
 coords: 50.57759014440235,-3.810615239687079
@@ -9,15 +9,15 @@ w3w: mornings.cement.regret
 gpx: widecombe
 
 image: 1.jpg
-tags: 
-  - circular 
-  - 4 mile walk  
+tags:
+  - circular
+  - 4 mile walk
   - medium
   - moorland
   - track
   - green lane
   - widecombe
-keywords: 
+keywords:
   - dartmoor
   - widecombe
   - moorland
@@ -50,7 +50,7 @@ date: '2024-12-16T10:42:16Z'
 
 The name Widecombe is from "Withy or Willow Valley", a Saxon name. Settlements and a wooden church were established here long before the Normans invaded in 1066 and in the Domesday Book (of 1086) includes the manors of Natsworthy and Dunstone in the Webburn valley. Granite longhouses began to appear in the 1100 & 1200s as the Village grew and got richer.
 
-The large Granite Village Sign depicts the Uncle Tom Cobley song in a carved inset at the top. This sign was designed by Lady Sylvia Sayer in the 1940s who was chair of the Dartmoor Preservation Association from 1851 to 1973. 
+The large Granite Village Sign depicts the Uncle Tom Cobley song in a carved inset at the top. This sign was designed by Lady Sylvia Sayer in the 1940s who was chair of the Dartmoor Preservation Association from 1851 to 1973.
 
 > Lady Sayer was still a tremendous force on Dartmoor into the late 1980s. Respected, and perhaps a little feared, by the staff at Dartmoor National Park Authority when I worked there <cite>-- Simon</cite>
 
@@ -80,7 +80,7 @@ The impressive base for this yew was originally constructed to hold a large gran
 ![Church House](6.jpg)
 
 Church House dates from around 1537 and was initially built for parish festivities - an early form of village hall. These activities were stopped in 1603 [by the Puritans](https://en.wikipedia.org/wiki/Puritans) who sought to rid the Church of England of what they considered to be Roman Catholic practices.
- 
+
 It then became a [Poorhouse](https://en.wikipedia.org/wiki/Poorhouse) then in Victorian Times, a School.  Currently it is owned by The National Trust and a shop and craft centre.
 
 ## Widecombe Graveyard
@@ -97,11 +97,11 @@ Note the large flat-topped stone in the gate. This is for coffins to be rested o
 
 ![Two names for the same person. SX 71900 76774](15.jpg)
 
-A rare gravestone memorial in Widecombe churchyard, with two names for the same person. 
+A rare gravestone memorial in Widecombe churchyard, with two names for the same person.
 
-Olive Katharine Parr was the author who used the pen name, Beatrice Chase. 
+Olive Katharine Parr was the author who used the pen name, Beatrice Chase.
 
-Olive Parr, 1874 – 1955, moved to nearby Venton in the early 1900s and there wrote many books including "Through a Dartmoor Window".  
+Olive Parr, 1874 – 1955, moved to nearby Venton in the early 1900s and there wrote many books including "Through a Dartmoor Window".
 
 Somewhat of a self-publicist, Olive gave herself the rather grand title of "My Lady of the Moor", claims to have invented the Uncle Tom Cobley story, and said she started the tradition of leaving fresh flowers on the grave of Kitty Jay. However, her descriptions of Dartmoor Life during the early twentieth century are without doubt very important from a historical perspective, and her passion for Dartmoor was no lie. She was also involved in the First World War effort, creating the "Knights of the White Crusade" - a movement to encourage all servicemen to be "Pure and noble". She also campaigned against Dartmoor being turned into a National Park, and against its use as a Military training ground. Clearly a lady of strong opinions.
 
@@ -111,7 +111,7 @@ Somewhat of a self-publicist, Olive gave herself the rather grand title of "My L
 
 ![Longer view of Widecombe Church and Graveyard](40.jpg)
 
-Dominating the village is the medieval [Church of St. Pancras](https://en.wikipedia.org/wiki/Church_of_Saint_Pancras,_Widecombe-in-the-Moor) which dates from the late 1300, although there is a list of vicars which goes back to 1253 for the Village. It's sometimes called The Cathedral Of The Moor due to it being so imposing, and also as it's the biggest Church on Dartmoor. The 120ft tower was added in the 1400 or early 1500's through the benevolence of the tinners' Guild of St Pancras. 
+Dominating the village is the medieval [Church of St. Pancras](https://en.wikipedia.org/wiki/Church_of_Saint_Pancras,_Widecombe-in-the-Moor) which dates from the late 1300, although there is a list of vicars which goes back to 1253 for the Village. It's sometimes called The Cathedral Of The Moor due to it being so imposing, and also as it's the biggest Church on Dartmoor. The 120ft tower was added in the 1400 or early 1500's through the benevolence of the tinners' Guild of St Pancras.
 
 Named after a Roman boy, Pancratius, martyred under Emperor Diocletian in 304 AD.
 
@@ -127,7 +127,7 @@ The church was badly damaged in the Great Thunderstorm of 1638, apparently struc
 
 ![Glebe House, opposite Church House, once the church's Glebe farm](8.jpg)
 
-A [glebe](https://en.wikipedia.org/wiki/Glebe) is a piece of land in the parish used to raise revenues for the clergy. 
+A [glebe](https://en.wikipedia.org/wiki/Glebe) is a piece of land in the parish used to raise revenues for the clergy.
 
 ![A wing at the rear of Glebe house was the original tithe barn for the Parish](9.jpg)
 
@@ -139,7 +139,7 @@ A [glebe](https://en.wikipedia.org/wiki/Glebe) is a piece of land in the parish 
 
 The original Post Office was down the bottom of this hill (Southcombe Villa, P.O.) where the Postmaster lived and one of the adjacent buildings was the stable for his horse. The Cafe on the Green and a building between here and the Green were also Post Offices at one time. <cite>Source: a local resident</cite>
 
-![The Old Rectory, labelled as "Vicarage" on the 1843 tithe map](18.jpg) 
+![The Old Rectory, labelled as "Vicarage" on the 1843 tithe map](18.jpg)
 
 ## Village well and Piggery
 
@@ -147,7 +147,7 @@ The original Post Office was down the bottom of this hill (Southcombe Villa, P.O
 
 ![Below the well is the Old Pig and Heritage Garden](17.jpg)
 
-The Old Piggery was restored as part of the Lottery funded [Moor Than Meets the Eye Project](https://www.moorthanmeetstheeye.org/__data/assets/pdf_file/0008/575549/PB5-Welcome-to-Widecombe.pdf) and is worth a look. It holds old tools and implements and is a small, free museum. 
+The Old Piggery was restored as part of the Lottery funded [Moor Than Meets the Eye Project](https://www.moorthanmeetstheeye.org/__data/assets/pdf_file/0008/575549/PB5-Welcome-to-Widecombe.pdf) and is worth a look. It holds old tools and implements and is a small, free museum.
 
 *For our walk, we turn and walk back uphill again. Past the Square and follow Church Road, which is left before the Village Green*
 
@@ -182,7 +182,7 @@ This beautifully carved stone is set in the west hedgebank on our left at ground
 
 > "About a mile north of Widecombe village, just beyond Stouts Cottages there is an old stone, with the inscription '1 mioL' on it. Suggested to be a parole stone defining the limits that prisoner of war officers (Napopleonic, 1809-1815) were allowed to range within." <cite>-- [Heritage Gateway - MDV30083](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV30083&resourceID=104)</cite>
 
-## Thornhill Lane 
+## Thornhill Lane
 
 *We stay on the quiet metalled road for about a mile and a half, until we see the stony track leading up to the right*
 
@@ -194,9 +194,9 @@ Thornhill or Thorny Lanewas a medieval road going North from Hemsworthy Gate to 
 
 ![Hameldon, or Hamel Down](25.jpg)
 
-Hameldon, (Trig Point at SX 70313 80573, elevation 529 metres / 1735 feet) across the East Webburn River. 
+Hameldon, (Trig Point at SX 70313 80573, elevation 529 metres / 1735 feet) across the East Webburn River.
 
-The East Webburn rises near Grimspound and flows through Widecombe to join the West Webburn River south of Widecombe at Lizwell Meet (Oakmoor Wood), at SX 71335 73703. 
+The East Webburn rises near Grimspound and flows through Widecombe to join the West Webburn River south of Widecombe at Lizwell Meet (Oakmoor Wood), at SX 71335 73703.
 
 ![Chinkwell Tor (left) with Sharp Tor on it's flank to the right](26.jpg)
 
@@ -226,7 +226,7 @@ Bonehill Gate, beside Bonehill Rocks where the road descends steeply to the medi
 
 ![Middle Bonehill](36.jpg)
 
-> Middle Bonehill was owned by the Smerdon family throughout almost the entire post-medieval period. In fact, it was owned from mid-Elizabethan times until the closing years of the Victorian era by no less than eleven consecutive generations of John Smerdons. 
+> Middle Bonehill was owned by the Smerdon family throughout almost the entire post-medieval period. In fact, it was owned from mid-Elizabethan times until the closing years of the Victorian era by no less than eleven consecutive generations of John Smerdons.
 > The last John Smerdon died and the property passed to Edwin Smerdon who died in 1900, when the family connection was finished. <cite>-- Mike Brown</cite>
 
 ![There are many interesting aspects of Middle Bonehill's old longhouse, the porch being one of them](37.jpg)

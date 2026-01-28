@@ -6,15 +6,15 @@ categories: ["North Dartmoor"]
 author: Simon Avery & Keith Ryan
 image: 18.jpg
 gpx: yes-tor-via-row-tor
-tags: 
-  - circular 
+tags:
+  - circular
   - 5 mile walk
   - military
   - tank
   - highest
   - views
   - strenuous
-keywords: 
+keywords:
   - dartmoor
   - yes tor
   - okehampton military training1
@@ -32,7 +32,8 @@ distance: 5
 coords: 50.712773,-3.989706
 w3w: searching.pleasing.sleeping
 grade: Strenuous
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 date: '2024-11-20'
 ---
@@ -43,7 +44,7 @@ date: '2024-11-20'
 
 **Warning** This walk enters the Okehampton Military Training area. Before embarking, do check the [Dartmoor Firing times](https://www.gov.uk/government/publications/dartmoor-firing-programme)  The road access to the area will be manned and blocked at these times by the camp.
 
-Additionally, you should not approach or touch and strange or metallic objects on this walk. It is common to spot such things, including live munitions and rounds, that have been left behind by the live firing training. 
+Additionally, you should not approach or touch and strange or metallic objects on this walk. It is common to spot such things, including live munitions and rounds, that have been left behind by the live firing training.
 
 If you do encounter such an item, take a positional reading and report it to the Training Safety Officer (tel: 01837 657210), Okehampton Camp or the Police who will investigate and dispose of the item safely.
 
@@ -68,7 +69,7 @@ If you do encounter such an item, take a positional reading and report it to the
 
 ![Two firing positions, with the command point between them and target butts in the distance](7.jpg)
 
-Okehampton Military Range was established in 1876. 
+Okehampton Military Range was established in 1876.
 
 Three types of target built in 1901 - static, moving and disappearing. The camp became the HQ for the Army School of Gunnery in the summer months and thereby the county's most important practise camp
 
@@ -113,7 +114,7 @@ This part of Dartmoor has many such containers from various dates. They were (an
 
 ![Yes Tor triangulation pillar with High Willhays in the distance, at SX 580 894, elevation 621 metres (2037 feet)](21.jpg)
 
-> **Route Suggestion** If you haven't visited Dartmoor's highest point yet and have some energy left, continuing on to High Willhays pictured about for an additional 850 meters will give you that distinction. 
+> **Route Suggestion** If you haven't visited Dartmoor's highest point yet and have some energy left, continuing on to High Willhays pictured about for an additional 850 meters will give you that distinction.
 
 ![Walkers passing from Yes Tor going over High Willhays](22.jpg)
 

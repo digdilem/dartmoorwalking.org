@@ -1,14 +1,14 @@
 ---
 title: The Powder Mills
 walkdate: '2020-05-25'
-description: A walk of about 3 miles across open moorland to the historic Powder Mills site, near to Postbridge in central Dartmoor. 
+description: A walk of about 3 miles across open moorland to the historic Powder Mills site, near to Postbridge in central Dartmoor.
 categories: ["Mid Dartmoor"]
 gpx: the-powder-mills
 
 proofed: yes
 author: Simon Avery & Keith Ryan
 image: 19.jpg
-tags: 
+tags:
   - moorland
   - 3 Mile Walk
   - history
@@ -19,7 +19,7 @@ tags:
   - lich way
   - the hairy hands
   - gentle
-keywords: 
+keywords:
   - dartmoor
   - the hairy hands
   - lich way
@@ -42,7 +42,8 @@ distance: 3
 coords: 50.581706,-3.926459
 w3w: aside.explained.package
 grade: Gentle
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 date: '2024-11-26'
 ---
@@ -70,7 +71,7 @@ This road is famously recorded as having a pair of ghostly hands that take contr
 
 ## About the Lich Way
 
-* Dartmoor's Lich Way is a 17 mile path across Dartmoor from beyond Bellever through to Lydford. 
+* Dartmoor's Lich Way is a 17 mile path across Dartmoor from beyond Bellever through to Lydford.
 * We join it on our way to the Powdermills for only a short distance, but it's a very interesting piece of Ancient Dartmoor history.
 * Prior to 1260, residents of the farms and villages in this area of Dartmoor belonged to the Parish of Lydford. This meant that as well as travelling off the moor to attend services, they were expected to bury their dead in the consecrated ground of Lydford, then a major and powerful town. Coffins were carried by ox or pony cart, strapped directly onto pack ponies, or carried by men.
 * The route bears many memories of its purpose. There is a Coffin Wood, and many suitable large flat rocks along the route are identified as "Coffin Stones" where the heavy burden was laid so the carriers could rest.
@@ -100,13 +101,13 @@ Arch Tor: The top stone is a large logan stone, with rock basins and an inscript
 
 ## About Gunpowder
 
-Gunpowder is a mixture of three components of varying proportions depending on intended use.   
+Gunpowder is a mixture of three components of varying proportions depending on intended use.
 
 [More info - Wikipedia](https://en.wikipedia.org/wiki/Gunpowder#Composition_and_characteristics)
 
-However, the production of gunpowder is complicated and is unsurprisingly dangerous. 
+However, the production of gunpowder is complicated and is unsurprisingly dangerous.
 
-The Powdermills site is also complicated. Everything (except for the water) entered the site at the Southern entrance. Various stages in production occurred going up through the site to the three incorporation mills at the north end and then coming back down through the site until final storage in a main magazine ready for shipment to buyers. 
+The Powdermills site is also complicated. Everything (except for the water) entered the site at the Southern entrance. Various stages in production occurred going up through the site to the three incorporation mills at the north end and then coming back down through the site until final storage in a main magazine ready for shipment to buyers.
 
 ![This DNPA Notice on the first Incorporation Mill explains the process](11.jpg)
 
@@ -114,29 +115,29 @@ Gunpowder, black powder or rock powder (local name) used for quarrying and mine 
 
 The composition is 75% saltpetre, 15% charcoal and 10% sulphur (aka brimstone or burning stone).
 
-Dynamite, more powerful, was patented in May 1867 by Alfred Nobel. Its success as a superior explosive led to eventual closure of the mills in 1897. 
+Dynamite, more powerful, was patented in May 1867 by Alfred Nobel. Its success as a superior explosive led to eventual closure of the mills in 1897.
 
-The ingredients, saltpetre (mostly from  India), sulphur (mostly from the Vesuvius and Stromboli regions of Italy) and the charcoal (made from local wood, especially alder or alder buckthorn), were ground separately in a grinding mill house. These were then blended in the required proportions in large barrels tumbled by waterwheels. This incorporated them  into a single compound using a combination of mixing, crushing and churning. This was a hazardous process that was governed by strict regulations and regular inspections. Only wooden and copper tools were allowed , so as to prevent sparks causing explosions.  The men had to wear leather aprons and sof-soled shoes, no hobnail boots. There is a story that one man, Silas Sleep, who took his breakfast and dinner to eat at work, always ate them both together, in case he was 'blowed up' and sent to meet his maker before lunch time. 
+The ingredients, saltpetre (mostly from  India), sulphur (mostly from the Vesuvius and Stromboli regions of Italy) and the charcoal (made from local wood, especially alder or alder buckthorn), were ground separately in a grinding mill house. These were then blended in the required proportions in large barrels tumbled by waterwheels. This incorporated them  into a single compound using a combination of mixing, crushing and churning. This was a hazardous process that was governed by strict regulations and regular inspections. Only wooden and copper tools were allowed , so as to prevent sparks causing explosions.  The men had to wear leather aprons and sof-soled shoes, no hobnail boots. There is a story that one man, Silas Sleep, who took his breakfast and dinner to eat at work, always ate them both together, in case he was 'blowed up' and sent to meet his maker before lunch time.
 
-"Incorporation" was the first stage of production, in one of the three incorporation mills ("wheelhouses") at the top of the site, it resulted in a form of "cake". It was probably at this stage that the powders were dampened with water to reduce "dust"  and prevent accidental explosions. This also helped the very soluble salpetre to mix into the porous charcoal. The resulting damp paste or "mill cake" was shaped into "corns".  
+"Incorporation" was the first stage of production, in one of the three incorporation mills ("wheelhouses") at the top of the site, it resulted in a form of "cake". It was probably at this stage that the powders were dampened with water to reduce "dust"  and prevent accidental explosions. This also helped the very soluble salpetre to mix into the porous charcoal. The resulting damp paste or "mill cake" was shaped into "corns".
 
 This was "ripe charge" that could be stored for a short period. It was then pressed down in e.g. a 2-ft square box to "press cake" about an inch thick. Originally this was a hand-powered process, like a cider press, but later a water wheel was used to drive the presses.
 
-The next stage was "corning" when slabs of cake were broken up with wooden mallets into a granular form. Later, water-powered machines were used. This involved rollers and then sieving through different sized meshes. The powder was then tumbled in rotating barrels or cylinders. These were covered with gauze to collect any small dust-sized particles. This was another water-wheel powered process.  
+The next stage was "corning" when slabs of cake were broken up with wooden mallets into a granular form. Later, water-powered machines were used. This involved rollers and then sieving through different sized meshes. The powder was then tumbled in rotating barrels or cylinders. These were covered with gauze to collect any small dust-sized particles. This was another water-wheel powered process.
 
 The next stage was "glazing", where the grains were tumbled again, with graphite or black lead to give each grain of powder a waterproof coating. This made the powder suitabe for use in damp mines and quarrying.
 
 The last stage was "drying", sometimes in the open air. Usually, this was done in heated "Gloom stoves". These were heated by an iron furnace with the powder laid on trays stacked around it. Later, steam stoves were used to heat pipes near the trays. The process used a flue to take away any sparks and fumes to a chimney - and this is seen at the south, bottom end of the site.
 
-The final product was packed in large oak barrels that were covered with leather to prevent spillage and from stray sparks entering. 
+The final product was packed in large oak barrels that were covered with leather to prevent spillage and from stray sparks entering.
 
-The gunpowder quality was tested periodically using the proving mortar that lies beside the road going into the Powdermills site. The strength was determined by firing a 68 lb iron ball over a distance that was then measured. 
+The gunpowder quality was tested periodically using the proving mortar that lies beside the road going into the Powdermills site. The strength was determined by firing a 68 lb iron ball over a distance that was then measured.
 
-Besides the actual gunpowder makers or millers, the Powdermills employed coopers, blacksmiths, carpenters, wagoneers, carters, wheelwrights, stable staff and labourers. 
+Besides the actual gunpowder makers or millers, the Powdermills employed coopers, blacksmiths, carpenters, wagoneers, carters, wheelwrights, stable staff and labourers.
 
 ## The Powdermills History
 
-**George Frean**, a Plymouth Alderman, founded the Plymouth & Dartmoor Gunpowder Company and opened Powdermills in 1844; it closed in 1897. It had employed about 100 men. 
+**George Frean**, a Plymouth Alderman, founded the Plymouth & Dartmoor Gunpowder Company and opened Powdermills in 1844; it closed in 1897. It had employed about 100 men.
 
 George Frean later teamed up with James Peek, one of three brothers importing tea - wanted a biscuit business for "tea and biscuits" - wrote to George Frean, "miller and ships biscuit maker", who had married a niece of theirs, to manage [Peak Freans](https://en.wikipedia.org/wiki/Peek_Freans)
 
@@ -146,7 +147,7 @@ The leat through the site is described in the book Industrial Archaeology of Dar
 
 Waterwheels were used in the three massively-built incorporating mills (1,2,3 on the [map](map.jpg)), glazing mill (4), pressing house (5) and two in the incorporating/composition mill and cartridge pressing house/corning/dusting house and glazing mill complex (6,7), and the final preparation rooms (8), making eight altogether. There is also a ninth, disused wheelpit at the final preparation rooms with later lean-tos in it.
 
-Separate from the powder works to the south, along the road in, is the row of 19th century buildings that included cottages, a manager's house, school, cooperage and a small Methodist chapel. Today, there is a pottery, offices and farm buildings. South of the cottages beside the road is the proving mortar and nearby is a wheel-binding stone, used for fixing hot iron rims to cart and wagon wheels.  
+Separate from the powder works to the south, along the road in, is the row of 19th century buildings that included cottages, a manager's house, school, cooperage and a small Methodist chapel. Today, there is a pottery, offices and farm buildings. South of the cottages beside the road is the proving mortar and nearby is a wheel-binding stone, used for fixing hot iron rims to cart and wagon wheels.
 
 [Link to Heritage Gateway for one of the many Monuments on this site - see "Associated Monuments"](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV43175&resourceID=104)
 
@@ -156,7 +157,7 @@ The site - starting below at South Chimney after entering at the top of the site
 
 There can be confusion identifying buildings when referring to the 2019 book and the 1990 survey listed above. The book starts at the south end of the site (page 98) with "Building 1" and the archaeogical survey starts from the north. The survey numbers are in (brackets).
 
-There is no known map saying what each building was used for, so there is conjecture based on the gunpowder-making processes and  the requirements for them to be carried out.  
+There is no known map saying what each building was used for, so there is conjecture based on the gunpowder-making processes and  the requirements for them to be carried out.
 
 ![Scene approaching the top (north end) of the Powdermills site, with the first Incorporation Mill ("wheelhouse") and Longaford Tor. Photo taken by the entry gate](12.jpg)
 
@@ -176,7 +177,7 @@ There is no known map saying what each building was used for, so there is conjec
 
 ![17 (18) South chimney / Cylinder House  / Charcoal / Saltpetre Works: group of buildings including a possible cylinder house, for charcoal manufacture](19.jpg)
 
-If ready-made charcoal was brought in, then the South Chimney could have been for processing saltpetre, dissolving it and recrystallising it to make it more pure. 
+If ready-made charcoal was brought in, then the South Chimney could have been for processing saltpetre, dissolving it and recrystallising it to make it more pure.
 
 Three phases of development and extension have been identified and it is likely that the function of the buildings changed over time. A flue and chimney indicate heat was involved. The flue to the chimney is about 1 metre deep and 1 metre wide. Its eastern portion is now open and rubble-filled, but the western portion is still capped. It enters the base of the chimney which is set on a plinth. The chimney is about 10.5 metres high.
 
@@ -200,19 +201,19 @@ South Chimney with the 17 (18) Saltpetre / Charcoal Works behind. Across the tra
 
 ![Ahead is the Cherry Brook which is crossed by a clapper bridge](27.jpg)
 
-Immediately ahead is 3 (15) a Mixing House / Store behind the gate and tree, and to the right is 4 (14), a double structure that had two water wheels. The left section is believed to be a Cartridge Press House / Preparation Room and the right section is believed to be the Corning / Dusting House and Glazing Mill. 
+Immediately ahead is 3 (15) a Mixing House / Store behind the gate and tree, and to the right is 4 (14), a double structure that had two water wheels. The left section is believed to be a Cartridge Press House / Preparation Room and the right section is believed to be the Corning / Dusting House and Glazing Mill.
 
 ![A view of the Cherry Brook and clapper bridge](28.jpg)
 
 ![2 (17) Watch House / Cartridge Press House / Store](29.jpg)
 
-Possibly a saltpetre crystallising house. 
+Possibly a saltpetre crystallising house.
 
-Long rectangular single-storey building located at the southern end of the site and aligned north to south.. Two, possibly three, phases have been identified. Water was culverted through the building under the floor. Its north wall was probably the dwarf wall which now subdivides it from the extension to the north. Dwarf walls in one interior consist of one long spine wall and two side walls. Another dwarf wall runs east to west across the structure from the northernmost door to the east wall. These appear to form a raised floor with water, air or heat circulating beneath. A small, square, stone-lined feature to the west of the south-west corner may be a well, or possibly a pit in which staves were soaked. The building is described in the book as the Watch House, where materials in and out of the site were monitored. It might also have been used as a store. 
+Long rectangular single-storey building located at the southern end of the site and aligned north to south.. Two, possibly three, phases have been identified. Water was culverted through the building under the floor. Its north wall was probably the dwarf wall which now subdivides it from the extension to the north. Dwarf walls in one interior consist of one long spine wall and two side walls. Another dwarf wall runs east to west across the structure from the northernmost door to the east wall. These appear to form a raised floor with water, air or heat circulating beneath. A small, square, stone-lined feature to the west of the south-west corner may be a well, or possibly a pit in which staves were soaked. The building is described in the book as the Watch House, where materials in and out of the site were monitored. It might also have been used as a store.
 
 ![View after passing further south towards the other site entrance gate (not for general public use)](30.jpg)
 
-Hidden behind is 3 (15) Mixing House / Store and to the right is 4 (14), a double structure that had two water wheels. The left section is believed to be a Cartridge Press House / Preparation Room and the right section is believed to be the Corning / Dusting House and Glazing Mill. 
+Hidden behind is 3 (15) Mixing House / Store and to the right is 4 (14), a double structure that had two water wheels. The left section is believed to be a Cartridge Press House / Preparation Room and the right section is believed to be the Corning / Dusting House and Glazing Mill.
 
 ![1 (16) Checking House possible office or store. This is a small, rectangular, ruin off the track, to the left of the site entrance gateway. It could have been used for checking workers into the works to ensure they had nothing about them that might cause sparks](31.jpg)
 
@@ -220,7 +221,7 @@ Hidden behind is 3 (15) Mixing House / Store and to the right is 4 (14), a doubl
 
 ![3 (15) Possible Mixing House](33.jpg)
 
-Small, rectangular, single-storey shed, in line with the track over the brook to the South Chimney. Aligned north to south. South gable end mostly survives. The west wall stands to full height; the east wall survives only as footings. No doors or windows are present in the three standing walls. There is plaster rendering on the interior. Small stone-lined channel runs east to west down the outside of, and parallel to, the south wall. 
+Small, rectangular, single-storey shed, in line with the track over the brook to the South Chimney. Aligned north to south. South gable end mostly survives. The west wall stands to full height; the east wall survives only as footings. No doors or windows are present in the three standing walls. There is plaster rendering on the interior. Small stone-lined channel runs east to west down the outside of, and parallel to, the south wall.
 
 ![4 (14) x 2 - a double building with two waterwheels.](34.jpg)
 
@@ -236,7 +237,7 @@ Incorporating/composition mill (south), possible cartridge press house (south of
 
 ![11 (13) Possible Press House](39.jpg)
 
-Long, rectangular gable-ended(?) building aligned north-south with an east-west wheelpit to the south.  The wall of the wheelpit is visible only in the west. The position of the sluice is identifiable. The tailrace is not visible. This where a waterwheel powered a press to squeeze moisture out of the gunpowder. 
+Long, rectangular gable-ended(?) building aligned north-south with an east-west wheelpit to the south.  The wall of the wheelpit is visible only in the west. The position of the sluice is identifiable. The tailrace is not visible. This where a waterwheel powered a press to squeeze moisture out of the gunpowder.
 
 ![12 (12) Breaking House](40.jpg)
 
@@ -256,11 +257,11 @@ There is a Circular Reservoir on the hill above between this building and the pr
 
 ![14 (10) Store](45.jpg)
 
-Possibly where "corns" i.e. sieved gunpowder was stored. This facing the track coming down the hill from the three incorporation mills - note the fingerboard signpost. 
+Possibly where "corns" i.e. sieved gunpowder was stored. This facing the track coming down the hill from the three incorporation mills - note the fingerboard signpost.
 
 ![16 (9) Final Preparation Rooms](46.jpg)
 
-It is probable that these buildings were used for dusting, glazing, sieving and packing the gunpowder prior to carting it it off-site. Horses may have been stabled here as well as barrels and other materials being stored here. There are two mills powered by a waterwheel. 
+It is probable that these buildings were used for dusting, glazing, sieving and packing the gunpowder prior to carting it it off-site. Horses may have been stabled here as well as barrels and other materials being stored here. There are two mills powered by a waterwheel.
 
 ![Scene from behind, with the North Chimney in the view](47.jpg)
 
@@ -280,7 +281,7 @@ It is probable that these buildings were used for dusting, glazing, sieving and 
 
 ![7 (3) Incorporating Mill](54.jpg)
 
-Similar in plan to 'Buildings 1 and 2', consisting of two units flanking a central wheelpit. The wheelpit is largely filled with rubble. The wheel was powered by water from the tailrace of the wheelpit of 'Building 2'. The three incorporating mill houses ("wheelhouses") were of massive construction with many granite blocks being 6-feet long and the was about 6-feet thick, to withstand inadvertent explosions. The roofs were very flimsy, of wood and tar, to blow off without damaging the main structure. They could be replaced easily. 
+Similar in plan to 'Buildings 1 and 2', consisting of two units flanking a central wheelpit. The wheelpit is largely filled with rubble. The wheel was powered by water from the tailrace of the wheelpit of 'Building 2'. The three incorporating mill houses ("wheelhouses") were of massive construction with many granite blocks being 6-feet long and the was about 6-feet thick, to withstand inadvertent explosions. The roofs were very flimsy, of wood and tar, to blow off without damaging the main structure. They could be replaced easily.
 
 ![From the "rear" - this is the third incorporating mill in the system in that the water comes from the mills above here on the hill. The raised bank bringing the water to a launder to reach the water wheel is seen at the right ](55.jpg)
 
@@ -304,13 +305,13 @@ Tar drips indicate that either it was not gable ended, or the gable ends were co
 
 ![Foreground: 8 (4) Powder Magazine: A small rectangular stone structure, approximately 4 metres by 2.5 metres, completely ruined.](64.jpg)
 
-**Background: 5 (1) Incorporating Mill:** Consists of a pair of gable-ended structures flanking a large central wheelpit. Both of massive granite blocks with walls about 2 metres thick at their bases. 
+**Background: 5 (1) Incorporating Mill:** Consists of a pair of gable-ended structures flanking a large central wheelpit. Both of massive granite blocks with walls about 2 metres thick at their bases.
 
-Tar dribbles indicate original roofing was of tarred tarpaulin or wood. This was probably to allow any accidental explosion to go upwards and leave the walls standing, a technique still used by artisinal powder makers in India and China today.  
+Tar dribbles indicate original roofing was of tarred tarpaulin or wood. This was probably to allow any accidental explosion to go upwards and leave the walls standing, a technique still used by artisinal powder makers in India and China today.
 
-The wheelpit is aligned north-east to south-west and runs the whole width of the units. Wheel axle appears to have projected into their ground floors. Powered by a launder to the north-east which flowed out through a culvert to the south-west. This is roofed for 3.5 - 4 metres, then becomes an open channel which runs downhill to feed the reservoir belonging to 'Building 2'.  
+The wheelpit is aligned north-east to south-west and runs the whole width of the units. Wheel axle appears to have projected into their ground floors. Powered by a launder to the north-east which flowed out through a culvert to the south-west. This is roofed for 3.5 - 4 metres, then becomes an open channel which runs downhill to feed the reservoir belonging to 'Building 2'.
 
-The raised bank at the left brought the leat that fed a launder to the waterwheel. 
+The raised bank at the left brought the leat that fed a launder to the waterwheel.
 
 ![General view of the North Chimney and 16 (9) Final Preparation Rooms](65.jpg)
 
@@ -326,7 +327,7 @@ The raised bank at the left brought the leat that fed a launder to the waterwhee
 
 ## Arch Tor
 
-An "extra" to the walk: exit the site via the gate at the top right corner, past the Incorporation Mills, and walk out straight to Arch Tor. The whole top stone "logs" i.e. rocks, as a logan stone. 
+An "extra" to the walk: exit the site via the gate at the top right corner, past the Incorporation Mills, and walk out straight to Arch Tor. The whole top stone "logs" i.e. rocks, as a logan stone.
 
 ![Arch Tor: the  "PC"inscription has been suggested to signify Powedermills Cottages (photo from 13 Sept. 2012)](71.jpg)
 
@@ -337,13 +338,13 @@ An "extra" to the walk: exit the site via the gate at the top right corner, past
 
 ![Proving mortar, or Eprouvette, at SX 62790 76810, south of the cottages (c) Google 2020 Streetview](73.jpg)
 
-This proving mortar is just off the road, on the left, on the last bend when driving in approaching the Pottery, cafe and mill cottages.  
+This proving mortar is just off the road, on the left, on the last bend when driving in approaching the Pottery, cafe and mill cottages.
 
 It fired a (probably) 68 lb ball to test the powder. The distance travelled by the ball was a measure of the strength of the powder and undoubtedly a good sales tactic for potential buyers.
 
 
 
-*This walk was reached from a small roadside layby marked by the yellow cross below the "Lich Way Plaque" label on the map. Normally, for a group, it would be reached from the main car park in Postbridge or the car park in the forest just across the road from it. There is also a car park at Higher Cherry Brook Bridge,  marked with the P symbol and yellow cross on the map* 
+*This walk was reached from a small roadside layby marked by the yellow cross below the "Lich Way Plaque" label on the map. Normally, for a group, it would be reached from the main car park in Postbridge or the car park in the forest just across the road from it. There is also a car park at Higher Cherry Brook Bridge,  marked with the P symbol and yellow cross on the map*
 
 *Please note that there is no parking available at the Powdermills Pottery and shop except when visiting them*
 

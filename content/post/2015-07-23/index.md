@@ -9,11 +9,11 @@ w3w: tiredness.habit.grows
 gpx: ditsworthy-warren
 
 image: 2.jpg
-tags: 
-  - circular 
-  - 4 mile walk  
+tags:
+  - circular
+  - 4 mile walk
   - medium
-keywords: 
+keywords:
   - dartmoor
   - bronze age
   - stone rows
@@ -38,7 +38,8 @@ keywords:
   - england
 comments: true
 draft: false
-author: Keith Ryan
+author: Liz Miall and Keith Ryan
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2015-07-23'
 date: '2025-11-05T19:06:39Z'
@@ -58,7 +59,7 @@ Items of interest: Pillow mound, Ditsworthy Warren House, ferret kennel, slit wi
 
 ## Setting off
 
-We part at the end of the tarmac road, within sight of the Scouts Hut ahead, hiding in its blanket of fir trees. We walk off across the moor due south, past an old enclosure and several hand-dug mining holes. After 140m or so, we'll join the stone track heading southeast. 
+We part at the end of the tarmac road, within sight of the Scouts Hut ahead, hiding in its blanket of fir trees. We walk off across the moor due south, past an old enclosure and several hand-dug mining holes. After 140m or so, we'll join the stone track heading southeast.
 
 Follow this track along the valley and across the stream until we reach Ditsworthy Warren House
 
@@ -70,7 +71,7 @@ The long, low and softly-shouldered Pillow mounds are simply artificial rabbit w
 
 ![Ditsworthy Warren House](2.jpg)
 
-This was the rather grand house used by the warreners who worked much of the land nearby. 
+This was the rather grand house used by the warreners who worked much of the land nearby.
 
 The house is sometimes hired out for filming purposes - two such are;
 
@@ -193,7 +194,7 @@ Longstone Leat gets its name from the tallest menhir we've just visited, and was
 
 ## Whittenknowle Rocks
 
-Whittenknowle Rocks is a large ancient Bronze Age settlement of 43 huts and 4.5 hectares. It also includes the remains of a much later medieval longhouse. 
+Whittenknowle Rocks is a large ancient Bronze Age settlement of 43 huts and 4.5 hectares. It also includes the remains of a much later medieval longhouse.
 
 * [Heritage Gateway MDV3995 - Hut circle settlement at Whittenknowles Rocks](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV3995&resourceID=104)
 * [Megalithic Portal](https://www.megalithic.co.uk/article.php?sid=19400) has a lot of extra information about Whittenknowles Rocks .
@@ -216,11 +217,11 @@ Whittenknowle Rocks is a large ancient Bronze Age settlement of 43 huts and 4.5 
 
 *When you've explored the Settlment, head Northwest along the contour until you join the large stone path and turn left, downhill back to the parking area*
 
-## Parking 
+## Parking
 
 *Note that the parking coordinates are slightly offset to avoid other walks that start from the same point. Parking is a little further on and well signed*
 
-The parking in this area can get quite full by late morning, especially at weekends as it's a popular setting-off point. 
+The parking in this area can get quite full by late morning, especially at weekends as it's a popular setting-off point.
 
 ## References
 {{< show-extracted-links >}}

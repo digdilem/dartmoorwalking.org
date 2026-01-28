@@ -44,7 +44,7 @@ keywords:
   - england
 comments: true
 draft: false
-author: Liz Miall
+author: Tom Soby
 recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2009-03-25'
@@ -58,6 +58,8 @@ date: '2024-12-27T15:58:53Z'
 ## Introduction
 
 This walks takes us up the Northwestern slopes to Sourton Tors, stopping to view the Iceworks on the way. After admiring the views from the Tor, we make a short detour to visit the Applecrusher before following the gradient around the Western face of the tor and back to the car park.
+
+> This walk was originally devised and led by Tom Soby for Moor Strollers
 
 *Leave the car park and head Southwards upwards along the paths*
 

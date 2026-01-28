@@ -12,9 +12,9 @@ tags:
   - circular
   - medium
   - gate
-  - cox 
+  - cox
   - 3 mile walk
-keywords: 
+keywords:
   - gate hanger
   - circular
   - trig
@@ -33,7 +33,8 @@ distance: 3
 coords: 50.557477,-4.075441
 w3w: pipes.disco.defers
 grade: Medium
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: 'Simon Avery'
 date: '2024-11-20'
 ---

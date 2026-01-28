@@ -9,15 +9,16 @@ w3w: receive.operation.tomato
 gpx: bellever-woods-and-cairns
 
 image: 1.jpg
-tags: 
-  - circular 
+tags:
+  - circular
   - 5 mile walk
   - bronze-age
   - cairns
   - cist
   - stone-row
+  - woodland
   - gentle
-keywords: 
+keywords:
   - dartmoor
   - walk
   - walking
@@ -39,7 +40,8 @@ keywords:
   - stone-row
 comments: true
 draft: false
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2010-09-29'
 date: '2025-12-28T13:14:31Z'
@@ -51,9 +53,9 @@ date: '2025-12-28T13:14:31Z'
 
 ## Introduction
 
-This is a pleasant and fairly easy walk. The terrain is mostly forestry paths, with some small sections of open moorland. The paths may have small puddles, and mud or ruts if there's forestry work underway, but are generally well maintained. 
+This is a pleasant and fairly easy walk. The terrain is mostly forestry paths, with some small sections of open moorland. The paths may have small puddles, and mud or ruts if there's forestry work underway, but are generally well maintained.
 
-Since this walk was first published, Dartmoor National Park have created a circular walk that also takes in these ancient sites in Bellever. The details may be available from the Visitor Centre at the start, but the route may differ from ours. 
+Since this walk was first published, Dartmoor National Park have created a circular walk that also takes in these ancient sites in Bellever. The details may be available from the Visitor Centre at the start, but the route may differ from ours.
 
 Please keep dogs under control. Bellever woods are conservation grazed by Dartmoor Ponies, and sheep may be present in the early section just after the Clapper Bridge.
 
@@ -63,11 +65,11 @@ Please keep dogs under control. Bellever woods are conservation grazed by Dartmo
 
 ![Postbridge Clapper Bridge](1.jpg)
 
-Postbridge Clapper was likely built in the Medieval period, around the 13th Century, but may be older than this as it's impossibly to date accurately. What's clear is that it was built to provide a safe crossing for the packhorse routes needing to cross the river, with stout ponies carrying wool and agricultural goods and later, supplying the tin mining industry. Today, the village of Postbridge remains a central and important location on Dartmoor. 
+Postbridge Clapper was likely built in the Medieval period, around the 13th Century, but may be older than this as it's impossibly to date accurately. What's clear is that it was built to provide a safe crossing for the packhorse routes needing to cross the river, with stout ponies carrying wool and agricultural goods and later, supplying the tin mining industry. Today, the village of Postbridge remains a central and important location on Dartmoor.
 
 There are hundreds of Clapper Bridges on Dartmoor, which are the simplest of stone structures relying purely on gravity - no interlocking joints or mortar are used. Postbridge is unusual in that the slabs are particularly large and would have been difficult to position. Partly because of their size, the bridge has proved remarkably resistant to flood damage over the centuries and has mostly survived without change. However, you may notice iron bands that help secure it now. These date from around the Victorian period onwards, being replaced when necessary, and more modern repairs may show epoxy resin filled holes from the 1980s onwards.
 
-It's one of the most photographed bridges on Dartmoor and a very familiar sight to travellers. 
+It's one of the most photographed bridges on Dartmoor and a very familiar sight to travellers.
 
 ![Looking upstream at the much later Postbridge Road Bridge](2.jpg)
 
@@ -104,7 +106,7 @@ The Bellever Complex is an internationally renowned archaelogical site, and fore
 
 ## Kraps Ring
 
-* Kraps ring is a Bronze Age settlement of around 9 stone hut circles within a partially enclosing perimeter wall of roughly 30 meters diameter. 
+* Kraps ring is a Bronze Age settlement of around 9 stone hut circles within a partially enclosing perimeter wall of roughly 30 meters diameter.
 * The name "Kraps" may derive from a local term meaning "Corpse".
 
 ![A roundhouse in the Kraps Ring Settlement](7.jpg)
@@ -157,11 +159,11 @@ There are two hut circles here, one behind the other in the rosette settlement w
 
 ![The Lych Way (Looking East)](21.jpg)
 
-Heading Southwards, we cross the Lych Way at right angles. 
+Heading Southwards, we cross the Lych Way at right angles.
 
 The Lych way is a medieval track starting from Bellever Village a short way to the East and continuing Westwards for around 10km, mostly across open moor, to Lydford Church. Church laws at the time forbade burial for this region except at that location, and the dead were carried there to be buried. There are several "Coffin stones" along the route where the coffin would be put whilst the bearers rested. The practice ceased in 1260 when the dead were allowed to be buried at Widicombe-in-the-Moor, although some still chose to be buried at Lydford.
 
-Even today, this route is associated strongly with supernatural happenings by some. The editor's own mother once swerved to "avoid a coffin in the middle of the road" whilst driving alone at night. 
+Even today, this route is associated strongly with supernatural happenings by some. The editor's own mother once swerved to "avoid a coffin in the middle of the road" whilst driving alone at night.
 
 ![The Lych Way (Looking West)](22.jpg)
 
@@ -180,7 +182,7 @@ Even today, this route is associated strongly with supernatural happenings by so
 ![The forest road](20.jpg)
 
 
-## Parking 
+## Parking
 
 The main car park at Postbridge has toilets and a visitor centre. There is free parking nearby where we enter Bellever Forest if you prefer.
 

@@ -9,14 +9,14 @@ w3w: paramedic.advances.slate
 gpx: dr-blackalls-drive
 
 image: 16.jpg
-tags: 
-  - linear 
-  - 3 mile walk  
+tags:
+  - linear
+  - 3 mile walk
   - view
   - gatepost
   - bronze age
   - medium
-keywords: 
+keywords:
   - dartmoor
   - bronze age
   - gatepost
@@ -32,7 +32,8 @@ keywords:
   - england
 comments: true
 draft: false
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2021-09-25'
 date: '2024-12-12T12:00:01Z'
@@ -63,13 +64,13 @@ Bel Tor, on the other side of the hedge, has a Logan Stone, Rock Basins and a Tr
 
 ## Dr Blackall
 
-Dr Thomas Blackwell MD FRCP (1814 - 4th May 1899, aged 85) trained at St George's Hospital, London, and had a practice in Mayfair. 
+Dr Thomas Blackwell MD FRCP (1814 - 4th May 1899, aged 85) trained at St George's Hospital, London, and had a practice in Mayfair.
 
 He was the youngest son of Dr John Blackall (1771-1860), the sixth son of Rev. Theophilus Blackall, who was a Prebendary (Honorary Canon) of Exeter Cathedral. John Blackall was an eminent physician who trained at St. Bartholomew's Hospital, London, and then returned to Exeter in 1797, settling in Totnes in 1801. When he died in 1860, Thomas, his only surviving son inherited his estate.
 
 Thomas bought the nearby Spitchwick Manor at Poundsgate in 1867. It seems that he never married but according to Censuses from 1861 onwards, there was always a "Visitor", A Mrs Julia Tindall, and her daughter Caroline. It was Julia who inherited his estate when he died.
 
-In the 1870/1880s, Thomas had the "Drive" constructed for his pleasure and for visiting guests to enjoy carriage rides driving southwards to enjoy the magnificent views down the River Dart valley. 
+In the 1870/1880s, Thomas had the "Drive" constructed for his pleasure and for visiting guests to enjoy carriage rides driving southwards to enjoy the magnificent views down the River Dart valley.
 
 (This is disputed by Hemery (1987, p.588) who reports that it was cut "a century or so ago" by Gerald Warren and his family for Dr Joseph Blackall, of Spitchwick Manor.)
 
@@ -91,7 +92,7 @@ In the 1870/1880s, Thomas had the "Drive" constructed for his pleasure and for v
 
 We can leave the track here at Meltor Corner and make a short detour to the right to visit Mel Tor
 
-Mel Tor is perhaps more accurately named "Mil Tor", which is short for "Middle Tor" as it is twixt Sharp Tor and Hockinston Tor. 
+Mel Tor is perhaps more accurately named "Mil Tor", which is short for "Middle Tor" as it is twixt Sharp Tor and Hockinston Tor.
 
 There is apparently an abandoned millstone near this tor, although we haven't been able to locate it.
 
@@ -105,9 +106,9 @@ There is apparently an abandoned millstone near this tor, although we haven't be
 
 ![Close up of the right hand post](13.jpg)
 
-Note the inverted "L" slot in the post where timber would have been slid in and dropped forming a solid rail. 
+Note the inverted "L" slot in the post where timber would have been slid in and dropped forming a solid rail.
 
-These slots are usually found five to a side, and form the basis of the "5 bar gate" phrase. 
+These slots are usually found five to a side, and form the basis of the "5 bar gate" phrase.
 
 Elsewhere they are called "Slip gates", "Stang Stoops", "Yatsteads", "Hinge and L" or "Stand Pole Gateways" being a common form of simple, but secure,  gate.
 
@@ -125,9 +126,9 @@ It's now owned by the Dartmoor National Park and was restored in 2018 as part of
 
 ![Looking back North to Mel Tor, showing a section of Dr Blackall's Drive](16.jpg)
 
-There used to be a custom that involved the rolling of wooden wagon wheels down the hill of Mil Tor to the River Dart on Midsummer Day, but it fell into disuse during WW2. 
+There used to be a custom that involved the rolling of wooden wagon wheels down the hill of Mil Tor to the River Dart on Midsummer Day, but it fell into disuse during WW2.
 
-The practice was revived for a time in the late 1950s but not for long. The idea was to roll them down the 600-foot hill but the rock-strewn nature of the ground stopped most of them. 
+The practice was revived for a time in the late 1950s but not for long. The idea was to roll them down the 600-foot hill but the rock-strewn nature of the ground stopped most of them.
 
 Today, the rusting iron tyres lie around in the wood, some with trees now growing up through them. <cite>Hemery p.589</cite>
 
@@ -143,7 +144,7 @@ Today, the rusting iron tyres lie around in the wood, some with trees now growin
 
 !["Black and white" metamorphic mudstone and sandstone](21.jpg)
 
-This is metamorphic bedrock formed approximately 318 to 328 million years ago in the Carboniferous Period. Originally formed as sedimentary rocks in swamps, estuaries and deltas to form slates. Later altered by low-grade metamorphism i.e. heating during geologic processes such as the nearby intrusion of Dartmoor's molten magma (granite). 
+This is metamorphic bedrock formed approximately 318 to 328 million years ago in the Carboniferous Period. Originally formed as sedimentary rocks in swamps, estuaries and deltas to form slates. Later altered by low-grade metamorphism i.e. heating during geologic processes such as the nearby intrusion of Dartmoor's molten magma (granite).
 
 ![Aish Tor](22.jpg)
 
@@ -171,6 +172,6 @@ Bell Tor Car park is free and right off the road. Through the summer there is so
 
 ## References
 
-* Mike Brown (2001) Guide to Dartmoor 
+* Mike Brown (2001) Guide to Dartmoor
 * [Legendary Dartmoor - Blackall's Drive](https://www.legendarydartmoor.co.uk/2016/03/31/blackalls_drive/)
 * [Wikipedia: John Blackall](https://en.wikipedia.org/wiki/John_Blackall)

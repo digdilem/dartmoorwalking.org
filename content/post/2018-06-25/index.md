@@ -9,17 +9,17 @@ w3w: downfield.dribble.heap
 gpx: cadover-bridge-to-the-dewerstone
 
 image: 2.jpg
-tags: 
-  - circular 
-  - 4 mile walk  
+tags:
+  - circular
+  - 4 mile walk
   - medium
   - river
   - tor
   - bronze age
   - cairn
-  - hut circle  
+  - hut circle
   - neolithic
-keywords: 
+keywords:
   - dartmoor
   - neolithic
   - river
@@ -43,7 +43,8 @@ keywords:
   - england
 comments: true
 draft: false
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2018-06-25'
 date: '2025-01-03T20:21:29Z'
@@ -82,19 +83,19 @@ Cadover Bridge was known as Cadworthy Bridge in the 1840 Meavy Tithe Map. The ne
 
 Also known as Wigford Down Cross. In 1873 the original section of the cross was found lying flat on the ground by a group of soldiers who were on an exercise from their camp on Ringmoor Down and, working with the then Vicar of Shaugh Prior, re-erected the cross.
 
-By 1901 the cross had fallen again, and in 1915 a subsequent vicar arranged its restoration, including a new shaft: 
+By 1901 the cross had fallen again, and in 1915 a subsequent vicar arranged its restoration, including a new shaft:
 
 > In seeking a more secure site in which to erect the cross, he came across a green sward in the heather which he thought would make an ideal spot. Whilst digging a hole in the ground for the cross, he came across a large granite boulder which turned out to be the original socket stone for the cross, still in situ. <cite>-- Dartmoor Crosses</cite>
 
-This tall cross is a waymarker on the Monastic Way between Priory and Tavistock Abbey. 
+This tall cross is a waymarker on the Monastic Way between Priory and Tavistock Abbey.
 
-The medieval track ran from Plympton to Stony Cross aka Shaden Moor Cross, which is near the summit of Shaugh Moor on the Plympton-Cadover road, following the line of the modern road to near Cadover Bridge. 
+The medieval track ran from Plympton to Stony Cross aka Shaden Moor Cross, which is near the summit of Shaugh Moor on the Plympton-Cadover road, following the line of the modern road to near Cadover Bridge.
 
-Close to the modern bridge was a ford, Cad-a-ford, (ford over the Cad) perhaps fifty-metres upstream. From here the track would go straight uphill from the ford to Marchant's Cross, for Meavy. A sidebranch turned left for Wigford Down, up past Cadaford Cross as an alternative route over the Down. 
+Close to the modern bridge was a ford, Cad-a-ford, (ford over the Cad) perhaps fifty-metres upstream. From here the track would go straight uphill from the ford to Marchant's Cross, for Meavy. A sidebranch turned left for Wigford Down, up past Cadaford Cross as an alternative route over the Down.
 
 ![There is a second, faint inscribed cross centered between the arms of the main cross](6.jpg)
 
-Not only is there a second cross carved inside the main cross, but there were also another cross centered on each arm itself, and possibly more that have eroded from weather. 
+Not only is there a second cross carved inside the main cross, but there were also another cross centered on each arm itself, and possibly more that have eroded from weather.
 
 * Eric Hemery - Walking Dartmoor's Ancient Tracks (1986)
 * [Dartmoor Crosses - Cadover Cross](http://www.dartmoor-crosses.org.uk/cadover.htm)
@@ -148,7 +149,7 @@ The single walled structure on this map, closer to The Dewerstone, is Bronze Age
 
 ## The Dewerstone
 
-"Dewer" is an ancient Celtic word for the Devil. 
+"Dewer" is an ancient Celtic word for the Devil.
 
 > The Devil, riding a gigantic black horse, gallops across the Moor each night and leads a phantom pack of black hounds to chase weary or foolish humans over the Dewerstone to their deaths. <cite>-- Dartmoor legend</cite>
 
@@ -186,13 +187,13 @@ The phrase is from a Chinese Proverb. It is unknown who put this here or why.
 
 ![L stone at SX 54415 64550 (140 metres north of the cist)](29.jpg)
 
-There are perhaps eight of these "L stones" running across Wigford Down. 
+There are perhaps eight of these "L stones" running across Wigford Down.
 
 These are boundary stones between the lands of Sir Ralph Lopes (of Maristow Estate to the north-east) and Mr Scobell (holding enclosed land at Urgles / Goodameavy, to the south-west), settled after a meeting on the Down as described in a letter by the Maristow steward and land agent George Giles.
 
 >  On 18th February 1841, George Giles, the steward and land agent of the Maristow-owned manors, wrote to a land surveyor by the name of William J Stentaford, thus: "I have been with Sir Ralph Lopes & Mr Scobell on Wigford Down this day they both returned to my office ... and ultimately agreed on an equal division of the 393a 3r 15p, the boundary to be shown by Granite posts, when the line has been traced — and that Mr Scobell’s portion shall be that moiety next adjoining his inclosed lands of Urgles and Good-a-Meavy beginning north from the corner of outher Diamond park ... across towards Oxen Torr — or somewhere in that direction, wherever the line of equal division may fall ... the line ... must be taken up from Sir Trayton Drake’s boundary of Greenwell Down — and should it fall upon Shaugh Prior Boundary it must not be carried across it ... This is a matter that requires your earliest attention. Sir Ralph and Mr Scobell will again meet on the locus in quo when you are prepared to shew the divisional line. This Job is to be at the joint expense of each party." <cite>-- Mike Brown </cite>
 
-* Ralph Lopes (1788-1854) was MP for Westbury, a pocket borough controlled by his uncle, Manesseh Masseh Lopes, until his uncle's death in 1831. 
+* Ralph Lopes (1788-1854) was MP for Westbury, a pocket borough controlled by his uncle, Manesseh Masseh Lopes, until his uncle's death in 1831.
 * He then inherited his uncle's Baronetcy and his estate of Maristow - and the right to nominate future MPs at Westbury. A right removed in the [Reform Act 1832](https://en.wikipedia.org/wiki/Great_Reform_Act)
 * In 1841 there was a boundary disagreement between Lopes and his neighbour, Mr Scobell, which culminated with them formally reaching an agreeing on where their lands met. A formal letter was drawn up and these stones were placed to mark the boundary.
 
@@ -246,7 +247,7 @@ Possibilities are "Buckland Abbey" or "Brisworthy Arrishes" (Arrishes means Fiel
 
 Called a Kerbed Ring Cairn because the inner circle has a 'kerb' of 6.3m diameter to mark its position.
 
-Although the Ordnance Survey maps have marked this as a kistvaen, there is no evidence of a kist or grave here. 
+Although the Ordnance Survey maps have marked this as a kistvaen, there is no evidence of a kist or grave here.
 
 ![Another view, showing the remains of the kerb circle](39.jpg)
 
@@ -258,9 +259,9 @@ Although the Ordnance Survey maps have marked this as a kistvaen, there is no ev
 
 ![Fishing lake](41.jpg)
 
-One of the small lakes carved into the landscape by the Wigford Down (Later Brisworthy) China Clay Works from 1870 to 1937. 
+One of the small lakes carved into the landscape by the Wigford Down (Later Brisworthy) China Clay Works from 1870 to 1937.
 
-A dry leat runs left to right at the front of this picture which would have been used to run water for clay works. 
+A dry leat runs left to right at the front of this picture which would have been used to run water for clay works.
 
 There was once a water wheel in the central area between the two largest lakes where a wheelpit can still be seen. It was built between 1886 and 1904.
 
@@ -275,7 +276,7 @@ The lakes are now managed and fished by the [Plymouth & District Coarse Angling 
 
 
 
-## Parking 
+## Parking
 
 There is good parking at Cadover Bridge. If the posted car park is full, there are several other areas nearby where parking can be had on all but the busiest days.
 

@@ -9,9 +9,9 @@ w3w: squeezed.refrained.basher
 gpx: ingra-tor
 
 image: 9.jpg
-tags: 
-  - circular 
-  - three mile walk  
+tags:
+  - circular
+  - three mile walk
   - medium
   - quarry
   - crane
@@ -22,8 +22,8 @@ tags:
   - bronze age
   - benchmark
   - pound
-    
-keywords: 
+
+keywords:
   - dartmoor
   - walkhampton
   - quarry
@@ -51,7 +51,8 @@ keywords:
   - england
 comments: true
 draft: false
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2017-05-25'
 date: '2025-01-17T19:38:02Z'
@@ -68,7 +69,7 @@ This is an interesting walk over open moorland taking in a wide scope of history
 ## Sharpitor
 ![Looking South across the road to Sharpitor.](1.jpg)
 
-Sharpitor is worth mentioning since it is owned since 1984 by Dartmoor Preservation Association and this ensures access will be preserved into the future. 
+Sharpitor is worth mentioning since it is owned since 1984 by Dartmoor Preservation Association and this ensures access will be preserved into the future.
 
 Also note the diagonal linear feature in this photo - this is part of the Walkhampton Common East Reave.
 
@@ -91,7 +92,7 @@ There are essentially four types of reaves:
 1. Field boundaries to divide land into normally long strip-like fields for grazing or growing crops, akin to modern walls or hedges.
 2. Terminal reaves that are uphill from field boundaries that marked lower divided areas from uphill open or "common" land
 3. Reaves built usually along ridges to mark watersheds i.e. between river valleys
-4. Long divisions over kilometres marking out territories akin to parishes. 
+4. Long divisions over kilometres marking out territories akin to parishes.
 
 The Walkhampton Common Reave is 3170 meters long and mostly straight. It was built in the Bronze Age (Between 4000 BC and 1000 BC), and forms a division between the Walkham and Meavy valleys, thus identifying it as a Reave of type 3 in the above list - built to separate two watersheds.
 
@@ -109,7 +110,7 @@ The Walkhampton Common Reave is 3170 meters long and mostly straight. It was bui
 
 The modern mast of North Hessary Tor transmitting station can be seen in the background. This was built in 1955 to supply 405-line television to Devon and is 196 meters (643 feet) tall.
 
-Today, it provides analogue FM radio covering a large area, including Devon, Cornwall, Somerset and South Wales. 
+Today, it provides analogue FM radio covering a large area, including Devon, Cornwall, Somerset and South Wales.
 
 Additionally, it provides Digital DAB radio and DVB-T television - and is a useful landmark to identify where Princetown is.
 
@@ -125,9 +126,9 @@ Additionally, it provides Digital DAB radio and DVB-T television - and is a usef
 
 ![Great Western Reave. SX 56260 71843](11.jpg)
 
-Heading Northwest from Leeden Tor, we very soon cross another reave. 
+Heading Northwest from Leeden Tor, we very soon cross another reave.
 
-The Great Western Reave measures over 10 kilometres in length and is the longest known prehistoric land division boundary on Dartmoor. This record covers the most southerly section of the reave (two sections measuring a combined length of 2.58 kilometres). Along its length, the width of the reave varies between 2.5 metres and 4 metres, whilst its height varies between 0.2 metres and 0.7 metres - although it would have been higher when built. A second reave leads off at right angles at SX5577 7088 and there are hut circles and cairns associated with the reave. 
+The Great Western Reave measures over 10 kilometres in length and is the longest known prehistoric land division boundary on Dartmoor. This record covers the most southerly section of the reave (two sections measuring a combined length of 2.58 kilometres). Along its length, the width of the reave varies between 2.5 metres and 4 metres, whilst its height varies between 0.2 metres and 0.7 metres - although it would have been higher when built. A second reave leads off at right angles at SX5577 7088 and there are hut circles and cairns associated with the reave.
 
 This very long reave is a territorial boundary something akin to a modern parish boundary (and type 4 from the list above)  It extends from near Sharpitor, near Dousland/Yelverton, to White Tor near Peter Tavy.
 
@@ -175,9 +176,9 @@ It was re-opened between 1936 and 1941 to cut kerbstones and granite setts for D
 
 ![Looking down to the railway and concrete base of a basic shelter - the only remains of Ingra Tor Halt](23.jpg)
 
-* This once held a small shelter from the elements, built partly inside a pound. 
-* There was a short wooden platform to the single track railway. 
-* At the time of opening in 1936, a single fare from here to Princetown was 11 1/2d First Class, or 7d Second Class. 
+* This once held a small shelter from the elements, built partly inside a pound.
+* There was a short wooden platform to the single track railway.
+* At the time of opening in 1936, a single fare from here to Princetown was 11 1/2d First Class, or 7d Second Class.
 * The halt was built for quarry workers, but when the quarries closed, was used exclusively by walkers, most coming up from Plymouth. Walking from here to Princetown and then riding back home was a popular route before the railway closed on March 3, 1956.
 * There was a famous sign here advising passengers to keep dogs on a lead due to the presence of adders. This sign is now kept at Buckfastleigh Station.
 
@@ -221,9 +222,9 @@ This curious set of holes shows that this block was once used for a tramway in o
 This area of Dartmoor has been inhabited for at least four thousand years.
 
 * The earliest remains are the large circular pounds and nicely viewable via the aerial view below. This, together with the hut circles nearby, formed an early settlement around 4000 to 1000 BC and provide evidence of animal husbandry.
-* To the Northwest are the stone ruins of a Medieval Longhouse, Smithy and other buildings built between 1066 and 1539. 
+* To the Northwest are the stone ruins of a Medieval Longhouse, Smithy and other buildings built between 1066 and 1539.
 * Routrundle is the "modern" farmhouse dating from a mere 1866, currently inhabited. Build after and probably to replace Babyland Longhouse. There are claims this house dates back to 1417, but it's possible that is confused with the Babyland property.
-* Routrundle is no longer a working farm. It fell into disrepair and was left vacant after a Jim Fence left. 
+* Routrundle is no longer a working farm. It fell into disrepair and was left vacant after a Jim Fence left.
 * "Routrundle" is named after the Bronze Age "trundles" or pounds still so visible today.
 * [Stags sales particulars (2018)](https://media.onthemarket.com/properties/3992108/doc_0_0.pdf) give a good view of the property, inside and out. It sold for £618,000 in 2018.
 * (Not pictured) There is a benchmark on the southwest side of the lane on a large boulder. SX55274 71832
@@ -252,7 +253,7 @@ The collection of trees in the above photo marks a Bronze Age pound and collecti
 
 ![Heading back towards the car park](37.jpg)
 
-## Parking 
+## Parking
 
 There are a couple of good roadside car parks at the posted locations.
 

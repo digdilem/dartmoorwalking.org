@@ -1,6 +1,6 @@
 ---
 title: Newbridge and Deeper Marsh
-description: A circular walk mostly away from the busier areas along the river. 
+description: A circular walk mostly away from the busier areas along the river.
 categories: ["Mid Dartmoor"]
 distance: 3
 coords: 50.5233,-3.81999
@@ -9,11 +9,11 @@ w3w: control.according.blazing
 gpx: newbridge-and-deeper-marsh
 
 image: 13.jpg
-tags: 
-  - circular 
-  - 3 mile walk  
+tags:
+  - circular
+  - 3 mile walk
   - medium
-keywords: 
+keywords:
   - dartmoor
   - river
   - manor
@@ -35,7 +35,8 @@ keywords:
   - england
 comments: true
 draft: false
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2010-11-04'
 date: '2025-11-16T18:27:29Z'
@@ -76,7 +77,7 @@ The bridge is mentioned in the book "Orphan Dinah" by Eden Phillpotts, Dinah lea
 
 ![A fast flowing section of the river, going over submerged rocks](7.jpg)
 
-Newbridge  is one of the British Canoe Union's official access points to the Dart; this point in the photo is known as the Rock Pavement. 
+Newbridge  is one of the British Canoe Union's official access points to the Dart; this point in the photo is known as the Rock Pavement.
 
 ![The path climbs up beside the river](5.jpg)
 
@@ -189,7 +190,7 @@ This pond was made by Victorians in the 1870s. Dartmoor National Park Authority 
 
 ![Close up of the lilies](34.jpg)
 
-## Parking 
+## Parking
 
 There is pay and display parking at New Bridge, and some free spaces on the Holne side. Please note that there is no longer any parking at Deeper Marsh. There are some spaces above Leigh Tor at the top of Newbridge Hill that are often free.
 

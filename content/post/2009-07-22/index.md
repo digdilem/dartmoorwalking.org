@@ -39,7 +39,8 @@ keywords:
   - tin
 comments: true
 draft: false
-author: Keith Ryan and Simon Avery
+author: Liz Miall and Simon Avery
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2009-07-22'
 date: '2025-01-01T10:30:07Z'
@@ -97,7 +98,7 @@ If you continue walking along this road to the west, after around 1.2km you'll c
 
 ![Swincombe Intake](5.jpg)
 
-![Swincombe Intake Building with unusual Art Deco motif](6.jpg)
+![Swincombe Intake Building with unusual Art Deco motif - Simon Avery](6.jpg)
 
 The Swincombe Intake Reservoir was built between 1929 and 1933 by Paignton Urban District Council Waterworks Department. A particularly ugly building with the exception of an art deco motif over the modern door, as befitting its construction date.
 

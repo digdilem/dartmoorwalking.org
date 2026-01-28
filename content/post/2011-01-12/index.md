@@ -5,17 +5,17 @@ categories: ["West Dartmoor"]
 author: Simon Avery & Keith Ryan
 image: 6.jpg
 gpx: smeardon-down
-tags: 
-  - circular 
+tags:
+  - circular
   - ruins
   - farm
   - mine
   - leat
-  - church 
+  - church
   - medium
   - mineshaft
   - 4 mile walk
-keywords: 
+keywords:
   - dartmoor
   - walk
   - hike
@@ -35,7 +35,8 @@ distance: 4
 coords: 50.581876,-4.089303
 w3w: reworked.shells.motivator
 grade: Medium
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 date: '2024-11-11'
 walkdate: '2011-01-12'
@@ -55,11 +56,11 @@ walkdate: '2011-01-12'
 
 ## Twist Farm
 
-Shown as "Twist" on the OS Map, but also locally known as Twyste farm. 
+Shown as "Twist" on the OS Map, but also locally known as Twyste farm.
 
 Twist was mentioned in thge Domesday Book on 1086, and the owners had Venville rights, allowing them to take what they needed from the moor. Grazing, stone, peat - but not green oak or venison.
 
-The farm was abandoned somewhere in the middle of the 1900s - the kitchen range and abandoned vehicles date from the 30's onwards. 
+The farm was abandoned somewhere in the middle of the 1900s - the kitchen range and abandoned vehicles date from the 30's onwards.
 
 Twist was put up for sale in 1934 and likely fell into dereliction relatively soon afterwards, perhaps during the second world war which drained many young men from the country.
 
@@ -104,9 +105,9 @@ In this case, it's said that the building was interrupted by local residents who
 
 ![A shaft of Devon United Mine which had north, central and south sections](14.jpg)
 
-The North mine was worked for copper until the 1850's. The central and South mines were worked for tin and arsenic until 1922. 
+The North mine was worked for copper until the 1850's. The central and South mines were worked for tin and arsenic until 1922.
 
-The South mine site went down to 50 fathoms (300 feet) and produced most of the tin. The central section produced mainly arsenic. 
+The South mine site went down to 50 fathoms (300 feet) and produced most of the tin. The central section produced mainly arsenic.
 
 [Mindat page for Devon United Mines](https://www.mindat.org/loc-235493.html)
 

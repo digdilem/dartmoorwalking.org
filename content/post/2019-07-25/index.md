@@ -1,6 +1,6 @@
 ---
 title: Princetown, Conchie Road, Crock of Gold
-description: A linear walk taking in historical points of interest from the Bronze Age through to World War 1 starting from Princetown. 
+description: A linear walk taking in historical points of interest from the Bronze Age through to World War 1 starting from Princetown.
 categories: ["Mid Dartmoor"]
 distance: 4
 coords: 50.543966,-3.992101
@@ -9,19 +9,19 @@ w3w: walkway.spruced.megawatt
 gpx: princetown-conchie-road-crock-of-gold
 
 image: 9.jpg
-tags: 
-  - circular 
-  - 4 mile walk  
+tags:
+  - circular
+  - 4 mile walk
   - bronze age
   - ww1
   - medium
   - princetown
-  - crock of gold 
-keywords: 
+  - crock of gold
+keywords:
   - dartmoor
   - bronze age
   - conchie road
-  - crock of gold 
+  - crock of gold
   - walk
   - hike
   - ramble
@@ -31,7 +31,8 @@ keywords:
   - england
 comments: true
 draft: false
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2019-07-25'
 date: '2024-12-04'
@@ -45,7 +46,7 @@ proofed: true
 
 ## Introduction
 
-An interesting walk through part of the historic town of Princetown, then along a decent footpath past Devonport Leat and Bachelor's Hall in an area of mining. Then we walk along the Conchies Road and learn about this piece of World War One history before visiting an ancient burial cist. 
+An interesting walk through part of the historic town of Princetown, then along a decent footpath past Devonport Leat and Bachelor's Hall in an area of mining. Then we walk along the Conchies Road and learn about this piece of World War One history before visiting an ancient burial cist.
 
 There are a few short optional diversions to visit other cists along the way.
 
@@ -85,7 +86,7 @@ Jonathan Stones tells me that he was told by 'Sonny' Williams (an old farm hand)
 
 ## Aerial Ropeway
 
-The ropeway bringing timber from from Brimpts Plantation, powered by an engine at Moorlands Farm, ended nearby but I am told nothing visible remains. Many will remember old photographs in the Plume of Feathers in James Langton's time showing the ropeway in action. 
+The ropeway bringing timber from from Brimpts Plantation, powered by an engine at Moorlands Farm, ended nearby but I am told nothing visible remains. Many will remember old photographs in the Plume of Feathers in James Langton's time showing the ropeway in action.
 
 The ropeway was essentially an overhead cable supported by large wooden pylons that allowed relatively easy transport of wood from Brimpts, some four miles distant. Imagine something similar to a modern a ski lift, with logs suspended instead of skiiers.
 
@@ -107,11 +108,11 @@ The ropeway was essentially an overhead cable supported by large wooden pylons t
 
 ![Tithe Map from 1840 showing nearby Bachelors hall](17.jpg)
 
-Forest of Dartmoor 1840 Tithe Map showing a mine at bottom left in Plot 119 marked "Mine", close to Bachelors Hall. 
+Forest of Dartmoor 1840 Tithe Map showing a mine at bottom left in Plot 119 marked "Mine", close to Bachelors Hall.
 
-There is another structure in Plot 116, this being an un-named plot owned (also) by George Nicholson Esquire and leased to William Mitchell, as this appears to have a wheelpit and a stream as a water supply it can inferred that this is the smelting house (see following).  
+There is another structure in Plot 116, this being an un-named plot owned (also) by George Nicholson Esquire and leased to William Mitchell, as this appears to have a wheelpit and a stream as a water supply it can inferred that this is the smelting house (see following).
 
-There are two lines drawn across the mine area. The left one (through "119", coloured blue) was the original Bachelors Mine Leat that became the prison foul (an open sewer) and extended away from the mine. The thinner line (through the "9" of "119") was its replacement, Blackabrook Leat.  
+There are two lines drawn across the mine area. The left one (through "119", coloured blue) was the original Bachelors Mine Leat that became the prison foul (an open sewer) and extended away from the mine. The thinner line (through the "9" of "119") was its replacement, Blackabrook Leat.
 
 [Heritage Gateway page on Bachelors Hall Tin Mine](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV4735&resourceID=104)
 
@@ -129,21 +130,21 @@ Looking at our [map](#map) below, we've marked some points of interest here rela
 10. Blackbrook leat - its construction probably necessitated by the original leat being used for the prison. This is also defunct.
 11. Small reservoirs associated with the treatment areas of the mine.
 12. Areas of ridge and furrow cultivation, possibly contemporary with the mine.
-13. The Devonport, or Dock, Leat skirting the east side of the mine. 
+13. The Devonport, or Dock, Leat skirting the east side of the mine.
 
 ![Bachelors Hall today](18.jpg)
 
 [Heritage Gateway page on bachelors Hall](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV113177&resourceID=104)
 
-The building is generally accepted as the site of the corn mill and bakery (permission dated 1798 but built post-1809), later converted to a Naphtha Works; the ruin downstream is thought to be a smelting works. 
+The building is generally accepted as the site of the corn mill and bakery (permission dated 1798 but built post-1809), later converted to a Naphtha Works; the ruin downstream is thought to be a smelting works.
 
-Both documentary and map sources indicate the existence of other buildings at Bachelors Hall. Thomas Tyrwhitt built a late 18th century house here and a few years later he was granted a lease to build a corn mill; this suggests two separate buildings. 
+Both documentary and map sources indicate the existence of other buildings at Bachelors Hall. Thomas Tyrwhitt built a late 18th century house here and a few years later he was granted a lease to build a corn mill; this suggests two separate buildings.
 
-The tithe map and census returns both imply the existence of a farm at Bachelors Hall which if proved would have co-existed with mill cottages for the short duration of the Naphtha Works. 
+The tithe map and census returns both imply the existence of a farm at Bachelors Hall which if proved would have co-existed with mill cottages for the short duration of the Naphtha Works.
 
-A second 19th century Duchy map shows Bachelors Hall as an L-shape building slightly larger than it is today. 
+A second 19th century Duchy map shows Bachelors Hall as an L-shape building slightly larger than it is today.
 
-A building depicted downstream is allegedly the smelting works, and two structures higher up the hillside to the west annotated `Brewery'. 
+A building depicted downstream is allegedly the smelting works, and two structures higher up the hillside to the west annotated `Brewery'.
 
 The 1839 Tithe Map depicts a building here of L-shape with other buildings and the farm outbuildings more or less as they are today.
 
@@ -155,9 +156,9 @@ It's a short and interesting diversion to continue down through the Hall on the 
 
 ![Large building (21 long paces in length) beside the track down to the Blackabrook River, at SX 60150 73723](19.jpg)
 
-The track is the left section of the photograph. The building appears on the tithe map image at the top edge. 
- 
-It may be that this is the original house built by Tyrwhitt in the late 1700s and the modern buildings are where there were cottages for mill, bakery or mine workers. 
+The track is the left section of the photograph. The building appears on the tithe map image at the top edge.
+
+It may be that this is the original house built by Tyrwhitt in the late 1700s and the modern buildings are where there were cottages for mill, bakery or mine workers.
 
 ![Looking up the Blackabrook River](20.jpg)
 
@@ -177,15 +178,15 @@ It may be that this is the original house built by Tyrwhitt in the late 1700s an
 
 [Heritage Gateway Page for this Smelting House](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV63089&resourceID=104)
 
-A tin smelting house was in operation at 'Bachelors Hall' near Princetown from 1798-1807. It was erected by T Gray in 1795. 
+A tin smelting house was in operation at 'Bachelors Hall' near Princetown from 1798-1807. It was erected by T Gray in 1795.
 
 Smelting is the process in which ingots of metal are won from the crushed ore by the process of heating until the metal is liquid - in this case Tin. The furnace is heated by whatever fuel is available - probably wood or charcoal here.
- 
-In the late 1790's, John Swete described the smelting house as 'on the banks of a small stream which emptied into Blackabrook' having stamping mills. 
- 
-Duchy of Cornwall records date from 1798-1804 that indicate 223 ingots were smelted in that period weighing 27.43 tonnes with a further 1.07 tonnes listed for 1807. 
- 
-In sale particulars of 1828, the smelting house had been converted to a brewery. 
+
+In the late 1790's, John Swete described the smelting house as 'on the banks of a small stream which emptied into Blackabrook' having stamping mills.
+
+Duchy of Cornwall records date from 1798-1804 that indicate 223 ingots were smelted in that period weighing 27.43 tonnes with a further 1.07 tonnes listed for 1807.
+
+In sale particulars of 1828, the smelting house had been converted to a brewery.
 
 The site of the brewery is shown on the sale plan as being beside the west bank of the stream where agricultural buildings now stand. The photograph above shows the presumed wheelpit for the stamping mill and combines blowing house.
 
@@ -197,23 +198,23 @@ Using these figures: 27.43 tonnes (metric) = 60,346 lbs (UK) = 270 lbs/ingot = 2
 
 ![This fir tree beside the track is quite old - it is more impressive than it looks in this photograph](26.jpg)
 
-The building of nearby Tor Royal by Sir Thomas Tyrwhitt at Prince's Town was completed in 1798 and through the first decade of the 1800's there were experimental plantings of coniferous shelterbelts to protect it. 
+The building of nearby Tor Royal by Sir Thomas Tyrwhitt at Prince's Town was completed in 1798 and through the first decade of the 1800's there were experimental plantings of coniferous shelterbelts to protect it.
 
-The Duchy of Cornwall established a plantation at Brimpts in 1862. Forestry grew after WW1 in an effort to replace the country's greatly depleted timber stock. 
+The Duchy of Cornwall established a plantation at Brimpts in 1862. Forestry grew after WW1 in an effort to replace the country's greatly depleted timber stock.
 
-By 1930, plantations had been established at Fernworthy, Bellever, Brimpts, Bear Down, Soussons and Frenchbeer (Chagford) and in 1930 these areas were sold to the Forestry Commission (founded in 1919). 
+By 1930, plantations had been established at Fernworthy, Bellever, Brimpts, Bear Down, Soussons and Frenchbeer (Chagford) and in 1930 these areas were sold to the Forestry Commission (founded in 1919).
 
 By 1938, the eastern slopes of Bellever Tor and Lakehead Hill were planted and the western slopes between 1940-1943. <cite>Source: The New Forests of Dartmoor (1964), London HMSO, Forestry Commission booklet No. 10, pages 6-10.</cite>
 
 
 
-The tree of choice for planting on Dartmoor is the Sitka spruce, Picea sitchensis, chosen for its high productivity compared to e.g. Douglas fir, Norway spruce, European larch and other fast-growing conifers.   (text from the walk on 25 February 2018).  
+The tree of choice for planting on Dartmoor is the Sitka spruce, Picea sitchensis, chosen for its high productivity compared to e.g. Douglas fir, Norway spruce, European larch and other fast-growing conifers.   (text from the walk on 25 February 2018).
 
 ## Bull Park Farm
 
 ![Looking back at Bull Park Farm](27.jpg)
 
-Bull Park farm was built by Sir Thomas Tyrwhitt for a cattle-herdsman some time before 1833. Its enclosures were used to segregate bulls from cows and calves when not required for breeding. 
+Bull Park farm was built by Sir Thomas Tyrwhitt for a cattle-herdsman some time before 1833. Its enclosures were used to segregate bulls from cows and calves when not required for breeding.
 
 The last tenant farmer quit on Christmas Day, 1957, and the property then became a holiday cottage.
 
@@ -227,15 +228,15 @@ It is now a private home and the owners told me that the old shed was the bull s
 
 This starts the "Conchie Road".
 
-During the First World War, all able-bodied men between the ages of 18 and 41 were required to fight for their country. *(Except for clergy, teachers and certain classes of industrial worker)* 
+During the First World War, all able-bodied men between the ages of 18 and 41 were required to fight for their country. *(Except for clergy, teachers and certain classes of industrial worker)*
 
 [Parliament article about the Conscription Law](https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/yourcountry/overview/conscription/)
 
-Of those men, any who refused to fight for moral or other rules were labelled "Conscientious objectors", or Conchies. They were not a well liked group of men, seen as cowards and abused and taunted by men and women alike. 
+Of those men, any who refused to fight for moral or other rules were labelled "Conscientious objectors", or Conchies. They were not a well liked group of men, seen as cowards and abused and taunted by men and women alike.
 
-As they would not fight or contribute to the war effort, they were treated as prisoners. Some were housed in Dartmoor Prison and as punishment for their "cowardice", they were given hard labour. 
+As they would not fight or contribute to the war effort, they were treated as prisoners. Some were housed in Dartmoor Prison and as punishment for their "cowardice", they were given hard labour.
 
-One particularly pointless form of this work was to build this road. It goes nowhere and serves no purpose. 
+One particularly pointless form of this work was to build this road. It goes nowhere and serves no purpose.
 
 The work will have been hard and brutal. Stones taken both locally and from the Dartmoor Prison Quarry would have been hit repeatedly by sledgehammers until they were small enough to be packed into a solid base to form the road, again by packing with hammers or heavy tamps, and heavy man-powered rollers.
 
@@ -243,7 +244,7 @@ As you can see, there is little protection from the wind and driving wind up her
 
 ![The track ahead](30.jpg)
 
-![The first junction, at SX 60380 73253](31.jpg) 
+![The first junction, at SX 60380 73253](31.jpg)
 
 ![Conchie Road](32.jpg)
 
@@ -251,7 +252,7 @@ As you can see, there is little protection from the wind and driving wind up her
 
 ## Suggested detour
 
-If you're enjoying the walk, you may like to extend it by a mile or so by walking cross-moor North to Blakey Tor and back. 
+If you're enjoying the walk, you may like to extend it by a mile or so by walking cross-moor North to Blakey Tor and back.
 
 This is marked on the map as a dotted red line and takes in a pretty, rarely visited tor and another two ancient burial cists.
 
@@ -296,5 +297,5 @@ Directions are provided for the main Princetown car park. This is pay and displa
 
 * The [Dartmoor Prison Museum](https://www.devonmuseums.net/Dartmoor-Prison-Museum/Devon-Museums/) is well worth a visit.
 * The [Fox Tor Cafe](https://www.foxtorcafe.com/) has excellent food
-* The [Old Police Station](https://theoldpolicestation.uk/) cafe also does good food, particularly fish and chips. 
+* The [Old Police Station](https://theoldpolicestation.uk/) cafe also does good food, particularly fish and chips.
 

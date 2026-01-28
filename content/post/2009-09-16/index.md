@@ -1,6 +1,6 @@
 ---
 title: Dunnabridge Pound
-description: A fairly short walk in a pleasant circle taking in some open moorland, wide views and ancient history. 
+description: A fairly short walk in a pleasant circle taking in some open moorland, wide views and ancient history.
 categories: ["Mid Dartmoor"]
 distance: 3
 coords: 50.55693,-3.92183
@@ -9,8 +9,8 @@ w3w: rats.stick.windpipe
 gpx: dunnabridge-pound
 
 image: 18.jpg
-tags: 
-  - circular 
+tags:
+  - circular
   - 3 mile walk
   - medium
   - hut-circles
@@ -18,7 +18,7 @@ tags:
   - pound
   - ponies
   - bronze-age
-keywords: 
+keywords:
   - dartmoor
   - walk
   - walking
@@ -38,7 +38,8 @@ keywords:
   - england
 comments: true
 draft: false
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2009-09-16'
 date: '2025-07-12T09:55:01+01:00'
@@ -52,7 +53,7 @@ date: '2025-07-12T09:55:01+01:00'
 
 This is an open walk taking in some lesser visited ancient items on its circuitous way to the much more famous Dunnabridge Pound.
 
-On arrival at the car park, it's not uncommon to find it half full of Ponies. This particular herd is often a mix of Dartmoor Hill Ponies and the smaller Shetland Ponies, both ideally suited to the moor. Unfortunately, they are over-friendly due to people feeding them, which can lead to aggression from them and people being bitten is common. Please don't feed them or otherwise encourage them. 
+On arrival at the car park, it's not uncommon to find it half full of Ponies. This particular herd is often a mix of Dartmoor Hill Ponies and the smaller Shetland Ponies, both ideally suited to the moor. Unfortunately, they are over-friendly due to people feeding them, which can lead to aggression from them and people being bitten is common. Please don't feed them or otherwise encourage them.
 
 As with many Dartmoor car parks, ponies will run on parked cars, especially during the moulting times of Spring and Summer when they get very itchy from their coat changing. Dents to body panels and broken mirrors are common! If you can, fold in your wing mirrors when parking on the moor.
 
@@ -102,13 +103,13 @@ Once parked, head off away to the Northeast, directly away from the road.
 
 *A brief note about Dartmoor Ponies by Simon*
 
-The above mare (photo taken in 2009) is likely a Registered Dartmoor Pony as it looks to be very close to the breed standard. Every pony on Dartmoor is owned by someone with a set number of grazing rights allowing them to use certain parts of the moor for this purpose. This is governed by the [Dartmoor Commoners Council](https://www.dartmoorcommonerscouncil.org.uk/) 
+The above mare (photo taken in 2009) is likely a Registered Dartmoor Pony as it looks to be very close to the breed standard. Every pony on Dartmoor is owned by someone with a set number of grazing rights allowing them to use certain parts of the moor for this purpose. This is governed by the [Dartmoor Commoners Council](https://www.dartmoorcommonerscouncil.org.uk/)
 
 Some owners take great pride in their herds and breed to improve certain strains, and ponies can be split into roughly four types;
 
 1. Registered Dartmoors: These are pedigree ponies that are Registered with the [Dartmoor Pony Society](https://dartmoorponysociety.com/) and must adhere to certain breed standards including colour and must be "Bay, brown, black, grey, chestnut, roan. Piebalds, Skewbalds and Spotted are not allowed."
 2. Shetland Ponies: A common choice. Once prized for use in the many mines of Devon and Cornwall, these incredibly strong and hardy ponies adapt well to Dartmoor's harsh conditions.
-3. Dartmoor Hill Ponies: This is a loose term to describe ponies that are not registered with the DPS but are similar in shape. They can be any colour - Skewbald, Piebald, Spotty and all variations are common. 
+3. Dartmoor Hill Ponies: This is a loose term to describe ponies that are not registered with the DPS but are similar in shape. They can be any colour - Skewbald, Piebald, Spotty and all variations are common.
 4. Others. From time to time, owners will graze other equines. These can be horses of any shape, and the commons framework allows for Donkeys, although I've never seen one grazing loose.
 
 * [Dartmoor Commoners Council](https://www.dartmoorcommonerscouncil.org.uk/)
@@ -118,9 +119,9 @@ Some owners take great pride in their herds and breed to improve certain strains
 
 *We've now nearing the famous Dunnabridge Pound*
 
-![Entrance to Dunnabridge Pound, SX 64618 74635](17.jpg) 
+![Entrance to Dunnabridge Pound, SX 64618 74635](17.jpg)
 
-Dunnabridge Pound is one example of a pound where livestock was rounded-up so that owners could reclaim their animals before a time limit. "Illegal" animals were impounded and fines levied where the owner could be found. These were animals over the numerical limits for the size of a farm, they were only allowed to keep the number of animals that the farm could support over the winter. 
+Dunnabridge Pound is one example of a pound where livestock was rounded-up so that owners could reclaim their animals before a time limit. "Illegal" animals were impounded and fines levied where the owner could be found. These were animals over the numerical limits for the size of a farm, they were only allowed to keep the number of animals that the farm could support over the winter.
 
 Unclaimed animals were sold off to the highest bidder. One can imagine that if the fine were too large, the owner might stay quiet and buy their "illegal" animal back at the end, at the risk of being outbid for it.
 
@@ -139,7 +140,7 @@ One might be forgiven that this rather grand structure was built for this purpos
 *Once you ready, follow the road over the River and back to the Car Park.
 
 
-## Parking 
+## Parking
 
 There is large, free and well maintained parking at the coordinates.
 

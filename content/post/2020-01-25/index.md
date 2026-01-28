@@ -6,17 +6,17 @@ categories: ["South Dartmoor"]
 author: Simon Avery & Keith Ryan
 gpx: yennadon-down
 image: 34.jpg
-tags: 
-  - circular 
+tags:
+  - circular
   - 3 mile walk
   - gentle
   - moorland
   - quarry
   - mining
-  - reservoir  
+  - reservoir
   - railway
   - tramway
-keywords: 
+keywords:
   - dartmoor
   - walk
   - hike
@@ -38,7 +38,8 @@ coords: 50.504872,-4.049458
 grade: Gentle
 w3w: fattening.events.toward
 proofed: yes
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 date: '2024-12-11'
 ---
@@ -85,7 +86,7 @@ This gateway marks where Sir Thomas Tyrwhitt's 1823 Plymouth & Dartmoor Railway 
 
 ![Looking into Yennadon Stone - the modern (hornfelsed) slate quarry](12.jpg)
 
-Hornfelsed means the Tavy slate was altered by heat from the adjacent intrusion of molten granite that formed the bulk of Dartmoor. The bedrock was laid down as sedimant in open seas about 359 to 383 million years ago. 
+Hornfelsed means the Tavy slate was altered by heat from the adjacent intrusion of molten granite that formed the bulk of Dartmoor. The bedrock was laid down as sedimant in open seas about 359 to 383 million years ago.
 
 [Yennadon Stone](http://www.yennadonstone.com/index.html) is the last active stone quarry still working on moorland Dartmoor, out of scores that once existed.
 
@@ -113,7 +114,7 @@ There was no lease following this, so it must be concluded the venture was unsuc
 
 ![The site of Second World War searchlight battery no. EXD, at Dousland](20.jpg)
 
-This searchlight was operational from 9 Feb. 1944. It would help protect Plymouth, Burrator Reservoir and RAF Harrowbeer at Yelverton. 
+This searchlight was operational from 9 Feb. 1944. It would help protect Plymouth, Burrator Reservoir and RAF Harrowbeer at Yelverton.
 
 All that remains now are the outlines of a row of four huts, of which only one has anything obvious.
 
@@ -129,17 +130,17 @@ All that remains now are the outlines of a row of four huts, of which only one h
 
 ![The gate at SX 54195 67909 where both railways entered Yennadown Common](24.jpg)
 
-The first railway, the 1823 horse-drawn PDR of Sir Thomas Tyrwhitt has already been mentioned. 
+The first railway, the 1823 horse-drawn PDR of Sir Thomas Tyrwhitt has already been mentioned.
 
-The second railway was the 1883 [Princetown Railway](https://en.wikipedia.org/wiki/Princetown_Railway0 (using steam locomotives) that replaced it, runnning from Yelverton to Princetown. 
+The second railway was the 1883 [Princetown Railway](https://en.wikipedia.org/wiki/Princetown_Railway0 (using steam locomotives) that replaced it, runnning from Yelverton to Princetown.
 
-This one connected with the 1859 [South Devon and Tavistock Railway Company (SD&TR) Plymouth-Tavistock line](https://en.wikipedia.org/wiki/South_Devon_and_Tavistock_Railway). It was adopted by the GWR from 1st January 1922 and closed March 3rd, 1956.  
+This one connected with the 1859 [South Devon and Tavistock Railway Company (SD&TR) Plymouth-Tavistock line](https://en.wikipedia.org/wiki/South_Devon_and_Tavistock_Railway). It was adopted by the GWR from 1st January 1922 and closed March 3rd, 1956.
 
 ![Looking east, at the famous "Yennadon loop"](25.jpg)
 
-The horse-drawn tramway consisted of short wagons that could be pulled in quite a tight turn. The line enters this image at the far right, from the gateway seen above, swings around a hairpin bend (kindly marked by the sheep) and doubles back towards the camera at the left, from where it goes through the first gate above up to Iron Mine Lane and on to Princetown via the west side of the Down. 
+The horse-drawn tramway consisted of short wagons that could be pulled in quite a tight turn. The line enters this image at the far right, from the gateway seen above, swings around a hairpin bend (kindly marked by the sheep) and doubles back towards the camera at the left, from where it goes through the first gate above up to Iron Mine Lane and on to Princetown via the west side of the Down.
 
-The steam railway could not turn a tight bend like this and was built running into this image at the bottom left and on into the distance towards the reservoir where it ran around the flank of the Down above the dam to Burrator & Sheepstor Halt and then on to Princetown, travelling up the east side of the Down. 
+The steam railway could not turn a tight bend like this and was built running into this image at the bottom left and on into the distance towards the reservoir where it ran around the flank of the Down above the dam to Burrator & Sheepstor Halt and then on to Princetown, travelling up the east side of the Down.
 
 ![These are the trees where the steam railway ran from left (beside the trees) to right towards Princetown after the horse tramway ran from left to right but then looped back left again to run up past the quarry to Princetown](26.jpg)
 
@@ -173,9 +174,9 @@ These "creeps" (simply small tunnels) were installed at intervals along the rail
 
 ![One of the boundary stones of the iron mine "sett" (permitted working area)](37.jpg)
 
->  "One of the boundary stones which marked the sett has in fact survived, the existence of which had been overlooked by previous Dartmoor explorers and writers until I discovered it some years ago. A rough-hewn short pillar standing against the eastern enclosure wall 20 yards north of the wall corner, in exactly the position in which the last stone on the northern boundary was indicated on the 1836 map (see above)" 
-> 
-> --  <cite>Mike Brown (2001) Guide to Dartmoor, CD-ROM, Dartmoor Press, Grid Square 5489 6833</cite> 
+>  "One of the boundary stones which marked the sett has in fact survived, the existence of which had been overlooked by previous Dartmoor explorers and writers until I discovered it some years ago. A rough-hewn short pillar standing against the eastern enclosure wall 20 yards north of the wall corner, in exactly the position in which the last stone on the northern boundary was indicated on the 1836 map (see above)"
+>
+> --  <cite>Mike Brown (2001) Guide to Dartmoor, CD-ROM, Dartmoor Press, Grid Square 5489 6833</cite>
 
 ![Looking back at SX 55035 68676, at the wood located behind the iron mine sett boundary stone. Down the slope from here, the route of the 1883 steam railway could be seen, now a cycle track](38.jpg)
 
@@ -195,9 +196,9 @@ These "creeps" (simply small tunnels) were installed at intervals along the rail
 
 ![Unusual 'grave shaped' grass triangle at Lowery Cross](43.jpg)
 
-This grass triangle is no burial place - it is a triangular piece of land that was left so that a horse and cart could negotiate a fork in the road where three lanes meet; or maybe it built up from these cart and wagon turnings over the centuries: this is called a godcake. 
+This grass triangle is no burial place - it is a triangular piece of land that was left so that a horse and cart could negotiate a fork in the road where three lanes meet; or maybe it built up from these cart and wagon turnings over the centuries: this is called a godcake.
 
-The so-called "[Coventry Godcakes](https://en.wikipedia.org/wiki/Coventry_Godcake)" take their name from these triangle shapes and are not particular to any one county or city as they are found everywhere. 
+The so-called "[Coventry Godcakes](https://en.wikipedia.org/wiki/Coventry_Godcake)" take their name from these triangle shapes and are not particular to any one county or city as they are found everywhere.
 
 
 

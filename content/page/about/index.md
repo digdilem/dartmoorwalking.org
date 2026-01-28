@@ -25,11 +25,13 @@ hidetags: true
 ## About this Website
 The hope is that this site will provide a clear and informative way to inspire people to enjoy Dartmoor by providing self-guided walking information and suggested routes.
 
-*Dartmoor faces significant threats to its future. I believe that by encouraging people to use, enjoy and understand Dartmoor and its history, they will not only become richer themselves, but also form the same love for the moor as I have. We have recently seen attempts to remove legal rights, protections and funding from Dartmoor and by helping people to care about it, I think more of us are likely to object when we see Dartmoor under threat. The freedom to use Dartmoor for recreation is a legal right for everyone and we need to protect that. -- Simon*
+> *Dartmoor faces significant threats to its future. I believe that by encouraging people to use, enjoy and understand Dartmoor and its history, they will not only become richer themselves, but also form the same love for the moor as I have. We have recently seen attempts to remove legal rights, protections and funding from Dartmoor and by helping people to care about it, I think more of us are likely to object when we see Dartmoor under threat. The freedom to use Dartmoor for recreation is a legal right for everyone must be protected. <cite>-- Simon</cite>*
 
 ### Background
 
-Many of these photographs and walks were taken from the [DartmoorCam](https://dartmoorcam.co.uk) website created by Keith Ryan. Sadly, Keith became unable to continue maintaining that site through ill health and passed it to Simon Avery to preserve it. As well as keeping the original DartmoorCam online, Simon has shared many of those walks here and added his own experience and knowledge of Dartmoor to create an entirely new and more accessible website.
+Many of the walks on this site were originally researched and led by Liz Miall as part of her Moor Strollers walking group. They, alone with walks of his own, were photographed and recorded by Keith Ryan at [DartmoorCam](https://dartmoorcam.co.uk)
+
+Sadly, Keith became unable to continue maintaining his site due to ill health and passed it to Simon Avery to preserve it. As well as keeping the original DartmoorCam online, Simon has shared many of those walks here and added his own experience and knowledge of Dartmoor to create an entirely new and more accessible website.
 
 ## People
 
@@ -51,7 +53,7 @@ Simon lives on Dartmoor and has worked on and with many people associated with i
 
 ##  Website Roadmap
 
-[DartmoorCam](https://dartmoorcam.co.uk) is a wonderful website with a huge wealth of data and Keith was rightly proud of it. Unfortunately, that size has made it somewhat difficult to navigate and use and feedback suggests it can be overwhelming.  The site consists of over 6,000 html files and more than 50,000 image files, and with some parts of the code dating back to 2002, it has also proved difficult to manage.
+[DartmoorCam](https://dartmoorcam.co.uk) is a wonderful website with a huge wealth of data and Keith was rightly proud of it. Unfortunately, that size has made it somewhat difficult to navigate and use and feedback suggests it can be overwhelming to use. The site consists of over 6,000 html files and more than 50,000 image files, and with some parts of the code dating back to 2002, it has also proved difficult to manage.
 
 The hope with this site was to make some of that information more accessible and appealing to more people. It is not intended to replace DartmoorCam, only to share the information more widely.
 
@@ -78,7 +80,6 @@ This site is made entirely from [FOSS Software](https://en.wikipedia.org/wiki/Fr
 * [Stack](https://stack.jimmycai.com/) for the Hugo theme used, heavily modified
 * Linux (Specifically [Debian](https://www.debian.org/)) for development
 * [VSCode](https://code.visualstudio.com/) for page editing
-* ~~[Utterances](https://utteranc.es/) to allow commenting~~ (Currently disabled)
 * [OpenStreetMap](https://www.openstreetmap.org/) and [Leaflet](https://leafletjs.com) for the Map of Walks, together with custom Perl to generate the Popups at build time
 
 And also
@@ -92,7 +93,7 @@ The Source code to this Website is mirrored to Github
 ## Cookie Policy
 
 * This website does not track your online activity nor use cookies for advertising or commercial purposes.
-* We do not collect, store, sell, trade or pass your information to others in any way.
+* We do not collect, store, sell, trade nor pass your information to anyone in any way.
 
 ### What are cookies?
 

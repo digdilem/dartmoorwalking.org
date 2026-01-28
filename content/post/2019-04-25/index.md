@@ -1,17 +1,17 @@
 ---
 title: Hurston Stone Row
-description: A walk through some ancient history to visit one of Dartmoor's best stone rows. 
+description: A walk through some ancient history to visit one of Dartmoor's best stone rows.
 categories: ["Mid Dartmoor"]
 distance: 3
 coords: 50.61364,-3.87413
-grade: Medium 
+grade: Medium
 w3w: treaty.kingpin.budding
 gpx: hurston-stone-row
 
 image: 26.jpg
-tags: 
-  - circular 
-  - 3 mile walk  
+tags:
+  - circular
+  - 3 mile walk
   - medium
   - stone rows
   - cairn
@@ -20,7 +20,7 @@ tags:
   - bronze age
   - tin mining
   - millstone
-keywords: 
+keywords:
   - dartmoor
   - walk
   - stone rows
@@ -39,7 +39,8 @@ keywords:
   - england
 comments: true
 draft: false
-author: Keith Ryan
+author: Liz Miall
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2019-04-25'
 date: '2025-07-22T19:55:23+01:00'
@@ -64,13 +65,13 @@ At 434m above sea level, it's the highest pub in Southern England and the second
 
 ![Warren House Inn](34.jpg)
 
-Originally named New House and built in 1751, it was then positioned on the opposite side of the road where the foundations can still be seen. In 1845, the pub was rebuilt and renamed to the "Moreton Inn" to serve the thriving tin mining industry that was literally on its doorstep, with Vitifer and Golden Dagger mines only a short distance downhill. 
+Originally named New House and built in 1751, it was then positioned on the opposite side of the road where the foundations can still be seen. In 1845, the pub was rebuilt and renamed to the "Moreton Inn" to serve the thriving tin mining industry that was literally on its doorstep, with Vitifer and Golden Dagger mines only a short distance downhill.
 
 Shortly afterwards it was renamed to its present title for the Headland Warren that was built nearby to give the miners a steady supply of meat.
 
 ![The three rabbits denoting tinning history](35.jpg)
 
-The sign of the tinners' three rabbits (sometimes called The Three Hares). This is often seen carved in Churches near mining areas, and usually the rabbits share only three ears between them. 
+The sign of the tinners' three rabbits (sometimes called The Three Hares). This is often seen carved in Churches near mining areas, and usually the rabbits share only three ears between them.
 
 * [Warren House History](http://www.warrenhouseinn.co.uk/history.html)
 * [Heritage Gateway MDV18822 - Warren House Inn](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV18822&resourceID=104)
@@ -89,7 +90,7 @@ The letters WB are difficult to see now, occupying the upper six inches on the f
 
 ![The site of Cap'n Moses Bawden's Bungalow. SX 67532 81087](36.jpg)
 
-Near to our parking are the ruins of a stone-built bungalow that belonged to Cap'n Moses, once captain of the Birch Tor & Vitifer Mine nearby. The bungalow was also known as King's Bungalow (after King's Oven) and it was demolished in 1976.  
+Near to our parking are the ruins of a stone-built bungalow that belonged to Cap'n Moses, once captain of the Birch Tor & Vitifer Mine nearby. The bungalow was also known as King's Bungalow (after King's Oven) and it was demolished in 1976.
 
 ![On the front edge of the above bungalow, also at SX 67532 81087](37.jpg)
 
@@ -104,7 +105,7 @@ This green cast iron item is a Telegraph Marker. There are thirteen of these ite
 
 ![Follow this track](4.jpg)
 
-The start of the walk is an ancient trackway to the open workings of the Water Hill Mine that has extensive diggings on this hillside. There is a large gert (A mining remain where tin was washed out of the rock) right behind the Warren House Inn that approaches from the west - this being the direction of the Caroline Mine. The Water Hill MIne workings extend rightwards in this photograph, towards Moretonhampstead, towards the workings of Bushdown Mine. 
+The start of the walk is an ancient trackway to the open workings of the Water Hill Mine that has extensive diggings on this hillside. There is a large gert (A mining remain where tin was washed out of the rock) right behind the Warren House Inn that approaches from the west - this being the direction of the Caroline Mine. The Water Hill MIne workings extend rightwards in this photograph, towards Moretonhampstead, towards the workings of Bushdown Mine.
 
 ![Just over 300 metres from the road the track crosses a gert, where tinners changed the look of the landscape](5.jpg)
 
@@ -115,7 +116,7 @@ The start of the walk is an ancient trackway to the open workings of the Water H
 
 ![Looking west. Note the bumps on the horizon - spoil heaps from mining](7.jpg)
 
-Tin was the prime motive for the mining of this area, specifically Casseterite. 
+Tin was the prime motive for the mining of this area, specifically Casseterite.
 
 * [Mindat mining and mineralogy details of this area](https://www.mindat.org/loc-130442.html)
 
@@ -133,13 +134,13 @@ Two theories:
 
 1. The DTRG (Dartmoor Tinworking Research Group) Newsletter May 2020 No. 58 has a note on the "Kings Oven Stones" by Nick Walter on pages 9-10 that proposes a possible function for these stones. They could have been supports for a hand windlass that could have been used for raising loads from a small shaft in the nearby mine.
 
-2. The next issue of the same DTRG Newsletter, dated November 2020 No. 59, has a note on the "Kings Oven Stones" by Tom Greaves on page 19.  The stones may have derived from a single stone that is now broken. The cut recesses could have housed the base (wood or metal) of a flagpole. They are situated near the foundations of the larger of two ruined buildings which might have been the mine office. It is recorded that at least one mine in this area flew such a flag when they were actively working. 
+2. The next issue of the same DTRG Newsletter, dated November 2020 No. 59, has a note on the "Kings Oven Stones" by Tom Greaves on page 19.  The stones may have derived from a single stone that is now broken. The cut recesses could have housed the base (wood or metal) of a flagpole. They are situated near the foundations of the larger of two ruined buildings which might have been the mine office. It is recorded that at least one mine in this area flew such a flag when they were actively working.
 
 ![This open green area is not King's Oven - it is the site of an old building. SX 67531 81367](11.jpg)
 
 ![Image © J Butler 1994. Reproduced by kind permission (ref. 29 Sept. 2012)](12.jpg)
 
-King's Oven or Furnum Regis (in Latin). This derives from the fact that this is thought to be the site of an early smelting house, hence "oven", the produce of which would be taxed by the King via the stannary towns, such as Chagford.  Furnum Regis appears in the 1240 Perambulation of Dartmoor, although more likely mistaken for the landmark cairn at the summit of Water Hill. 
+King's Oven or Furnum Regis (in Latin). This derives from the fact that this is thought to be the site of an early smelting house, hence "oven", the produce of which would be taxed by the King via the stannary towns, such as Chagford.  Furnum Regis appears in the 1240 Perambulation of Dartmoor, although more likely mistaken for the landmark cairn at the summit of Water Hill.
 
 * [Heritage Gateway MDV6620 - Cairn and cist at King's Oven to the east of Water Hill](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV6620&resourceID=104)
 * [Heritage Gateway MDV46484 - Millstone at King's Oven Pound](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV46484&resourceID=104)
@@ -172,7 +173,7 @@ The fact that Furnum Regis, the King's Oven (taken to imply a smelting place for
 
 ![Hurston Ridge double stone row. SX 6729 8250](21.jpg)
 
-One of the best examples of its kind, mostly in its original state. There are 99 stones arranged in 49 pairs. There is a cairn at this upper (south-west) end, visible from the blocking stone at the lower end. Orientated NE-SW. 
+One of the best examples of its kind, mostly in its original state. There are 99 stones arranged in 49 pairs. There is a cairn at this upper (south-west) end, visible from the blocking stone at the lower end. Orientated NE-SW.
 
 * [Legendary Dartmoor - Hurston Stone Row](https://www.legendarydartmoor.co.uk/2016/03/17/hurston_row/)
 
@@ -180,7 +181,7 @@ One of the best examples of its kind, mostly in its original state. There are 99
 
 * [Heritage Gateway MDV6541- Hurston Ridge stone row](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV6541&resourceID=104)
 
-Somewhere in this area is a "lost" cairn described by J. Butler (1991), Dartmoor Atlas of Antiquities. The cairn was discovered and excavated by the Dartmoor Exploration Committee in 1900 and then it was "lost" again, shortly afterwards. 
+Somewhere in this area is a "lost" cairn described by J. Butler (1991), Dartmoor Atlas of Antiquities. The cairn was discovered and excavated by the Dartmoor Exploration Committee in 1900 and then it was "lost" again, shortly afterwards.
 
 During investigations on the cairn by Baring Gould, a "stone axe and a cinerary urn" (the latter upturned and covering a small heap of cremated bones on a flat stone, covered by a slab) were found. A photo of the restored Middle Bronze Age urn (1500-1000 BC) can be seen [here (Credit: Legendary Dartmoor)](https://www.legendarydartmoor.co.uk/Images3/Hurstone.gif) The pattern around the rim is believed made by impressing the clay with a twisted cord. It was restored 1960-1962 and was put on display in the Plymouth Museum.
 
@@ -204,7 +205,7 @@ During investigations on the cairn by Baring Gould, a "stone axe and a cinerary
 
 *It is assumed that this landmark cairn, which is visible for some distance, is the "Furnum Regis" mentioned in the 1240 Perambulation of Dartmoor. This was occasioned by order of King Henry III when he granted the lands of the Forest of Dartmoor to his brother Richard.  It was decreed that the Sheriff of Devon should do this accompanied by twelve knights and their attendants. Richard became an Earl in 1225 and was known as Richard of Cornwall (died 1272, aged 63)*
 
-* [Heritage Gateway MDV54619 - One of two cairns on the summit of Water Hill 450 metres north-west of Warren House Inn](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV54619&resourceID=104) 
+* [Heritage Gateway MDV54619 - One of two cairns on the summit of Water Hill 450 metres north-west of Warren House Inn](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV54619&resourceID=104)
 
 ![Another view, faintly showing the passage-way cut into the grass. This was used to rob the cairn many years ago](30.jpg)
 
@@ -224,7 +225,7 @@ This is a good vantage point to view the Ace Fields to the Southeast on the lowe
 
 * [Legendary Dartmoor - Jan Reynolds](https://www.legendarydartmoor.co.uk/2016/03/25/jan_reynolds/)
 
-The less prosaic reality is that they were farming enclosures used to grow vegetables for the nearby mines. 
+The less prosaic reality is that they were farming enclosures used to grow vegetables for the nearby mines.
 
 *The return to the road from Water Hill Cairn is now just a short stroll downhill to conclude our walk*
 
@@ -236,7 +237,7 @@ The less prosaic reality is that they were farming enclosures used to grow veget
 
 
 
-## Parking 
+## Parking
 
 There is on-road parking close to the Warren House Inn, and several parking close to the start.
 

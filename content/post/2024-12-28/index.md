@@ -9,16 +9,16 @@ w3w: disengage.pats.waltz
 gpx: haytor-down
 
 image: 25.jpg
-tags: 
-  - circular 
-  - 3 mile walk  
+tags:
+  - circular
+  - 3 mile walk
   - woodland
   - views
   - gentle
   - geocaching
   - mining
   - quarry
-keywords: 
+keywords:
   - woodland
   - views
   - gentle
@@ -43,7 +43,7 @@ keywords:
 comments: true
 draft: false
 author: Simon Avery
-license: "Simon Avery"
+license: Simon Avery
 walkdate: '2024-12-28'
 date: '2024-12-29T14:18:32Z'
 ---
@@ -77,12 +77,12 @@ Leave the car park and walk down the road to where the granite tramway crosses i
 *We follow this old tramway for about a mile downhill*
 
 * This tramway was built on the instruction of George Templer (1781-1843), a family that also built the main Haytor Quarries, the Stover Canal and Stover House in the late 18th and early 19th centuries.
-* The gauge of this tramway is 4'3" and it's taken from granite cut and shaped at the Haytor quarries. 
+* The gauge of this tramway is 4'3" and it's taken from granite cut and shaped at the Haytor quarries.
 * There are sets of points further up the tramway where the trams could be steered into different quarries or sidings.
 * Granite cut from Haytor or Holwell Quarries was loaded onto strong wooden trucks (See picture below)
 * The Tramway runs down from Haytor Rocks to Stover Canal, where the granite would be transferred to sailing barges to take it to Teignmouth docks.
-* Around 12 of these trucks were connected together in a "train" with the iron wheels sitting in the flat sections. 
-* A team of around 18 horses was then connected in single file to one end of the train. If it was loaded and heading downhill, the horses would be fixed to the last truck to provide braking. If they were pulling the trucks back up from Stover, they would be hitched to the front to better pull. 
+* Around 12 of these trucks were connected together in a "train" with the iron wheels sitting in the flat sections.
+* A team of around 18 horses was then connected in single file to one end of the train. If it was loaded and heading downhill, the horses would be fixed to the last truck to provide braking. If they were pulling the trucks back up from Stover, they would be hitched to the front to better pull.
 * The tramway is intact for much of its original course, down through Yarner Woods, past Bovey and on to Stover.
 
 ![(Foreground) - a surviving wagon from this tramway showing its strong and simple design. Picture courtesy of Dartmoor Trust Archive](/p/haytor-rocks-and-quarries/31_hu16004467077965472161.jpg)
@@ -141,15 +141,15 @@ Much less known than its larger brothers closer to the Tor. There is some corrug
 
 The sound of running water will alert you to this large collector tank above the path - it always seems to be overflowing even in the driest summer, and runs across the path here.
 
-The water is fed into this tank from a blue alkathene pipe, which continues up the hill over loose waste rock. If you follow it, it actually enters a gated Adit which is always dripping and provides a clearly sufficient flow. 
+The water is fed into this tank from a blue alkathene pipe, which continues up the hill over loose waste rock. If you follow it, it actually enters a gated Adit which is always dripping and provides a clearly sufficient flow.
 
 ![One of the two adits above the water tank - picture by "the-laing-gang"](20.jpg)
 
-There are actually two adits here, about a hundred meters apart on the same level, both with small fences and gates, and usually padlocked. 
+There are actually two adits here, about a hundred meters apart on the same level, both with small fences and gates, and usually padlocked.
 
 ![Inside one of the adits - picture by "Westwardho!"](21.jpg)
 
-These adits don't go far in, and side trials are short. The waste rock outside has a red tinge which indicates iron, so it's likely that's what was being searched for. 
+These adits don't go far in, and side trials are short. The waste rock outside has a red tinge which indicates iron, so it's likely that's what was being searched for.
 
 ![A little further along is this track which runs back towards the adits, although there is a second and more level track further along](22.jpg)
 
@@ -157,15 +157,15 @@ The actual adit area is quite overgrown now, but worth a detour if you like adit
 
 ![A cable box owned by British Telecom](24.jpg)
 
-The sight of this cable box always seems at odd with the timeless, even primeval nature of these woods. 
+The sight of this cable box always seems at odd with the timeless, even primeval nature of these woods.
 
 ## Yarner House
 
 ![Rhodedendron borders the bridlepath - likely an escapee from the House Gardens](26.jpg)
 
-You may spot some rooftops downhill as you're walking along. These belong to Yarner House. This is a Grade II Listed Tudor house dating back to the 1600s and has been renovated to a luxurious standard. 
+You may spot some rooftops downhill as you're walking along. These belong to Yarner House. This is a Grade II Listed Tudor house dating back to the 1600s and has been renovated to a luxurious standard.
 
-* The Yarner House estate is 247 acres. 
+* The Yarner House estate is 247 acres.
 * It was part of the Manor of Bovey Tracey which William the Conqueror (Norman invader of 1066, also known as William the Bastard) siezed and then granted to Geoffrey de Mowbray, Bishop of Coutances.
 * On de Mowbray’s death in 1093, his nephew, Robert Mowbray, Earl of Northumberland, inherited, but later defied the king, which led to the seizure of his estates in 1095.
 * Eventually, ownership of the Bovey Tracey estates reverted to the Crown until, in the 16th century, a succession of costly wars left Tudor monarchs strapped for cash.
@@ -184,7 +184,7 @@ Today, it is a Hotel that offers Bed & Breakfast.
 
 ![A magnificent row of Beech trees tops the wall](27.jpg)
 
-On clear days, the view over this hedge is most pleasing, taking in Bovey Tracey and the hills behind. 
+On clear days, the view over this hedge is most pleasing, taking in Bovey Tracey and the hills behind.
 
 ![Another view of the Beeches](28.jpg)
 
@@ -195,7 +195,7 @@ On clear days, the view over this hedge is most pleasing, taking in Bovey Tracey
 ![The road back to the parking](30.jpg)
 
 
-## Parking 
+## Parking
 
 This walk starts at the blue parking on this map, but sometimes that can get busy. If so, alternative parking is shown by red stars on the map.
 

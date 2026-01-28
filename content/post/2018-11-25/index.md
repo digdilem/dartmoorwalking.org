@@ -9,17 +9,17 @@ w3w: lake.squirts.greeting
 gpx: lydford-high-down-to-doetor-farm-ruins
 
 image: 7.jpg
-tags: 
-  - circular 
-  - 3 mile walk  
+tags:
+  - circular
+  - 3 mile walk
   - medium
   - ruined farmhouse
   - seats
   - views
   - river
-  - bridge 
-  - ford  
-keywords: 
+  - bridge
+  - ford
+keywords:
   - dartmoor
   - walk
   - walking
@@ -37,7 +37,8 @@ keywords:
   - england
 comments: true
 draft: false
-author: Keith Ryan
+author: Tom Soby
+recorder: Keith Ryan
 license: "Simon Avery"
 walkdate: '2018-11-25'
 date: '2025-02-01T20:27:31Z'
@@ -49,7 +50,7 @@ date: '2025-02-01T20:27:31Z'
 
 ## Introduction
 
-This fairly gentle walk has plenty to see along the way. We start with a walk across flattish open moorland to three seats with good views. Then we cross over the River Lyd by footbridge and walk down to the ruined Doe Tor Farmstead. Leaving there, we can return up the river, or detour across the Lyd by stepping stones to the abandoned 19th Century mine, Wheal Mary Emma. 
+This fairly gentle walk has plenty to see along the way. We start with a walk across flattish open moorland to three seats with good views. Then we cross over the River Lyd by footbridge and walk down to the ruined Doe Tor Farmstead. Leaving there, we can return up the river, or detour across the Lyd by stepping stones to the abandoned 19th Century mine, Wheal Mary Emma.
 
 *Once parked, head off due East along a worn path for around 350 meters until you see a bench to the left.*
 
@@ -59,7 +60,7 @@ The first seat, with tors behind. These are, left to right:
 
 * Arms Tor (SX 541 862, elevation 457 metres / 1499 feet) with a small "pimple" to the right of the summit - marked by the "v" - which is a part of Great Links Tor. (See next picture)
 * Brat Tor (SX 539 855, elevation 452 metres /1482 feet) (Also known as Brai, Bra or Bray Tor)
-* Sharp Tor (SX 550 848, elevation 519 metres / 1702 feet). 
+* Sharp Tor (SX 550 848, elevation 519 metres / 1702 feet).
 
 ![Zoomed picture of Arms tor, 1.4km distant. The "pimple" shown more clearly to be Great Links Tor behind](2.jpg)
 
@@ -67,7 +68,7 @@ The first seat, with tors behind. These are, left to right:
 
 ![Brat Tor, showing Widgery Cross](4.jpg)
 
-Widgery Cross was erected by the painter William Widgery (1822-1893) to commemorate the Golden Jubilee of Queen Victoria in 1887. 
+Widgery Cross was erected by the painter William Widgery (1822-1893) to commemorate the Golden Jubilee of Queen Victoria in 1887.
 
 The cross is constructed from 10 courses of granite blocks, capped with a rough slab, reaching 13feet in height.
 
@@ -83,23 +84,23 @@ The words "W. Widgery, Fecit, Jubilee VR" are inscribed on the eastern side of t
 
 ![Across the river, stone walls. SX 53230 85473](6.jpg)
 
-These walls are said to be a large building, although its use is unknown. It might be associated with the Wheal Mary Emma tin mine downstream, but if so, it's an unusual structure for a mining building. 
+These walls are said to be a large building, although its use is unknown. It might be associated with the Wheal Mary Emma tin mine downstream, but if so, it's an unusual structure for a mining building.
 
 It does not appear in the tithe map of 1848, nor the OS 25-inch map from 1884, but does show up on the revised 1904 version. The mine was active in the 1860s so the timings are not far out if it was related.
 
-Alternatively, it could be a farming or warren enclosure rather than a building. 
+Alternatively, it could be a farming or warren enclosure rather than a building.
 
 ## Black Rock Seats
 
 ![Black Rock, SX 53242 85388](10.jpg)
 
-There are two somewhat hidden benches at Black Rock, shown here by the white circles. 
+There are two somewhat hidden benches at Black Rock, shown here by the white circles.
 
 ![Northern Seat](11.jpg)
 
 ![Southern Seat with Plaque](12.jpg)
 
-Both seats overlook Black Pool, or Hunter's Pool. 
+Both seats overlook Black Pool, or Hunter's Pool.
 
 The plaque reads:
 
@@ -190,7 +191,7 @@ There is apparently a millstone built in the walls hereabouts, but possibly now 
 
 ![Possibly site of a cider crushing edge runner stone. SX 53506 84983](27.jpg)
 
-The above stone was well documented here. Flat on one side and curved on the other, to run against the outer curve of the circular trough. It was reported stolen in 2005. 
+The above stone was well documented here. Flat on one side and curved on the other, to run against the outer curve of the circular trough. It was reported stolen in 2005.
 
 ## Doe Tor
 
@@ -204,7 +205,7 @@ This trough was abandoned soon after carving started. It's on the near slope of 
 
 ## Return route - a choice
 
-When you leave the farm and cross over Doe Tor Bridge, you can either return back up the river to High Down Ford and, after crossing the Lyd, follow the hedge back to the car park taking in the mining site of Wheal Mary Emma tin mine. 
+When you leave the farm and cross over Doe Tor Bridge, you can either return back up the river to High Down Ford and, after crossing the Lyd, follow the hedge back to the car park taking in the mining site of Wheal Mary Emma tin mine.
 
 Alternatively, if the weather is kind and the water level is low you may wish to brave a river crossing by some stepping stones. This path is marked in purple on the map and the rest of the description here follows that trail.
 
@@ -229,7 +230,7 @@ There is still evidence of a banked-up track above the flatter dressing floors, 
 *When done exploring the mine workings, follow the path up the hill due West, which will take you back to the car park and conclude our walk*
 
 
-## Parking 
+## Parking
 
 The approach road to the free parking area is a little bumpy, but the parking itself is quite large and good.
 
