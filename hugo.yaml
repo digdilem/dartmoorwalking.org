@@ -72,7 +72,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: avatar.png
+            src: dartmoorwalking-logo-sm.png
 
     article:
         math: false
