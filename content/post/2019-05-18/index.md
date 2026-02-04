@@ -1,12 +1,12 @@
 ---
-title: Meldon and the West Okemont Valley
+title: Meldon and the West Okement Valley
 description: A lovely walk from the Meldon Reservoir down into the historic valley below the railway viaduct
 categories: ["North Dartmoor"]
 distance: 3
 coords: 50.70783070429545,-4.038875722532252
 grade: Medium
 w3w: coasters.branching.eggs
-gpx: meldon-and-the-west-okemont-valley
+gpx: meldon-and-the-west-okement-valley
 
 image: 16.jpg
 tags:
