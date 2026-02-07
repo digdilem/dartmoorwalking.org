@@ -183,6 +183,8 @@ Given its unusual shape and that you can shelter underneath it in heavy rain (as
 *Follow the pleasant path past Hollowpark Rock and along the lower edge of Beacon Plantation, turning right at the next two footpath junctions into an ancient hollow way*
 {{% /routing %}}
 
+![The path past Hollowpark Rock](20.jpg)
+
 ![Keep turning right](18.jpg)
 
 You'll come to another small ford, the same un-named river as we forded earlier, and hop across. Sometimes this is a little muddy, but you'll soon be in some mature conifer woodland. In the summer, it's common to see several Wood Ant nests through here, and it's always pleasant to pause and watch the industrial insects. On very hot day they will re-arrange the structure as you observe to ensure it's cool enough, opening vent holes into the inside. On cold days they're much less active, and these holes will be closed up. They sometimes even put darker objects on the surface to absorb more warmth - such clever creatures.
