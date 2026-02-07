@@ -8,7 +8,7 @@ grade: Medium
 w3w: frozen.squabbles.stylists
 gpx: clampitts-walk
 
-image: 11.jpg
+image: 2.jpg
 tags:
   - circular
   - 4 mile walk
