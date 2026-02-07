@@ -6,14 +6,14 @@ distance: XXXXXXXXXXX
 coords: XXXXXXXXXXX - in 50.579587,-3.797581 format, no spaces
 grade: Gentle/Medium/Strenuous  XXXXXXXXXXX
 w3w: XXXXXXXXXXXX
-gpx: 
+gpx: XXXXXXXXXX
 
 image: map.jpg
-tags: 
-  - circular 
-  - XXXXXXXXXXX mile walk  
+tags:
+  - circular
+  - XXXXXXXXXXX mile walk
   - gentle / medium / strenuous XXXXXXXXXXX
-keywords: 
+keywords:
   - dartmoor
   - walk
   - walking
@@ -32,7 +32,8 @@ keywords:
 comments: true
 draft: false
 author: Keith Ryan
-license: "Simon Avery"
+# recorder:
+license: Simon Avery
 walkdate: '{{ replace .File.ContentBaseName "-" "-" | title }}'
 date: '{{ .Date }}'
 ---
@@ -48,7 +49,7 @@ date: '{{ .Date }}'
 
 
 
-## Parking 
+## Parking
 
 ## References
 {{< show-extracted-links >}}

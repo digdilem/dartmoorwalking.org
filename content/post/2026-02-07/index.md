@@ -38,7 +38,8 @@ keywords:
 comments: true
 draft: false
 author: Simon Avery
-license: "Simon Avery"
+license: Simon Avery
+recorder: Simon Avery
 walkdate: '2026-02-07'
 date: '2026-02-07T19:19:44Z'
 ---
@@ -49,7 +50,7 @@ date: '2026-02-07T19:19:44Z'
 
 ## Introduction
 
-On the quiet hills of Eastern Dartmoor are the three linked reservoirs of Kennick, Trenchford and Tottiford. Surrounded by woodland they offer some excellent walking and some very good views, along with some excellent history. We'll walk quiet, well-marked paths through ancient woodland, modern plantations passing by a Quaker Burial Ground, abandoned Farm buildings, past one of Dartmoor's lesser known rocks and back to Kennick Reservoir.
+On the quiet hills of Eastern Dartmoor are the three linked reservoirs of Kennick, Trenchford and Tottiford. Surrounded by woodland they offer some excellent walking and some very good views, along with some excellent history. We'll walk quiet, well-marked paths through ancient woodland and modern plantations. We'll pass by a Quaker Burial Ground, abandoned Farm buildings, past one of Dartmoor's lesser known rocks and back to Kennick Reservoir.
 
 This walk is Dog friendly, but be aware of restrictions at Kennick Reservoir and farm animals in adjacent fields. It is entirely within the boundary of Dartmoor National Park.
 
@@ -69,7 +70,9 @@ Although fishing is allowed on all three Reservoirs by permit, Kennick is very m
 
 ![Looking down Kennick Dam towards Tottiford Reservoir](3.jpg)
 
+{{% routing %}}
 *When you're ready to leave, walk East along the road until it starts to bend, and take the Signed footpath to the left*
+{{% /routing %}}
 
 * [Kennick Fly Fishers](https://www.kennickflyfishers.co.uk/)
 * [South West Lakes Trust](https://www.swlakestrust.org.uk/)
@@ -95,7 +98,9 @@ This burial ground dates from 1674 through to 1740, but other than this stone, i
 
 > Quakers are members of the Religious Society of Friends, a Christian movement that began in England in the mid-1600s. Quakers believe that everyone can experience God directly, without priests, rituals, or formal sacraments. They often call this the “Inner Light” — the idea that there’s something of God in every person.
 
+{{% routing %}}
 *Follow the track to the left of the Quaker Stone*
+{{% /routing %}}
 
 ## Abandoned Farmhouse "Clampitts" / Beacon Farm.
 
@@ -116,9 +121,12 @@ The name "Clampitt" was first recorded in 1219 in relation to a sale of land, wh
 * [Heritage Gateway - Clampitts Farmstead](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV77370&resourceID=104)
 * [Clampett Family Center](http://www.clampett.org/story/name.html)
 
+{{% routing %}}
 *Follow the track past the buildings. You may hear, see and smell pigs to the left - they always make me smile*
 
 *After a short walk, there will be a small junction. Bear left, don't cross the ford immediate in front of the junction*
+{{% /routing %}}
+
 
 ## Potato Well and Ford
 
@@ -136,6 +144,7 @@ The unusual name came from me - my first impression was that it was a small "Pot
 
 ## Laployd Plantation
 
+{{% routing %}}
 Once safely across the stream, bear left along the path below the fence and through the hedge into a large area of recently planted conifers.
 
 Walk through this nice-smelling area, which once provided a nice view of the Kennick Reservoir to our left, but now has grown a little too high to show this.
@@ -147,6 +156,7 @@ Some 300 meters after the ford, there is a wide and steep track leading up to ou
 About 500 meters up this track you'll meet a T-junction. Turn right here, and know that the only real hill of our walk is now behind you!
 
 Follow the path down and you'll soon emerge into a felled area which has a nice view. (Provided the trees haven't grown up too far yet)
+{{% /routing %}}
 
 ![View of the Kennick Reservoir](15.jpg)
 
@@ -169,7 +179,9 @@ Given its unusual shape and that you can shelter underneath it in heavy rain (as
 
 ![Bluebells in the field below Beacon Plantation](17.jpg)
 
-Follow the pleasant path past Hollowpark Rock and along the lower edge of Beacon Plantation, turning right at the next two footpath junctions into an ancient hollow way.
+{{% routing %}}
+*Follow the pleasant path past Hollowpark Rock and along the lower edge of Beacon Plantation, turning right at the next two footpath junctions into an ancient hollow way*
+{{% /routing %}}
 
 ![Keep turning right](18.jpg)
 
@@ -181,9 +193,11 @@ You'll emerge onto a harder track. Turn right here back to the Quaker Burial Gro
 
 ![Road leading back to Quaker Burial Grounds](6.jpg)
 
-From the Quaker Stone, turn left back under the magnificent Beech Trees and turn right towards Kennick Dam.
+{{% routing %}}
+*From the Quaker Stone, turn left back under the magnificent Beech Trees and turn right towards Kennick Dam.*
 
-You can either follow the same footpath back to the dam that you started on, or for a little variety turn left and walk along the roads. These are usually very quiet and have wide verges.
+*You can either follow the same footpath back to the dam that you started on, or for a little variety turn left and walk along the roads. These are usually very quiet and have wide verges.*
+{{% /routing %}}
 
 ## Parking
 
