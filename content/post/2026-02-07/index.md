@@ -136,7 +136,11 @@ Some 20 meters before the ford, immediately above the track, there is an unusual
 
 ![The Potato Well](12.jpg)
 
-The unusual name came from me - my first impression was that it was a small "Potato Cave" - somewhere to store root vegetables for the winter. But on a closer inspection it appears to be a "Springhead Well". A small stone-lined cavity filled with water that seeps naturally in. There is evidence of a wooden door here, with iron hinge pins. Unfortunately, when I last walked this, forestry equipment had damaged it considerably.
+The unusual name came from me - my first impression was that it was a small "Potato Cave" - somewhere to store root vegetables for the winter. But on a closer inspection it appears to be a "Springhead Well". A small stone-lined cavity filled with water that seeps naturally in. There is evidence of a wooden door here, with iron hinge pins.
+
+Thanks to Richard Hall who advises me that this is most likely a `Butter Well` - found on many farms before refrigeration, and that there is one in the nearby derelict farm. They're used to store butter in a stone lined chamber into which cold spring water naturally seeps, keeping the temperature low.
+
+Unfortunately, when I last walked this in 2025, forestry equipment had damaged it considerably.
 
 ![Looking back at the ford - the well is just beyond view](13.jpg)
 
