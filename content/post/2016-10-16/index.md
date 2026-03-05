@@ -2,7 +2,7 @@
 title: Venford Reservoir, Holne Moor
 walkdate: '2013-10-16'
 categories: ["East Dartmoor"]
-author: Simon Avery & Keith Ryan
+author: Simon Avery & Keith Ryan & Liz Miall
 description: A short circular to the Northeast of Venford Reservoir. Including ancient woodlands, open moor, several Tors, Strip fields and a boundary stone from a past Lord of the Manor.
 image: 9.jpg
 gpx: venford-reservoir-holne-moor
@@ -33,7 +33,6 @@ distance: 3
 coords: 50.526194,-3.856113
 w3w: ferrets.sonic.inner
 grade: Medium
-author: Liz Miall
 recorder: Keith Ryan
 license: "Simon Avery"
 date: '2024-11-21'

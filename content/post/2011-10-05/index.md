@@ -3,7 +3,7 @@ title: Cox Tor Circular
 walkdate: '2011-10-05'
 categories: ["West Dartmoor"]
 description: A walk around Cox Tor, inspecting ancient Reeve Stones.
-author: Simon Avery & Keith Ryan
+author: Simon Avery & Keith Ryan & Liz Miall
 image: 6.jpg
 distance: 3
 gpx: cox-tor-circular
@@ -29,11 +29,9 @@ keywords:
   - england
 comments: false
 draft: false
-distance: 3
 coords: 50.557477,-4.075441
 w3w: pipes.disco.defers
 grade: Medium
-author: Liz Miall
 recorder: Keith Ryan
 license: 'Simon Avery'
 date: '2024-11-20'

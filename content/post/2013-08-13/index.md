@@ -3,7 +3,7 @@ title: Yes Tor, via Row Tor
 walkdate: '2013-08-13'
 description: This walk takes you onto the Okehampton Military Training area and climbs to Yes Tor, second highest point on Dartmoor.
 categories: ["North Dartmoor"]
-author: Simon Avery & Keith Ryan
+author: Simon Avery & Keith Ryan & Liz Miall
 image: 18.jpg
 gpx: yes-tor-via-row-tor
 tags:
@@ -32,7 +32,6 @@ distance: 5
 coords: 50.712773,-3.989706
 w3w: searching.pleasing.sleeping
 grade: Strenuous
-author: Liz Miall
 recorder: Keith Ryan
 license: "Simon Avery"
 date: '2024-11-20'

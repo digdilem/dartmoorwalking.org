@@ -4,9 +4,8 @@ walkdate: '2020-05-25'
 description: A walk of about 3 miles across open moorland to the historic Powder Mills site, near to Postbridge in central Dartmoor.
 categories: ["Mid Dartmoor"]
 gpx: the-powder-mills
-
 proofed: yes
-author: Simon Avery & Keith Ryan
+author: Simon Avery & Keith Ryan & Liz Miall
 image: 19.jpg
 tags:
   - moorland
@@ -42,7 +41,6 @@ distance: 3
 coords: 50.581706,-3.926459
 w3w: aside.explained.package
 grade: Gentle
-author: Liz Miall
 recorder: Keith Ryan
 license: "Simon Avery"
 date: '2024-11-26'

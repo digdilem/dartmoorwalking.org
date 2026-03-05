@@ -4,7 +4,6 @@ walkdate: '2018-12-13'
 description: Devonport leat, clapper bridge, leat monitoring station, Cross Gate cist, tinners' fougou, Leathertor Farm, potato cave, River Meavy, Leather Tor Bridge, ancient ford, Riddipit Steps stepping stones, Riddipit Farm longhouse, Riddipit Tin Mill, 2nd potato cave, mortar stone, adit, Riddipit Gert, Keaglesborough Mine, lower and upper dressing floors, wheel pits, leat bank, tare & feathers stone
 categories: ["South Dartmoor"]
 gpx: norsworthy-bridge-devonport-leat
-
 author: Simon Avery & Keith Ryan
 image: 1.jpg
 tags:
@@ -53,7 +52,6 @@ distance: 3
 grade: Medium
 coords: 50.506324,-4.019660
 w3w: diner.nanny.headlines
-author: Keith Ryan
 license: "Simon Avery"
 date: '2024-11-13'
 ---

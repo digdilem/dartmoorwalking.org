@@ -4,8 +4,7 @@ walkdate: '2019-03-25'
 description: Hound Tor, Swallerton Gate, Kitty Jay's Grave, Logan stone, Bowerman's Nose
 categories: ["East Dartmoor"]
 gpx: hound-tor-bowermans-nose-kitty-jays-grave
-
-author: Simon Avery & Keith Ryan
+author: Simon Avery & Keith Ryan & Liz Miall
 proofed: yes
 image: 14.jpg
 tags:
@@ -41,7 +40,6 @@ distance: 4
 grade: Medium
 coords: 50.598980,-3.782292
 w3w: hugs.intervene.hammocks
-author: Liz Miall
 recorder: Keith Ryan
 license: "Simon Avery"
 date: '2024-11-12'

@@ -2,7 +2,7 @@
 title: Smeardon Down
 description: Twist ruined farm. Slotted gatepost. Devon United Mine. River Tavy. St Peter's Church
 categories: ["West Dartmoor"]
-author: Simon Avery & Keith Ryan
+author: Simon Avery & Keith Ryan & Liz Miall
 image: 6.jpg
 gpx: smeardon-down
 tags:
@@ -35,12 +35,10 @@ distance: 4
 coords: 50.581876,-4.089303
 w3w: reworked.shells.motivator
 grade: Medium
-author: Liz Miall
 recorder: Keith Ryan
 license: "Simon Avery"
 date: '2024-11-11'
 walkdate: '2011-01-12'
-
 ---
 
 {{% directions %}}

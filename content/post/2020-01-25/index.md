@@ -3,7 +3,7 @@ title: Yennadon Down
 walkdate: '2020-01-25'
 description: A mostly level circular walk around Yennadon Down with some nice views over Burrator Reservoir and some interesting history along the way.
 categories: ["South Dartmoor"]
-author: Simon Avery & Keith Ryan
+author: Simon Avery & Keith Ryan & Liz Miall
 gpx: yennadon-down
 image: 34.jpg
 tags:
@@ -38,7 +38,6 @@ coords: 50.504872,-4.049458
 grade: Gentle
 w3w: fattening.events.toward
 proofed: yes
-author: Liz Miall
 recorder: Keith Ryan
 license: "Simon Avery"
 date: '2024-12-11'
