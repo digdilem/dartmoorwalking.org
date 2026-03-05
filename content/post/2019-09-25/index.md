@@ -82,7 +82,7 @@ Historically, on Dartmoor, "newtakes" were enclosures of common land for agricul
 
 This interesting little copse looks like it may have been planted to shelter a house at some time, but no such remains are known.  In any regard, it is a nice place to rest on a summer's day.
 
-![Taken from the same location as the preceeding photograph, this photograph shows Buckland Beacon up ahead](9.jpg)
+![Taken from the same location as the preceding photograph, this photograph shows Buckland Beacon up ahead](9.jpg)
 
 ![Remains of two cairns near the newtake wall?](10.jpg)
 

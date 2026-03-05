@@ -65,7 +65,7 @@ Rock climbers and abseilers use Haytor often.
 
 ![The leftmost, or Western outcrop is known as Low Man](3.jpg)
 
-On special occasions, a bonfire is sometimes set on the exposed flat rocks of Low Man by the local community in agreement with the local Authority and Landowner. These celebration fires, which have likely occured for millenia, can be seen for a huge distance.
+On special occasions, a bonfire is sometimes set on the exposed flat rocks of Low Man by the local community in agreement with the local Authority and Landowner. These celebration fires, which have likely occurred for millennia, can be seen for a huge distance.
 
 On the very top of Low Man is a hole drilled by the Victorians to hold a flagpole. 
 

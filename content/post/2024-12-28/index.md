@@ -166,7 +166,7 @@ The sight of this cable box always seems at odd with the timeless, even primeval
 You may spot some rooftops downhill as you're walking along. These belong to Yarner House. This is a Grade II Listed Tudor house dating back to the 1600s and has been renovated to a luxurious standard.
 
 * The Yarner House estate is 247 acres.
-* It was part of the Manor of Bovey Tracey which William the Conqueror (Norman invader of 1066, also known as William the Bastard) siezed and then granted to Geoffrey de Mowbray, Bishop of Coutances.
+* It was part of the Manor of Bovey Tracey which William the Conqueror (Norman invader of 1066, also known as William the Bastard) seized and then granted to Geoffrey de Mowbray, Bishop of Coutances.
 * On de Mowbray’s death in 1093, his nephew, Robert Mowbray, Earl of Northumberland, inherited, but later defied the king, which led to the seizure of his estates in 1095.
 * Eventually, ownership of the Bovey Tracey estates reverted to the Crown until, in the 16th century, a succession of costly wars left Tudor monarchs strapped for cash.
 * Elizabeth I began to sell off Crown properties and, in 1578, the Yarner estate was bought by Gregory Sprint, a canny lawyer with good Court connections, who swiftly resold it at a profit.
