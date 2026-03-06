@@ -93,7 +93,7 @@ When tin ore was smelted at a blowing house, the tin was poured into mould stone
 
 Bellever Forest was planted by the Duchy of Cornwall in 1921 to help replenish national wood supplies which were much depleted after the First World War.
 
-The Bellever Complex is an internationally renowned archaelogical site, and forestry has obscured or damaged a large part of it.
+The Bellever Complex is an internationally renowned archaeological site, and forestry has obscured or damaged a large part of it.
 
 * [Legendary Dartmoor - Bellever Complex](https://www.legendarydartmoor.co.uk/2016/03/16/bellever_comp/)
 

@@ -131,7 +131,7 @@ All that remains now are the outlines of a row of four huts, of which only one h
 
 The first railway, the 1823 horse-drawn PDR of Sir Thomas Tyrwhitt has already been mentioned.
 
-The second railway was the 1883 [Princetown Railway](https://en.wikipedia.org/wiki/Princetown_Railway0 (using steam locomotives) that replaced it, runnning from Yelverton to Princetown.
+The second railway was the 1883 [Princetown Railway](https://en.wikipedia.org/wiki/Princetown_Railway0 (using steam locomotives) that replaced it, running from Yelverton to Princetown.
 
 This one connected with the 1859 [South Devon and Tavistock Railway Company (SD&TR) Plymouth-Tavistock line](https://en.wikipedia.org/wiki/South_Devon_and_Tavistock_Railway). It was adopted by the GWR from 1st January 1922 and closed March 3rd, 1956.
 

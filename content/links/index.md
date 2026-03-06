@@ -3,7 +3,7 @@ title: Links
 links:
 
   - title: Dartmoor Weather Camera
-    description: Dartcom's long lived and very useful camera of conditions on Dartmoor, sited at the Powdermills near to Postbridge. Dartcom also provide independant weather data.
+    description: Dartcom's long lived and very useful camera of conditions on Dartmoor, sited at the Powdermills near to Postbridge. Dartcom also provide independent weather data.
     website: https://www.dartcom.co.uk/webcam
     image: dartcom.jpg
 

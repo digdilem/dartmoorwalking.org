@@ -58,7 +58,7 @@ Belstone is one of the prettiest villages on Dartmoor and retains a strong farmi
 
 Once present in most villages, stocks were used to shame and punish transgressors - often for crimes against the church. The victim was secured in place so that anyone passing could taunt them, or throw rotten fruit at them - I'm sure many old grudges were settled here.
 
-The stocks themselves have been replaced many times, and it's reported that a blow up doll was punished here for the village's Millenium celebrations.
+The stocks themselves have been replaced many times, and it's reported that a blow up doll was punished here for the village's Millennium celebrations.
 
 [Legendary Dartmoor - Belstone Stocks](https://www.legendarydartmoor.co.uk/2016/03/20/belst_stock/)
 

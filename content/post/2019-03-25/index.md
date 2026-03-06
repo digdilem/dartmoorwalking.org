@@ -93,7 +93,7 @@ This could be the cross formerly known as Swine Path Cross, at what is now known
 
 ![Jay's Grave, at SX 73238 79908.  Located at a crossroads (Google Map image) where Heatree Common lane (i.e. Natsworthy Gate footpath), through the gate behind the grave, crosses the Ashburton / Moretonhampstead & Chagford road](15.jpg)
 
-It is said that the local parishes of Manaton, Widecombe-in-the-Moor and North Bovey all refused to bury poor Kitty's body in consecrated ground because she had commited suicide.  In those times this was considered to be self-murder and therefore a mortal sin.
+It is said that the local parishes of Manaton, Widecombe-in-the-Moor and North Bovey all refused to bury poor Kitty's body in consecrated ground because she had committed suicide.  In those times this was considered to be self-murder and therefore a mortal sin.
 
 It is also said that burial at crossroads was chosen possibly as a warning to others and also to confuse the spirit or ghost of the departed so that they might not easily find their way back to where they had lived and be of nuisance to the living.
 

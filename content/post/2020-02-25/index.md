@@ -127,7 +127,7 @@ The flagpole on Beardown Tors to the Northwest marks the start of the Merrivale 
 
 ![The main pile of Littaford Tors](12.jpg)
 
-Down to the West and North of this tor is a very long rabbit bury (marked on the OS maps as "pillow mound") that is part of Wistman's Warren and is 108 metres long. There are over 30 mounds comprising the warre in this area, some barely noticable in the tussocky grass.
+Down to the West and North of this tor is a very long rabbit bury (marked on the OS maps as "pillow mound") that is part of Wistman's Warren and is 108 metres long. There are over 30 mounds comprising the warre in this area, some barely noticeable in the tussocky grass.
 
 Sadly, these mounds they don't photograph well, and just appear as lumpy brown areas.
 

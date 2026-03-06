@@ -256,7 +256,7 @@ If you're enjoying the walk, you may like to extend it by a mile or so by walkin
 
 This is marked on the map as a dotted red line and takes in a pretty, rarely visited tor and another two ancient burial cists.
 
-*Dartmoor contains an unusally high occurence of cists, or burial cairns. These are stone tombs dating back to the Bronze age, some four thousand years ago. We know of several hundred of these, and more are still being found, having been buried by the peat*
+*Dartmoor contains an unusually high occurrence of cists, or burial cairns. These are stone tombs dating back to the Bronze age, some four thousand years ago. We know of several hundred of these, and more are still being found, having been buried by the peat*
 
 ![Blakey Tor. SX 61279 73633. Elevation around 365m (1197 feet)](33.jpg)
 

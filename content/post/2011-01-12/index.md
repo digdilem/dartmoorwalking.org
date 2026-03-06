@@ -56,7 +56,7 @@ walkdate: '2011-01-12'
 
 Shown as "Twist" on the OS Map, but also locally known as Twyste farm.
 
-Twist was mentioned in thge Domesday Book on 1086, and the owners had Venville rights, allowing them to take what they needed from the moor. Grazing, stone, peat - but not green oak or venison.
+Twist was mentioned in the Domesday Book on 1086, and the owners had Venville rights, allowing them to take what they needed from the moor. Grazing, stone, peat - but not green oak or venison.
 
 The farm was abandoned somewhere in the middle of the 1900s - the kitchen range and abandoned vehicles date from the 30's onwards.
 

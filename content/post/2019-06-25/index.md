@@ -72,7 +72,7 @@ Also known as "Pullbrook Woods", if only by Ordance Survey, these woodlands are 
 
 The name Pullabrook probably comes from the personal name, "Polla", so in modern terms, "Polla's Brook"
 
-The nearby Pullabrook Farm is mentioned in the Domesday book of 1086 where it is written as "Polebroc" and was seized by William the Conquerer as part of the Bovi estate when the Normans invaded. As a reward for his support, William gave this estate to  Geoffrey de Mowbray the Bishop of Coutances. The current farmhouse dates from the sixteenth century and is Grade II listed.
+The nearby Pullabrook Farm is mentioned in the Domesday book of 1086 where it is written as "Polebroc" and was seized by William the Conqueror as part of the Bovi estate when the Normans invaded. As a reward for his support, William gave this estate to  Geoffrey de Mowbray the Bishop of Coutances. The current farmhouse dates from the sixteenth century and is Grade II listed.
 
 * [Bovey Tracey History - Pullabrook](https://boveytraceyhistory.org.uk/places/pullabrook/)
 

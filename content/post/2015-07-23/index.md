@@ -51,7 +51,7 @@ date: '2025-11-05T19:06:39Z'
 
 ## Introduction
 
-Rabbits, burials, abandoned villages, mining history, proud standing stones and mysterious stone rows - and of course, outstanding views of rolling Western Dartmoor - this walk has it all and takes us through millenia of working history. And that's not mentioning the starkness of Ditsworthy Warren House!
+Rabbits, burials, abandoned villages, mining history, proud standing stones and mysterious stone rows - and of course, outstanding views of rolling Western Dartmoor - this walk has it all and takes us through millennia of working history. And that's not mentioning the starkness of Ditsworthy Warren House!
 
 Items of interest: Pillow mound, Ditsworthy Warren House, ferret kennel, slit window, dog kennels, Kennel Court, cists, Drizzlecombe stone rows, Giant's Basin cairn, terminal cairns, Drizzle, Lonstone Leat, Windstrew, longhouse.
 
@@ -215,7 +215,7 @@ Whittenknowle Rocks is a large ancient Bronze Age settlement of 43 huts and 4.5 
 
 ![It's a rougher stone than those of the other monuments, so perhaps made of more faulted and more easily weathered granite?](38.jpg)
 
-*When you've explored the Settlment, head Northwest along the contour until you join the large stone path and turn left, downhill back to the parking area*
+*When you've explored the Settlement, head Northwest along the contour until you join the large stone path and turn left, downhill back to the parking area*
 
 ## Parking
 
