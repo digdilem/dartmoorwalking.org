@@ -1,5 +1,5 @@
 baseurl: https://dartmoorwalking.org/
-languageCode: en-us
+locale: en-us
 theme: hugo-theme-stack
 title: Dartmoor Walking
 copyright: Simon Avery
@@ -23,7 +23,7 @@ outputs:
 
 languages:
     en:
-        languageName: English
+        label: English
         title: Dartmoor Walking
         weight: 1
         params:
