@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Geocaching Map Enhancements v0.8.2" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns="http://www.topografix.com/GPX/1/1">
+	<metadata>
+		<name>GME Export</name>
+		<desc>Route file exported from Geocaching.com using Geocaching Map Enhancements.</desc>
+		<author>
+			<name>Geocaching.com user</name>
+		</author>
+		<time>2026-03-22T14:24:26.374Z</time>
+	</metadata>
+	<wpt lat="50.60715549298318" lon="-4.0873754024505615">
+		<name>P0</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.607986169521105" lon="-4.087493419647217">
+		<name>P1</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.609082367751114" lon="-4.088019132614136">
+		<name>P2</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61025343329497" lon="-4.088480472564697">
+		<name>P3</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61158786779928" lon="-4.089478254318237">
+		<name>P4</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61285418390684" lon="-4.089832305908203">
+		<name>P5</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61255462833581" lon="-4.089467525482178">
+		<name>P6</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61360306448911" lon="-4.088770151138306">
+		<name>P7</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61462424607007" lon="-4.088287353515625">
+		<name>P8</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.615774750759385" lon="-4.089210033416748">
+		<name>P9</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61625809048881" lon="-4.088577032089233">
+		<name>P10</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.616407856720976" lon="-4.0884482860565186">
+		<name>P11</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.616550814952305" lon="-4.088609218597412">
+		<name>P12</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.616503162256805" lon="-4.090111255645752">
+		<name>P13</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61633978122001" lon="-4.090819358825684">
+		<name>P14</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61648273965823" lon="-4.091838598251343">
+		<name>P15</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61633127177547" lon="-4.091991484165192">
+		<name>P16</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.616261494272095" lon="-4.0922704339027405">
+		<name>P17</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.616370415207655" lon="-4.092613756656647">
+		<name>P18</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.616544007427336" lon="-4.093034863471985">
+		<name>P19</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61659336196106" lon="-4.09365713596344">
+		<name>P20</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.6167124933808" lon="-4.094252586364746">
+		<name>P21</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.616773760850634" lon="-4.094456434249878">
+		<name>P22</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61696607211248" lon="-4.095612466335297">
+		<name>P23</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61703074297963" lon="-4.096033573150635">
+		<name>P24</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.617017128067594" lon="-4.096497595310211">
+		<name>P25</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61718391046814" lon="-4.09690260887146">
+		<name>P26</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61761277678247" lon="-4.099863767623901">
+		<name>P27</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61777615339741" lon="-4.101022481918335">
+		<name>P28</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.617524280879095" lon="-4.102578163146972">
+		<name>P29</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.615332252286024" lon="-4.105560779571533">
+		<name>P30</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61416131316698" lon="-4.107167422771454">
+		<name>P31</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61335967960757" lon="-4.10725861787796">
+		<name>P32</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61325415570113" lon="-4.107231795787811">
+		<name>P33</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61312650549797" lon="-4.1073498129844666">
+		<name>P34</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61281163351583" lon="-4.107363224029541">
+		<name>P35</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.6124916533424" lon="-4.10773605108261">
+		<name>P36</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61155042244924" lon="-4.107787013053894">
+		<name>P37</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61121341295787" lon="-4.107867479324341">
+		<name>P38</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61072661720814" lon="-4.107765555381775">
+		<name>P39</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61071980884022" lon="-4.107497334480286">
+		<name>P40</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.610535982535005" lon="-4.107213020324707">
+		<name>P41</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61017513621734" lon="-4.107003808021545">
+		<name>P42</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.609773436117706" lon="-4.107041358947754">
+		<name>P43</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.609456839554575" lon="-4.106907248497009">
+		<name>P44</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.609490882298005" lon="-4.1061025857925415">
+		<name>P45</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.6101955615545" lon="-4.102991223335266">
+		<name>P46</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.611032992742985" lon="-4.099933505058289">
+		<name>P47</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.611819347483205" lon="-4.097245931625366">
+		<name>P48</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61239123358395" lon="-4.095271825790405">
+		<name>P49</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61264653763431" lon="-4.093785881996155">
+		<name>P50</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61149595643237" lon="-4.089521169662476">
+		<name>P51</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.61011726438057" lon="-4.088512659072876">
+		<name>P52</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.60905513332187" lon="-4.0880995988845825">
+		<name>P53</name>
+		<type>Waypoint</type>
+	</wpt>
+	<wpt lat="50.60710442632408" lon="-4.087439775466919">
+		<name>P54</name>
+		<type>Waypoint</type>
+	</wpt>
+	<rte>
+		<name>GME exported route</name>
+		<src>Manual entry</src>
+		<number>1</number>
+		<rtept lat="50.60715549298318" lon="-4.0873754024505615">
+			<name>P0</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.607986169521105" lon="-4.087493419647217">
+			<name>P1</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.609082367751114" lon="-4.088019132614136">
+			<name>P2</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61025343329497" lon="-4.088480472564697">
+			<name>P3</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61158786779928" lon="-4.089478254318237">
+			<name>P4</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61285418390684" lon="-4.089832305908203">
+			<name>P5</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61255462833581" lon="-4.089467525482178">
+			<name>P6</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61360306448911" lon="-4.088770151138306">
+			<name>P7</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61462424607007" lon="-4.088287353515625">
+			<name>P8</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.615774750759385" lon="-4.089210033416748">
+			<name>P9</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61625809048881" lon="-4.088577032089233">
+			<name>P10</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.616407856720976" lon="-4.0884482860565186">
+			<name>P11</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.616550814952305" lon="-4.088609218597412">
+			<name>P12</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.616503162256805" lon="-4.090111255645752">
+			<name>P13</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61633978122001" lon="-4.090819358825684">
+			<name>P14</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61648273965823" lon="-4.091838598251343">
+			<name>P15</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61633127177547" lon="-4.091991484165192">
+			<name>P16</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.616261494272095" lon="-4.0922704339027405">
+			<name>P17</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.616370415207655" lon="-4.092613756656647">
+			<name>P18</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.616544007427336" lon="-4.093034863471985">
+			<name>P19</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61659336196106" lon="-4.09365713596344">
+			<name>P20</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.6167124933808" lon="-4.094252586364746">
+			<name>P21</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.616773760850634" lon="-4.094456434249878">
+			<name>P22</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61696607211248" lon="-4.095612466335297">
+			<name>P23</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61703074297963" lon="-4.096033573150635">
+			<name>P24</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.617017128067594" lon="-4.096497595310211">
+			<name>P25</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61718391046814" lon="-4.09690260887146">
+			<name>P26</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61761277678247" lon="-4.099863767623901">
+			<name>P27</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61777615339741" lon="-4.101022481918335">
+			<name>P28</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.617524280879095" lon="-4.102578163146972">
+			<name>P29</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.615332252286024" lon="-4.105560779571533">
+			<name>P30</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61416131316698" lon="-4.107167422771454">
+			<name>P31</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61335967960757" lon="-4.10725861787796">
+			<name>P32</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61325415570113" lon="-4.107231795787811">
+			<name>P33</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61312650549797" lon="-4.1073498129844666">
+			<name>P34</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61281163351583" lon="-4.107363224029541">
+			<name>P35</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.6124916533424" lon="-4.10773605108261">
+			<name>P36</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61155042244924" lon="-4.107787013053894">
+			<name>P37</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61121341295787" lon="-4.107867479324341">
+			<name>P38</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61072661720814" lon="-4.107765555381775">
+			<name>P39</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61071980884022" lon="-4.107497334480286">
+			<name>P40</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.610535982535005" lon="-4.107213020324707">
+			<name>P41</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61017513621734" lon="-4.107003808021545">
+			<name>P42</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.609773436117706" lon="-4.107041358947754">
+			<name>P43</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.609456839554575" lon="-4.106907248497009">
+			<name>P44</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.609490882298005" lon="-4.1061025857925415">
+			<name>P45</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.6101955615545" lon="-4.102991223335266">
+			<name>P46</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.611032992742985" lon="-4.099933505058289">
+			<name>P47</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.611819347483205" lon="-4.097245931625366">
+			<name>P48</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61239123358395" lon="-4.095271825790405">
+			<name>P49</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61264653763431" lon="-4.093785881996155">
+			<name>P50</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61149595643237" lon="-4.089521169662476">
+			<name>P51</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.61011726438057" lon="-4.088512659072876">
+			<name>P52</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.60905513332187" lon="-4.0880995988845825">
+			<name>P53</name>
+			<type>Waypoint</type>
+		</rtept>
+		<rtept lat="50.60710442632408" lon="-4.087439775466919">
+			<name>P54</name>
+			<type>Waypoint</type>
+		</rtept>
+	</rte>
+</gpx>
