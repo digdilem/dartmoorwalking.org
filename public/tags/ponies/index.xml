@@ -1,413 +1,301 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Ponies on Dartmoor Walking</title>
-        <link>http://localhost:1313/tags/ponies/</link>
-        <description>Recent content in Ponies on Dartmoor Walking</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <copyright>Simon Avery</copyright>
-        <lastBuildDate>Sat, 12 Jul 2025 09:55:01 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/ponies/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Dunnabridge Pound</title>
-        <link>http://localhost:1313/p/dunnabridge-pound/</link>
-        <pubDate>Sat, 12 Jul 2025 09:55:01 +0100</pubDate>
-        
-        <guid>http://localhost:1313/p/dunnabridge-pound/</guid>
-        <description>&lt;img src="http://localhost:1313/p/dunnabridge-pound/18.jpg" alt="Featured image of post Dunnabridge Pound" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ponies on Dartmoor Walking</title><link>https://dartmoorwalking.org/tags/ponies/</link><description>Recent content in Ponies on Dartmoor Walking</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Simon Avery</copyright><lastBuildDate>Sat, 12 Jul 2025 09:55:01 +0100</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/ponies/index.xml" rel="self" type="application/rss+xml"/><item><title>Dunnabridge Pound</title><link>https://dartmoorwalking.org/p/dunnabridge-pound/</link><pubDate>Sat, 12 Jul 2025 09:55:01 +0100</pubDate><guid>https://dartmoorwalking.org/p/dunnabridge-pound/</guid><description>&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/18.jpg" alt="Featured image of post Dunnabridge Pound" /&gt;&lt;h2 id="information"&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;
 3 miles&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; Grade: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/tags/medium/&#34;&gt;Medium&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/gpx/dunnabridge-pound.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.55693%2c-3.92183&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
-    &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
-    &lt;path d=&#34;M12 21v-4&#34; /&gt;
-    &lt;path d=&#34;M12 13v-4&#34; /&gt;
-    &lt;path d=&#34;M12 5v-2&#34; /&gt;
-    &lt;path d=&#34;M10 21h4&#34; /&gt;
-    &lt;path d=&#34;M8 5v4h11l2 -2l-2 -2z&#34; /&gt;
-    &lt;path d=&#34;M14 13v4h-8l-2 -2l2 -2z&#34; /&gt;
-  &lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&#34;https://w3w.co/rats.stick.windpipe&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;rats.stick.windpipe&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt; Grade: &lt;b&gt;&lt;a href="https://dartmoorwalking.org/tags/medium/"&gt;Medium&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href="https://dartmoorwalking.org/gpx/dunnabridge-pound.gpx"&gt;Download GPX &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download"&gt;&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/&gt;&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" /&gt;&lt;path d="M7 11l5 5l5 -5" /&gt;&lt;path d="M12 4l0 12" /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="https://www.google.com/maps/dir/?api=1&amp;destination=50.55693%2c-3.92183" target="_blank"&gt;Directions to Car Park &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-directions"&gt;
+&lt;path stroke="none" d="M0 0h24v24H0z" fill="none" /&gt;
+&lt;path d="M12 21v-4" /&gt;
+&lt;path d="M12 13v-4" /&gt;
+&lt;path d="M12 5v-2" /&gt;
+&lt;path d="M10 21h4" /&gt;
+&lt;path d="M8 5v4h11l2 -2l-2 -2z" /&gt;
+&lt;path d="M14 13v4h-8l-2 -2l2 -2z" /&gt;
+&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="https://w3w.co/rats.stick.windpipe" target="_blank"&gt;What Three Words&lt;/a&gt; &lt;code&gt;rats.stick.windpipe&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/map.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;627&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/map_hu_3a4e0d1d39e53249.jpg 480w, http://localhost:1313/p/dunnabridge-pound/map_hu_cb269ee0aa4c1a44.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;159&#34;
-		data-flex-basis=&#34;382px&#34;
-	
+&lt;h2 id="map"&gt;Map
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/map.jpg"
+width="1000"
+height="627"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/map_hu_3a4e0d1d39e53249.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/map_hu_cb269ee0aa4c1a44.jpg 1024w"
+loading="lazy"
+alt="Map of Route - Crown Copyright - Ordnance Survey Licence number 100047373"
+class="gallery-image"
+data-flex-grow="159"
+data-flex-basis="382px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;h2 id="introduction"&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;This is an open walk taking in some lesser visited ancient items on its circuitous way to the much more famous Dunnabridge Pound.&lt;/p&gt;
 &lt;p&gt;On arrival at the car park, it&amp;rsquo;s not uncommon to find it half full of Ponies. This particular herd is often a mix of Dartmoor Hill Ponies and the smaller Shetland Ponies, both ideally suited to the moor. Unfortunately, they are over-friendly due to people feeding them, which can lead to aggression from them and people being bitten is common. Please don&amp;rsquo;t feed them or otherwise encourage them.&lt;/p&gt;
 &lt;p&gt;As with many Dartmoor car parks, ponies will run on parked cars, especially during the moulting times of Spring and Summer when they get very itchy from their coat changing. Dents to body panels and broken mirrors are common! If you can, fold in your wing mirrors when parking on the moor.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/1.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/1_hu_c91a75b7f8751e7.jpg 480w, http://localhost:1313/p/dunnabridge-pound/1_hu_d3241e7552607f18.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;“If I’ve told you once, I’ve told you…”&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/1.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/1_hu_c91a75b7f8751e7.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/1_hu_d3241e7552607f18.jpg 1024w"
+loading="lazy"
+alt="“If I’ve told you once, I’ve told you…”"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/2.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/2_hu_f7b93e5101147973.jpg 480w, http://localhost:1313/p/dunnabridge-pound/2_hu_17a29222d8f961d8.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;“You groom me and I’ll groom you”&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/2.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/2_hu_f7b93e5101147973.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/2_hu_17a29222d8f961d8.jpg 1024w"
+loading="lazy"
+alt="“You groom me and I’ll groom you”"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;heading-off&#34;&gt;Heading off
+&lt;h2 id="heading-off"&gt;Heading off
 &lt;/h2&gt;&lt;p&gt;Once parked, head off away to the Northeast, directly away from the road.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;This walk is mostly based off the map and route rather than detailed instructions, so please pay it close attention. The photos should be recognisable as you follow the route&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/3.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/3_hu_ce2079ed7b784ed1.jpg 480w, http://localhost:1313/p/dunnabridge-pound/3_hu_1374bf04e67e3283.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Setting off towards Bellever Tor, with Bellever Forest on the left&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/3.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/3_hu_ce2079ed7b784ed1.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/3_hu_1374bf04e67e3283.jpg 1024w"
+loading="lazy"
+alt="Setting off towards Bellever Tor, with Bellever Forest on the left"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/4.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/4_hu_4553677ca04b57e6.jpg 480w, http://localhost:1313/p/dunnabridge-pound/4_hu_d0f8e5ac24fdfcc5.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Bellever Tor, SX 64460 76445. Elevation 443 metres (1453 feet)&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/4.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/4_hu_4553677ca04b57e6.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/4_hu_d0f8e5ac24fdfcc5.jpg 1024w"
+loading="lazy"
+alt="Bellever Tor, SX 64460 76445. Elevation 443 metres (1453 feet)"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/5.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/5_hu_3033252d259ec180.jpg 480w, http://localhost:1313/p/dunnabridge-pound/5_hu_4fcebcd960853073.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Laughter Tor, SX 65253 75695. Elevation 420 metres (1377 feet)&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/5.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/5_hu_3033252d259ec180.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/5_hu_4fcebcd960853073.jpg 1024w"
+loading="lazy"
+alt="Laughter Tor, SX 65253 75695. Elevation 420 metres (1377 feet)"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/6.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/6_hu_70d69799bf368e4e.jpg 480w, http://localhost:1313/p/dunnabridge-pound/6_hu_1b5d242727cd49f.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;View towards Beardown Tors (centre) and Longaford Tor (right)&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/6.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/6_hu_70d69799bf368e4e.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/6_hu_1b5d242727cd49f.jpg 1024w"
+loading="lazy"
+alt="View towards Beardown Tors (centre) and Longaford Tor (right)"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/7.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/7_hu_4e83a6afe085d05e.jpg 480w, http://localhost:1313/p/dunnabridge-pound/7_hu_2d7b3a64f5baa1a4.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;View to Princetown&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/7.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/7_hu_4e83a6afe085d05e.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/7_hu_2d7b3a64f5baa1a4.jpg 1024w"
+loading="lazy"
+alt="View to Princetown"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/8.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/8_hu_bb6c766da97fdc3a.jpg 480w, http://localhost:1313/p/dunnabridge-pound/8_hu_a47a6d411a0da3eb.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Longaford Tors, SX 61560 77943. Elevation 507 metres (1663 feet)&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/8.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/8_hu_bb6c766da97fdc3a.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/8_hu_a47a6d411a0da3eb.jpg 1024w"
+loading="lazy"
+alt="Longaford Tors, SX 61560 77943. Elevation 507 metres (1663 feet)"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/9.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/9_hu_ed11ce54c6cb5335.jpg 480w, http://localhost:1313/p/dunnabridge-pound/9_hu_6d43cef11c782511.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking Eastward to see the line of the Brimpts Mine leat, running from the Cherry Brook near Powdermills&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/9.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/9_hu_ed11ce54c6cb5335.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/9_hu_6d43cef11c782511.jpg 1024w"
+loading="lazy"
+alt="Looking Eastward to see the line of the Brimpts Mine leat, running from the Cherry Brook near Powdermills"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/10.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/10_hu_5581476b69d0d61c.jpg 480w, http://localhost:1313/p/dunnabridge-pound/10_hu_ea37756ee097c6cf.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Old gateway, an original 5-barred construction. Now blocked up&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/10.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/10_hu_5581476b69d0d61c.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/10_hu_ea37756ee097c6cf.jpg 1024w"
+loading="lazy"
+alt="Old gateway, an original 5-barred construction. Now blocked up"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/11.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/11_hu_c499ccd9dcfb6673.jpg 480w, http://localhost:1313/p/dunnabridge-pound/11_hu_864c563731ba33ba.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Close-up of a grooved gatepost&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/11.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/11_hu_c499ccd9dcfb6673.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/11_hu_864c563731ba33ba.jpg 1024w"
+loading="lazy"
+alt="Close-up of a grooved gatepost"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/12.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/12_hu_54d77faf40025a81.jpg 480w, http://localhost:1313/p/dunnabridge-pound/12_hu_7e0dd206aa41bb3a.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Close-up of a slotted gatepost&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/12.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/12_hu_54d77faf40025a81.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/12_hu_7e0dd206aa41bb3a.jpg 1024w"
+loading="lazy"
+alt="Close-up of a slotted gatepost"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/13.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/13_hu_25721f3afb160305.jpg 480w, http://localhost:1313/p/dunnabridge-pound/13_hu_ed0a174e3878615.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;View of the other side of the gateway, showing no other features&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/13.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/13_hu_25721f3afb160305.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/13_hu_ed0a174e3878615.jpg 1024w"
+loading="lazy"
+alt="View of the other side of the gateway, showing no other features"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/22.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/22_hu_6e0f7e9b2e66fcb5.jpg 480w, http://localhost:1313/p/dunnabridge-pound/22_hu_520d93f8ca959c70.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The broken off iron pintle (gatehanger) was set in lead&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/22.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/22_hu_6e0f7e9b2e66fcb5.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/22_hu_520d93f8ca959c70.jpg 1024w"
+loading="lazy"
+alt="The broken off iron pintle (gatehanger) was set in lead"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/14.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/14_hu_5e76fac43610266e.jpg 480w, http://localhost:1313/p/dunnabridge-pound/14_hu_c145f19368c2f743.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Common Heather, well in flower&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/14.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/14_hu_5e76fac43610266e.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/14_hu_c145f19368c2f743.jpg 1024w"
+loading="lazy"
+alt="Common Heather, well in flower"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://en.wikipedia.org/wiki/Calluna&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Common Heather or Ling (Calluna vulgaris)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="http://en.wikipedia.org/wiki/Calluna" target="_blank" rel="noopener"
+&gt;Common Heather or Ling (Calluna vulgaris)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/15.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/15_hu_49c0e30d15c1df4c.jpg 480w, http://localhost:1313/p/dunnabridge-pound/15_hu_317af44c4bd9ecf.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A clapper bridge over the overgrown and drained Brimpts’ Mine Leat&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/15.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/15_hu_49c0e30d15c1df4c.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/15_hu_317af44c4bd9ecf.jpg 1024w"
+loading="lazy"
+alt="A clapper bridge over the overgrown and drained Brimpts’ Mine Leat"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;dartmoor-ponies&#34;&gt;Dartmoor Ponies
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/16.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/16_hu_f9939fad1a0ddf2.jpg 480w, http://localhost:1313/p/dunnabridge-pound/16_hu_d1c436d52c1a9990.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A Dartmoor Pony Mare and Foal&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;h2 id="dartmoor-ponies"&gt;Dartmoor Ponies
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/16.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/16_hu_f9939fad1a0ddf2.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/16_hu_d1c436d52c1a9990.jpg 1024w"
+loading="lazy"
+alt="A Dartmoor Pony Mare and Foal"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;A brief note about Dartmoor Ponies by Simon&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;The above mare (photo taken in 2009) is likely a Registered Dartmoor Pony as it looks to be very close to the breed standard. Every pony on Dartmoor is owned by someone with a set number of grazing rights allowing them to use certain parts of the moor for this purpose. This is governed by the &lt;a class=&#34;link&#34; href=&#34;https://www.dartmoorcommonerscouncil.org.uk/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dartmoor Commoners Council&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The above mare (photo taken in 2009) is likely a Registered Dartmoor Pony as it looks to be very close to the breed standard. Every pony on Dartmoor is owned by someone with a set number of grazing rights allowing them to use certain parts of the moor for this purpose. This is governed by the &lt;a class="link" href="https://www.dartmoorcommonerscouncil.org.uk/" target="_blank" rel="noopener"
+&gt;Dartmoor Commoners Council&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Some owners take great pride in their herds and breed to improve certain strains, and ponies can be split into roughly four types;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Registered Dartmoors: These are pedigree ponies that are Registered with the &lt;a class=&#34;link&#34; href=&#34;https://dartmoorponysociety.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dartmoor Pony Society&lt;/a&gt; and must adhere to certain breed standards including colour and must be &amp;ldquo;Bay, brown, black, grey, chestnut, roan. Piebalds, Skewbalds and Spotted are not allowed.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Registered Dartmoors: These are pedigree ponies that are Registered with the &lt;a class="link" href="https://dartmoorponysociety.com/" target="_blank" rel="noopener"
+&gt;Dartmoor Pony Society&lt;/a&gt; and must adhere to certain breed standards including colour and must be &amp;ldquo;Bay, brown, black, grey, chestnut, roan. Piebalds, Skewbalds and Spotted are not allowed.&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;Shetland Ponies: A common choice. Once prized for use in the many mines of Devon and Cornwall, these incredibly strong and hardy ponies adapt well to Dartmoor&amp;rsquo;s harsh conditions.&lt;/li&gt;
 &lt;li&gt;Dartmoor Hill Ponies: This is a loose term to describe ponies that are not registered with the DPS but are similar in shape. They can be any colour - Skewbald, Piebald, Spotty and all variations are common.&lt;/li&gt;
 &lt;li&gt;Others. From time to time, owners will graze other equines. These can be horses of any shape, and the commons framework allows for Donkeys, although I&amp;rsquo;ve never seen one grazing loose.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.dartmoorcommonerscouncil.org.uk/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dartmoor Commoners Council&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://dartmoorponysociety.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dartmoor Pony Society&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.dartmoorcommonerscouncil.org.uk/" target="_blank" rel="noopener"
+&gt;Dartmoor Commoners Council&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://dartmoorponysociety.com/" target="_blank" rel="noopener"
+&gt;Dartmoor Pony Society&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;dunnabridge-pound&#34;&gt;Dunnabridge Pound
+&lt;h2 id="dunnabridge-pound"&gt;Dunnabridge Pound
 &lt;/h2&gt;&lt;p&gt;&lt;em&gt;We&amp;rsquo;ve now nearing the famous Dunnabridge Pound&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/17.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/17_hu_fa2f4fda6e7391e6.jpg 480w, http://localhost:1313/p/dunnabridge-pound/17_hu_f34b450ae394d5c2.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Entrance to Dunnabridge Pound, SX 64618 74635&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/17.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/17_hu_fa2f4fda6e7391e6.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/17_hu_f34b450ae394d5c2.jpg 1024w"
+loading="lazy"
+alt="Entrance to Dunnabridge Pound, SX 64618 74635"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;Dunnabridge Pound is one example of a pound where livestock was rounded-up so that owners could reclaim their animals before a time limit. &amp;ldquo;Illegal&amp;rdquo; animals were impounded and fines levied where the owner could be found. These were animals over the numerical limits for the size of a farm, they were only allowed to keep the number of animals that the farm could support over the winter.&lt;/p&gt;
 &lt;p&gt;Unclaimed animals were sold off to the highest bidder. One can imagine that if the fine were too large, the owner might stay quiet and buy their &amp;ldquo;illegal&amp;rdquo; animal back at the end, at the risk of being outbid for it.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/18.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/18_hu_3debdc2d117d97c1.jpg 480w, http://localhost:1313/p/dunnabridge-pound/18_hu_b1d085844aafe111.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The Judge’s Chair&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/18.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/18_hu_3debdc2d117d97c1.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/18_hu_b1d085844aafe111.jpg 1024w"
+loading="lazy"
+alt="The Judge’s Chair"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;One might be forgiven that this rather grand structure was built for this purpose, but the probable truth is that it was actually the Judge&amp;rsquo;s chair for the Tinner&amp;rsquo;s council and was taken from nearby Crockern Tor where the Stannary Parliament met. If that is true, then it truly is a Judge&amp;rsquo;s chair, as sentence was passed at Crockern Tor for anyone who broke the very strict Stannary Laws.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.legendarydartmoor.co.uk/2016/03/16/dunna_bridge/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Legendary Dartmoor - Dunnabridge Pound&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.legendarydartmoor.co.uk/2016/03/16/dunna_bridge/" target="_blank" rel="noopener"
+&gt;Legendary Dartmoor - Dunnabridge Pound&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/19.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/19_hu_74f93b03d1358564.jpg 480w, http://localhost:1313/p/dunnabridge-pound/19_hu_51bc15543a7959f6.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Another view&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/19.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/19_hu_74f93b03d1358564.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/19_hu_51bc15543a7959f6.jpg 1024w"
+loading="lazy"
+alt="Another view"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/20.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/20_hu_253a63581182bb6e.jpg 480w, http://localhost:1313/p/dunnabridge-pound/20_hu_1f576e3f6e96be1.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The Pound wall&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/20.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/20_hu_253a63581182bb6e.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/20_hu_1f576e3f6e96be1.jpg 1024w"
+loading="lazy"
+alt="The Pound wall"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/dunnabridge-pound/21.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/dunnabridge-pound/21_hu_c3a1021604e96be3.jpg 480w, http://localhost:1313/p/dunnabridge-pound/21_hu_b13f9131d343f8a5.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Inside the Pound&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/dunnabridge-pound/21.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/dunnabridge-pound/21_hu_c3a1021604e96be3.jpg 480w, https://dartmoorwalking.org/p/dunnabridge-pound/21_hu_b13f9131d343f8a5.jpg 1024w"
+loading="lazy"
+alt="Inside the Pound"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;*Once you ready, follow the road over the River and back to the Car Park.&lt;/p&gt;
-&lt;h2 id=&#34;parking&#34;&gt;Parking
+&lt;h2 id="parking"&gt;Parking
 &lt;/h2&gt;&lt;p&gt;There is large, free and well maintained parking at the coordinates.&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References
+&lt;h2 id="references"&gt;References
 &lt;/h2&gt;&lt;p&gt;These pictures were taken by Keith Ryan in 2009&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://en.wikipedia.org/wiki/Calluna&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Common Heather or Ling (Calluna vulgaris)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.dartmoorcommonerscouncil.org.uk/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dartmoor Commoners Council&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://dartmoorponysociety.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dartmoor Pony Society&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.legendarydartmoor.co.uk/2016/03/16/dunna_bridge/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Legendary Dartmoor - Dunnabridge Pound&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+&lt;li&gt;&lt;a class="link" href="http://en.wikipedia.org/wiki/Calluna" target="_blank" rel="noopener"
+&gt;Common Heather or Ling (Calluna vulgaris)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.dartmoorcommonerscouncil.org.uk/" target="_blank" rel="noopener"
+&gt;Dartmoor Commoners Council&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://dartmoorponysociety.com/" target="_blank" rel="noopener"
+&gt;Dartmoor Pony Society&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.legendarydartmoor.co.uk/2016/03/16/dunna_bridge/" target="_blank" rel="noopener"
+&gt;Legendary Dartmoor - Dunnabridge Pound&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
