@@ -4,12 +4,8 @@
     {{ $filtered := ($pages | intersect $notHidden) }}
     {{ $ordered := ($filtered.ByParam "date").Reverse }}
     {{ $pag := .Paginate ($ordered) }}
-    
-    
-<!-- HERE4 SATEST Top of Index page -->
 
-
-<h2 class="article-title">Welcome to Dartmoor Walking</h2>
+ <h2 class="article-title">Welcome to Dartmoor Walking</h2>
 
 <script>
     function goToRandomPost() {
@@ -25,23 +21,18 @@
 
 
 <div class="article-subtitle">
-    There’s nowhere quite like Dartmoor!<br><br>
+    <p>Come and explore Dartmoor!</p>
 
-    Whether you’re local or making a special visit, there are so many benefits to exploring the landscape and the stories it holds. <br><br>
+    <p>Whether you know the moor well or you're visiting for the first time, <a href="https://dartmoorwalking.org">Dartmoor Walking</a> is here to help you explore this special place on foot. With its wild landscapes, rich history, and unique culture, Dartmoor offers something for everyone.</p>
 
-    To help you on your way, this site contains {{ len (where .Site.RegularPages "Type" "post") }} self-guided walks of varying length and terrain, all with Parking, Directions, Photographs, Maps, Tracks and explanations of what you'll find. <br><br>
+    <p>Here, you'll find {{ len (where .Site.RegularPages "Type" "post") }} self-guided walks, ranging from shorter, easier outings to longer routes across more rugged ground. Each walk includes parking details, clear directions, maps, GPX tracks, photos, and notes on what to look out for along the way.</p>
 
-    Each one of these walks is based on personal experience, so you’ll benefit from unique local knowledge and see the moor through the eyes of those most passionate about sharing its wonder.<br><br>
+    <p>All routes are based on first-hand experience, with local knowledge to help you get a little more from your time on Dartmoor.</p>
 
-    To get started, please select an <a href="/walks/">an area of Dartmoor</a>, view the <a href="/map/">map</a> or choose a <a class="random" onclick='goToRandomPost()'>random walk</a><br>
-
-
+    <p>To get started, please select an <a href="/walks/">an area of Dartmoor</a>, view the <a href="/map/">map</a> or choose a <a class="random" onclick='goToRandomPost()'>random walk</a>.</p>
     <hr>
 </div>
 
-
-
-<!-- End SATEST fixings -->
 
 <!-- The following only shows most recent within that pagination group - not ideal -->
 
