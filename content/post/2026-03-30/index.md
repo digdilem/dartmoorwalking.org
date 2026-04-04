@@ -48,7 +48,7 @@ date: '2026-03-30T20:17:04+01:00'
 
 ## Introduction
 
-This is a pleasant walk along very quiet and seldom walked footpaths through ancient woodlands and back through farmland and a quiet country lane. There are some up and down stretches, although none are very long and generally the woodland path largely follows the gradient. For me, this is a lovely walk in the autumn especially as the colours of the trees change. It's also relatively sheltered from extreme weather for much of its distance and one that can be enjoyed year round. As a Tolkien reader, parts of this walk always reminds me somewhat of Murkwood, only without the spiders! This is not a walk full of stunning panoramic views.
+This is a pleasant walk along very quiet and seldom walked footpaths through ancient woodlands and back through farmland and a quiet country lane. There are some up and down stretches, although none are very long and generally the woodland path largely follows the gradient. For me, this is a lovely walk in the autumn especially as the colours of the trees change. It's also relatively sheltered from extreme weather for much of its distance and one that can be enjoyed year-round. As a Tolkien reader, parts of this walk always remind me somewhat of Mirkwood, only without the spiders! This is not a walk full of stunning panoramic views.
 
 There are some remains of mines and equipment through the woods, including shafts and adits, historic drystone walls, and some minor tors buried in the woods. There's a duck pond and some ancient farm paths to be walked on the return. There is plenty of wildlife if you're quiet, with all kinds of woodland birds, squirrels, fox and deer to be seen.  The path can be muddy in places and sensible footwear is a must. Sometimes the footpaths through the farmyard can get overgrown in the summer and, having experienced a very thorny walk in shorts, I would also recommend stout trousers!
 
@@ -62,7 +62,7 @@ This cannot be called an accessible walk by any stretch of the imagination and r
 
 ![Little John's Walk](6.jpg)
 
-The first stretch of this route is legally a byway, so you may be surprised to meet off road cars and motorbikes using it, but generally it's very quiet and peaceful. The beeches lining the wall are particularly striking in spring and autumn, and deer can often be seen through the trees.
+The first stretch of this route is legally a byway, so you may be surprised to meet off-road cars and motorbikes using it, but generally it's very quiet and peaceful. The beeches lining the wall are particularly striking in spring and autumn, and deer can often be seen through the trees.
 
 ![Looking back up the hill](7.jpg)
 
@@ -97,7 +97,7 @@ Shaptor Woods are ancient upland oak woodlands totalling around 200 acres.
 ![Steep and rocky is the theme here](9.jpg)
 
 {{% routing %}}
-*After entering the gate off Little John's Walk and entering Woodland Trust's property, we follow the path for around 1.5 to 2 kilometers (a mile or so). The path is occasionally signed and marked. It can be indistinct at times, but generally follows the gradient and is not too hard to follow. There are some muddy sections and duck boards are provided over the worst. There are also a few remembrance posts placed by supporters of the Woodland Trust along the way. There are some climbs up and down and even over some logs.*
+*After entering the gate off Little John's Walk and entering Woodland Trust's property, we follow the path for around 1.5 to 2 kilometres (a mile or so). The path is occasionally signed and marked. It can be indistinct at times, but generally follows the gradient and is not too hard to follow. There are some muddy sections and duck boards are provided over the worst. There are also a few remembrance posts placed by supporters of the Woodland Trust along the way. There are some climbs up and down and even over some logs.*
 {{% /routing %}}
 
 ![One of many rockfaces in Shaptor Woods](4.jpg)
@@ -129,9 +129,9 @@ Eventually you'll come to a path turning off to the right, uphill at around 50.6
 
 ## Shaptor Mine
 
-Near to the above Junction was the site of Shaptor Mine [(w3w ///tenders.absorb.rezoning)](https://what3words.com/tenders.absorb.rezoning)
+Near the above junction was the site of Shaptor Mine [(w3w ///tenders.absorb.rezoning)](https://what3words.com/tenders.absorb.rezoning)
 
-Shaptor's mining is not very well documented, and it seems unlikely that the workings were extensive. The evidence seems to point towards several trials comprising test shafts and adits. Certainly the workings here were not as profitable as those at the nearby Great Rock mine, nor those at Kelly, Plumley or Wray Cleave workings further to the North, although all produced micaceous haemetite in various amounts.
+Shaptor's mining is not very well documented, and it seems unlikely that the workings were extensive. The evidence seems to point towards several trials comprising test shafts and adits. Certainly the workings here were not as profitable as those at the nearby Great Rock mine, nor those at Kelly, Plumley or Wray Cleave workings further to the north, although all produced micaceous haematite in various amounts.
 
 Heritage Gateway notes "up to nine shafts" at SX 807 807, and that four "air shafts" were recorded on the 1905 Ordnance Survey map. By 1930, these markings had been removed.
 
@@ -145,7 +145,7 @@ As well as the adits and mineshafts already mentioned, I once went wandering off
 
 Our path now runs above a drystone wall at the bottom of the Shaptor Down enclosure. This was once an open area used for grazing, but is now being left to naturalise and extend the Shaptor Woods temperate rainforest. The trees here are mostly younger and more light comes through and is noticeably different in atmosphere.
 
-Just above the path is a memorial plaque to H.G.Hurrell M.A M.B.E J.P (1901-1981)
+Just above the path is a memorial plaque to H. G. Hurrell, M.A., M.B.E., J.P. (1901-1981)
 
 > SHAPTOR DOWN AND ROCKS
 > dedicated in 1983 to the memory of
@@ -185,7 +185,7 @@ If you leave the paths at the above memorial and head upwards, you'll soon encou
 
 Our path emerges onto the driveway serving Shaptor Farm. This has a farmhouse, cottage, large barn and outbuilds - and when sold for £300,000 2017 included 29 acres of adjacent farmland.
 
-We head across the driveway and follow the bridlepath to the Southeast, passing a delightful duckpond.
+We head across the driveway and follow the bridlepath to the southeast, passing a delightful duck pond.
 
 ![Duckpond at Shaptor Farm](13.jpg)
 
@@ -193,12 +193,12 @@ We head across the driveway and follow the bridlepath to the Southeast, passing 
 
 ## Higher and Lower Bowden
 
-The bridlepath follows a devon banked track and through a shallow ford and gate.
+The bridlepath follows a Devon-banked track and passes through a shallow ford and gate.
 
 ![Tom amongst the wild garlic South of Higher Bowden](14.jpg)
 
 {{% routing %}}
-*After the gate, we walk up through a sloping field, which is often grazed with horses, past an old fenced Menage and through the wall onto the road. When on the road, turn right and follow it back to the car parking. The road is fairly quiet, but beware the odd car or tractor.*
+*After the gate, we walk up through a sloping field, which is often grazed with horses, past an old fenced manege and through the wall onto the road. When on the road, turn right and follow it back to the car park. The road is fairly quiet, but beware the odd car or tractor.*
 {{% /routing %}}
 
 ## Parking
