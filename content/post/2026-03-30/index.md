@@ -1,0 +1,211 @@
+---
+title: Shaptor Woods
+description: A quiet walk through an ancient oak temperate rainforest. Moss, ferns, trees and hidden tors.
+categories: ["East Dartmoor"]
+distance: 3
+coords: 50.6051,-3.66986
+grade: Strenuous
+w3w: blanking.eyelid.pads
+gpx: shaptor-woods
+
+image: map.jpg
+tags:
+  - circular
+  - 3 mile walk
+  - strenuous
+  - woodland
+  - woodland tust
+keywords:
+  - dartmoor
+  - walk
+  - walking
+  - walks
+  - rambling
+  - ramble
+  - hiking
+  - hike
+  - ramble
+  - circular
+  - moss
+  - history
+  - guided
+  - self
+  - devon
+  - woodland
+  - england
+  - woodland tust
+comments: true
+draft: false
+author: Simon Avery
+# recorder:
+license: Simon Avery
+walkdate: '2026-03-30'
+date: '2026-03-30T20:17:04+01:00'
+---
+
+{{% directions %}}
+
+{{% routemap %}}
+
+## Introduction
+
+This is a pleasant walk along very quiet and seldom walked footpaths through ancient woodlands and back through farmland and a quiet country lane. There are some up and down stretches, although none are very long and generally the woodland path largely follows the gradient. For me, this is a lovely walk in the autumn especially as the colours of the trees change. It's also relatively sheltered from extreme weather for much of its distance and one that can be enjoyed year round. As a Tolkien reader, parts of this walk always reminds me somewhat of Murkwood, only without the spiders! This is not a walk full of stunning panoramic views.
+
+There are some remains of mines and equipment through the woods, including shafts and adits, historic drystone walls, and some minor tors buried in the woods. There's a duck pond and some ancient farm paths to be walked on the return. There is plenty of wildlife if you're quiet, with all kinds of woodland birds, squirrels, fox and deer to be seen.  The path can be muddy in places and sensible footwear is a must. Sometimes the footpaths through the farmyard can get overgrown in the summer and, having experienced a very thorny walk in shorts, I would also recommend stout trousers!
+
+This cannot be called an acecssible walk by any stretch of the imagination and reasonable fitness is required as there are a few obstacles along the way - such as steps cut through fallen trees and small wooden bridges but these are seldom and it's not that tricky.
+
+## Little John's Walk
+
+{{% routing %}}
+*Leaving the car park, take the wide path downhill marked Little John's Walk for around 350 until you see a gateway onto the path to your right. Go through this gate and follow the path generally northwards*
+{{% /routing %}}
+
+![Little John's Walk](6.jpg)
+
+The first stretch of this route is legally a byway, so you may be surprised to meet off road cars and motorbikes using it, but generally it's very quiet and peaceful. The beeches lining the wall are particularly striking in spring and autumn, and deer can often be seen through the trees.
+
+![Looking back up the hill](7.jpg)
+
+![Unusual Signage at the entrance to Shaptor Woods (Possibly now removed)](3.jpg)
+
+### Who was Little John?
+
+This ancient road was named after John Cann, a Royalist during the Civil War. He was reputed to have stolen a large amount of silver (said to be 35,000 coins) before going on the run. Local word was that he hid in the nearby John Cann Rocks from pursuers (circled on the map). He was eventually tracked down and captured, and after being sentenced in Exeter, was executed for his crime. The silver was never found...
+
+## Furzeleigh Plantation and Bearacleave Wood
+
+As we walk down Little John's Walk, on our left is Furzeleigh Plantation which then turns into Bearacleave Wood, both owned and managed by the National Trust.
+
+![Bearacleave Copse](1.jpg)
+
+Although we don't go through either on our walk, it's worth mentioning as we do pass by and you may want to explore it as well. There are some notably impressive Beech trees throughout Bearacleave and on its edges, especially along the nearby road, which are very colourful in both spring and autumn. The woods contain some small ruins and old walls, with some evidence of mining as there is in Shaptor Woods - and the fairly impressive but largely hidden Bearacleave North Tor, which is sometimes used for Bouldering, as are some of the rocks through Shaptor.
+
+* [Tors of Dartmoor - Bearacleave North Tor](https://www.torsofdartmoor.co.uk/tor-page.php?tor=bearacleave-north-tor)
+
+## John Cann's Rocks
+
+Again, although our walk walk off right before we reach them, John Cann's rocks are worth a mention and perhaps a small detour further down the lane to the circled area on the map.
+
+![Rocks further down Little John's Walk](2.jpg)
+
+The rocks are a loose collection of large granite outcrops linked to John Cann above. The land around Bovey Tracey has a rich Civil War history, reflected in many of the street names - especially at Heathfield where there is a memorial on the common ground. There was another memorial to "The Forgotten Soldier" just west of the town, which was recently moved to make way for more housing.
+
+## Shaptor Woods
+
+Shaptor Woods are ancient upload oak woodlands totalling around 200 acres.
+
+![Steep and rocky is the theme here](9.jpg)
+
+{{% routing %}}
+*After entering the gate off Little John's Walk and entering Woodland Trust's property, we follow the path for around 1.5 to 2 kilometers (a mile or so). The path is occasionally signed and marked. It can be indinstinct at times, but generally follows the gradient and is not too hard to follow. There are some muddy sections and duck boards are provided over the worst. There are also a few rememberance posts placed by supporters of the Woodland Trust along the way. There are some climbs up and down and even over some logs.*
+{{% /routing %}}
+
+![One of many rockfaces in Shaptor Woods](4.jpg)
+
+As you walk through these woods, keep an eye open for a few notable things and facts:
+
+* Streams. Several of these emerge from small drainage adits from earlier workings. In this area, they're often overgrown with vegetation, and can be too small to explore, or may be grilled over.
+* Mineshafts. There are a few fenced-off mineshafts, and possible some holes less well guarded. If you leave the path, be very careful and don't let dogs or children run too far.
+
+![Path through Shaptor Woods](10.jpg)
+
+* Tors and rocks. This is a rocky area, the scale of which is hard to estimate given how thickly wooded parts are, but there are many large rocks and tors all along this route, and even some small caves in one sections. It's apparently a popular site for bouldering, although I've not personally seen anyone climbing them during my walks here.
+
+![Tors and Rocks of Shaptor Woods](15.jpg)
+
+* Trees. Shaptor is an ancient upload oak woodland and a temperate rainforest. These oaks are fairly low growing and some are quite gnarled and twisted, although not to the extend of Wistmans' Wood.
+
+![Shaptor Woods](16.jpg)
+
+* Plants. Shaptor is an important site for rare lichens, mosses, ferns and woodland floor plants.
+
+- [Woodland Trust: Visiting Shaptor Woods](https://www.woodlandtrust.org.uk/visiting-woods/woods/shaptor-woods/)
+
+![Memorial Plaques. Woodland Trust have erected several plaques in memory of supporters](5.jpg)
+
+## Hawksmoor Footpath Junction
+
+Eventually you'll come to a path turning off to the right, uphill at around 50.61364,-3.68666 [(w3w ///flick.kickbacks.defensive)](https://what3words.com/flick.kickbacks.defensive) just before a low stone wall with a wooden signpost. We turn right here in front of the wall and continue up a short distance and through another stone wall before following this path to the right onto Shaptor Down.
+
+## Shaptor Mine
+
+Near to the above Junction was the site of Shaptor Mine [(w3w ///tenders.absorb.rezoning)](https://what3words.com/tenders.absorb.rezoning)
+
+Shaptor's mining is not very well documented, and it seems unlikely that the workings were extensive. The evidence seems to point towards several trials comprising of test shafts adits. Certainly the workings here were not as profitable as those at the nearby Great Rock mine, nor those at Kelly, Plumley or Wray Cleave workings further to the North, although all produced micaceous haemetite in various amounts.
+
+Heritage Gateway notes "up to nice shafts" at SX 807 807, and that four "air shafts" were recorded on the 1905 Ordnance Survey map. By 1930, these markings had been removed.
+
+![One of the shafts of Shaptor Mine}(8.jpg)
+
+As well as the adits and mineshafts already mentioned, I once went wandering off the path towards the southern edge looking for a lost dog and encountered a large concrete water reservoir and the remains of an old steam boiler or compressor on what was clearly once a working platform. Sadly, despite two other attempts, I've not been able to refind this and get an exact location.
+
+- [Heritage Gateway - Mine Shafts for Shaptor Mine](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV61758&resourceID=104)
+
+## Shaptor Down
+
+Our path now runs above a drystone wall at the bottom of the Shaptor Down enclosure. This was once an open area used for grazing, but is now being left to naturalise and extend the Shaptor Woods temperate rainforest. The trees here are mostly younger and more light comes through and is notacibly different in atmosphere.
+
+Just above the path is a memorial plaque to H.G.Hurrell M.A M.B.E J.P (1901-1981)
+
+> SHAPTOR DOWN AND ROCKS
+> dedicated in 1983 to the memory of
+>
+> H. G. Hurrell, M.A., M.B.E., J.P.
+> 1901–1981
+>
+> Founder Trustee of the Woodland Trust
+> Founder Member of Devon Bird Watching
+> and Preservation Society
+> Founder Member of Devon Trust for Nature Conservation
+> Dartmoor National Park Committee
+> England Committee Nature Conservancy Council
+>
+> A distinguished naturalist, held in high
+> esteem by all who knew him
+>
+> The Woodland Trust
+
+![Memorial Plaque and stone](11.jpg)
+
+A fine place to be remembered.
+
+![Close up](12.jpg)
+
+## Shaptor Rock
+
+If you leave the paths at the above memorial and head upwards, you'll soon encounter the largest of this walk's nearby tors, Shaptor Rock. This is a worthy detour if you've some energy and are craving a view after so long in the woods, as it emerges from the canopy providing a good reveal.
+
+- [Tors of Dartmoor - Shaptor Rock](https://www.torsofdartmoor.co.uk/tor-page.php?tor=shaptor-rock)
+
+{{% routing %}}
+*Leaving the memorial, follow the path eastwards to Shaptor Farm. There is a section here which can be overgrown in summer.*
+{{% /routing %}}
+
+## Shaptor Farm
+
+Our path emerges onto the driveway serving Shaptor Farm. This has a farmhouse, cottage, large barn and outbuilds - and when sold for £300,000 2017 included 29 acres of adjacent farmland.
+
+We head across the driveway and follow the bridlepath to the Southeast, passing a delightful duckpond.
+
+![Duckpond at Shaptor Farm](13.jpg)
+
+- [Onthemarket.com - Shaptor Farm](https://www.onthemarket.com/details/16175050/)
+
+## Higher and Lower Bowden
+
+The bridlepath follows a devon banked track and through a shallow ford and gate.
+
+![Tom amongst the wild garlic South of Higher Bowden](14.jpg)
+
+{{% routing %}}
+*After the gate, we walk up through a sloping field, which is often grazed with horses, past an old fenced Menage and through the wall onto the road. When on the road, turn right and follow it back to the car parking. The road is fairly quiet, but beware the odd car or tractor.*
+{{% /routing %}}
+
+## Parking
+
+There is free, off-street parking for half a dozen cars at the top of Little John's Walk at Furzeleigh, where we begin our walk.
+
+## References
+{{< show-extracted-links >}}
+
