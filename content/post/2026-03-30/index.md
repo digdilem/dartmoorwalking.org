@@ -14,7 +14,7 @@ tags:
   - 3 mile walk
   - strenuous
   - woodland
-  - woodland tust
+  - woodland trust
 keywords:
   - dartmoor
   - walk
@@ -24,7 +24,6 @@ keywords:
   - ramble
   - hiking
   - hike
-  - ramble
   - circular
   - moss
   - history
@@ -33,7 +32,7 @@ keywords:
   - devon
   - woodland
   - england
-  - woodland tust
+  - woodland trust
 comments: true
 draft: false
 author: Simon Avery
@@ -53,12 +52,12 @@ This is a pleasant walk along very quiet and seldom walked footpaths through anc
 
 There are some remains of mines and equipment through the woods, including shafts and adits, historic drystone walls, and some minor tors buried in the woods. There's a duck pond and some ancient farm paths to be walked on the return. There is plenty of wildlife if you're quiet, with all kinds of woodland birds, squirrels, fox and deer to be seen.  The path can be muddy in places and sensible footwear is a must. Sometimes the footpaths through the farmyard can get overgrown in the summer and, having experienced a very thorny walk in shorts, I would also recommend stout trousers!
 
-This cannot be called an acecssible walk by any stretch of the imagination and reasonable fitness is required as there are a few obstacles along the way - such as steps cut through fallen trees and small wooden bridges but these are seldom and it's not that tricky.
+This cannot be called an accessible walk by any stretch of the imagination and reasonable fitness is required as there are a few obstacles along the way - such as steps cut through fallen trees and small wooden bridges but these are seldom and it's not that tricky.
 
 ## Little John's Walk
 
 {{% routing %}}
-*Leaving the car park, take the wide path downhill marked Little John's Walk for around 350 until you see a gateway onto the path to your right. Go through this gate and follow the path generally northwards*
+*Leaving the car park, take the wide path downhill marked Little John's Walk for around 350m until you see a gateway onto the path to your right. Go through this gate and follow the path generally northwards*
 {{% /routing %}}
 
 ![Little John's Walk](6.jpg)
@@ -85,7 +84,7 @@ Although we don't go through either on our walk, it's worth mentioning as we do 
 
 ## John Cann's Rocks
 
-Again, although our walk walk off right before we reach them, John Cann's rocks are worth a mention and perhaps a small detour further down the lane to the circled area on the map.
+Again, although our walk turns off right before we reach them, John Cann's rocks are worth a mention and perhaps a small detour further down the lane to the circled area on the map.
 
 ![Rocks further down Little John's Walk](2.jpg)
 
@@ -93,12 +92,12 @@ The rocks are a loose collection of large granite outcrops linked to John Cann a
 
 ## Shaptor Woods
 
-Shaptor Woods are ancient upload oak woodlands totalling around 200 acres.
+Shaptor Woods are ancient upland oak woodlands totalling around 200 acres.
 
 ![Steep and rocky is the theme here](9.jpg)
 
 {{% routing %}}
-*After entering the gate off Little John's Walk and entering Woodland Trust's property, we follow the path for around 1.5 to 2 kilometers (a mile or so). The path is occasionally signed and marked. It can be indinstinct at times, but generally follows the gradient and is not too hard to follow. There are some muddy sections and duck boards are provided over the worst. There are also a few rememberance posts placed by supporters of the Woodland Trust along the way. There are some climbs up and down and even over some logs.*
+*After entering the gate off Little John's Walk and entering Woodland Trust's property, we follow the path for around 1.5 to 2 kilometers (a mile or so). The path is occasionally signed and marked. It can be indistinct at times, but generally follows the gradient and is not too hard to follow. There are some muddy sections and duck boards are provided over the worst. There are also a few remembrance posts placed by supporters of the Woodland Trust along the way. There are some climbs up and down and even over some logs.*
 {{% /routing %}}
 
 ![One of many rockfaces in Shaptor Woods](4.jpg)
@@ -106,15 +105,15 @@ Shaptor Woods are ancient upload oak woodlands totalling around 200 acres.
 As you walk through these woods, keep an eye open for a few notable things and facts:
 
 * Streams. Several of these emerge from small drainage adits from earlier workings. In this area, they're often overgrown with vegetation, and can be too small to explore, or may be grilled over.
-* Mineshafts. There are a few fenced-off mineshafts, and possible some holes less well guarded. If you leave the path, be very careful and don't let dogs or children run too far.
+* Mineshafts. There are a few fenced-off mineshafts, and possibly some holes less well guarded. If you leave the path, be very careful and don't let dogs or children run too far.
 
 ![Path through Shaptor Woods](10.jpg)
 
-* Tors and rocks. This is a rocky area, the scale of which is hard to estimate given how thickly wooded parts are, but there are many large rocks and tors all along this route, and even some small caves in one sections. It's apparently a popular site for bouldering, although I've not personally seen anyone climbing them during my walks here.
+* Tors and rocks. This is a rocky area, the scale of which is hard to estimate given how thickly wooded parts are, but there are many large rocks and tors all along this route, and even some small caves in one section. It's apparently a popular site for bouldering, although I've not personally seen anyone climbing them during my walks here.
 
 ![Tors and Rocks of Shaptor Woods](15.jpg)
 
-* Trees. Shaptor is an ancient upload oak woodland and a temperate rainforest. These oaks are fairly low growing and some are quite gnarled and twisted, although not to the extend of Wistmans' Wood.
+* Trees. Shaptor is an ancient upland oak woodland and a temperate rainforest. These oaks are fairly low growing and some are quite gnarled and twisted, although not to the extent of Wistmans' Wood.
 
 ![Shaptor Woods](16.jpg)
 
@@ -132,19 +131,19 @@ Eventually you'll come to a path turning off to the right, uphill at around 50.6
 
 Near to the above Junction was the site of Shaptor Mine [(w3w ///tenders.absorb.rezoning)](https://what3words.com/tenders.absorb.rezoning)
 
-Shaptor's mining is not very well documented, and it seems unlikely that the workings were extensive. The evidence seems to point towards several trials comprising of test shafts adits. Certainly the workings here were not as profitable as those at the nearby Great Rock mine, nor those at Kelly, Plumley or Wray Cleave workings further to the North, although all produced micaceous haemetite in various amounts.
+Shaptor's mining is not very well documented, and it seems unlikely that the workings were extensive. The evidence seems to point towards several trials comprising test shafts and adits. Certainly the workings here were not as profitable as those at the nearby Great Rock mine, nor those at Kelly, Plumley or Wray Cleave workings further to the North, although all produced micaceous haemetite in various amounts.
 
-Heritage Gateway notes "up to nice shafts" at SX 807 807, and that four "air shafts" were recorded on the 1905 Ordnance Survey map. By 1930, these markings had been removed.
+Heritage Gateway notes "up to nine shafts" at SX 807 807, and that four "air shafts" were recorded on the 1905 Ordnance Survey map. By 1930, these markings had been removed.
 
-![One of the shafts of Shaptor Mine}(8.jpg)
+![One of the shafts of Shaptor Mine](8.jpg)
 
-As well as the adits and mineshafts already mentioned, I once went wandering off the path towards the southern edge looking for a lost dog and encountered a large concrete water reservoir and the remains of an old steam boiler or compressor on what was clearly once a working platform. Sadly, despite two other attempts, I've not been able to refind this and get an exact location.
+As well as the adits and mineshafts already mentioned, I once went wandering off the path towards the southern edge looking for a lost dog and encountered a large concrete water reservoir and the remains of an old steam boiler or compressor on what was clearly once a working platform. Sadly, despite two other attempts, I've not been able to find this again and get an exact location.
 
 - [Heritage Gateway - Mine Shafts for Shaptor Mine](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV61758&resourceID=104)
 
 ## Shaptor Down
 
-Our path now runs above a drystone wall at the bottom of the Shaptor Down enclosure. This was once an open area used for grazing, but is now being left to naturalise and extend the Shaptor Woods temperate rainforest. The trees here are mostly younger and more light comes through and is notacibly different in atmosphere.
+Our path now runs above a drystone wall at the bottom of the Shaptor Down enclosure. This was once an open area used for grazing, but is now being left to naturalise and extend the Shaptor Woods temperate rainforest. The trees here are mostly younger and more light comes through and is noticeably different in atmosphere.
 
 Just above the path is a memorial plaque to H.G.Hurrell M.A M.B.E J.P (1901-1981)
 
