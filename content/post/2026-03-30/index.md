@@ -151,7 +151,7 @@ As well as the adits and mineshafts already mentioned, I once went wandering off
 
 ## Shaptor Down
 
-Our path now runs above a drystone wall at the bottom of the Shaptor Down enclosure. This was once an open area used for grazing, but is now being left to naturalise and extend the Shaptor Woods temperate rainforest. The trees here are mostly younger and more light comes through and is noticeably different in atmosphere.
+Our path now runs above a drystone wall at the bottom of the Shaptor Down enclosure. This was once an open area used for grazing, but is now being left to naturalise and extend the Shaptor Woods temperate rainforest. The trees here are mostly younger: more light comes through and it is noticeably different in atmosphere to the older woods below.
 
 Just above the path is a memorial plaque to one of the founding members of the Woodland Trust.
 

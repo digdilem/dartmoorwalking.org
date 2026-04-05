@@ -135,6 +135,17 @@ params:
         content:
             enabled: true
 
+    # https://github.com/Stals/hugo-share-buttons
+    shareButtons:
+        size: small
+        icon: solid
+        networks:
+            - facebook
+            - email
+            - copylink
+#            - whatsapp
+#            - reddit
+#            - telegram
 
 ### Custom menu
 ### See https://stack.jimmycai.com/config/menu

@@ -2,6 +2,25 @@
 {{- $context := .Context -}}
 {{- with (index .Context.Site.Params.widgets $scope) -}}
     <aside class="sidebar right-sidebar sticky">
+        <div class="sidebar-share-inline">
+            {{ partial "share-buttons" $context }}
+        </div>
+
+        <style>
+        .sidebar.right-sidebar .sidebar-share-inline {
+            display: flex;
+            flex-wrap: nowrap;
+            overflow-x: auto;
+            white-space: nowrap;
+            margin-bottom: 1rem;
+        }
+
+        .sidebar.right-sidebar .sidebar-share-inline .resp-sharing-button__link {
+            flex: 0 0 auto;
+            margin: 0.25em;
+        }
+        </style>
+
         {{ range $widget := . }}
             {{ if templates.Exists (printf "partials/widget/%s.html" .type) }}
                 <!-- Ensure that the `params` is not nil -->
@@ -13,4 +32,6 @@
             {{ end }}
         {{ end }}
     </aside>
+
 {{ end }}
+
