@@ -1,8 +1,8 @@
-{{- $List := index .Context.Site.Data.external .Namespace -}}
+{{- $List := index hugo.Data.external .Namespace -}}
 {{- with $List -}}
     {{- range . -}}
         {{- if eq .type "script" -}}
-            <script 
+            <script
                 src="{{ .src }}"
                 {{- with .integrity -}}
                 integrity="{{ . }}"
@@ -12,8 +12,8 @@
                 >
             </script>
         {{- else if eq .type "style" -}}
-            <link 
-                rel="stylesheet" 
+            <link
+                rel="stylesheet"
                 href="{{ .src }}"
                 {{- with .integrity -}}
                 integrity="{{ . }}"
