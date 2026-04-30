@@ -1,0 +1,3 @@
+<div class="engraving-box">
+    {{ .Inner | strings.TrimSpace | htmlEscape | replaceRE "\r?\n" "<br>" | safeHTML }}
+</div>
