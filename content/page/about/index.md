@@ -61,7 +61,18 @@ It is hoped that in time, this site may grow to include other people's favourite
 
 More walks from DartmoorCam are gradually being added to this site, and where possible, extended from personal and researched knowledge.
 
-It is hoped that Keith would have approved.
+## Contributing
+
+If you have a well researched walk that you think would fit in well here, I'd love to add it. You'd obviously get credit, and must own any content you send for inclusion.
+
+You can send me the details in any way that suits you - perhaps a text file and all the photos in a zip file. I'm happy to edit the work and make it suitable for the site.
+
+Technical users may wish to write the code ready to drop it - an example of a walk's source code is [here](https://github.com/digdilem/dartmoorwalking.org/tree/master/content/post/2026-02-07) - one `index.md` file suitable for Hugo with the page details and text, a map.jpg of the route and sequentially numbered jpgs.
+
+**Some guidelines**
+
+- Walks should be not be too similar to anything existing on the site. Inevitably we'll get duplicated start points and that's fine.
+- Try to give fair credit for any research you use. You'll notice that [dartmoorwalking.org](https://dartmoorwalking.org) adds links to other websites and physical media where they're used.
 
 ## Legacy
 People give a huge amount of their time and knowledge to create websites for the benefit of other people. As custodian of Keith's websites as well as others, I would like to make not just these websites free use, but also provide the source code to them in somewhere permanent and known so that if I am no longer able to maintain and pay for them, they will continue to exist in some form. So many useful websites have already been lost in the short time the internet has been in use, that permanent archiving is very much something I would like to provide. This is a key reason that the code for this website is published on [Github](https://github.com/digdilem/dartmoorwalking.org) and should remain available forever.
