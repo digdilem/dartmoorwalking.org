@@ -50,6 +50,8 @@ date: '2026-04-27T16:53:55+01:00'
 
 {{% routemap %}}
 
+
+
 ## Introduction
 
 This is a walk that includes a wide variety. We start by strolling alongside the very pretty Avon River, which on a hot day is perfect for paddling in or just sitting by. We continue past a ruined building and the remains of its wild gardens, then leave the tarmac road to climb a gentle gradient to an ancient Bronze Age settlement. A short way past that, we arrive at Avon Dam Reservoir, nestling amongst low hills. We then descend below the dam and return along an easy tarmac path.
