@@ -63,11 +63,7 @@ More walks from DartmoorCam are gradually being added to this site, and where po
 
 ## Contributing
 
-If you have a well researched walk that you think would fit in well here, I'd love to add it. You'd obviously get credit, and must own any content you send for inclusion.
-
-You can send me the details in any way that suits you - perhaps a text file and all the photos in a zip file. I'm happy to edit the work and make it suitable for the site.
-
-Technical users may wish to write the code ready to drop it - an example of a walk's source code is [here](https://github.com/digdilem/dartmoorwalking.org/tree/master/content/post/2026-02-07) - one `index.md` file suitable for Hugo with the page details and text, a map.jpg of the route and sequentially numbered jpgs.
+If you have a well researched walk that you think would fit in well here, I'd love to add it. Please see the [contribution guide](https://github.com/digdilem/dartmoorwalking.org?tab=contributing-ov-file#readme)
 
 **Some guidelines**
 
