@@ -1,575 +1,420 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Mary-Tavy on Dartmoor Walking</title>
-        <link>http://localhost:1313/tags/mary-tavy/</link>
-        <description>Recent content in Mary-Tavy on Dartmoor Walking</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <copyright>Simon Avery</copyright>
-        <lastBuildDate>Sun, 22 Mar 2026 14:15:03 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mary-tavy/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Wheal Jewell and Wheal Betsy</title>
-        <link>http://localhost:1313/p/wheal-jewell-and-wheal-betsy/</link>
-        <pubDate>Sun, 22 Mar 2026 14:15:03 +0000</pubDate>
-        
-        <guid>http://localhost:1313/p/wheal-jewell-and-wheal-betsy/</guid>
-        <description>&lt;img src="http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00041.jpg" alt="Featured image of post Wheal Jewell and Wheal Betsy" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mary-Tavy on Dartmoor Walking</title><link>https://dartmoorwalking.org/tags/mary-tavy/</link><description>Recent content in Mary-Tavy on Dartmoor Walking</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Simon Avery</copyright><lastBuildDate>Sun, 22 Mar 2026 14:15:03 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/mary-tavy/index.xml" rel="self" type="application/rss+xml"/><item><title>Wheal Jewell and Wheal Betsy</title><link>https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/</link><pubDate>Sun, 22 Mar 2026 14:15:03 +0000</pubDate><guid>https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/</guid><description>&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00041.jpg" alt="Featured image of post Wheal Jewell and Wheal Betsy" /&gt;&lt;h2 id="information"&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;
 4 miles&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; Grade: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/tags/medium/&#34;&gt;Medium&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/gpx/wheal-jewell-and-wheal-betsy.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.60717%2c-4.0874&#34; target=&#34;_blank&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
-    &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
-    &lt;path d=&#34;M12 21v-4&#34; /&gt;
-    &lt;path d=&#34;M12 13v-4&#34; /&gt;
-    &lt;path d=&#34;M12 5v-2&#34; /&gt;
-    &lt;path d=&#34;M10 21h4&#34; /&gt;
-    &lt;path d=&#34;M8 5v4h11l2 -2l-2 -2z&#34; /&gt;
-    &lt;path d=&#34;M14 13v4h-8l-2 -2l2 -2z&#34; /&gt;
-  &lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&#34;https://w3w.co/defeat.quilt.notebook&#34; target=&#34;_blank&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;defeat.quilt.notebook&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt; Grade: &lt;b&gt;&lt;a href="https://dartmoorwalking.org/tags/medium/"&gt;Medium&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href="https://dartmoorwalking.org/gpx/wheal-jewell-and-wheal-betsy.gpx"&gt;Download GPX &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download"&gt;&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/&gt;&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" /&gt;&lt;path d="M7 11l5 5l5 -5" /&gt;&lt;path d="M12 4l0 12" /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="https://www.google.com/maps/dir/?api=1&amp;destination=50.60717%2c-4.0874" target="_blank"&gt;Directions to Car Park &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-directions"&gt;
+&lt;path stroke="none" d="M0 0h24v24H0z" fill="none" /&gt;
+&lt;path d="M12 21v-4" /&gt;
+&lt;path d="M12 13v-4" /&gt;
+&lt;path d="M12 5v-2" /&gt;
+&lt;path d="M10 21h4" /&gt;
+&lt;path d="M8 5v4h11l2 -2l-2 -2z" /&gt;
+&lt;path d="M14 13v4h-8l-2 -2l2 -2z" /&gt;
+&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="https://w3w.co/defeat.quilt.notebook" target="_blank"&gt;What Three Words&lt;/a&gt; &lt;code&gt;defeat.quilt.notebook&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/map.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;626&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/map_hu_584f509c72c01d2f.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/map_hu_dce554156d1f7b73.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;159&#34;
-		data-flex-basis=&#34;383px&#34;
-	
+&lt;h2 id="map"&gt;Map
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/map.jpg"
+width="1000"
+height="626"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/map_hu_584f509c72c01d2f.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/map_hu_dce554156d1f7b73.jpg 1024w"
+loading="lazy"
+alt="Map of Route - Crown Copyright - Ordnance Survey Licence number 100047373"
+class="gallery-image"
+data-flex-grow="159"
+data-flex-basis="383px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;h2 id="introduction"&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;This walk across open moorland on the West of Dartmoor takes in the rich industrial and mining history of this area, including the Engine house of Wheal Betsy, a familiar sight to everyone who has driven the A386 between Plymouth and Okehampton. The walk is circular and generally sticks to the contour, making for fairly easy walking, with the valley at Cholwell being the only real gradient experienced. Going is mixed, with the old mining girts west of the Jewell reservoirs a small clamber, and some paths will be muddy in parts in Winter.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Wheal&amp;rdquo; is an old Cornish word for &amp;ldquo;Place of work&amp;rdquo; but is mostly used for underground workings. It&amp;rsquo;s sometimes mixed with the rarer word, &amp;ldquo;Bal&amp;rdquo; which also means place of work or mine, but is more specifically used for above-ground mining work. Although in Devon, much of the expertise of mining on Dartmoor came from Cornish miners, who were undoubtedly the world experts in hard rock mining for many centuries.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;This walk was recorded by Keith in 2009 when the reservoir was drained and undergoing cleaning. Simon also walked parts of it in 2011 and has included additional pictures, and most of the text.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00001.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00001_hu_8fa2399859b6c0ff.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00001_hu_92a46ed18c5a448f.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A view across the edge of Kingsett Down to fields beyond with Standon Down in the distance&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00001.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00001_hu_8fa2399859b6c0ff.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00001_hu_92a46ed18c5a448f.jpg 1024w"
+loading="lazy"
+alt="A view across the edge of Kingsett Down to fields beyond with Standon Down in the distance"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;div class=&#34;routing-box&#34;&gt;
-  &lt;div class=&#34;routing-header&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/icons/signpost.svg&#34;
-       alt=&#34;&#34;
-       class=&#34;routing-icon&#34;&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;routing-content&#34;&gt;
-    &lt;em&gt;When you&amp;rsquo;re ready to leave, follow the path northwards away from the road. It will lead into a funnel track, designed to help herd ponies and other grazing livestock during the annual drift. Follow this track until you meet a building.&lt;/em&gt;
-  &lt;/div&gt;
+&lt;div class="routing-box"&gt;
+&lt;div class="routing-header"&gt;
+&lt;img src="https://dartmoorwalking.org/icons/signpost.svg"
+alt=""
+class="routing-icon"&gt;
 &lt;/div&gt;
-&lt;h2 id=&#34;wheal-jewell-hydro-electric&#34;&gt;Wheal Jewell Hydro Electric
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/1.jpg&#34;
-	width=&#34;3264&#34;
-	height=&#34;2448&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/1_hu_30bd12dc4a27e76d.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/1_hu_70405ef483ba10bc.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Wheal Jewell buildings&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;div class="routing-content"&gt;
+&lt;em&gt;When you&amp;rsquo;re ready to leave, follow the path northwards away from the road. It will lead into a funnel track, designed to help herd ponies and other grazing livestock during the annual drift. Follow this track until you meet a building.&lt;/em&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id="wheal-jewell-hydro-electric"&gt;Wheal Jewell Hydro Electric
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/1.jpg"
+width="3264"
+height="2448"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/1_hu_30bd12dc4a27e76d.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/1_hu_70405ef483ba10bc.jpg 1024w"
+loading="lazy"
+alt="Wheal Jewell buildings"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;Built in 1936–1937 by the West Devon Mining &amp;amp; Power Co. (specifically the Christy Brothers), the Wheal Jewell reservoir and this building next to the track is part of an early, and still used, hydroelectric system. It collects and controls water from the reservoirs above, sending it down a turbine at Mary Tavy Power Station some 4km away, with 152m of head, providing around 15bar (217 psi) of potential working pressure.&lt;/p&gt;
 &lt;p&gt;The turbines comprise of three pelton wheels, each capable of producing up to 650kw, which is fed directly into the National Grid.&lt;/p&gt;
 &lt;p&gt;The Power Station was opened four years before this supply was added, using a much less capable supply from Hillbridge Weir but was not capable of meeting demand.&lt;/p&gt;
 &lt;p&gt;The reservoirs, pumps and generation are owned and maintained by South West Water.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/gateway/Results_Single.aspx?uid=MDV62957&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway - Hydroelectric Power Station, Mary Tavy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/gateway/Results_Single.aspx?uid=MDV62957&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;Heritage Gateway - Hydroelectric Power Station, Mary Tavy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;routing-box&#34;&gt;
-  &lt;div class=&#34;routing-header&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/icons/signpost.svg&#34;
-       alt=&#34;&#34;
-       class=&#34;routing-icon&#34;&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;routing-content&#34;&gt;
-    &lt;em&gt;Walk around the buildings and up to the level of the Jewell Reservoir. We&amp;rsquo;ll walk up it - it doesn&amp;rsquo;t matter which side - until the bridge across at the top.&lt;/em&gt;
-  &lt;/div&gt;
+&lt;div class="routing-box"&gt;
+&lt;div class="routing-header"&gt;
+&lt;img src="https://dartmoorwalking.org/icons/signpost.svg"
+alt=""
+class="routing-icon"&gt;
 &lt;/div&gt;
-&lt;h2 id=&#34;wheal-jewell-reservoir&#34;&gt;Wheal Jewell Reservoir
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00002.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00002_hu_8e486db4a7eda82f.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00002_hu_cca943b88533cdc8.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking along Wheal Jewell Reservoir from the southern end&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;div class="routing-content"&gt;
+&lt;em&gt;Walk around the buildings and up to the level of the Jewell Reservoir. We&amp;rsquo;ll walk up it - it doesn&amp;rsquo;t matter which side - until the bridge across at the top.&lt;/em&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id="wheal-jewell-reservoir"&gt;Wheal Jewell Reservoir
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00002.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00002_hu_8e486db4a7eda82f.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00002_hu_cca943b88533cdc8.jpg 1024w"
+loading="lazy"
+alt="Looking along Wheal Jewell Reservoir from the southern end"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;Wheal Jewell Reservoir acts as a &amp;lsquo;header tank&amp;rsquo; for the Hydro Electric generators, ensuring there is enough supply to meet demand.&lt;/p&gt;
 &lt;p&gt;The name comes from a much older tin and arsenic mine that occupied the site from the 1700s, being most productive in the years of 1865, 1911 and 1924. When the reservoir was built in 1936 it was constructed directly over the old gerts (open cast workings), and most remains were destroyed during this construction, although extensive gerts can still be seen to the west, along our route.&lt;/p&gt;
 &lt;p&gt;The reservoir collects up to 6.5 million gallons of water from the 4.5 mile long Reddaford leat, drawing off from Tavy Cleave. This fills it at a rate of up to 2 million gallons a day, and was dug by hand in the 1800s to supply the original mine.&lt;/p&gt;
 &lt;p&gt;The original course of Reddaford leat runs just North of the top of the reservoir, and can be clearly seen today.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00003.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00003_hu_8fb777deef185542.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00003_hu_93cd41d24908fc5a.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A view up the midline of Wheal Jewell Reservoir&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00003.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00003_hu_8fb777deef185542.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00003_hu_93cd41d24908fc5a.jpg 1024w"
+loading="lazy"
+alt="A view up the midline of Wheal Jewell Reservoir"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/3.jpg&#34;
-	width=&#34;3264&#34;
-	height=&#34;2448&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/3_hu_2388a0279c11a8f1.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/3_hu_6255573615520206.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;When it’s full&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/3.jpg"
+width="3264"
+height="2448"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/3_hu_2388a0279c11a8f1.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/3_hu_6255573615520206.jpg 1024w"
+loading="lazy"
+alt="When it’s full"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00006.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00006_hu_5a04dfbe9a01058f.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00006_hu_fdc5b094f6f986db.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The structure under the end of the reservoir&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00006.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00006_hu_5a04dfbe9a01058f.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00006_hu_fdc5b094f6f986db.jpg 1024w"
+loading="lazy"
+alt="The structure under the end of the reservoir"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/2.jpg&#34;
-	width=&#34;3264&#34;
-	height=&#34;2448&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/2_hu_4f4cd39b6c0abb7a.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/2_hu_f972a757a2449331.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;And when working&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/2.jpg"
+width="3264"
+height="2448"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/2_hu_4f4cd39b6c0abb7a.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/2_hu_f972a757a2449331.jpg 1024w"
+loading="lazy"
+alt="And when working"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00007.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00007_hu_59f4759bbac5fb03.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00007_hu_f55dfe155b322015.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A wider part of the construction&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00007.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00007_hu_59f4759bbac5fb03.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00007_hu_f55dfe155b322015.jpg 1024w"
+loading="lazy"
+alt="A wider part of the construction"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00008.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00008_hu_da9b4e1f8d3e656e.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00008_hu_8c1544e772958c13.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;How did they get THAT down there?&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00008.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00008_hu_da9b4e1f8d3e656e.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00008_hu_8c1544e772958c13.jpg 1024w"
+loading="lazy"
+alt="How did they get THAT down there?"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00009.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00009_hu_4d9db958a7c4ccb4.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00009_hu_7a2e7da843b56526.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A valve, apparently an inlet&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00009.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00009_hu_4d9db958a7c4ccb4.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00009_hu_7a2e7da843b56526.jpg 1024w"
+loading="lazy"
+alt="A valve, apparently an inlet"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00010.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00010_hu_ac7250429572b91f.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00010_hu_89ee012f2f41757c.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;View at the far (northern) end of the main reservoir with the extension in the background&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00010.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00010_hu_ac7250429572b91f.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00010_hu_89ee012f2f41757c.jpg 1024w"
+loading="lazy"
+alt="View at the far (northern) end of the main reservoir with the extension in the background"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00011.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00011_hu_81227d1cc4f2b39a.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00011_hu_afc776fab7ba5309.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Another view of the extension reservoir&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00011.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00011_hu_81227d1cc4f2b39a.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00011_hu_afc776fab7ba5309.jpg 1024w"
+loading="lazy"
+alt="Another view of the extension reservoir"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/6.jpg&#34;
-	width=&#34;3264&#34;
-	height=&#34;2448&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/6_hu_1bed69ffc55effdd.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/6_hu_a1a95a026e5008f0.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A look down the main reservoir when full&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/6.jpg"
+width="3264"
+height="2448"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/6_hu_1bed69ffc55effdd.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/6_hu_a1a95a026e5008f0.jpg 1024w"
+loading="lazy"
+alt="A look down the main reservoir when full"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00012.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00012_hu_ede13e3d1ff34848.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00012_hu_df200bcfd0b4bcb4.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The site of another valve, with the slide missing&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00012.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00012_hu_ede13e3d1ff34848.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00012_hu_df200bcfd0b4bcb4.jpg 1024w"
+loading="lazy"
+alt="The site of another valve, with the slide missing"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00013.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00013_hu_c8838e045ada0ee9.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00013_hu_c8c78e94f5afc468.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A better view of the extension reservoir&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00013.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00013_hu_c8838e045ada0ee9.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00013_hu_c8c78e94f5afc468.jpg 1024w"
+loading="lazy"
+alt="A better view of the extension reservoir"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00014.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00014_hu_10624274432e7246.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00014_hu_c96e54a7ac75a929.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Passing riders from the Cholwell Riding Stables&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00014.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00014_hu_10624274432e7246.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00014_hu_c96e54a7ac75a929.jpg 1024w"
+loading="lazy"
+alt="Passing riders from the Cholwell Riding Stables"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;wheal-jewell-gerts&#34;&gt;Wheal Jewell Gerts
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00015.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00015_hu_500914065dd0c64c.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00015_hu_8de4f48e43ae3e4a.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking towards the northern end and the long, narrow inlet area&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;h2 id="wheal-jewell-gerts"&gt;Wheal Jewell Gerts
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00015.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00015_hu_500914065dd0c64c.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00015_hu_8de4f48e43ae3e4a.jpg 1024w"
+loading="lazy"
+alt="Looking towards the northern end and the long, narrow inlet area"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00016.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00016_hu_d45f6d1a7da032d5.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00016_hu_7f59508aec114713.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;An outlet valve&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00016.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00016_hu_d45f6d1a7da032d5.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00016_hu_7f59508aec114713.jpg 1024w"
+loading="lazy"
+alt="An outlet valve"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00018.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00018_hu_eb8f282a536b3899.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00018_hu_a950b27ef8ff9d8b.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking towards the southern end, where we started&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00018.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00018_hu_eb8f282a536b3899.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00018_hu_a950b27ef8ff9d8b.jpg 1024w"
+loading="lazy"
+alt="Looking towards the southern end, where we started"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00019.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00019_hu_c2f19308d1e5af54.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00019_hu_5cbee26da5190a59.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The main inlet area, with a bridge over&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00019.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00019_hu_c2f19308d1e5af54.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00019_hu_5cbee26da5190a59.jpg 1024w"
+loading="lazy"
+alt="The main inlet area, with a bridge over"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00021.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00021_hu_f6e18edbbed1e0be.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00021_hu_3b68bd5d111efc8c.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The bridge over the leat that delivers about 2 million gallons of water each day&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00021.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00021_hu_f6e18edbbed1e0be.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00021_hu_3b68bd5d111efc8c.jpg 1024w"
+loading="lazy"
+alt="The bridge over the leat that delivers about 2 million gallons of water each day"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/4.jpg&#34;
-	width=&#34;3264&#34;
-	height=&#34;2448&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/4_hu_12a3af232c3009e2.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/4_hu_21e0fd55a98602e2.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Another view&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/4.jpg"
+width="3264"
+height="2448"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/4_hu_12a3af232c3009e2.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/4_hu_21e0fd55a98602e2.jpg 1024w"
+loading="lazy"
+alt="Another view"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00023.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00023_hu_36977d8460deecc9.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00023_hu_e7683e200a0d89c9.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A small side leat feeding into the main inlet channel (the Wheal Jewell Leat)&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00023.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00023_hu_36977d8460deecc9.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00023_hu_e7683e200a0d89c9.jpg 1024w"
+loading="lazy"
+alt="A small side leat feeding into the main inlet channel (the Wheal Jewell Leat)"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00024.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00024_hu_1094c282489189cc.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00024_hu_d3177e8bc08aa7dc.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Dartmoor colours&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00024.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00024_hu_1094c282489189cc.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00024_hu_d3177e8bc08aa7dc.jpg 1024w"
+loading="lazy"
+alt="Dartmoor colours"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00026.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00026_hu_928900c88f28b476.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00026_hu_740ea8a8da2f8ae1.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Moss growing on the top of a concrete fence post&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00026.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00026_hu_928900c88f28b476.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00026_hu_740ea8a8da2f8ae1.jpg 1024w"
+loading="lazy"
+alt="Moss growing on the top of a concrete fence post"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/5.jpg&#34;
-	width=&#34;3264&#34;
-	height=&#34;2448&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/5_hu_3cff6cd42aae657d.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/5_hu_d31f5eb8edb891fa.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Simon’s dog, Luka, meeting a very brave Dartmoor Hill Pony foal&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/5.jpg"
+width="3264"
+height="2448"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/5_hu_3cff6cd42aae657d.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/5_hu_d31f5eb8edb891fa.jpg 1024w"
+loading="lazy"
+alt="Simon’s dog, Luka, meeting a very brave Dartmoor Hill Pony foal"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;div class=&#34;routing-box&#34;&gt;
-  &lt;div class=&#34;routing-header&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/icons/signpost.svg&#34;
-       alt=&#34;&#34;
-       class=&#34;routing-icon&#34;&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;routing-content&#34;&gt;
-    &lt;em&gt;At the bridge over the leat feeding the reservoir, turn left and head Westward. This will take you through some small but steep valleys which are the old mining gerts of Wheal Jewell, and then onto more open and easy going moor. Follow the path due West, keeping to the gradient as it curves Southwards towards the distinctive chimney of Wheal Betsy&lt;/em&gt;
-  &lt;/div&gt;
+&lt;div class="routing-box"&gt;
+&lt;div class="routing-header"&gt;
+&lt;img src="https://dartmoorwalking.org/icons/signpost.svg"
+alt=""
+class="routing-icon"&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00028.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00028_hu_c4082e0ac047ae82.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00028_hu_30cde7cda95e58fb.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking along the disused Reddaford Leat&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;div class="routing-content"&gt;
+&lt;em&gt;At the bridge over the leat feeding the reservoir, turn left and head Westward. This will take you through some small but steep valleys which are the old mining gerts of Wheal Jewell, and then onto more open and easy going moor. Follow the path due West, keeping to the gradient as it curves Southwards towards the distinctive chimney of Wheal Betsy&lt;/em&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00028.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00028_hu_c4082e0ac047ae82.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00028_hu_30cde7cda95e58fb.jpg 1024w"
+loading="lazy"
+alt="Looking along the disused Reddaford Leat"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00030.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00030_hu_91c641f2eaac8183.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00030_hu_256df3c0bf2ffe59.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Walking westwards, a clapper bridge over the old leat&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00030.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00030_hu_91c641f2eaac8183.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00030_hu_256df3c0bf2ffe59.jpg 1024w"
+loading="lazy"
+alt="Walking westwards, a clapper bridge over the old leat"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00031.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00031_hu_1e20dcce1075d29b.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00031_hu_a1cc0a7071b06757.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Another view&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00031.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00031_hu_1e20dcce1075d29b.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00031_hu_a1cc0a7071b06757.jpg 1024w"
+loading="lazy"
+alt="Another view"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00032.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00032_hu_ecf5f6b69902a37d.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00032_hu_426c3d890da4b759.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The old leat&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00032.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00032_hu_ecf5f6b69902a37d.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00032_hu_426c3d890da4b759.jpg 1024w"
+loading="lazy"
+alt="The old leat"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00035.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00035_hu_5b890eadf332f057.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00035_hu_a8666803c341d5e7.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The waterway is now a well-worn mini-gorge&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00035.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00035_hu_5b890eadf332f057.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00035_hu_a8666803c341d5e7.jpg 1024w"
+loading="lazy"
+alt="The waterway is now a well-worn mini-gorge"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00036.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00036_hu_df81ce8d741e1cf2.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00036_hu_5619b1e583cc652d.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking in the opposite direction&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00036.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00036_hu_df81ce8d741e1cf2.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00036_hu_5619b1e583cc652d.jpg 1024w"
+loading="lazy"
+alt="Looking in the opposite direction"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00038.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00038_hu_7eb9b50eed6eb10e.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00038_hu_503f6318787ee9ab.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;First view of Wheal Betsy, with the A386 Tavistock–Okehampton road above&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00038.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00038_hu_7eb9b50eed6eb10e.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00038_hu_503f6318787ee9ab.jpg 1024w"
+loading="lazy"
+alt="First view of Wheal Betsy, with the A386 Tavistock–Okehampton road above"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;wheal-betsy&#34;&gt;Wheal Betsy
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00040.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00040_hu_3fc93f637bef3e0b.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00040_hu_609771c576c46578.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Approaching Wheal Betsy&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;h2 id="wheal-betsy"&gt;Wheal Betsy
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00040.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00040_hu_3fc93f637bef3e0b.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00040_hu_609771c576c46578.jpg 1024w"
+loading="lazy"
+alt="Approaching Wheal Betsy"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;There&amp;rsquo;s an irony that, whilst most of Dartmoor&amp;rsquo;s engine houses were built on granite, they have all but disappeared and Wheal Betsy remains. It has a distinctive lean to its chimney because it was built upon the weaker spoil heaps of older workings, yet remains largely intact. Wheal Betsy is sometimes wrongly labelled as &amp;ldquo;The last standing Engine House on Dartmoor&amp;rdquo; - it is not, there is one other! Wheal Exmouth, on the exact opposite side of Dartmoor at Canonteign, is still standing and has been converted to a private house. It&amp;rsquo;s perhaps accurate to say that Wheal Betsy is the &amp;ldquo;Last standing original Engine House on Dartmoor&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Wheal Betsy was dug in 1704 - but powered by water wheels fed by Reddaford Leat. As common with mines, they are very affected by metal prices and it had to close shortly afterwards, but re-opened in 1806 and worked successfully for several decades, producing much of the waste rock evident in this scarred valley.&lt;/p&gt;
@@ -578,687 +423,119 @@
 &lt;p&gt;Sadly, the investment was not recouped and the mine closed for good in 1877, just nine years after the engine house was built.&lt;/p&gt;
 &lt;p&gt;The Engine House was almost demolished in 1954. The British Army was given permission to demolish it. It was saved by a high-profile campaign led by the historian A.K. Hamilton Jenkin. In 1967, it was acquired by the National Trust and designated a Scheduled Monument, securing its future.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/gateway/Results_Single.aspx?uid=MDV3185&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway - Wheal Betsy Mine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/gateway/Results_Single.aspx?uid=MDV3185&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;Heritage Gateway - Wheal Betsy Mine&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00041.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00041_hu_f3f06d62fdadf173.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00041_hu_fc587f7ed6bc2ce4.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A better view&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00041.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00041_hu_f3f06d62fdadf173.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00041_hu_fc587f7ed6bc2ce4.jpg 1024w"
+loading="lazy"
+alt="A better view"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00044.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;757&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00044_hu_b114e127ebb44a33.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00044_hu_650cb39f9a5ae683.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The plaque explains some of the story&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;132&#34;
-		data-flex-basis=&#34;317px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00044.jpg"
+width="1000"
+height="757"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00044_hu_b114e127ebb44a33.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00044_hu_650cb39f9a5ae683.jpg 1024w"
+loading="lazy"
+alt="The plaque explains some of the story"
+class="gallery-image"
+data-flex-grow="132"
+data-flex-basis="317px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/RedrawnWhealBetsy-II.jpg&#34;
-	width=&#34;1140&#34;
-	height=&#34;807&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/RedrawnWhealBetsy-II_hu_360146e8b6f6ee6a.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/RedrawnWhealBetsy-II_hu_d408360cc670585e.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Sketch map of Wheal Betsy Mine, redrawn from the British Mining Journal&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;141&#34;
-		data-flex-basis=&#34;339px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/RedrawnWhealBetsy-II.jpg"
+width="1140"
+height="807"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/RedrawnWhealBetsy-II_hu_360146e8b6f6ee6a.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/RedrawnWhealBetsy-II_hu_d408360cc670585e.jpg 1024w"
+loading="lazy"
+alt="Sketch map of Wheal Betsy Mine, redrawn from the British Mining Journal"
+class="gallery-image"
+data-flex-grow="141"
+data-flex-basis="339px"
 &gt;&lt;/p&gt;
 &lt;p&gt;The above map shows the succession of shafts dug to follow the rich vein.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00046.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00046_hu_1193ec897defa79f.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00046_hu_902f97cd0c86625d.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Entrance at the base of the chimney stack&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00046.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00046_hu_1193ec897defa79f.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00046_hu_902f97cd0c86625d.jpg 1024w"
+loading="lazy"
+alt="Entrance at the base of the chimney stack"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00049.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00049_hu_ae2d82748813aa99.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00049_hu_a4219270c100c36a.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;View from the East&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00049.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00049_hu_ae2d82748813aa99.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00049_hu_a4219270c100c36a.jpg 1024w"
+loading="lazy"
+alt="View from the East"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/7.jpg&#34;
-	width=&#34;3264&#34;
-	height=&#34;2448&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/7_hu_48984f0ab477a1fd.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/7_hu_c9e4f637d8f71ad2.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;View from the South&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/7.jpg"
+width="3264"
+height="2448"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/7_hu_48984f0ab477a1fd.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/7_hu_c9e4f637d8f71ad2.jpg 1024w"
+loading="lazy"
+alt="View from the South"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00050.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00050_hu_6972a4e9e7244fc5.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00050_hu_f01b28cd0be3653e.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking down from the end of the ramp that runs from the engine house towards the valley&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00050.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00050_hu_6972a4e9e7244fc5.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00050_hu_f01b28cd0be3653e.jpg 1024w"
+loading="lazy"
+alt="Looking down from the end of the ramp that runs from the engine house towards the valley"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00051.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00051_hu_7de97a07ce731b25.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00051_hu_2c283bd4d23cc3c5.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking up the valley at the spoil&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00051.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00051_hu_7de97a07ce731b25.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00051_hu_2c283bd4d23cc3c5.jpg 1024w"
+loading="lazy"
+alt="Looking up the valley at the spoil"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;The bare rock evidences high levels of arsenic and other mineral contaminants, a common result of mining on Dartmoor.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00052.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00052_hu_31e156c8296c62c7.jpg 480w, http://localhost:1313/p/wheal-jewell-and-wheal-betsy/DSC00052_hu_403b3c5cbd9467f4.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Annie Pinkham’s Men&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00052.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00052_hu_31e156c8296c62c7.jpg 480w, https://dartmoorwalking.org/p/wheal-jewell-and-wheal-betsy/DSC00052_hu_403b3c5cbd9467f4.jpg 1024w"
+loading="lazy"
+alt="Annie Pinkham’s Men"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;Annie Pinkham&amp;rsquo;s Men is the local name for a line of fifty stones by the A386. They were placed in the 19th century to help prevent horse drawn traffic from slipping into the Cholwell Valley. Their unusual name is explained with three possibilities;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;What is clear from all three tales is that it is known that Annie lived in Peter Tavy and worked in Lydford. The first tale suggests that she was ‘very friendly who sought and liked the company of men’. Each stone was said to represent one of her ‘boyfriends’ which she would pass on her way to work. The second version of the tale is quite similar and states that Annie on her days off would walk home from Lydford to Peter Tavy passing her ‘men’, with whom she would often jokingly said waved or spoke to her as she passed by. A third tale is a little more sinister, with Annie walking home one dark night. When she looked around she saw a gang of men following her. The tale continues that fearing the worst Annie began to run. However, every time she looked back the gang of men were still there. She found refuge at a nearby house (presumably near or in Mary Tavy). Annie related her story to the occupants of the house. On investigation there was no sign of any sinister gang of me, just the line of upright stones alongside the road. Apparently from that day the stones were called ‘Annie Pinkham’s Men’.&lt;/em&gt; &lt;cite&gt; &amp;ndash; &lt;a class=&#34;link&#34; href=&#34;https://dartmoorexplorations.co.uk/annie-pinkhams-men/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dartmoor Explorations - Annie Pinkham&amp;rsquo;s Men&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://www.legendarydartmoor.co.uk/2016/03/29/annie_pinkham/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Legendary Dartmoor&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What is clear from all three tales is that it is known that Annie lived in Peter Tavy and worked in Lydford. The first tale suggests that she was ‘very friendly who sought and liked the company of men’. Each stone was said to represent one of her ‘boyfriends’ which she would pass on her way to work. The second version of the tale is quite similar and states that Annie on her days off would walk home from Lydford to Peter Tavy passing her ‘men’, with whom she would often jokingly said waved or spoke to her as she passed by. A third tale is a little more sinister, with Annie walking home one dark night. When she looked around she saw a gang of men following her. The tale continues that fearing the worst Annie began to run. However, every time she looked back the gang of men were still there. She found refuge at a nearby house (presumably near or in Mary Tavy). Annie related her story to the occupants of the house. On investigation there was no sign of any sinister gang of me, just the line of upright stones alongside the road. Apparently from that day the stones were called ‘Annie Pinkham’s Men’.&lt;/em&gt; &lt;cite&gt; &amp;ndash; &lt;a class="link" href="https://dartmoorexplorations.co.uk/annie-pinkhams-men/" target="_blank" rel="noopener"
+&gt;Dartmoor Explorations - Annie Pinkham&amp;rsquo;s Men&lt;/a&gt; and &lt;a class="link" href="https://www.legendarydartmoor.co.uk/2016/03/29/annie_pinkham/" target="_blank" rel="noopener"
+&gt;Legendary Dartmoor&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;![A view along the line of the 6-inch pipeline which once contained 90 psi of compressed air(DSC00056.jpg)&lt;/p&gt;
-&lt;div class=&#34;routing-box&#34;&gt;
-  &lt;div class=&#34;routing-header&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/icons/signpost.svg&#34;
-       alt=&#34;&#34;
-       class=&#34;routing-icon&#34;&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;routing-content&#34;&gt;
-    &lt;em&gt;Leaving the impressive Engine House, follow the track due South into Cholwell Valley. Cross the road bridge and then up the track directly opposite. This leads across a field and then back onto the open moor. Strike out NorthEast until you join the hedge on your right, then back to the drift lane we started through.&lt;/em&gt;
-  &lt;/div&gt;
+&lt;div class="routing-box"&gt;
+&lt;div class="routing-header"&gt;
+&lt;img src="https://dartmoorwalking.org/icons/signpost.svg"
+alt=""
+class="routing-icon"&gt;
 &lt;/div&gt;
-&lt;h2 id=&#34;parking&#34;&gt;Parking
+&lt;div class="routing-content"&gt;
+&lt;em&gt;Leaving the impressive Engine House, follow the track due South into Cholwell Valley. Cross the road bridge and then up the track directly opposite. This leads across a field and then back onto the open moor. Strike out NorthEast until you join the hedge on your right, then back to the drift lane we started through.&lt;/em&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id="parking"&gt;Parking
 &lt;/h2&gt;&lt;p&gt;There is a small, free off-road parking area at the starting coordinates, off the road between Mary Tavy and Horndon opposite the cottage at Zoar. There is also a single parking bay on the A386 next to Wheal Betsy, and some others along that road to the North, but the above is better.&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References
-&lt;/h2&gt;
-
-
-
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-
-
-
-
-</description>
-        </item>
-        
-    </channel>
-</rss>
+&lt;h2 id="references"&gt;References
+&lt;/h2&gt;</description></item></channel></rss>
