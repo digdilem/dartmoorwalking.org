@@ -47,13 +47,17 @@ date: '2024-12-11'
 
 {{% routemap %}}
 
-## Lowery Cross
+## Yennadon Cross / Lowery Cross
 
-Although not directly on our walk, if you came from the main road which is 300 meters to the Northeast of the suggested parking, then you likely drove past Lowery Cross and it's worthy of mention.
+Although not directly on our walk, if you came from the main road which is 300 meters to the Northeast of the suggested parking, then you likely drove past Lowery Cross and it's worthy of mention. It's known both as Yennadon Cross and also as Lowery Cross
 
 ![The back face of Lowery Cross facing the road. You can see a faint incised cross on the main shaft, starting to get swallowed by the moss](1.jpg)
 
 ![The front face of the same cross](2.jpg)
+
+William Crossing found this cross built into one of the walls of Burnham Farm nearby in the early 1900s. Later, in the 1970s, it was rediscovered by the farmer of Peek Hill farm close by who contacted DNPA. They duly collected it and erected it here in 1972, using a base stone from Foggintor Quarry. The exact location of its original site is unknown. There are four incised crosses in total, although some much weathered, one in each face.
+
+- Paul Rendall, Dartmoor News #206.
 
 ![The 1823 tithe map showing the crossroads which then included a horse-drawn tramway running diagonally North-South across the modern day crossroads](3.jpg)
 
