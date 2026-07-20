@@ -114,6 +114,8 @@ This top face is inscribed `1948 Commander C. H. Davey R.N. 1919 - 1940` and `Ca
 
 Between the words "Carew" and "Coryton" is inscribed `MI Douglas Pennant`. There appears to be illegible lettering at the bottom of the face, just above the straight edge.
 
+In 2026, a new name was added to the stone - "D.Mills 1953-91"
+
 It's first mentioned in the 1895 book "Stones of Dartmoor", but has obviously been added to since that date. It was relocated a short distance in 1954 to protect it from damage from vehicles accessing the water works, work costing £23 and paid for by Dartmoor National Park which had only been formed three years prior.
 
 - [Legendary Dartmoor - Hunter's Stone](https://www.legendarydartmoor.co.uk/2016/03/30/hunt_stone/)
