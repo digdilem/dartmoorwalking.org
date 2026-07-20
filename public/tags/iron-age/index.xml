@@ -1,92 +1,519 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Iron-Age on Dartmoor Walking</title>
-        <link>http://localhost:1313/tags/iron-age/</link>
-        <description>Recent content in Iron-Age on Dartmoor Walking</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <copyright>Simon Avery</copyright>
-        <lastBuildDate>Sun, 19 Jul 2026 20:00:50 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/iron-age/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Batworthy and Chagford Common</title>
-        <link>http://localhost:1313/p/batworthy-and-chagford-common/</link>
-        <pubDate>Sun, 19 Jul 2026 20:00:50 +0100</pubDate>
-        
-        <guid>http://localhost:1313/p/batworthy-and-chagford-common/</guid>
-        <description>&lt;img src="http://localhost:1313/p/batworthy-and-chagford-common/map.jpg" alt="Featured image of post Batworthy and Chagford Common" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Iron-Age on Dartmoor Walking</title><link>https://dartmoorwalking.org/tags/iron-age/</link><description>Recent content in Iron-Age on Dartmoor Walking</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Simon Avery</copyright><lastBuildDate>Sun, 19 Jul 2026 20:00:50 +0100</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/iron-age/index.xml" rel="self" type="application/rss+xml"/><item><title>Batworthy and Chagford Common</title><link>https://dartmoorwalking.org/p/batworthy-and-chagford-common/</link><pubDate>Sun, 19 Jul 2026 20:00:50 +0100</pubDate><guid>https://dartmoorwalking.org/p/batworthy-and-chagford-common/</guid><description>&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/27.jpg" alt="Featured image of post Batworthy and Chagford Common" /&gt;&lt;h2 id="information"&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;
 3 miles&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; Grade: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/tags/gentle/&#34;&gt;Gentle&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/gpx/batworthy-and-chagford-common.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.66321%2c-3.89451&#34; target=&#34;_blank&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
-    &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
-    &lt;path d=&#34;M12 21v-4&#34; /&gt;
-    &lt;path d=&#34;M12 13v-4&#34; /&gt;
-    &lt;path d=&#34;M12 5v-2&#34; /&gt;
-    &lt;path d=&#34;M10 21h4&#34; /&gt;
-    &lt;path d=&#34;M8 5v4h11l2 -2l-2 -2z&#34; /&gt;
-    &lt;path d=&#34;M14 13v4h-8l-2 -2l2 -2z&#34; /&gt;
-  &lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&#34;https://w3w.co/beep.ruler.finest&#34; target=&#34;_blank&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;beep.ruler.finest&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt; Grade: &lt;b&gt;&lt;a href="https://dartmoorwalking.org/tags/gentle/"&gt;Gentle&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href="https://dartmoorwalking.org/gpx/batworthy-and-chagford-common.gpx"&gt;Download GPX &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download"&gt;&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/&gt;&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" /&gt;&lt;path d="M7 11l5 5l5 -5" /&gt;&lt;path d="M12 4l0 12" /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="https://www.google.com/maps/dir/?api=1&amp;destination=50.66321%2c-3.89451" target="_blank"&gt;Directions to Car Park &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-directions"&gt;
+&lt;path stroke="none" d="M0 0h24v24H0z" fill="none" /&gt;
+&lt;path d="M12 21v-4" /&gt;
+&lt;path d="M12 13v-4" /&gt;
+&lt;path d="M12 5v-2" /&gt;
+&lt;path d="M10 21h4" /&gt;
+&lt;path d="M8 5v4h11l2 -2l-2 -2z" /&gt;
+&lt;path d="M14 13v4h-8l-2 -2l2 -2z" /&gt;
+&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="https://w3w.co/beep.ruler.finest" target="_blank"&gt;What Three Words&lt;/a&gt; &lt;code&gt;beep.ruler.finest&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/batworthy-and-chagford-common/map.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;746&#34;
-	srcset=&#34;http://localhost:1313/p/batworthy-and-chagford-common/map_hu_77dba7aa263ee795.jpg 480w, http://localhost:1313/p/batworthy-and-chagford-common/map_hu_a23d428c383aa926.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;134&#34;
-		data-flex-basis=&#34;321px&#34;
-	
+&lt;h2 id="map"&gt;Map
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/map.jpg"
+width="1000"
+height="746"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/map_hu_77dba7aa263ee795.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/map_hu_a23d428c383aa926.jpg 1024w"
+loading="lazy"
+alt="Map of Route - Crown Copyright - Ordnance Survey Licence number 100047373"
+class="gallery-image"
+data-flex-grow="134"
+data-flex-basis="321px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction
-&lt;/h2&gt;&lt;p&gt;The area around Batworthy is unusually rich in ancient history, even for Dartmoor. Even though this walk is relatively short, and has only gentle inclines, we&amp;rsquo;ll encounter a lot of bronze age remains, starting with one of the best and largest hut circles on the moor. There&amp;rsquo;s also two tors included, one of which has some very well formed rock basins.&lt;/p&gt;
-&lt;p&gt;We include some driving directions, although a Satnav will generally find the way.&lt;/p&gt;
-&lt;div class=&#34;routing-box&#34;&gt;
-  &lt;div class=&#34;routing-header&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/icons/signpost.svg&#34;
-       alt=&#34;&#34;
-       class=&#34;routing-icon&#34;&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;routing-content&#34;&gt;
-    &lt;em&gt;When you&amp;rsquo;re ready to leave, walk back along the approach road for 350m until you encounter the large hutcircle on the left&lt;/em&gt;
-  &lt;/div&gt;
+&lt;h2 id="introduction"&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;The area around Batworthy, covering both Shovel Down and Chagford Common, is unusually rich in ancient history, even for Dartmoor. Even though this walk is relatively short, and has only gentle inclines, we&amp;rsquo;ll encounter a lot of bronze age remains, starting with one of the best and largest hut circles on the moor. There&amp;rsquo;s also two tors included, one of which has some very well formed rock basins.&lt;/p&gt;
+&lt;p&gt;Road access is quite narrow and so we include some driving directions at the end, although a Satnav will generally find the way.&lt;/p&gt;
+&lt;div class="routing-box"&gt;
+&lt;div class="routing-header"&gt;
+&lt;img src="https://dartmoorwalking.org/icons/signpost.svg"
+alt=""
+class="routing-icon"&gt;
 &lt;/div&gt;
-&lt;h2 id=&#34;round-pound&#34;&gt;Round Pound
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/batworthy-and-chagford-common/1.jpg&#34;
-	width=&#34;1909&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/batworthy-and-chagford-common/1_hu_4c8b383627060c6d.jpg 480w, http://localhost:1313/p/batworthy-and-chagford-common/1_hu_fe3e686a4c7973f7.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Round Pound&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;254&#34;
-		data-flex-basis=&#34;610px&#34;
-	
+&lt;div class="routing-content"&gt;
+&lt;em&gt;When you&amp;rsquo;re ready to leave, walk back along the approach road for 350m until you encounter the large hutcircle on the left&lt;/em&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id="round-pound"&gt;Round Pound
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/1.jpg"
+width="1909"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/1_hu_4c8b383627060c6d.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/1_hu_fe3e686a4c7973f7.jpg 1024w"
+loading="lazy"
+alt="Round Pound"
+class="gallery-image"
+data-flex-grow="254"
+data-flex-basis="610px"
 &gt;&lt;/p&gt;
 &lt;p&gt;Round Pound enclosure and hut circles at SX 6638 8684.&lt;/p&gt;
-&lt;p&gt;The pound contains a central hut that was excavated in 1951 and 1952 by Lady Fox who found Iron Age artefacts, as well as a Bronze Age flint arrowhead. The pound is described J. Butler (1991), Dartmoor Atlas of Antiquities  II, 36.1 Kes Tor settlement, pages 170-176.&lt;/p&gt;
+&lt;p&gt;The outer stone walls, which are up to 4 metres wide and 2 metres high, are made from unusually large rocks and were used to enclose cattle at night to protect them from predators.&lt;/p&gt;
+&lt;p&gt;Inside the circle, which occupies 0.7 hectares, was a large central hut and another smaller hut. There are also several lower walls radiating out to form separate enclosures within the pound which were likely added during a much later medieval occupation&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s thought to have been first built in the early Iron Age, around 400 BC and iron smelting equipment was discovered during an archaeological dig in the 1950s. A Bronze Age arrowhead has also been found at this location, and much of the surrounding remains date from that earlier period.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV6117&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;HER Devon &amp;amp; Dartmoor NDV6117 - Roundy Pound, Gidleigh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV6117&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;HER Devon &amp;amp; Dartmoor NDV6117 - Round Pound on Kes Tor, Gidleigh&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;from-warren-house-inn-towards-moretonhampstead&#34;&gt;From Warren House Inn (towards Moretonhampstead)
-&lt;/h3&gt;&lt;ol&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/2.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/2_hu_4793bd140db5a2a9.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/2_hu_fd409ac5235a5b3b.jpg 1024w"
+loading="lazy"
+alt="Part of Round Pound enclosure wall"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/3.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/3_hu_e12535f306a28bc4.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/3_hu_fb73813c5e59c625.jpg 1024w"
+loading="lazy"
+alt="Enclosure wall again with a hut circle towards the top-left"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;div class="routing-box"&gt;
+&lt;div class="routing-header"&gt;
+&lt;img src="https://dartmoorwalking.org/icons/signpost.svg"
+alt=""
+class="routing-icon"&gt;
+&lt;/div&gt;
+&lt;div class="routing-content"&gt;
+&lt;em&gt;Leaving Round Pound, cross the road and head North-East 100m a substantial hut circle&lt;/em&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id="substantial-hut-circle"&gt;Substantial Hut Circle
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/4.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/4_hu_d4a02082f66c4c79.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/4_hu_81c3c2c6185d9e9e.jpg 1024w"
+loading="lazy"
+alt="A substantial hut circle on the slope above (and north-west) of Round Pound"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/5.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/5_hu_ddaeec774e4bcdcf.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/5_hu_7dab14d529f724ac.jpg 1024w"
+loading="lazy"
+alt="Zoomed view to the settlement at Batworthy from the circle"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/6.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/6_hu_a3cdcc619a3c420f.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/6_hu_993f91b6f4958669.jpg 1024w"
+loading="lazy"
+alt="Zoomed view to Kes Tor, SX 665 862, elevation 445 metres (1460 feet)"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;div class="routing-box"&gt;
+&lt;div class="routing-header"&gt;
+&lt;img src="https://dartmoorwalking.org/icons/signpost.svg"
+alt=""
+class="routing-icon"&gt;
+&lt;/div&gt;
+&lt;div class="routing-content"&gt;
+&lt;em&gt;Leaving this hut circle, now head South-East to Little Kes Tor&lt;/em&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id="little-kes-tor"&gt;Little Kes Tor
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/7.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/7_hu_644a4804091cc40e.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/7_hu_11fbe0aae3afa5d.jpg 1024w"
+loading="lazy"
+alt="Little Kes Tor, approx. SX 6666 8679"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/8.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/8_hu_f7df3b115c3842e8.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/8_hu_5c4afd761f8bc52a.jpg 1024w"
+loading="lazy"
+alt="Another substantial hut circle close to Little Kes Tor. SX 66662 86796"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/9.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/9_hu_2d274a651f475345.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/9_hu_1f6e5fede827d9c1.jpg 1024w"
+loading="lazy"
+alt="An apparent recess in the thick wall, or maybe some large stones have disappeared from this point?"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/10.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/10_hu_18638eff1bc96793.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/10_hu_21618b2d6a83cab9.jpg 1024w"
+loading="lazy"
+alt="Zoomed view to Castle Drogo, 6.6. km (4.1 miles) distant"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;div class="routing-box"&gt;
+&lt;div class="routing-header"&gt;
+&lt;img src="https://dartmoorwalking.org/icons/signpost.svg"
+alt=""
+class="routing-icon"&gt;
+&lt;/div&gt;
+&lt;div class="routing-content"&gt;
+&lt;em&gt;Leaving Little Kes Tor, head generally Southward alongside the imposing Kes Tor&lt;/em&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id="modern-stone-circle"&gt;Modern Stone Circle
+&lt;/h2&gt;&lt;p&gt;An interesting oddity may be seen in the field to the East of our path. This is thought to be a stone circle built by British comedians Adrian Edmondson and Jennifer Saunders on their land.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/12.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/12_hu_6a9cf510c31b4a63.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/12_hu_5d8c15a8691615d4.jpg 1024w"
+loading="lazy"
+alt="Modern stone circle"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/13.jpg"
+width="519"
+height="363"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/13_hu_7113afa08e580592.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/13_hu_ec11264bddf68b91.jpg 1024w"
+loading="lazy"
+alt="Aerial view of modern stone circle"
+class="gallery-image"
+data-flex-grow="142"
+data-flex-basis="343px"
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.megalithic.co.uk/modules.php?op=modload&amp;amp;name=Forum&amp;amp;file=viewtopic&amp;amp;topic=4438&amp;amp;forum=1&amp;amp;start=0" target="_blank" rel="noopener"
+&gt;Discussion of Comedians&amp;rsquo; Stone Circle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="kes-tor-and-basins"&gt;Kes Tor and Basins
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/11.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/11_hu_e79862eb667e883e.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/11_hu_50cf1c8926e8f55d.jpg 1024w"
+loading="lazy"
+alt="Approaching Kes Tor"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/14.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/14_hu_44a987bf402a2c35.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/14_hu_f87d44c3c7e3d1f.jpg 1024w"
+loading="lazy"
+alt="Rock Basins on top of Kes Tor"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/15.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/15_hu_61e7a66f8115ce62.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/15_hu_73a11da29d1cd04c.jpg 1024w"
+loading="lazy"
+alt="Half a walking pole deep!"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/16.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/16_hu_92a569f416682480.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/16_hu_df4ea71cbb9e66c5.jpg 1024w"
+loading="lazy"
+alt="Another eroded rock basin"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/17.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/17_hu_9829b89312f97a7.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/17_hu_37457ddcd7371fc5.jpg 1024w"
+loading="lazy"
+alt="“Centre” - another basin that has half-eroded away"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;div class="routing-box"&gt;
+&lt;div class="routing-header"&gt;
+&lt;img src="https://dartmoorwalking.org/icons/signpost.svg"
+alt=""
+class="routing-icon"&gt;
+&lt;/div&gt;
+&lt;div class="routing-content"&gt;
+&lt;em&gt;When done exploring the basins, climb down the tor and head South East to Middle Tor some 600m away&lt;/em&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id="middle-tor"&gt;Middle Tor
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/18.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/18_hu_b3e96a29f3691936.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/18_hu_2d729c32b9f7b32.jpg 1024w"
+loading="lazy"
+alt="Middle Tor, at SX 6689 8584"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/19.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/19_hu_95eba7961cde9f1d.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/19_hu_b99ce1a6aa4b519d.jpg 1024w"
+loading="lazy"
+alt="Another rock basin atop Middle Tor"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/20.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/20_hu_22464f96dc35787.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/20_hu_5a5cf95100770ca6.jpg 1024w"
+loading="lazy"
+alt="Looking back to Kes Tor from Middle Tor"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;div class="routing-box"&gt;
+&lt;div class="routing-header"&gt;
+&lt;img src="https://dartmoorwalking.org/icons/signpost.svg"
+alt=""
+class="routing-icon"&gt;
+&lt;/div&gt;
+&lt;div class="routing-content"&gt;
+&lt;em&gt;Leaving Middle Tor, we head due West for almost a kilometer and the imposing Long Stone Menhir. Watch your footing, some sections along here can be a little damp.&lt;/em&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/21.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/21_hu_63cb69675eef1a08.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/21_hu_2243dded9cb435c2.jpg 1024w"
+loading="lazy"
+alt="Looking back at Middle Tor"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/23.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/23_hu_7f62501d27f25dce.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/23_hu_bd9f53f53ba6e301.jpg 1024w"
+loading="lazy"
+alt="Looking South at Thornworthy Tor at SX 664 851. Elevation 424 metres (1391 feet)"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;h2 id="long-stone-menhir"&gt;Long Stone Menhir
+&lt;/h2&gt;&lt;p&gt;This impressive menhir is known as &amp;ldquo;Longstone&amp;rdquo; or &amp;ldquo;Long Stone&amp;rdquo; and stands three meters high. It&amp;rsquo;s linked to several nearby stone rows to the North. There is another smaller menhir a short way sound named Three Boys, but this has fallen. It&amp;rsquo;s so named as original there were three such menhirs but its brothers are believed to have &amp;ldquo;been taken for use as gateposts&amp;rdquo;. Like most of the remains of this walk, this is dated from the Bronze Age, around three to four thousand years ago. The boundary stone carvings imposed upon it are much more recent.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/22.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/22_hu_40fad0f1deccc4dc.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/22_hu_af07df3d29dbcf76.jpg 1024w"
+loading="lazy"
+alt="First sight of the The Long Stone"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/24.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/24_hu_40fa24632460003f.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/24_hu_cff70e7f68265ffa.jpg 1024w"
+loading="lazy"
+alt="The Long Stone"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/25.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/25_hu_5c5f06e43a9cbbab.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/25_hu_ffb15b59c873eaa7.jpg 1024w"
+loading="lazy"
+alt="The stone bears three land markers, here GP = Gidleigh Parish and DC = Duchy of Cornwall."
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/26.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/26_hu_f5b7d59cca868a2a.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/26_hu_31cf6df9c3c01365.jpg 1024w"
+loading="lazy"
+alt="DC - Duchy of Cornwall"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/27.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/27_hu_b509b3aaea7eee14.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/27_hu_ec824c28ee7433c7.jpg 1024w"
+loading="lazy"
+alt="GP - Gidleigh Parish"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/28.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/28_hu_d53eaa64cc52c6e8.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/28_hu_38777ad7a7af637a.jpg 1024w"
+loading="lazy"
+alt="C = Chagford"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV6149&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;Heritage Gateway MDV6149: Longstone on Shovel Down&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.megalithic.co.uk/article.php?sid=10378" target="_blank" rel="noopener"
+&gt;The Megalithic Portal - The Longstone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.megalithic.co.uk/article.php?sid=10369" target="_blank" rel="noopener"
+&gt;The Megalithic Portal - Three Boys&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="routing-box"&gt;
+&lt;div class="routing-header"&gt;
+&lt;img src="https://dartmoorwalking.org/icons/signpost.svg"
+alt=""
+class="routing-icon"&gt;
+&lt;/div&gt;
+&lt;div class="routing-content"&gt;
+&lt;em&gt;Saying goodbye to the Long Stone, walk directly North towards the point of the woodland some 500m away&lt;/em&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id="double-stone-rows-fallen-menhir"&gt;Double Stone Rows, Fallen Menhir
+&lt;/h2&gt;&lt;p&gt;Shortly after leaving The Long Stone you will encounter a double stone row quickly followed by other ceremonial stones, including the &amp;ldquo;fourfold stone circle&amp;rdquo; or &amp;ldquo;concentric cairn&amp;rdquo; comprised of four stone circles within each other.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/29.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/29_hu_d0729ab10b6940ed.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/29_hu_fbfdcc8b88ff032f.jpg 1024w"
+loading="lazy"
+alt="Walking north from The Longstone, along a double stone row, most of which is hard to see"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/30.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/30_hu_f166a6ed5fbd9388.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/30_hu_f922e1dfdfeee7a5.jpg 1024w"
+loading="lazy"
+alt="Here, the double row is more obvious"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/31.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/31_hu_8dab0433d5706064.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/31_hu_f5f4e67cd65f54.jpg 1024w"
+loading="lazy"
+alt="Fourfold stone circle, and fallen menhir at approximately SX 6594 8602"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/32.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/32_hu_e1c1e8e60372e8f8.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/32_hu_751e8c9972fe398.jpg 1024w"
+loading="lazy"
+alt="The fallen menhir bears a GP mark"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/33.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/33_hu_774bea525fc37ce1.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/33_hu_e78f3d80936021f9.jpg 1024w"
+loading="lazy"
+alt="The second double stone row, leading back towards Batworthy Corner"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/34.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/34_hu_5b9b1c2d52ff7cfd.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/34_hu_6314eb0f7e6e24d8.jpg 1024w"
+loading="lazy"
+alt="Looking back at the fallen menhir and fourfold circle"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/shovel_down_plan.png"
+width="298"
+height="577"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/shovel_down_plan_hu_1c6cd07c55047e1.png 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/shovel_down_plan_hu_cadafd7b40b12eb1.png 1024w"
+loading="lazy"
+alt="Plan of stone rows. Source: Stone Circles"
+class="gallery-image"
+data-flex-grow="51"
+data-flex-basis="123px"
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="http://www.stone-circles.org.uk/stone/shoveldown.htm" target="_blank" rel="noopener"
+&gt;Stone Circles - Shoveldown&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="cist"&gt;Cist
+&lt;/h2&gt;&lt;p&gt;As we approach the woodland, there is a cist at SX 66134 86426&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/batworthy-and-chagford-common/35.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/batworthy-and-chagford-common/35_hu_b92dd1216304e0ba.jpg 480w, https://dartmoorwalking.org/p/batworthy-and-chagford-common/35_hu_87992d56d3597065.jpg 1024w"
+loading="lazy"
+alt="Cist"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;div class="routing-box"&gt;
+&lt;div class="routing-header"&gt;
+&lt;img src="https://dartmoorwalking.org/icons/signpost.svg"
+alt=""
+class="routing-icon"&gt;
+&lt;/div&gt;
+&lt;div class="routing-content"&gt;
+&lt;em&gt;Turn right in front of the woods to return to the parking by the entrance to Batworthy&lt;/em&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;We hope you enjoyed your walk around Shoveldown and Chagford Common.&lt;/p&gt;
+&lt;h2 id="road-directions-from-warren-house-inn-towards-moretonhampstead"&gt;Road Directions from Warren House Inn (towards Moretonhampstead)
+&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;Take 1st road on LEFT – route to Fernworthy&lt;/li&gt;
 &lt;li&gt;Pass Jurston Farm&lt;/li&gt;
 &lt;li&gt;Yellands Crossroads – TURN LEFT&lt;/li&gt;
 &lt;li&gt;Pass left turn to Lower Corndon&lt;/li&gt;
-&lt;li&gt;Pass right turn &amp;hellip;..&lt;/li&gt;
-&lt;li&gt;Take HAIRPIN LEFT to Fernworthy - use the layby to turn the car!&lt;/li&gt;
+&lt;li&gt;Pass right turn and then ttake HAIRPIN LEFT to Fernworthy - use the layby to turn the car!&lt;/li&gt;
 &lt;li&gt;Pass a left turn to Higher Corndon&lt;/li&gt;
 &lt;li&gt;Take RIGHT turn and pass Collihole Farm, Hole Farm and Cullaton to T-junction, turn LEFT to THORN&lt;/li&gt;
 &lt;li&gt;Pass THORN and go to YEO FARM&lt;/li&gt;
@@ -94,191 +521,7 @@
 &lt;li&gt;Drive through Teigncombe to the end of the road&lt;/li&gt;
 &lt;li&gt;The end-of-the-road car park is marked with the yellow cross.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;parking&#34;&gt;Parking
+&lt;h2 id="parking"&gt;Parking
 &lt;/h2&gt;&lt;p&gt;There is a small parking area at the given coordinates. The approach roads to Batworthy are quite long and narrow, although rarely busy.&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References
-&lt;/h2&gt;
-
-
-
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-
-
-
-
-</description>
-        </item>
-        
-    </channel>
-</rss>
+&lt;h2 id="references"&gt;References
+&lt;/h2&gt;</description></item></channel></rss>

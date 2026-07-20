@@ -1,297 +1,230 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Strenuous on Dartmoor Walking</title>
-        <link>http://localhost:1313/tags/strenuous/</link>
-        <description>Recent content in Strenuous on Dartmoor Walking</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <copyright>Simon Avery</copyright>
-        <lastBuildDate>Mon, 30 Mar 2026 20:17:04 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/strenuous/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Shaptor Woods</title>
-        <link>http://localhost:1313/p/shaptor-woods/</link>
-        <pubDate>Mon, 30 Mar 2026 20:17:04 +0100</pubDate>
-        
-        <guid>http://localhost:1313/p/shaptor-woods/</guid>
-        <description>&lt;img src="http://localhost:1313/p/shaptor-woods/15.jpg" alt="Featured image of post Shaptor Woods" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Strenuous on Dartmoor Walking</title><link>https://dartmoorwalking.org/tags/strenuous/</link><description>Recent content in Strenuous on Dartmoor Walking</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Simon Avery</copyright><lastBuildDate>Mon, 30 Mar 2026 20:17:04 +0100</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/strenuous/index.xml" rel="self" type="application/rss+xml"/><item><title>Shaptor Woods</title><link>https://dartmoorwalking.org/p/shaptor-woods/</link><pubDate>Mon, 30 Mar 2026 20:17:04 +0100</pubDate><guid>https://dartmoorwalking.org/p/shaptor-woods/</guid><description>&lt;img src="https://dartmoorwalking.org/p/shaptor-woods/15.jpg" alt="Featured image of post Shaptor Woods" /&gt;&lt;h2 id="information"&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;
 3 miles&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; Grade: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/tags/strenuous/&#34;&gt;Strenuous&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/gpx/shaptor-woods.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.6051%2c-3.66986&#34; target=&#34;_blank&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
-    &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
-    &lt;path d=&#34;M12 21v-4&#34; /&gt;
-    &lt;path d=&#34;M12 13v-4&#34; /&gt;
-    &lt;path d=&#34;M12 5v-2&#34; /&gt;
-    &lt;path d=&#34;M10 21h4&#34; /&gt;
-    &lt;path d=&#34;M8 5v4h11l2 -2l-2 -2z&#34; /&gt;
-    &lt;path d=&#34;M14 13v4h-8l-2 -2l2 -2z&#34; /&gt;
-  &lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&#34;https://w3w.co/blanking.eyelid.pads&#34; target=&#34;_blank&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;blanking.eyelid.pads&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt; Grade: &lt;b&gt;&lt;a href="https://dartmoorwalking.org/tags/strenuous/"&gt;Strenuous&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href="https://dartmoorwalking.org/gpx/shaptor-woods.gpx"&gt;Download GPX &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download"&gt;&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/&gt;&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" /&gt;&lt;path d="M7 11l5 5l5 -5" /&gt;&lt;path d="M12 4l0 12" /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="https://www.google.com/maps/dir/?api=1&amp;destination=50.6051%2c-3.66986" target="_blank"&gt;Directions to Car Park &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-directions"&gt;
+&lt;path stroke="none" d="M0 0h24v24H0z" fill="none" /&gt;
+&lt;path d="M12 21v-4" /&gt;
+&lt;path d="M12 13v-4" /&gt;
+&lt;path d="M12 5v-2" /&gt;
+&lt;path d="M10 21h4" /&gt;
+&lt;path d="M8 5v4h11l2 -2l-2 -2z" /&gt;
+&lt;path d="M14 13v4h-8l-2 -2l2 -2z" /&gt;
+&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="https://w3w.co/blanking.eyelid.pads" target="_blank"&gt;What Three Words&lt;/a&gt; &lt;code&gt;blanking.eyelid.pads&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/shaptor-woods/map.jpg&#34;
-	width=&#34;1300&#34;
-	height=&#34;1086&#34;
-	srcset=&#34;http://localhost:1313/p/shaptor-woods/map_hu_236817f6e4dfb286.jpg 480w, http://localhost:1313/p/shaptor-woods/map_hu_89512a437653bf7b.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;119&#34;
-		data-flex-basis=&#34;287px&#34;
-	
+&lt;h2 id="map"&gt;Map
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/shaptor-woods/map.jpg"
+width="1300"
+height="1086"
+srcset="https://dartmoorwalking.org/p/shaptor-woods/map_hu_236817f6e4dfb286.jpg 480w, https://dartmoorwalking.org/p/shaptor-woods/map_hu_89512a437653bf7b.jpg 1024w"
+loading="lazy"
+alt="Map of Route - Crown Copyright - Ordnance Survey Licence number 100047373"
+class="gallery-image"
+data-flex-grow="119"
+data-flex-basis="287px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction
-&lt;/h2&gt;&lt;p&gt;This is a pleasant walk along very quiet and seldom walked footpaths through ancient woodlands and back over farmland and a quiet country lane. There are some up and down stretches, although none are very long and generally the woodland path largely follows the gradient. For me, this is a lovely walk in the autumn especially as the colours of the trees change. It&amp;rsquo;s also relatively sheltered from extreme weather for much of its distance and one that can be enjoyed year-round. As a Tolkien reader, parts of this walk always remind me somewhat of Mirkwood, only without the spiders! This is not a walk full of stunning panoramic views unless you make a short detour and climb &lt;a class=&#34;link&#34; href=&#34;#shaptor-rock&#34; &gt;Shaptor Rock&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;There are some remains of mines and equipment through the woods, including shafts and adits, historic drystone walls, and some minor tors buried in the woods. There&amp;rsquo;s a duck pond and some ancient farm paths to be walked on the return. There is plenty of wildlife if you&amp;rsquo;re quiet, with all kinds of woodland birds, squirrels, fox and deer to be seen.  The path can be muddy in places and sensible footwear is a must. Sometimes the footpaths through the farmyard can get overgrown in the summer and, having experienced a very thorny walk in shorts, I would also recommend stout trousers!&lt;/p&gt;
+&lt;h2 id="introduction"&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;This is a pleasant walk along very quiet and seldom walked footpaths through ancient woodlands and back over farmland and a quiet country lane. There are some up and down stretches, although none are very long and generally the woodland path largely follows the gradient. For me, this is a lovely walk in the autumn especially as the colours of the trees change. It&amp;rsquo;s also relatively sheltered from extreme weather for much of its distance and one that can be enjoyed year-round. As a Tolkien reader, parts of this walk always remind me somewhat of Mirkwood, only without the spiders! This is not a walk full of stunning panoramic views unless you make a short detour and climb &lt;a class="link" href="#shaptor-rock" &gt;Shaptor Rock&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There are some remains of mines and equipment through the woods, including shafts and adits, historic drystone walls, and some minor tors buried in the woods. There&amp;rsquo;s a duck pond and some ancient farm paths to be walked on the return. There is plenty of wildlife if you&amp;rsquo;re quiet, with all kinds of woodland birds, squirrels, fox and deer to be seen. The path can be muddy in places and sensible footwear is a must. Sometimes the footpaths through the farmyard can get overgrown in the summer and, having experienced a very thorny walk in shorts, I would also recommend stout trousers!&lt;/p&gt;
 &lt;p&gt;This cannot be called an accessible walk by any stretch of the imagination and reasonable fitness is required as there are a few obstacles along the way - such as steps cut through fallen trees and small wooden bridges but these are seldom and it&amp;rsquo;s not that tricky.&lt;/p&gt;
-&lt;h2 id=&#34;little-johns-walk&#34;&gt;Little John&amp;rsquo;s Walk
-&lt;/h2&gt;&lt;div class=&#34;routing-box&#34;&gt;
-  &lt;div class=&#34;routing-header&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/icons/signpost.svg&#34;
-       alt=&#34;&#34;
-       class=&#34;routing-icon&#34;&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;routing-content&#34;&gt;
-    &lt;em&gt;Leaving the car park, take the wide path downhill marked Little John&amp;rsquo;s Walk for around 350m until you see a gateway onto the path to your right. Go through this gate and follow the path generally northwards&lt;/em&gt;
-  &lt;/div&gt;
+&lt;h2 id="little-johns-walk"&gt;Little John&amp;rsquo;s Walk
+&lt;/h2&gt;&lt;div class="routing-box"&gt;
+&lt;div class="routing-header"&gt;
+&lt;img src="https://dartmoorwalking.org/icons/signpost.svg"
+alt=""
+class="routing-icon"&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/shaptor-woods/6.jpg&#34;
-	width=&#34;3472&#34;
-	height=&#34;4624&#34;
-	srcset=&#34;http://localhost:1313/p/shaptor-woods/6_hu_8285fc53518a0fe0.jpg 480w, http://localhost:1313/p/shaptor-woods/6_hu_f128ba4d1248f438.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Little John’s Walk&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;75&#34;
-		data-flex-basis=&#34;180px&#34;
-	
+&lt;div class="routing-content"&gt;
+&lt;em&gt;Leaving the car park, take the wide path downhill marked Little John&amp;rsquo;s Walk for around 350m until you see a gateway onto the path to your right. Go through this gate and follow the path generally northwards&lt;/em&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/shaptor-woods/6.jpg"
+width="3472"
+height="4624"
+srcset="https://dartmoorwalking.org/p/shaptor-woods/6_hu_8285fc53518a0fe0.jpg 480w, https://dartmoorwalking.org/p/shaptor-woods/6_hu_f128ba4d1248f438.jpg 1024w"
+loading="lazy"
+alt="Little John’s Walk"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
 &gt;&lt;/p&gt;
 &lt;p&gt;The first stretch of this route is legally a byway, so you may be surprised to meet off-road cars and motorbikes using it, but generally it&amp;rsquo;s very quiet and peaceful. The beeches lining the wall are particularly striking in spring and autumn, and deer can often be seen through the trees.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/shaptor-woods/7.jpg&#34;
-	width=&#34;3472&#34;
-	height=&#34;4624&#34;
-	srcset=&#34;http://localhost:1313/p/shaptor-woods/7_hu_d5f96533d3b6e458.jpg 480w, http://localhost:1313/p/shaptor-woods/7_hu_b43f6983c4ad594a.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking back up the hill&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;75&#34;
-		data-flex-basis=&#34;180px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/shaptor-woods/7.jpg"
+width="3472"
+height="4624"
+srcset="https://dartmoorwalking.org/p/shaptor-woods/7_hu_d5f96533d3b6e458.jpg 480w, https://dartmoorwalking.org/p/shaptor-woods/7_hu_b43f6983c4ad594a.jpg 1024w"
+loading="lazy"
+alt="Looking back up the hill"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/shaptor-woods/3.jpg&#34;
-	width=&#34;800&#34;
-	height=&#34;600&#34;
-	srcset=&#34;http://localhost:1313/p/shaptor-woods/3_hu_ac83749421774ab6.jpg 480w, http://localhost:1313/p/shaptor-woods/3_hu_5fd79e45537425f0.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Beware flying men (Possibly now removed)&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/shaptor-woods/3.jpg"
+width="800"
+height="600"
+srcset="https://dartmoorwalking.org/p/shaptor-woods/3_hu_ac83749421774ab6.jpg 480w, https://dartmoorwalking.org/p/shaptor-woods/3_hu_5fd79e45537425f0.jpg 1024w"
+loading="lazy"
+alt="Beware flying men (Possibly now removed)"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;h3 id=&#34;who-was-little-john&#34;&gt;Who was Little John?
+&lt;h3 id="who-was-little-john"&gt;Who was Little John?
 &lt;/h3&gt;&lt;p&gt;This ancient road was named after John Cann, a Royalist during the Civil War in the 1640s during the Seige of Exeter. He was reputed to have stolen a large amount of silver (said to be 35,000 coins) before going on the run. Local word was that he hid in the nearby John Cann Rocks from pursuers. He was eventually tracked down and captured, and after being sentenced in Exeter, was executed for his crime. The silver was never found&amp;hellip;&lt;/p&gt;
-&lt;h2 id=&#34;furzeleigh-plantation-and-bearacleave-wood&#34;&gt;Furzeleigh Plantation and Bearacleave Wood
+&lt;h2 id="furzeleigh-plantation-and-bearacleave-wood"&gt;Furzeleigh Plantation and Bearacleave Wood
 &lt;/h2&gt;&lt;p&gt;As we walk down Little John&amp;rsquo;s Walk, on our left is Furzeleigh Plantation which then turns into Bearacleave Wood, both owned and managed by the National Trust.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/shaptor-woods/1.jpg&#34;
-	width=&#34;2448&#34;
-	height=&#34;3264&#34;
-	srcset=&#34;http://localhost:1313/p/shaptor-woods/1_hu_e933b6e62c5ceb0c.jpg 480w, http://localhost:1313/p/shaptor-woods/1_hu_55ce6521367f4342.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Bearacleave Copse&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;75&#34;
-		data-flex-basis=&#34;180px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/shaptor-woods/1.jpg"
+width="2448"
+height="3264"
+srcset="https://dartmoorwalking.org/p/shaptor-woods/1_hu_e933b6e62c5ceb0c.jpg 480w, https://dartmoorwalking.org/p/shaptor-woods/1_hu_55ce6521367f4342.jpg 1024w"
+loading="lazy"
+alt="Bearacleave Copse"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
 &gt;&lt;/p&gt;
 &lt;p&gt;Although we don&amp;rsquo;t go through either on our walk, it&amp;rsquo;s worth mentioning as we do pass by and you may want to explore it as well. There are some notably impressive Beech trees throughout Bearacleave and on its edges, especially along the nearby road down to Bovey Tracey, which are very colourful in both spring and autumn. The woods contain some small ruins and old walls, with some evidence of mining as there is in Shaptor Woods - and the fairly impressive but largely hidden Bearacleave North Tor, which is sometimes used for Bouldering, as are some of the rocks through Shaptor.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.torsofdartmoor.co.uk/tor-page.php?tor=bearacleave-north-tor&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Tors of Dartmoor - Bearacleave North Tor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.torsofdartmoor.co.uk/tor-page.php?tor=bearacleave-north-tor" target="_blank" rel="noopener"
+&gt;Tors of Dartmoor - Bearacleave North Tor&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;john-canns-rocks&#34;&gt;John Cann&amp;rsquo;s Rocks
+&lt;h2 id="john-canns-rocks"&gt;John Cann&amp;rsquo;s Rocks
 &lt;/h2&gt;&lt;p&gt;Again, although our walk turns off right before we reach them, John Cann&amp;rsquo;s rocks are worth a mention and perhaps a small detour further down the lane to the circled area on the map.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/shaptor-woods/2.jpg&#34;
-	width=&#34;2448&#34;
-	height=&#34;3264&#34;
-	srcset=&#34;http://localhost:1313/p/shaptor-woods/2_hu_7417eaa8c3387305.jpg 480w, http://localhost:1313/p/shaptor-woods/2_hu_e615047771fff91d.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Rocks further down Little John’s Walk&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;75&#34;
-		data-flex-basis=&#34;180px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/shaptor-woods/2.jpg"
+width="2448"
+height="3264"
+srcset="https://dartmoorwalking.org/p/shaptor-woods/2_hu_7417eaa8c3387305.jpg 480w, https://dartmoorwalking.org/p/shaptor-woods/2_hu_e615047771fff91d.jpg 1024w"
+loading="lazy"
+alt="Rocks further down Little John’s Walk"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
 &gt;&lt;/p&gt;
 &lt;p&gt;The rocks are a loose collection of large granite outcrops linked to John Cann above. The land around Bovey Tracey has a rich Civil War history, reflected in many of the street names - especially at Heathfield where there is a memorial on the common ground. There was another memorial to &amp;ldquo;The Forgotten Soldier&amp;rdquo; just west of the town, which was recently moved to make way for more housing.&lt;/p&gt;
-&lt;h2 id=&#34;shaptor-woods&#34;&gt;Shaptor Woods
+&lt;h2 id="shaptor-woods"&gt;Shaptor Woods
 &lt;/h2&gt;&lt;p&gt;Shaptor Woods are ancient upland oak woodlands totalling around 200 acres.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/shaptor-woods/9.jpg&#34;
-	width=&#34;4608&#34;
-	height=&#34;3456&#34;
-	srcset=&#34;http://localhost:1313/p/shaptor-woods/9_hu_761dd5599ea223aa.jpg 480w, http://localhost:1313/p/shaptor-woods/9_hu_b8e023a89103b3d5.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Steep and rocky is the theme here&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/shaptor-woods/9.jpg"
+width="4608"
+height="3456"
+srcset="https://dartmoorwalking.org/p/shaptor-woods/9_hu_761dd5599ea223aa.jpg 480w, https://dartmoorwalking.org/p/shaptor-woods/9_hu_b8e023a89103b3d5.jpg 1024w"
+loading="lazy"
+alt="Steep and rocky is the theme here"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;div class=&#34;routing-box&#34;&gt;
-  &lt;div class=&#34;routing-header&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/icons/signpost.svg&#34;
-       alt=&#34;&#34;
-       class=&#34;routing-icon&#34;&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;routing-content&#34;&gt;
-    &lt;em&gt;After entering the gate off Little John&amp;rsquo;s Walk and entering Woodland Trust&amp;rsquo;s property, we follow the path for a mile or so (1.5 to 2 kilometres). The path is occasionally signed and marked. It can be indistinct at times, but generally follows the gradient with some ups and downs and is not too hard to follow. There are some muddy sections and duck boards are provided over the worst. There are also a few remembrance posts placed by supporters of the Woodland Trust along the way. There are some climbs up and down, wooden duckboards that can be slippery and even steps cut into fallen trees.&lt;/em&gt;
-  &lt;/div&gt;
+&lt;div class="routing-box"&gt;
+&lt;div class="routing-header"&gt;
+&lt;img src="https://dartmoorwalking.org/icons/signpost.svg"
+alt=""
+class="routing-icon"&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/shaptor-woods/4.jpg&#34;
-	width=&#34;2340&#34;
-	height=&#34;4160&#34;
-	srcset=&#34;http://localhost:1313/p/shaptor-woods/4_hu_c372dc35f6695f02.jpg 480w, http://localhost:1313/p/shaptor-woods/4_hu_33f6cffdd77560a1.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;One of many rockfaces in Shaptor Woods&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;56&#34;
-		data-flex-basis=&#34;135px&#34;
-	
+&lt;div class="routing-content"&gt;
+&lt;em&gt;After entering the gate off Little John&amp;rsquo;s Walk and entering Woodland Trust&amp;rsquo;s property, we follow the path for a mile or so (1.5 to 2 kilometres). The path is occasionally signed and marked. It can be indistinct at times, but generally follows the gradient with some ups and downs and is not too hard to follow. There are some muddy sections and duck boards are provided over the worst. There are also a few remembrance posts placed by supporters of the Woodland Trust along the way. There are some climbs up and down, wooden duckboards that can be slippery and even steps cut into fallen trees.&lt;/em&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/shaptor-woods/4.jpg"
+width="2340"
+height="4160"
+srcset="https://dartmoorwalking.org/p/shaptor-woods/4_hu_c372dc35f6695f02.jpg 480w, https://dartmoorwalking.org/p/shaptor-woods/4_hu_33f6cffdd77560a1.jpg 1024w"
+loading="lazy"
+alt="One of many rockfaces in Shaptor Woods"
+class="gallery-image"
+data-flex-grow="56"
+data-flex-basis="135px"
 &gt;&lt;/p&gt;
 &lt;p&gt;As you walk through these woods, keep an eye open for a few notable things and facts:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Streams. Several of these emerge from small drainage adits from earlier workings. In this area, they&amp;rsquo;re often overgrown with vegetation, and can be too small to explore, or may be grilled over. At one point, below the path, you can see a small concrete building which seems to be a collection reservoir used to capture water to feed for Stonelands, the large private house below.&lt;/li&gt;
 &lt;li&gt;Mineshafts. There are a several fenced-off mineshafts, and possibly some holes or collapsed stopes less well guarded. As with all historical mining areas, if you leave the path, be very careful and don&amp;rsquo;t let dogs or children run too far.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/shaptor-woods/10.jpg&#34;
-	width=&#34;4608&#34;
-	height=&#34;3456&#34;
-	srcset=&#34;http://localhost:1313/p/shaptor-woods/10_hu_540e363cf5683ee5.jpg 480w, http://localhost:1313/p/shaptor-woods/10_hu_c1b1b24aa35b47fb.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Path through Shaptor Woods&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/shaptor-woods/10.jpg"
+width="4608"
+height="3456"
+srcset="https://dartmoorwalking.org/p/shaptor-woods/10_hu_540e363cf5683ee5.jpg 480w, https://dartmoorwalking.org/p/shaptor-woods/10_hu_c1b1b24aa35b47fb.jpg 1024w"
+loading="lazy"
+alt="Path through Shaptor Woods"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Tors and rocks. This is a rocky area, the scale of which is hard to estimate given how thickly wooded parts are, but there are many large rocks and tors all along this route, and even some small caves in one section. It&amp;rsquo;s apparently a popular site for bouldering, although I&amp;rsquo;ve not personally seen anyone climbing them during my walks here.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/shaptor-woods/15.jpg&#34;
-	width=&#34;4624&#34;
-	height=&#34;3472&#34;
-	srcset=&#34;http://localhost:1313/p/shaptor-woods/15_hu_b81580dd9ff60a40.jpg 480w, http://localhost:1313/p/shaptor-woods/15_hu_e9b845967c29c72b.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Tors and Rocks of Shaptor Woods&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/shaptor-woods/15.jpg"
+width="4624"
+height="3472"
+srcset="https://dartmoorwalking.org/p/shaptor-woods/15_hu_b81580dd9ff60a40.jpg 480w, https://dartmoorwalking.org/p/shaptor-woods/15_hu_e9b845967c29c72b.jpg 1024w"
+loading="lazy"
+alt="Tors and Rocks of Shaptor Woods"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
 &gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Trees. Shaptor is an ancient upland oak woodland and a temperate rainforest. These oaks are fairly low growing and some are quite gnarled and twisted, although not to the extent of Wistmans&amp;rsquo; Wood. There is also a rich variety of other native trees - Birch, Beech, Holly, Ash, Sweet and Horse Chestnut and much more.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/shaptor-woods/16.jpg&#34;
-	width=&#34;3264&#34;
-	height=&#34;2448&#34;
-	srcset=&#34;http://localhost:1313/p/shaptor-woods/16_hu_3838d7eb44cd345b.jpg 480w, http://localhost:1313/p/shaptor-woods/16_hu_62ca9501ce73b9e2.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Shaptor Woods&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/shaptor-woods/16.jpg"
+width="3264"
+height="2448"
+srcset="https://dartmoorwalking.org/p/shaptor-woods/16_hu_3838d7eb44cd345b.jpg 480w, https://dartmoorwalking.org/p/shaptor-woods/16_hu_62ca9501ce73b9e2.jpg 1024w"
+loading="lazy"
+alt="Shaptor Woods"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Plants. Shaptor is an important site for lichens, mosses, ferns and woodland floor plants and contains several rare species.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.woodlandtrust.org.uk/visiting-woods/woods/shaptor-woods/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Woodland Trust: Visiting Shaptor Woods&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.woodlandtrust.org.uk/visiting-woods/woods/shaptor-woods/" target="_blank" rel="noopener"
+&gt;Woodland Trust: Visiting Shaptor Woods&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/shaptor-woods/5.jpg&#34;
-	width=&#34;4160&#34;
-	height=&#34;2340&#34;
-	srcset=&#34;http://localhost:1313/p/shaptor-woods/5_hu_ce05937cd1d14584.jpg 480w, http://localhost:1313/p/shaptor-woods/5_hu_bf0d5351ad5590c5.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Memorial Plaques. Woodland Trust have erected several plaques in memory of supporters&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/shaptor-woods/5.jpg"
+width="4160"
+height="2340"
+srcset="https://dartmoorwalking.org/p/shaptor-woods/5_hu_ce05937cd1d14584.jpg 480w, https://dartmoorwalking.org/p/shaptor-woods/5_hu_bf0d5351ad5590c5.jpg 1024w"
+loading="lazy"
+alt="Memorial Plaques. Woodland Trust have erected several plaques in memory of supporters"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;hawkmoor-footpath-junction&#34;&gt;Hawkmoor Footpath Junction
-&lt;/h2&gt;&lt;p&gt;Eventually you&amp;rsquo;ll come to a path turning off to the right, uphill at around 50.61364,-3.68666 &lt;a class=&#34;link&#34; href=&#34;https://what3words.com/flick.kickbacks.defensive&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;(w3w ///flick.kickbacks.defensive)&lt;/a&gt; just before a low stone wall with a wooden signpost. We turn right here in front of the wall and continue up a short distance and through another stone wall before following this path to the right onto Shaptor Down.&lt;/p&gt;
+&lt;h2 id="hawkmoor-footpath-junction"&gt;Hawkmoor Footpath Junction
+&lt;/h2&gt;&lt;p&gt;Eventually you&amp;rsquo;ll come to a path turning off to the right, uphill at around 50.61364,-3.68666 &lt;a class="link" href="https://what3words.com/flick.kickbacks.defensive" target="_blank" rel="noopener"
+&gt;(w3w ///flick.kickbacks.defensive)&lt;/a&gt; just before a low stone wall with a wooden signpost. We turn right here in front of the wall and continue up a short distance and through another stone wall before following this path to the right onto Shaptor Down.&lt;/p&gt;
 &lt;p&gt;Hawkmoor Hospital was a tuberculosis sanitorium just a short way along the other path, which passes closely above the site. Originally built in 1914, it treated TB in the days before antibiotics and was chosen for the locally clean and fresh air, away from the pollution of coal-heated towns and cities which were thought to make the condition worse. There was a special stop called Hawkmoor Halt on the now closed Moretonhampstead and South Devon Railway where patients would be collected by horse and cart, and from the 1950s, by a motor van.&lt;/p&gt;
 &lt;p&gt;Patients would recover for months or even years in long south-facing wards with large windows, or lie outside even on cold days, wrapped in blankets. Exposure to clean and fresh air was thought to be the best treatment at the time, although being away from the large and contagious populations in the cities was probably of equal benefit.&lt;/p&gt;
 &lt;p&gt;Hawkmoor changed from pulminary to care for mental disability patients in the 1973 and was finally closed to patients in 1987. It has since been redeveloped as an collection of private homes called Hawkmoor Parke. There are two terraces of houses immediately below the site which once housed the nursing staff.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Hawkmoor_Hospital&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Wikipedia - Hawkmoor Hospital&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://en.wikipedia.org/wiki/Hawkmoor_Hospital" target="_blank" rel="noopener"
+&gt;Wikipedia - Hawkmoor Hospital&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;shaptor-mine&#34;&gt;Shaptor Mine
-&lt;/h2&gt;&lt;p&gt;Near the above junction was the site of Shaptor Mine &lt;a class=&#34;link&#34; href=&#34;https://what3words.com/tenders.absorb.rezoning&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;(w3w ///tenders.absorb.rezoning)&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="shaptor-mine"&gt;Shaptor Mine
+&lt;/h2&gt;&lt;p&gt;Near the above junction was the site of Shaptor Mine &lt;a class="link" href="https://what3words.com/tenders.absorb.rezoning" target="_blank" rel="noopener"
+&gt;(w3w ///tenders.absorb.rezoning)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Shaptor Mine was one of many in the local area, and its workings may have linked into Plumley Mine&amp;rsquo;s underground. The evidence seems to point Shaptor&amp;rsquo;s workings as being of several trials comprising test shafts and adits with some more concerted working along two veins. Certainly the workings here were not as extensive as those at the nearby Great Rock mine, nor those at Kelly, Plumley or Wray Cleave workings further to the north, although all produced micaceous haematite in various amounts.&lt;/p&gt;
 &lt;p&gt;Heritage Gateway notes &amp;ldquo;up to nine shafts&amp;rdquo; in this area, and that four &amp;ldquo;air shafts&amp;rdquo; were recorded on the 1905 Ordnance Survey map. By 1930, these markings had been removed.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/shaptor-woods/8.jpg&#34;
-	width=&#34;4160&#34;
-	height=&#34;2340&#34;
-	srcset=&#34;http://localhost:1313/p/shaptor-woods/8_hu_bae14a4ec1c30993.jpg 480w, http://localhost:1313/p/shaptor-woods/8_hu_86ede5354e5782e6.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;One of the shafts of Shaptor Mine&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/shaptor-woods/8.jpg"
+width="4160"
+height="2340"
+srcset="https://dartmoorwalking.org/p/shaptor-woods/8_hu_bae14a4ec1c30993.jpg 480w, https://dartmoorwalking.org/p/shaptor-woods/8_hu_86ede5354e5782e6.jpg 1024w"
+loading="lazy"
+alt="One of the shafts of Shaptor Mine"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
 &lt;p&gt;As well as the adits and mineshafts already mentioned, I once went wandering off the path towards the southern edge looking for a lost dog and encountered a large concrete water reservoir and the remains of an old steam boiler or compressor on what was clearly once a working platform. Sadly, despite two other attempts, I&amp;rsquo;ve not been able to find this again and get an exact location.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV61758&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway - Mine Shafts for Shaptor Mine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV61758&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;Heritage Gateway - Mine Shafts for Shaptor Mine&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;shaptor-down&#34;&gt;Shaptor Down
+&lt;h2 id="shaptor-down"&gt;Shaptor Down
 &lt;/h2&gt;&lt;p&gt;Our path now runs above a drystone wall at the bottom of the Shaptor Down enclosure. This was once an open area used for grazing, but is now being left to naturalise and extend the Shaptor Woods temperate rainforest. The trees here are mostly younger: more light comes through and it is noticeably different in atmosphere to the older woods below.&lt;/p&gt;
 &lt;p&gt;Just above the path is a memorial plaque to one of the founding members of the Woodland Trust.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -309,1753 +242,900 @@ England Committee Nature Conservancy Council&lt;/p&gt;
 esteem by all who knew him&lt;/p&gt;
 &lt;p&gt;The Woodland Trust&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/shaptor-woods/11.jpg&#34;
-	width=&#34;4608&#34;
-	height=&#34;3456&#34;
-	srcset=&#34;http://localhost:1313/p/shaptor-woods/11_hu_87bf1bd964ca5d70.jpg 480w, http://localhost:1313/p/shaptor-woods/11_hu_35ea3371f6cafb22.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Memorial Plaque and stone&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/shaptor-woods/11.jpg"
+width="4608"
+height="3456"
+srcset="https://dartmoorwalking.org/p/shaptor-woods/11_hu_87bf1bd964ca5d70.jpg 480w, https://dartmoorwalking.org/p/shaptor-woods/11_hu_35ea3371f6cafb22.jpg 1024w"
+loading="lazy"
+alt="Memorial Plaque and stone"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/shaptor-woods/12.jpg&#34;
-	width=&#34;4608&#34;
-	height=&#34;3456&#34;
-	srcset=&#34;http://localhost:1313/p/shaptor-woods/12_hu_c46fa7c36f7270ca.jpg 480w, http://localhost:1313/p/shaptor-woods/12_hu_b9397c7b2dd6bd87.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Close up&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/shaptor-woods/12.jpg"
+width="4608"
+height="3456"
+srcset="https://dartmoorwalking.org/p/shaptor-woods/12_hu_c46fa7c36f7270ca.jpg 480w, https://dartmoorwalking.org/p/shaptor-woods/12_hu_b9397c7b2dd6bd87.jpg 1024w"
+loading="lazy"
+alt="Close up"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/shaptor-woods/map-memorial.jpg&#34;
-	width=&#34;297&#34;
-	height=&#34;240&#34;
-	srcset=&#34;http://localhost:1313/p/shaptor-woods/map-memorial_hu_9af405dd847dba93.jpg 480w, http://localhost:1313/p/shaptor-woods/map-memorial_hu_69c6603d84b9f6d7.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Location&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;123&#34;
-		data-flex-basis=&#34;297px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/shaptor-woods/map-memorial.jpg"
+width="297"
+height="240"
+srcset="https://dartmoorwalking.org/p/shaptor-woods/map-memorial_hu_9af405dd847dba93.jpg 480w, https://dartmoorwalking.org/p/shaptor-woods/map-memorial_hu_69c6603d84b9f6d7.jpg 1024w"
+loading="lazy"
+alt="Location"
+class="gallery-image"
+data-flex-grow="123"
+data-flex-basis="297px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;shaptor-rock&#34;&gt;Shaptor Rock
+&lt;h2 id="shaptor-rock"&gt;Shaptor Rock
 &lt;/h2&gt;&lt;p&gt;If you leave the paths at the above memorial and head upwards, you&amp;rsquo;ll soon encounter the largest of this walk&amp;rsquo;s nearby tors, Shaptor Rock. This is a worthy detour if you&amp;rsquo;ve some energy and are craving a view after so long in the woods, as it emerges from the canopy providing a good reveal.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.torsofdartmoor.co.uk/tor-page.php?tor=shaptor-rock&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Tors of Dartmoor - Shaptor Rock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.torsofdartmoor.co.uk/tor-page.php?tor=shaptor-rock" target="_blank" rel="noopener"
+&gt;Tors of Dartmoor - Shaptor Rock&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;routing-box&#34;&gt;
-  &lt;div class=&#34;routing-header&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/icons/signpost.svg&#34;
-       alt=&#34;&#34;
-       class=&#34;routing-icon&#34;&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;routing-content&#34;&gt;
-    &lt;em&gt;Leaving the memorial, follow the path eastwards to Shaptor Farm. There is a section here which can be overgrown in summer.&lt;/em&gt;
-  &lt;/div&gt;
+&lt;div class="routing-box"&gt;
+&lt;div class="routing-header"&gt;
+&lt;img src="https://dartmoorwalking.org/icons/signpost.svg"
+alt=""
+class="routing-icon"&gt;
 &lt;/div&gt;
-&lt;h2 id=&#34;shaptor-farm&#34;&gt;Shaptor Farm
+&lt;div class="routing-content"&gt;
+&lt;em&gt;Leaving the memorial, follow the path eastwards to Shaptor Farm. There is a section here which can be overgrown in summer.&lt;/em&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id="shaptor-farm"&gt;Shaptor Farm
 &lt;/h2&gt;&lt;p&gt;Our path emerges onto the driveway serving Shaptor Farm. This has a farmhouse, cottage, large barn and outbuilds - and when sold for £300,000 2017 included 29 acres of adjacent farmland.&lt;/p&gt;
 &lt;p&gt;We head across the driveway and follow the bridlepath to the southeast, passing a delightful duck pond.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/shaptor-woods/13.jpg&#34;
-	width=&#34;4608&#34;
-	height=&#34;3456&#34;
-	srcset=&#34;http://localhost:1313/p/shaptor-woods/13_hu_8b6eb13c0ee27b04.jpg 480w, http://localhost:1313/p/shaptor-woods/13_hu_26327b3249f8d2b0.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Duckpond at Shaptor Farm&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/shaptor-woods/13.jpg"
+width="4608"
+height="3456"
+srcset="https://dartmoorwalking.org/p/shaptor-woods/13_hu_8b6eb13c0ee27b04.jpg 480w, https://dartmoorwalking.org/p/shaptor-woods/13_hu_26327b3249f8d2b0.jpg 1024w"
+loading="lazy"
+alt="Duckpond at Shaptor Farm"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.onthemarket.com/details/16175050/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Onthemarket.com - Shaptor Farm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.onthemarket.com/details/16175050/" target="_blank" rel="noopener"
+&gt;Onthemarket.com - Shaptor Farm&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;higher-and-lower-bowden&#34;&gt;Higher and Lower Bowden
+&lt;h2 id="higher-and-lower-bowden"&gt;Higher and Lower Bowden
 &lt;/h2&gt;&lt;p&gt;The bridlepath follows a Devon-banked track and passes through a shallow ford and gate.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/shaptor-woods/14.jpg&#34;
-	width=&#34;2340&#34;
-	height=&#34;4160&#34;
-	srcset=&#34;http://localhost:1313/p/shaptor-woods/14_hu_c2602aa236b3fb25.jpg 480w, http://localhost:1313/p/shaptor-woods/14_hu_c8cdd4fc2a730300.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Tom amongst the wild garlic South of Higher Bowden&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;56&#34;
-		data-flex-basis=&#34;135px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/shaptor-woods/14.jpg"
+width="2340"
+height="4160"
+srcset="https://dartmoorwalking.org/p/shaptor-woods/14_hu_c2602aa236b3fb25.jpg 480w, https://dartmoorwalking.org/p/shaptor-woods/14_hu_c8cdd4fc2a730300.jpg 1024w"
+loading="lazy"
+alt="Tom amongst the wild garlic South of Higher Bowden"
+class="gallery-image"
+data-flex-grow="56"
+data-flex-basis="135px"
 &gt;&lt;/p&gt;
-&lt;div class=&#34;routing-box&#34;&gt;
-  &lt;div class=&#34;routing-header&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/icons/signpost.svg&#34;
-       alt=&#34;&#34;
-       class=&#34;routing-icon&#34;&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;routing-content&#34;&gt;
-    &lt;em&gt;After the gate, we walk up through a sloping field, which is often grazed with horses, past an old fenced manege and through the wall onto the road. When on the road, turn right and follow it back to the car park. The road is fairly quiet, but beware the odd car or tractor.&lt;/em&gt;
-  &lt;/div&gt;
+&lt;div class="routing-box"&gt;
+&lt;div class="routing-header"&gt;
+&lt;img src="https://dartmoorwalking.org/icons/signpost.svg"
+alt=""
+class="routing-icon"&gt;
 &lt;/div&gt;
-&lt;h2 id=&#34;parking&#34;&gt;Parking
+&lt;div class="routing-content"&gt;
+&lt;em&gt;After the gate, we walk up through a sloping field, which is often grazed with horses, past an old fenced manege and through the wall onto the road. When on the road, turn right and follow it back to the car park. The road is fairly quiet, but beware the odd car or tractor.&lt;/em&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id="parking"&gt;Parking
 &lt;/h2&gt;&lt;p&gt;There is free, off-street parking for half a dozen cars at the top of Little John&amp;rsquo;s Walk at Furzeleigh, where we begin our walk.&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References
+&lt;h2 id="references"&gt;References
 &lt;/h2&gt;
-
-
-
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-    
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-
-
-&lt;div class=&#34;extracted-links&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.torsofdartmoor.co.uk/tor-page.php?tor=bearacleave-north-tor&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Tors of Dartmoor - Bearacleave North Tor&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-
-
-</description>
-        </item>
-        <item>
-        <title>Foxtor Mire and Childe&#39;s Tomb</title>
-        <link>http://localhost:1313/p/foxtor-mire-and-childes-tomb/</link>
-        <pubDate>Sun, 23 Feb 2025 18:34:20 +0000</pubDate>
-        
-        <guid>http://localhost:1313/p/foxtor-mire-and-childes-tomb/</guid>
-        <description>&lt;img src="http://localhost:1313/p/foxtor-mire-and-childes-tomb/15.jpg" alt="Featured image of post Foxtor Mire and Childe&#39;s Tomb" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+&lt;div class="extracted-links"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.torsofdartmoor.co.uk/tor-page.php?tor=bearacleave-north-tor" target="_blank" rel="noopener"
+&gt;Tors of Dartmoor - Bearacleave North Tor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description></item><item><title>Foxtor Mire and Childe's Tomb</title><link>https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/</link><pubDate>Sun, 23 Feb 2025 18:34:20 +0000</pubDate><guid>https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/</guid><description>&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/15.jpg" alt="Featured image of post Foxtor Mire and Childe's Tomb" /&gt;&lt;h2 id="information"&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;
 6 miles&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; Grade: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/tags/strenuous/&#34;&gt;Strenuous&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/gpx/foxtor-mire-and-childes-tomb.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.52052%2c-3.96377&#34; target=&#34;_blank&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
-    &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
-    &lt;path d=&#34;M12 21v-4&#34; /&gt;
-    &lt;path d=&#34;M12 13v-4&#34; /&gt;
-    &lt;path d=&#34;M12 5v-2&#34; /&gt;
-    &lt;path d=&#34;M10 21h4&#34; /&gt;
-    &lt;path d=&#34;M8 5v4h11l2 -2l-2 -2z&#34; /&gt;
-    &lt;path d=&#34;M14 13v4h-8l-2 -2l2 -2z&#34; /&gt;
-  &lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&#34;https://w3w.co/monkey.farms.companies&#34; target=&#34;_blank&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;monkey.farms.companies&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt; Grade: &lt;b&gt;&lt;a href="https://dartmoorwalking.org/tags/strenuous/"&gt;Strenuous&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href="https://dartmoorwalking.org/gpx/foxtor-mire-and-childes-tomb.gpx"&gt;Download GPX &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download"&gt;&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/&gt;&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" /&gt;&lt;path d="M7 11l5 5l5 -5" /&gt;&lt;path d="M12 4l0 12" /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="https://www.google.com/maps/dir/?api=1&amp;destination=50.52052%2c-3.96377" target="_blank"&gt;Directions to Car Park &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-directions"&gt;
+&lt;path stroke="none" d="M0 0h24v24H0z" fill="none" /&gt;
+&lt;path d="M12 21v-4" /&gt;
+&lt;path d="M12 13v-4" /&gt;
+&lt;path d="M12 5v-2" /&gt;
+&lt;path d="M10 21h4" /&gt;
+&lt;path d="M8 5v4h11l2 -2l-2 -2z" /&gt;
+&lt;path d="M14 13v4h-8l-2 -2l2 -2z" /&gt;
+&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="https://w3w.co/monkey.farms.companies" target="_blank"&gt;What Three Words&lt;/a&gt; &lt;code&gt;monkey.farms.companies&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/map.jpg&#34;
-	width=&#34;982&#34;
-	height=&#34;1064&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/map_hu_2a132158fa470f69.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/map_hu_61bf742fe6da23b4.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;92&#34;
-		data-flex-basis=&#34;221px&#34;
-	
+&lt;h2 id="map"&gt;Map
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/map.jpg"
+width="982"
+height="1064"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/map_hu_2a132158fa470f69.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/map_hu_61bf742fe6da23b4.jpg 1024w"
+loading="lazy"
+alt="Map of Route - Crown Copyright - Ordnance Survey Licence number 100047373"
+class="gallery-image"
+data-flex-grow="92"
+data-flex-basis="221px"
 &gt;&lt;/p&gt;
-&lt;p&gt;Notes:  The GPX file is an approximation only and should not be relied upon. Additionally, the given map was an accurate log of safe walking, it was several years ago and paths in mires do move around.&lt;/p&gt;
+&lt;p&gt;Notes: The GPX file is an approximation only and should not be relied upon. Additionally, the given map was an accurate log of safe walking, it was several years ago and paths in mires do move around.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Warning: DO NOT ATTEMPT THIS WALK IN THE WINTER OR AFTER HEAVY RAIN&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This route includes crossing the Foxtor Mire. It can be dangerous even in summer, and care must be taken. There is also a river crossing of the Swincombe. Again, during winter, this can be surprisingly steep.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;You can avoid the crossing the mire by walking around the Western edge of the Mire and rejoin us at Goldsmith&amp;rsquo;s Cross - it adds about a mile to this walk but should be accessible in all weathers&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;h2 id="introduction"&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;Few areas on Dartmoor include such a deep amount of historical, farming, religious, mining and legend as the Whiteworks area of Dartmoor. This walk takes us past mineshafts and directly across Foxtor Mire to the Goldsmith&amp;rsquo;s cross, then along to Childe&amp;rsquo;s Tomb - a burial site with a legendary tale. Then a walk up Foxtor itself, around to the ruined remains of Foxtor Farm, visits some Bronze Age Cairns, crosses a river and passes the hut circles of an ancient village on our return.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/1.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/1_hu_e551a756610c8c35.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/1_hu_8bc5a853b5bb72c.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Parking area in a small quarry by the Devonport Leat&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/1.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/1_hu_e551a756610c8c35.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/1_hu_8bc5a853b5bb72c.jpg 1024w"
+loading="lazy"
+alt="Parking area in a small quarry by the Devonport Leat"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;whiteworks-mining&#34;&gt;Whiteworks Mining
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/2.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/2_hu_435b681519aa4877.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/2_hu_78913de725c2ebc8.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;One of the many mine-related ruins at Whiteworks&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;h2 id="whiteworks-mining"&gt;Whiteworks Mining
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/2.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/2_hu_435b681519aa4877.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/2_hu_78913de725c2ebc8.jpg 1024w"
+loading="lazy"
+alt="One of the many mine-related ruins at Whiteworks"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;Whiteworks was one of Dartmoor&amp;rsquo;s largest Tin mines, and possibly the longest active with records indicating work as early as 1180.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/3.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/3_hu_7c0bb3077e6a2aab.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/3_hu_bb30c504351bfbc0.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;More ruins at Whiteworks&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/3.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/3_hu_7c0bb3077e6a2aab.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/3_hu_bb30c504351bfbc0.jpg 1024w"
+loading="lazy"
+alt="More ruins at Whiteworks"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;The name &amp;ldquo;Whiteworks&amp;rdquo; comes from kaolin, the white clay that lies in this natural bowl, formed from degraded granite. Cassiterite - Tin Ore - was found within the clay, and working it coated everything and everyone white.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/4.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/4_hu_f247f71e53b91844.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/4_hu_6400ab44a3efdc47.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;One of the fenced off mineshafts of Whiteworks&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/4.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/4_hu_f247f71e53b91844.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/4_hu_6400ab44a3efdc47.jpg 1024w"
+loading="lazy"
+alt="One of the fenced off mineshafts of Whiteworks"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;The vast majority of visible remains of buildings and shafts are from the 19th Century when this was a very industrialised area. A Google Maps satellite view shows long lines of open cast pits, which were dug down by hand to expose a seam of ore.  Later, as the easier pickings were used up, shafts and mines were dug&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/5.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/5_hu_f5187d07ec52711.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/5_hu_a2d71f18a8f39beb.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A shallower or partially filled shaft surrounded by a stone wall&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;The vast majority of visible remains of buildings and shafts are from the 19th Century when this was a very industrialised area. A Google Maps satellite view shows long lines of open cast pits, which were dug down by hand to expose a seam of ore. Later, as the easier pickings were used up, shafts and mines were dug&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/5.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/5_hu_f5187d07ec52711.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/5_hu_a2d71f18a8f39beb.jpg 1024w"
+loading="lazy"
+alt="A shallower or partially filled shaft surrounded by a stone wall"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;Mining activity gradually declined and finally ceased at Whiteworks in 1914, when the remaining men were drafted for the First World War. As with many mines on Dartmoor and throughout Britain at that time, they never reopened.&lt;/p&gt;
-&lt;h2 id=&#34;foxtor-mire&#34;&gt;Foxtor Mire
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/6.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/6_hu_c51176f592b44fb8.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/6_hu_266be78c06894d96.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Drift Gate, a gateway to Foxtor Mire&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;h2 id="foxtor-mire"&gt;Foxtor Mire
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/6.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/6_hu_c51176f592b44fb8.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/6_hu_266be78c06894d96.jpg 1024w"
+loading="lazy"
+alt="Drift Gate, a gateway to Foxtor Mire"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;The distinction between &amp;ldquo;Mire&amp;rdquo; and &amp;ldquo;Bog&amp;rdquo; is that bogs are fed by rainfall, and mires are fed by groundwater springs.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/7.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/7_hu_171d6affdae447c0.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/7_hu_c7deca88adefbb5f.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A view from the middle of the mire, looking north-eastwards towards the Swincombe valley&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/7.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/7_hu_171d6affdae447c0.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/7_hu_c7deca88adefbb5f.jpg 1024w"
+loading="lazy"
+alt="A view from the middle of the mire, looking north-eastwards towards the Swincombe valley"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;The exact depth of the mire is disputed. There are stories that the Army drove a tank into it and it disappeared never to be seen again! That&amp;rsquo;s probably just a story, but it is certainly deep enough to drown a person, and the author has personally poked a stick in at least six feet over large parts of it. It will also grow and ebb depending on recent rainfall like a large sponge. Although it&amp;rsquo;s fed by springs, it&amp;rsquo;s also fed by surface water and slows the passage of water down the Swincombe valley.&lt;/p&gt;
 &lt;p&gt;There was a railway sleeper laid across the river to aid crossing roughly in the centre of the mire and this is marked &amp;ldquo;FB&amp;rdquo; on Ordnance Survey Maps.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/8.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/8_hu_297f7f03edcdc227.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/8_hu_fd90cb533f26c3ff.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Zoomed view to civilisation, at Whiteworks! The cottage on the left is a 20-bed bunkhouse owned by Plymouth College and is leased out for Outward Bound-type activities&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/8.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/8_hu_297f7f03edcdc227.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/8_hu_fd90cb533f26c3ff.jpg 1024w"
+loading="lazy"
+alt="Zoomed view to civilisation, at Whiteworks! The cottage on the left is a 20-bed bunkhouse owned by Plymouth College and is leased out for Outward Bound-type activities"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;Please be aware that the safe path across Foxtor Mire moves around each year as livestock moves around to graze. It is not possible to rely on maps or GPX tracks.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/9.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/9_hu_fb592b936046b502.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/9_hu_346290e15b80af02.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Near the middle of the mire, with the cottages at Whiteworks in the background&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/9.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/9_hu_fb592b936046b502.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/9_hu_346290e15b80af02.jpg 1024w"
+loading="lazy"
+alt="Near the middle of the mire, with the cottages at Whiteworks in the background"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;Once safely across the mire, you should be fairly close to Goldsmith&amp;rsquo;s cross.&lt;/p&gt;
-&lt;h2 id=&#34;goldsmiths-cross&#34;&gt;Goldsmith&amp;rsquo;s Cross
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/10.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/10_hu_340fe21f0e8f745a.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/10_hu_b2791b771d34c702.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Goldsmith’s Cross. SX 61655 70154&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;h2 id="goldsmiths-cross"&gt;Goldsmith&amp;rsquo;s Cross
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/10.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/10_hu_340fe21f0e8f745a.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/10_hu_b2791b771d34c702.jpg 1024w"
+loading="lazy"
+alt="Goldsmith’s Cross. SX 61655 70154"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;This cross is named after Lt. Goldsmith R.N. who rediscovered it in 1903, after it had been lost for many years. He found it when out on his favourite walk whilst on leave from serving on HMS Imperial, then moored at Plymouth. On stopping for lunch, he happened to notice a rectangular hole cut into the large boulder on which he was sitting. Further investigation amongst the heather revealed the head and then part of the shaft. He later returned and arranged the reconstruction as you see it today.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.dartmoor-crosses.org.uk/goldsmith%27s.htm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dartmoor Crosses - Goldsmith&amp;rsquo;s Cross&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="http://www.dartmoor-crosses.org.uk/goldsmith%27s.htm" target="_blank" rel="noopener"
+&gt;Dartmoor Crosses - Goldsmith&amp;rsquo;s Cross&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Although the exact origin and date of the cross is unknown, it is thought that the cross was used to guide travellers across the mire, and indeed it is approximately where the current path.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/11.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/11_hu_c0182cd96dfcca0.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/11_hu_175523f2a9e75052.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Goldsmith’s Cross with Whiteworks in the background, across the mire&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/11.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/11_hu_c0182cd96dfcca0.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/11_hu_175523f2a9e75052.jpg 1024w"
+loading="lazy"
+alt="Goldsmith’s Cross with Whiteworks in the background, across the mire"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;A short walk Northeast of Goldsmith&amp;rsquo;s cross will take you to&amp;hellip;&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;foxtor-mire-cairn-and-cist-the-gold-box&#34;&gt;Foxtor Mire Cairn and Cist (The Gold Box)
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/12.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/12_hu_bcdc67200745245d.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/12_hu_5d91247a9b93ac8d.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Foxtor mire Cairn and Cist - Cist 1. SX 61801 70312&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;h2 id="foxtor-mire-cairn-and-cist-the-gold-box"&gt;Foxtor Mire Cairn and Cist (The Gold Box)
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/12.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/12_hu_bcdc67200745245d.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/12_hu_5d91247a9b93ac8d.jpg 1024w"
+loading="lazy"
+alt="Foxtor mire Cairn and Cist - Cist 1. SX 61801 70312"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;Not far from Childe&amp;rsquo;s Tomb lies an ancient tomb or kistvaen which dates back to the Bronze Age, this is known as &amp;lsquo;The Gold Box&amp;rsquo; and was said to have contained treasure belonging to a long dead chieftain.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/13.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/13_hu_2e8e5f55b061cce4.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/13_hu_8c63fca97cb61e21.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The cist with Whiteworks in the distance, across the mire&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/13.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/13_hu_2e8e5f55b061cce4.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/13_hu_8c63fca97cb61e21.jpg 1024w"
+loading="lazy"
+alt="The cist with Whiteworks in the distance, across the mire"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/14.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/14_hu_6263bc9015e44ff9.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/14_hu_11f1f7aee2931f42.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Above view of the cist with the retaining stone “circle” or cairn&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/14.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/14_hu_6263bc9015e44ff9.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/14_hu_11f1f7aee2931f42.jpg 1024w"
+loading="lazy"
+alt="Above view of the cist with the retaining stone “circle” or cairn"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Walking due East will take you towards Childe&amp;rsquo;s Tomb&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/15.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/15_hu_ab214b04a3ab363f.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/15_hu_f63a10f5b971d2d2.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Childe’s Tomb. SX 62574 70293&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/15.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/15_hu_ab214b04a3ab363f.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/15_hu_f63a10f5b971d2d2.jpg 1024w"
+loading="lazy"
+alt="Childe’s Tomb. SX 62574 70293"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;Childe was a wealthy Saxon lord who loved hunting. The legend says that one winter he became trapped by a violent snowstorm and was disoriented. He made the decision to kill and disembowel his horse and climbed inside the stomach cavity to take what shelter he could. However, this was insufficient and he was found frozen to death inside.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/16.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/16_hu_2419959818b2cd59.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/16_hu_616fb4f42612742b.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Childe’s Tomb, with Foxtor behind it&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/16.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/16_hu_2419959818b2cd59.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/16_hu_616fb4f42612742b.jpg 1024w"
+loading="lazy"
+alt="Childe’s Tomb, with Foxtor behind it"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;The first mention of the tomb was in the 1600&amp;rsquo;s but the story may be much older.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/17.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/17_hu_b92e868014baf178.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/17_hu_352e147f5fd0a6b5.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The interior of the large cavity inside Childe’s Tomb&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/17.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/17_hu_b92e868014baf178.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/17_hu_352e147f5fd0a6b5.jpg 1024w"
+loading="lazy"
+alt="The interior of the large cavity inside Childe’s Tomb"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;The stone of the tomb was robbed by workmen building the nearby Foxtor Farm in 1812.&lt;/p&gt;
 &lt;p&gt;In 1885, Mr Tanner of the Dartmoor Preservation Association directed the restoration of the tomb and cross as you see it today.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.legendarydartmoor.co.uk/2016/03/16/child_hunter/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Legendary Dartmoor - Childe the Hunter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.legendarydartmoor.co.uk/2016/03/16/child_hunter/" target="_blank" rel="noopener"
+&gt;Legendary Dartmoor - Childe the Hunter&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;Head due South and climb the hill to Fox Tor&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;If you wish to avoid the climb, you can skip Fox Tor and walk North East to the ruined Foxtor Farm&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;fox-tor&#34;&gt;Fox Tor
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/18.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/18_hu_7a79a70b0d24b303.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/18_hu_d1e09487a08cad6d.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Fox Tor&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;h2 id="fox-tor"&gt;Fox Tor
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/18.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/18_hu_7a79a70b0d24b303.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/18_hu_d1e09487a08cad6d.jpg 1024w"
+loading="lazy"
+alt="Fox Tor"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/19.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/19_hu_d6abfb285db7a3b2.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/19_hu_efc9efaf051f9a1a.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Fox Tor&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/19.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/19_hu_d6abfb285db7a3b2.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/19_hu_efc9efaf051f9a1a.jpg 1024w"
+loading="lazy"
+alt="Fox Tor"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;When ready, head Northeast&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/20.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/20_hu_2837278925861041.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/20_hu_7284d9a69a817fd1.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking down Fox Tor Girt&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/20.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/20_hu_2837278925861041.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/20_hu_7284d9a69a817fd1.jpg 1024w"
+loading="lazy"
+alt="Looking down Fox Tor Girt"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;This girt is an artificial valley dug by men searching for tin, probably in the 1700s or 1800s. They would redirect water down from the top to help wash out the granular tin which would settle in temporary dams at the bottom. Tin being heavier than the mud and soil, it would form a layer once left to settle which could be dug out.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/21.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/21_hu_e7493753608e8adc.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/21_hu_5b5462e6976ba425.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking back up Fox Tor Girt&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/21.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/21_hu_e7493753608e8adc.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/21_hu_5b5462e6976ba425.jpg 1024w"
+loading="lazy"
+alt="Looking back up Fox Tor Girt"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/22.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/22_hu_4944c15993d6eb65.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/22_hu_e98d748428979a7e.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking west along the dry Wheal Emma Leat. SX 62800 70210&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/22.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/22_hu_4944c15993d6eb65.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/22_hu_e98d748428979a7e.jpg 1024w"
+loading="lazy"
+alt="Looking west along the dry Wheal Emma Leat. SX 62800 70210"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;foxtor-farm&#34;&gt;Foxtor Farm
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/23.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/23_hu_bc3160556186a974.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/23_hu_b8e906ae9697479c.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Crossing over the River Swincombe&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;h2 id="foxtor-farm"&gt;Foxtor Farm
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/23.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/23_hu_bc3160556186a974.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/23_hu_b8e906ae9697479c.jpg 1024w"
+loading="lazy"
+alt="Crossing over the River Swincombe"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/24.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/24_hu_6d2ffa26c5fff734.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/24_hu_39ba946d0458f128.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Ruins near the River Swincombe&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/24.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/24_hu_6d2ffa26c5fff734.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/24_hu_39ba946d0458f128.jpg 1024w"
+loading="lazy"
+alt="Ruins near the River Swincombe"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;These ruins are possibly what&amp;rsquo;s left of Sam Parr&amp;rsquo;s house.&lt;/p&gt;
 &lt;p&gt;Sam Parr was a labourer who worked at the nearby Fox Tor Farm in the mid 1800s. He had a wife and two children who were baptised in Princetown.&lt;/p&gt;
 &lt;p&gt;The ruins have also been identified as a blowing house for turning tin ore into ingots - there are certainly many remains of tinworkings and several tinner&amp;rsquo;s huts nearby, and it&amp;rsquo;s possible that Sam turned it into a home.&lt;/p&gt;
 &lt;p&gt;On the inner face of a large flat slab in the southeast corner of the building is an inscription &amp;ldquo;IC 1753&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/26.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/26_hu_651e403561bd7834.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/26_hu_e1a84aebaab91e9b.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking back over the Mire to Whiteworks&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/26.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/26_hu_651e403561bd7834.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/26_hu_e1a84aebaab91e9b.jpg 1024w"
+loading="lazy"
+alt="Looking back over the Mire to Whiteworks"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/27.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/27_hu_521fb55dd06c6138.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/27_hu_87409d9079b2866e.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Some of the ruins of Foxtor Farm&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/27.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/27_hu_521fb55dd06c6138.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/27_hu_87409d9079b2866e.jpg 1024w"
+loading="lazy"
+alt="Some of the ruins of Foxtor Farm"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;In the early 1800s, there were efforts to &amp;ldquo;Improve&amp;rdquo; Dartmoor for agricultural purposes - led largely by Sir Thomas Tyrwhitt who was responsible for much of Princetown&amp;rsquo;s growth. The farm was build with locally sourced granite, including some stone robbed from the nearby Childe&amp;rsquo;s Tomb.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/28.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/28_hu_518186247dfbbb3.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/28_hu_961bb70a305d74f5.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Foxtor Farm&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/28.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/28_hu_518186247dfbbb3.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/28_hu_961bb70a305d74f5.jpg 1024w"
+loading="lazy"
+alt="Foxtor Farm"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;The farm was only occupied for 50 years, with David Gray being recorded as the main occupant and farmer. It was a sheep farm, and others tried to turn a profit here through the nineteenth century. But conditions were harsh and the remote location ultimately led to it being abandoned.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/29.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/29_hu_1659f37c6212fcf3.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/29_hu_7984a496fb6b10e3.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Foxtor Farm&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/29.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/29_hu_1659f37c6212fcf3.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/29_hu_7984a496fb6b10e3.jpg 1024w"
+loading="lazy"
+alt="Foxtor Farm"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;Foxtor Farm was used by Eden Phillpotts as one of the main settings of his 1904 novel The American Prisoner, and in a subsequent early &amp;ldquo;talkie&amp;rdquo; film, made in 1929.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Fox_Tor&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Wikipedia - Fox tor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://en.wikipedia.org/wiki/Fox_Tor" target="_blank" rel="noopener"
+&gt;Wikipedia - Fox tor&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/30.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/30_hu_5383ab49e2535b33.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/30_hu_1995b6ff8616bb23.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Foxtor Farm&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/30.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/30_hu_5383ab49e2535b33.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/30_hu_1995b6ff8616bb23.jpg 1024w"
+loading="lazy"
+alt="Foxtor Farm"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/31.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/31_hu_eec5cfcdc4971393.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/31_hu_624729ada85a9a91.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Foxtor Farm&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/31.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/31_hu_eec5cfcdc4971393.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/31_hu_624729ada85a9a91.jpg 1024w"
+loading="lazy"
+alt="Foxtor Farm"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/32.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/32_hu_f6a7a8bc5c6f8c29.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/32_hu_7f5f219ed8fe2439.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking back to Fox Tor from Foxtor Farm, with the Girt to the left&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/32.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/32_hu_f6a7a8bc5c6f8c29.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/32_hu_7f5f219ed8fe2439.jpg 1024w"
+loading="lazy"
+alt="Looking back to Fox Tor from Foxtor Farm, with the Girt to the left"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Follow the gradient almost due North&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ter-hill-cists&#34;&gt;Ter Hill Cists
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/33.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/33_hu_bed483f8056553a3.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/33_hu_7d76a01dcd46f31c.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;An oddity bearing a number “4”, at SX 62846 70982&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;h2 id="ter-hill-cists"&gt;Ter Hill Cists
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/33.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/33_hu_bed483f8056553a3.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/33_hu_7d76a01dcd46f31c.jpg 1024w"
+loading="lazy"
+alt="An oddity bearing a number “4”, at SX 62846 70982"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;This incongruous item is about 10m from the following cist. It&amp;rsquo;s possibly an old test bore hole from the 1970s when there was a proposal to flood the Swincombe Valley for a new reservoir. Such bore holes were used to establish the underlying nature of soil and rocks, and for building dams, how stable and strong the resulting barrier would need to be.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/34.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/34_hu_ceda2a92e0b7a9d7.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/34_hu_6e47afe8f4a983e5.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Cist 2, Ter Hill South cist, largely hidden. SX 62857 70981&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/34.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/34_hu_ceda2a92e0b7a9d7.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/34_hu_6e47afe8f4a983e5.jpg 1024w"
+loading="lazy"
+alt="Cist 2, Ter Hill South cist, largely hidden. SX 62857 70981"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/35.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/35_hu_9eb5cdf6beb643e6.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/35_hu_3a499a1b18fc634e.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Cist 3, Ter Hill North cist. SX 62857 71168&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/35.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/35_hu_9eb5cdf6beb643e6.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/35_hu_3a499a1b18fc634e.jpg 1024w"
+loading="lazy"
+alt="Cist 3, Ter Hill North cist. SX 62857 71168"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/36.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/36_hu_36f385b71765d211.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/36_hu_f0c2ec2a3f0623e8.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Cist 3, looking north-east. The yellow band seen across the valley proved to be a layer of dead grass caught against a wire fence&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/36.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/36_hu_36f385b71765d211.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/36_hu_f0c2ec2a3f0623e8.jpg 1024w"
+loading="lazy"
+alt="Cist 3, looking north-east. The yellow band seen across the valley proved to be a layer of dead grass caught against a wire fence"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/37.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/37_hu_303a1c77a943d481.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/37_hu_17921036020335dd.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Swincombe Intake&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/37.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/37_hu_303a1c77a943d481.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/37_hu_17921036020335dd.jpg 1024w"
+loading="lazy"
+alt="Swincombe Intake"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/38.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/38_hu_80f24a2c24964d7e.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/38_hu_a4e8b17a2ea85e00.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Clapper Bridge over the dry Wheal Emma leat (FB on OS Map). SX 6278 7132&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/38.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/38_hu_80f24a2c24964d7e.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/38_hu_a4e8b17a2ea85e00.jpg 1024w"
+loading="lazy"
+alt="Clapper Bridge over the dry Wheal Emma leat (FB on OS Map). SX 6278 7132"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/39.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/39_hu_ca3424dc5d6d2a8d.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/39_hu_712ac3727accd6e8.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking over the Clapper Bridge down to the Swincombe River&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/39.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/39_hu_ca3424dc5d6d2a8d.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/39_hu_712ac3727accd6e8.jpg 1024w"
+loading="lazy"
+alt="Looking over the Clapper Bridge down to the Swincombe River"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/40.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/40_hu_1bbe8e3716eac5d4.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/40_hu_82bbb7b631701f94.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The bend in the River Swincombe where we’ll cross&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/40.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/40_hu_1bbe8e3716eac5d4.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/40_hu_82bbb7b631701f94.jpg 1024w"
+loading="lazy"
+alt="The bend in the River Swincombe where we’ll cross"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;An alternative crossing point is at Headweir Ford (Harvey map), somewhere near SX 62270 70980, where there is a path back to Whiteworks.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;dpa-stone&#34;&gt;DPA Stone
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/41.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/foxtor-mire-and-childes-tomb/41_hu_1a8e0194ea344bff.jpg 480w, http://localhost:1313/p/foxtor-mire-and-childes-tomb/41_hu_3a7f765c7c779d46.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;“DPA”, marking a boundary of the Swincombe valley property holding&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;h2 id="dpa-stone"&gt;DPA Stone
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/41.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/41_hu_1a8e0194ea344bff.jpg 480w, https://dartmoorwalking.org/p/foxtor-mire-and-childes-tomb/41_hu_3a7f765c7c779d46.jpg 1024w"
+loading="lazy"
+alt="“DPA”, marking a boundary of the Swincombe valley property holding"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;Dartmoor Preservation Association strongly opposed the proposed flooding of this valley. In 1970, a parliamentary committee ultimately decided against the scheme.&lt;/p&gt;
 &lt;p&gt;In 1985, the DPA used funds from a bequest to acquire 50 acres of land to try and prevent a similar scheme in the future. These stones mark its boundary.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://dartmoorpreservation.co.uk/swincombe/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;DPA - Swincombe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://dartmoorpreservation.co.uk/swincombe/" target="_blank" rel="noopener"
+&gt;DPA - Swincombe&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;Once you&amp;rsquo;ve cross the river, there is a settlement marked on the map with several hut circles, dating from the Bronze Age. Once visited, we conclude our walk by heading back to Whiteworks over the open moor&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;parking&#34;&gt;Parking
+&lt;h2 id="parking"&gt;Parking
 &lt;/h2&gt;&lt;p&gt;The posted coordinates are for a small parking area just where the Devonport Leat crosses under the road. Sometimes this gets full, but if so, returning a short way back towards Princetown there are several other parking areas a short distance.&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References
+&lt;h2 id="references"&gt;References
 &lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.dartmoor-crosses.org.uk/goldsmith%27s.htm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dartmoor Crosses - Goldsmith&amp;rsquo;s Cross&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.legendarydartmoor.co.uk/2016/03/16/child_hunter/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Legendary Dartmoor - Childe the Hunter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Fox_Tor&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Wikipedia - Fox tor&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>Yes Tor, via Row Tor</title>
-        <link>http://localhost:1313/p/yes-tor-via-row-tor/</link>
-        <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/p/yes-tor-via-row-tor/</guid>
-        <description>&lt;img src="http://localhost:1313/p/yes-tor-via-row-tor/18.jpg" alt="Featured image of post Yes Tor, via Row Tor" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+&lt;li&gt;&lt;a class="link" href="http://www.dartmoor-crosses.org.uk/goldsmith%27s.htm" target="_blank" rel="noopener"
+&gt;Dartmoor Crosses - Goldsmith&amp;rsquo;s Cross&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.legendarydartmoor.co.uk/2016/03/16/child_hunter/" target="_blank" rel="noopener"
+&gt;Legendary Dartmoor - Childe the Hunter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://en.wikipedia.org/wiki/Fox_Tor" target="_blank" rel="noopener"
+&gt;Wikipedia - Fox tor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Yes Tor, via Row Tor</title><link>https://dartmoorwalking.org/p/yes-tor-via-row-tor/</link><pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate><guid>https://dartmoorwalking.org/p/yes-tor-via-row-tor/</guid><description>&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/18.jpg" alt="Featured image of post Yes Tor, via Row Tor" /&gt;&lt;h2 id="information"&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;
 5 miles&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; Grade: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/tags/strenuous/&#34;&gt;Strenuous&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/gpx/yes-tor-via-row-tor.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.712773%2c-3.989706&#34; target=&#34;_blank&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
-    &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
-    &lt;path d=&#34;M12 21v-4&#34; /&gt;
-    &lt;path d=&#34;M12 13v-4&#34; /&gt;
-    &lt;path d=&#34;M12 5v-2&#34; /&gt;
-    &lt;path d=&#34;M10 21h4&#34; /&gt;
-    &lt;path d=&#34;M8 5v4h11l2 -2l-2 -2z&#34; /&gt;
-    &lt;path d=&#34;M14 13v4h-8l-2 -2l2 -2z&#34; /&gt;
-  &lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&#34;https://w3w.co/searching.pleasing.sleeping&#34; target=&#34;_blank&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;searching.pleasing.sleeping&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt; Grade: &lt;b&gt;&lt;a href="https://dartmoorwalking.org/tags/strenuous/"&gt;Strenuous&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href="https://dartmoorwalking.org/gpx/yes-tor-via-row-tor.gpx"&gt;Download GPX &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download"&gt;&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/&gt;&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" /&gt;&lt;path d="M7 11l5 5l5 -5" /&gt;&lt;path d="M12 4l0 12" /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="https://www.google.com/maps/dir/?api=1&amp;destination=50.712773%2c-3.989706" target="_blank"&gt;Directions to Car Park &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-directions"&gt;
+&lt;path stroke="none" d="M0 0h24v24H0z" fill="none" /&gt;
+&lt;path d="M12 21v-4" /&gt;
+&lt;path d="M12 13v-4" /&gt;
+&lt;path d="M12 5v-2" /&gt;
+&lt;path d="M10 21h4" /&gt;
+&lt;path d="M8 5v4h11l2 -2l-2 -2z" /&gt;
+&lt;path d="M14 13v4h-8l-2 -2l2 -2z" /&gt;
+&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="https://w3w.co/searching.pleasing.sleeping" target="_blank"&gt;What Three Words&lt;/a&gt; &lt;code&gt;searching.pleasing.sleeping&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/map.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/map_hu_7e7b1ca7f43dc1e1.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/map_hu_343e9298bc76b702.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;h2 id="map"&gt;Map
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/map.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/map_hu_7e7b1ca7f43dc1e1.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/map_hu_343e9298bc76b702.jpg 1024w"
+loading="lazy"
+alt="Map of Route - Crown Copyright - Ordnance Survey Licence number 100047373"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Warning&lt;/strong&gt; This walk enters the Okehampton Military Training area. Before embarking, do check the &lt;a class=&#34;link&#34; href=&#34;https://www.gov.uk/government/publications/dartmoor-firing-programme&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dartmoor Firing times&lt;/a&gt;  The road access to the area will be manned and blocked at these times by the camp.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Warning&lt;/strong&gt; This walk enters the Okehampton Military Training area. Before embarking, do check the &lt;a class="link" href="https://www.gov.uk/government/publications/dartmoor-firing-programme" target="_blank" rel="noopener"
+&gt;Dartmoor Firing times&lt;/a&gt; The road access to the area will be manned and blocked at these times by the camp.&lt;/p&gt;
 &lt;p&gt;Additionally, you should not approach or touch and strange or metallic objects on this walk. It is common to spot such things, including live munitions and rounds, that have been left behind by the live firing training.&lt;/p&gt;
 &lt;p&gt;If you do encounter such an item, take a positional reading and report it to the Training Safety Officer (tel: 01837 657210), Okehampton Camp or the Police who will investigate and dispose of the item safely.&lt;/p&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;h2 id="introduction"&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;&lt;em&gt;This walk takes you onto the Okehampton Military Training area and passes the anti-tank weapon firing points, Command Post, Target Butts, an OS Trig point and Red-a-Ven Brook and visit the second highest point on Dartmoor, Yes Tor at 610meters, or 2,000 feet. (High Willhays, only a short distance further, holds the title at 619m, 2031 ft)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/1.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/1_hu_5f3384057df33f93.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/1_hu_fa8547d32a5b8cd0.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Row Tor, SX 593 916, elevation 468 metres (1535 feet)  West Mill Tor behind&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/1.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/1_hu_5f3384057df33f93.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/1_hu_fa8547d32a5b8cd0.jpg 1024w"
+loading="lazy"
+alt="Row Tor, SX 593 916, elevation 468 metres (1535 feet) West Mill Tor behind"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/2.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/2_hu_508a0a979c7027ad.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/2_hu_e8a6ff5b4fc94718.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A more detailed view&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/2.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/2_hu_508a0a979c7027ad.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/2_hu_e8a6ff5b4fc94718.jpg 1024w"
+loading="lazy"
+alt="A more detailed view"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/3.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/3_hu_adfbd5b134a19c26.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/3_hu_dbbaefff7ebd15fc.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;From Row Tor looking at West Mill Tor&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/3.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/3_hu_adfbd5b134a19c26.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/3_hu_dbbaefff7ebd15fc.jpg 1024w"
+loading="lazy"
+alt="From Row Tor looking at West Mill Tor"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/4.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/4_hu_21de74288578c1e8.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/4_hu_f3678f3dc64398e2.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;As previous photograph, zoomed view&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/4.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/4_hu_21de74288578c1e8.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/4_hu_f3678f3dc64398e2.jpg 1024w"
+loading="lazy"
+alt="As previous photograph, zoomed view"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;east-mill-tor&#34;&gt;East Mill tor
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/5.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/5_hu_a80995a6939053dc.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/5_hu_ab72c55b60f74b4a.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;East Mill Tor, SX 599 897, elevation 513 metres (1683 feet)&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;h2 id="east-mill-tor"&gt;East Mill tor
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/5.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/5_hu_a80995a6939053dc.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/5_hu_ab72c55b60f74b4a.jpg 1024w"
+loading="lazy"
+alt="East Mill Tor, SX 599 897, elevation 513 metres (1683 feet)"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;tank-firing-positions&#34;&gt;Tank Firing Positions
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/6.jpg&#34;
-	width=&#34;999&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/6_hu_c7c93c88a33fb2c2.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/6_hu_19560cfe48de452c.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking forward to firing points for army Medium Anti-tank Weapons bays at SX 5934 9144, with West Mill Tor on the right&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;319px&#34;
-	
+&lt;h2 id="tank-firing-positions"&gt;Tank Firing Positions
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/6.jpg"
+width="999"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/6_hu_c7c93c88a33fb2c2.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/6_hu_19560cfe48de452c.jpg 1024w"
+loading="lazy"
+alt="Looking forward to firing points for army Medium Anti-tank Weapons bays at SX 5934 9144, with West Mill Tor on the right"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/7.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/7_hu_79272054d8d74c6d.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/7_hu_fe92a2fa6b1c4438.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Two firing positions, with the command point between them and target butts in the distance&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/7.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/7_hu_79272054d8d74c6d.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/7_hu_fe92a2fa6b1c4438.jpg 1024w"
+loading="lazy"
+alt="Two firing positions, with the command point between them and target butts in the distance"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;Okehampton Military Range was established in 1876.&lt;/p&gt;
 &lt;p&gt;Three types of target built in 1901 - static, moving and disappearing. The camp became the HQ for the Army School of Gunnery in the summer months and thereby the county&amp;rsquo;s most important practise camp&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/8.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/8_hu_3987afdbe9dcb90b.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/8_hu_c67da3b740f3ab2a.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Firing point. The distant building, to the right, is the shed that houses the engine for the target railway&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/8.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/8_hu_3987afdbe9dcb90b.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/8_hu_c67da3b740f3ab2a.jpg 1024w"
+loading="lazy"
+alt="Firing point. The distant building, to the right, is the shed that houses the engine for the target railway"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Route Suggestion&lt;/strong&gt; If you&amp;rsquo;re interested in military history, a short detour to the railway a few hundred meters ahead is well worthwhile.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/9.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/9_hu_19037b2005c3b01a.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/9_hu_661c413e7469c3d4.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;View back to Row Tor&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/9.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/9_hu_19037b2005c3b01a.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/9_hu_661c413e7469c3d4.jpg 1024w"
+loading="lazy"
+alt="View back to Row Tor"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/10.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/10_hu_760f0bc64b386486.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/10_hu_36dc0077a5d182c1.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Command point with firing point beyond and West Mill Tor on the sky-line&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/10.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/10_hu_760f0bc64b386486.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/10_hu_36dc0077a5d182c1.jpg 1024w"
+loading="lazy"
+alt="Command point with firing point beyond and West Mill Tor on the sky-line"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;railway-target-shed&#34;&gt;Railway Target Shed
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/11.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/11_hu_db99185855e26acc.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/11_hu_d709f9f258ade6db.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking back at the shed where the target railway engine is housed&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;h2 id="railway-target-shed"&gt;Railway Target Shed
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/11.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/11_hu_db99185855e26acc.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/11_hu_d709f9f258ade6db.jpg 1024w"
+loading="lazy"
+alt="Looking back at the shed where the target railway engine is housed"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/12.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/12_hu_359a680ba3d2b6be.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/12_hu_5a98fb205e17104b.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;This photo was taken by Keith in 2009 during a walk, when the demolitions team exploded some recovered munitions found during a moor clearance exercise&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/12.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/12_hu_359a680ba3d2b6be.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/12_hu_5a98fb205e17104b.jpg 1024w"
+loading="lazy"
+alt="This photo was taken by Keith in 2009 during a walk, when the demolitions team exploded some recovered munitions found during a moor clearance exercise"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;telephone-box&#34;&gt;Telephone Box
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/13.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/13_hu_9bd4e56f29d25e38.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/13_hu_c632f83340611d3b.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Field telephone tapping point&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;h2 id="telephone-box"&gt;Telephone Box
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/13.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/13_hu_9bd4e56f29d25e38.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/13_hu_c632f83340611d3b.jpg 1024w"
+loading="lazy"
+alt="Field telephone tapping point"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;p&gt;This part of Dartmoor has many such containers from various dates. They were (and some still are) used for field communications with the various permanent Observation Posts.&lt;/p&gt;
-&lt;h2 id=&#34;west-mill-tor&#34;&gt;West Mill Tor
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/14.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/14_hu_1c59f5d8e903e917.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/14_hu_1ed1bc06ebaa9fd.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;West Mill Tor&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;h2 id="west-mill-tor"&gt;West Mill Tor
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/14.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/14_hu_1c59f5d8e903e917.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/14_hu_1ed1bc06ebaa9fd.jpg 1024w"
+loading="lazy"
+alt="West Mill Tor"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/15.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/15_hu_49d79df036329b13.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/15_hu_2acd3fe0937f0a67.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Keith atop West Mill Tor&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/15.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/15_hu_49d79df036329b13.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/15_hu_2acd3fe0937f0a67.jpg 1024w"
+loading="lazy"
+alt="Keith atop West Mill Tor"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;yes-tor&#34;&gt;Yes Tor
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/16.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/16_hu_b40c68cd61d5cc57.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/16_hu_719b287aad682737.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking up to Yes Tor&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;h2 id="yes-tor"&gt;Yes Tor
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/16.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/16_hu_b40c68cd61d5cc57.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/16_hu_719b287aad682737.jpg 1024w"
+loading="lazy"
+alt="Looking up to Yes Tor"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/17.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/17_hu_a46fff34c9c36c03.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/17_hu_41c708887808bb4a.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Yes Tor&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/17.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/17_hu_a46fff34c9c36c03.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/17_hu_41c708887808bb4a.jpg 1024w"
+loading="lazy"
+alt="Yes Tor"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/18.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/18_hu_4b18a3e1dd1a6e4b.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/18_hu_feebf35b5cf25e45.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Yes Tor, with it’s triangulation pillar and military flag staff&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/18.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/18_hu_4b18a3e1dd1a6e4b.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/18_hu_feebf35b5cf25e45.jpg 1024w"
+loading="lazy"
+alt="Yes Tor, with it’s triangulation pillar and military flag staff"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/19.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/19_hu_55a5de7141b34ceb.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/19_hu_e4e92418ae23a959.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Zoomed view to the marquees of the Okehampton Show&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/19.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/19_hu_55a5de7141b34ceb.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/19_hu_e4e92418ae23a959.jpg 1024w"
+loading="lazy"
+alt="Zoomed view to the marquees of the Okehampton Show"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/20.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/20_hu_922c0d70a74a9e95.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/20_hu_4563dc8b5bb54941.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Range-lookout’s shelter and store atop Yes Tor  (It has some colourful graffiti inside from the squaddies)&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/20.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/20_hu_922c0d70a74a9e95.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/20_hu_4563dc8b5bb54941.jpg 1024w"
+loading="lazy"
+alt="Range-lookout’s shelter and store atop Yes Tor (It has some colourful graffiti inside from the squaddies)"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/21.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/21_hu_adc83d862e266a91.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/21_hu_9beb344196c3b7e9.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Yes Tor triangulation pillar with High Willhays in the distance, at SX 580 894, elevation 621 metres (2037 feet)&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/21.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/21_hu_adc83d862e266a91.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/21_hu_9beb344196c3b7e9.jpg 1024w"
+loading="lazy"
+alt="Yes Tor triangulation pillar with High Willhays in the distance, at SX 580 894, elevation 621 metres (2037 feet)"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Route Suggestion&lt;/strong&gt; If you haven&amp;rsquo;t visited Dartmoor&amp;rsquo;s highest point yet and have some energy left, continuing on to High Willhays pictured about for an additional 850 meters will give you that distinction.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/22.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/22_hu_d2fb3b9fa37bf030.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/22_hu_72ec8fe74ca39039.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Walkers passing from Yes Tor going over High Willhays&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/22.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/22_hu_d2fb3b9fa37bf030.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/22_hu_72ec8fe74ca39039.jpg 1024w"
+loading="lazy"
+alt="Walkers passing from Yes Tor going over High Willhays"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/23.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/23_hu_edb45180ad25ab8b.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/23_hu_3beb5f0b4db959f5.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Zoomed view to Great Links Tor, SX 551 867, elevation 586 metres (1922 feet), 4.52 km (2.81 miles) distant. Its triangulation pillar is clearly visible; the southern section of Blackator Copse is in direct line with the tor, seen from this point on Yes Tor&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/23.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/23_hu_edb45180ad25ab8b.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/23_hu_3beb5f0b4db959f5.jpg 1024w"
+loading="lazy"
+alt="Zoomed view to Great Links Tor, SX 551 867, elevation 586 metres (1922 feet), 4.52 km (2.81 miles) distant. Its triangulation pillar is clearly visible; the southern section of Blackator Copse is in direct line with the tor, seen from this point on Yes Tor"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/24.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/24_hu_d24f575f36ff5953.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/24_hu_5ab41c49eecc0f6b.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Red-a-ven Brook&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/24.jpg"
+width="1000"
+height="750"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/24_hu_d24f575f36ff5953.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/24_hu_5ab41c49eecc0f6b.jpg 1024w"
+loading="lazy"
+alt="Red-a-ven Brook"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/yes-tor-via-row-tor/25.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;250&#34;
-	srcset=&#34;http://localhost:1313/p/yes-tor-via-row-tor/25_hu_9a7b901f94c788bd.jpg 480w, http://localhost:1313/p/yes-tor-via-row-tor/25_hu_9e4163f22ba4ffcc.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;We started with the sky and now we are finishing, with the sky, blue with summer clouds. This was taken after Red-a-ven Brook, looking north-west, in the general direction of Okehampton, with Row Tor over to the right&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;400&#34;
-		data-flex-basis=&#34;960px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/yes-tor-via-row-tor/25.jpg"
+width="1000"
+height="250"
+srcset="https://dartmoorwalking.org/p/yes-tor-via-row-tor/25_hu_9a7b901f94c788bd.jpg 480w, https://dartmoorwalking.org/p/yes-tor-via-row-tor/25_hu_9e4163f22ba4ffcc.jpg 1024w"
+loading="lazy"
+alt="We started with the sky and now we are finishing, with the sky, blue with summer clouds. This was taken after Red-a-ven Brook, looking north-west, in the general direction of Okehampton, with Row Tor over to the right"
+class="gallery-image"
+data-flex-grow="400"
+data-flex-basis="960px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;This walk was accessed by driving from Tavistock into Okehampton, turning right at the traffic lights, following the road up the hill and over the A38 dual carriageway. Passing  the military camp on the right and driving up onto the moor to a large parking area on the right, marked by the yellow cross.&lt;/em&gt;&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+&lt;p&gt;&lt;em&gt;This walk was accessed by driving from Tavistock into Okehampton, turning right at the traffic lights, following the road up the hill and over the A38 dual carriageway. Passing the military camp on the right and driving up onto the moor to a large parking area on the right, marked by the yellow cross.&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
