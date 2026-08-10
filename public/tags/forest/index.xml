@@ -1,288 +1,395 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Forest on Dartmoor Walking</title><link>https://dartmoorwalking.org/tags/forest/</link><description>Recent content in Forest on Dartmoor Walking</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Simon Avery</copyright><lastBuildDate>Sun, 12 Jan 2025 16:27:24 +0000</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/forest/index.xml" rel="self" type="application/rss+xml"/><item><title>Pullabrook Woods</title><link>https://dartmoorwalking.org/p/pullabrook-woods/</link><pubDate>Sun, 12 Jan 2025 16:27:24 +0000</pubDate><guid>https://dartmoorwalking.org/p/pullabrook-woods/</guid><description>&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/30.jpg" alt="Featured image of post Pullabrook Woods" /&gt;&lt;h2 id="information"&gt;Information
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Forest on Dartmoor Walking</title>
+        <link>http://localhost:1313/tags/forest/</link>
+        <description>Recent content in Forest on Dartmoor Walking</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Simon Avery</copyright>
+        <lastBuildDate>Sun, 12 Jan 2025 16:27:24 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/forest/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Pullabrook Woods</title>
+        <link>http://localhost:1313/p/pullabrook-woods/</link>
+        <pubDate>Sun, 12 Jan 2025 16:27:24 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/pullabrook-woods/</guid>
+        <description>&lt;img src="http://localhost:1313/p/pullabrook-woods/30.jpg" alt="Featured image of post Pullabrook Woods" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;
 2 miles&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; Grade: &lt;b&gt;&lt;a href="https://dartmoorwalking.org/tags/gentle/"&gt;Gentle&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href="https://dartmoorwalking.org/gpx/pullabrook-woods.gpx"&gt;Download GPX &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download"&gt;&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/&gt;&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" /&gt;&lt;path d="M7 11l5 5l5 -5" /&gt;&lt;path d="M12 4l0 12" /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href="https://www.google.com/maps/dir/?api=1&amp;destination=50.60796%2c-3.71258" target="_blank"&gt;Directions to Car Park &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-directions"&gt;
-&lt;path stroke="none" d="M0 0h24v24H0z" fill="none" /&gt;
-&lt;path d="M12 21v-4" /&gt;
-&lt;path d="M12 13v-4" /&gt;
-&lt;path d="M12 5v-2" /&gt;
-&lt;path d="M10 21h4" /&gt;
-&lt;path d="M8 5v4h11l2 -2l-2 -2z" /&gt;
-&lt;path d="M14 13v4h-8l-2 -2l2 -2z" /&gt;
-&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href="https://w3w.co/cosmetic.outlawing.limes" target="_blank"&gt;What Three Words&lt;/a&gt; &lt;code&gt;cosmetic.outlawing.limes&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt; Grade: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/tags/gentle/&#34;&gt;Gentle&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/gpx/pullabrook-woods.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.60796%2c-3.71258&#34; target=&#34;_blank&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
+    &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
+    &lt;path d=&#34;M12 21v-4&#34; /&gt;
+    &lt;path d=&#34;M12 13v-4&#34; /&gt;
+    &lt;path d=&#34;M12 5v-2&#34; /&gt;
+    &lt;path d=&#34;M10 21h4&#34; /&gt;
+    &lt;path d=&#34;M8 5v4h11l2 -2l-2 -2z&#34; /&gt;
+    &lt;path d=&#34;M14 13v4h-8l-2 -2l2 -2z&#34; /&gt;
+  &lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href=&#34;https://w3w.co/cosmetic.outlawing.limes&#34; target=&#34;_blank&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;cosmetic.outlawing.limes&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="map"&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/map.jpg"
-width="1319"
-height="742"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/map_hu_9878716e655478ba.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/map_hu_5e5b4e57d4962e5b.jpg 1024w"
-loading="lazy"
-alt="Map of Route - Crown Copyright - Ordnance Survey Licence number 100047373"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;h2 id=&#34;map&#34;&gt;Map
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/map.jpg&#34;
+	width=&#34;1319&#34;
+	height=&#34;742&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/map_hu_9878716e655478ba.jpg 480w, http://localhost:1313/p/pullabrook-woods/map_hu_5e5b4e57d4962e5b.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Note that the OS Map incorrectly names these woods as &amp;ldquo;Pullbrook&amp;rdquo; instead of &amp;ldquo;Pullabrook&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id="introduction"&gt;Introduction
-&lt;/h2&gt;&lt;p&gt;Owned and managed by the &lt;a class="link" href="https://www.woodlandtrust.org.uk/visiting-woods/woods/bovey-valley-woods/" target="_blank" rel="noopener"
-&gt;Woodland Trust&lt;/a&gt;, Pullabrook Woods is a lovely little area popular with dog walkers. There are woodland paths up the west side of the River Bovey, crossing it at a notable stone bridge, and back down the Eastern side, re-crossing close to the car park. It&amp;rsquo;s particularly lovely on a hot summer&amp;rsquo;s day as most is well shaded. The area is known for its wildlife, especially wild birds - with the rare Dartford Warbler, the Kingfisher and Pied Flycatcher seen here. There are also dormice, otter and bats with the river home to Salmon and Brown and Sea Trout.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/1.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/1_hu_a4b157e949088b2f.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/1_hu_7f4a276dabae3176.jpg 1024w"
-loading="lazy"
-alt="The turn off to the parking (left) and Drakeford Bridge (right)"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;Owned and managed by the &lt;a class=&#34;link&#34; href=&#34;https://www.woodlandtrust.org.uk/visiting-woods/woods/bovey-valley-woods/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Woodland Trust&lt;/a&gt;, Pullabrook Woods is a lovely little area popular with dog walkers. There are woodland paths up the west side of the River Bovey, crossing it at a notable stone bridge, and back down the Eastern side, re-crossing close to the car park. It&amp;rsquo;s particularly lovely on a hot summer&amp;rsquo;s day as most is well shaded. The area is known for its wildlife, especially wild birds - with the rare Dartford Warbler, the Kingfisher and Pied Flycatcher seen here. There are also dormice, otter and bats with the river home to Salmon and Brown and Sea Trout.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/1.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/1_hu_a4b157e949088b2f.jpg 480w, http://localhost:1313/p/pullabrook-woods/1_hu_7f4a276dabae3176.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The turn off to the parking (left) and Drakeford Bridge (right)&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/2.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/2_hu_23ee939e718ccf10.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/2_hu_38fb7b0d77b390c9.jpg 1024w"
-loading="lazy"
-alt="Pullabrook Car Parking"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/2.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/2_hu_23ee939e718ccf10.jpg 480w, http://localhost:1313/p/pullabrook-woods/2_hu_38fb7b0d77b390c9.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Pullabrook Car Parking&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;h2 id="pullabrook-woods"&gt;Pullabrook Woods
+&lt;h2 id=&#34;pullabrook-woods&#34;&gt;Pullabrook Woods
 &lt;/h2&gt;&lt;p&gt;Also known as &amp;ldquo;Pullbrook Woods&amp;rdquo;, if only by Ordance Survey, these woodlands are 50 acres (20ha) in size and are a mix of ancient woodland and wildflower-rich wet meadows in the steep-sided valley of the River Bovey.&lt;/p&gt;
 &lt;p&gt;The name Pullabrook probably comes from the personal name, &amp;ldquo;Polla&amp;rdquo;, so in modern terms, &amp;ldquo;Polla&amp;rsquo;s Brook&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;The nearby Pullabrook Farm is mentioned in the Domesday book of 1086 where it is written as &amp;ldquo;Polebroc&amp;rdquo; and was seized by William the Conqueror as part of the Bovi estate when the Normans invaded. As a reward for his support, William gave this estate to Geoffrey de Mowbray the Bishop of Coutances. The current farmhouse dates from the sixteenth century and is Grade II listed.&lt;/p&gt;
+&lt;p&gt;The nearby Pullabrook Farm is mentioned in the Domesday book of 1086 where it is written as &amp;ldquo;Polebroc&amp;rdquo; and was seized by William the Conqueror as part of the Bovi estate when the Normans invaded. As a reward for his support, William gave this estate to  Geoffrey de Mowbray the Bishop of Coutances. The current farmhouse dates from the sixteenth century and is Grade II listed.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://boveytraceyhistory.org.uk/places/pullabrook/" target="_blank" rel="noopener"
-&gt;Bovey Tracey History - Pullabrook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://boveytraceyhistory.org.uk/places/pullabrook/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Bovey Tracey History - Pullabrook&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/3.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/3_hu_f4b466442e9130b.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/3_hu_a29d2b32eeb6ff92.jpg 1024w"
-loading="lazy"
-alt="Head West through the gateway"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/3.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/3_hu_f4b466442e9130b.jpg 480w, http://localhost:1313/p/pullabrook-woods/3_hu_a29d2b32eeb6ff92.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Head West through the gateway&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Follow the Bridleway West at the far end of the car park&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/4.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/4_hu_259ee31345f84d72.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/4_hu_a094e909c19d2782.jpg 1024w"
-loading="lazy"
-alt="Ivy and Ash"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/4.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/4_hu_259ee31345f84d72.jpg 480w, http://localhost:1313/p/pullabrook-woods/4_hu_a094e909c19d2782.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Ivy and Ash&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/5.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/5_hu_1b93ecd6beacb965.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/5_hu_ec84d87811fc913f.jpg 1024w"
-loading="lazy"
-alt="Looking back along the track, with a flood plain of the River Bovey to the left"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/5.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/5_hu_1b93ecd6beacb965.jpg 480w, http://localhost:1313/p/pullabrook-woods/5_hu_ec84d87811fc913f.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Looking back along the track, with a flood plain of the River Bovey to the left&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/6.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/6_hu_cd07fc39aa473de5.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/6_hu_c07ad300e676adb2.jpg 1024w"
-loading="lazy"
-alt="Looking ahead. Beech, Sycamore, Maple, Hazel, Oak, Sweet Chestnut, Holly and Rowan"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/6.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/6_hu_cd07fc39aa473de5.jpg 480w, http://localhost:1313/p/pullabrook-woods/6_hu_c07ad300e676adb2.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Looking ahead. Beech, Sycamore, Maple, Hazel, Oak, Sweet Chestnut, Holly and Rowan&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;h2 id="old-manaton-road"&gt;Old Manaton Road
-&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/7.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/7_hu_34432540a66875e4.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/7_hu_2e9b26c32c20b496.jpg 1024w"
-loading="lazy"
-alt="The track emerges here and we turn right to the North West. SX 78322 79547"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;h2 id=&#34;old-manaton-road&#34;&gt;Old Manaton Road
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/7.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/7_hu_34432540a66875e4.jpg 480w, http://localhost:1313/p/pullabrook-woods/7_hu_2e9b26c32c20b496.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The track emerges here and we turn right to the North West. SX 78322 79547&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;We briefly leave The Woodland&amp;rsquo;s Trust land and enter the bottom edge of Trendlebere Down, owned by English Heritage.&lt;/p&gt;
 &lt;p&gt;This unsealed track is, in fact, a fully legal road and you may see cars and motorbikes using it as well as cyclists, horseriders and walkers.&lt;/p&gt;
 &lt;p&gt;Before the road that travels above us on Trendlebere Down was built in the 19th Century, this was the original and main road between Bovey Tracey and Manaton.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s now a Byway Open to All Traffic (BOAT) which means any road going vehicle can legally use it provided they are taxed and insured - although much of it is only suitable to off road vehicles.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/gateway/Results_Single.aspx?uid=MDV124566&amp;amp;resourceID=104" target="_blank" rel="noopener"
-&gt;Heritage Gateway MDV124566 - Old Manaton Road&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/gateway/Results_Single.aspx?uid=MDV124566&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Heritage Gateway MDV124566 - Old Manaton Road&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="lustleigh-parish-boundary-stone"&gt;Lustleigh Parish Boundary Stone
-&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/8.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/8_hu_2a742e89bc055bc9.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/8_hu_b804e545049fa076.jpg 1024w"
-loading="lazy"
-alt="Near to the junction, the LP MM Stone"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;h2 id=&#34;lustleigh-parish-boundary-stone&#34;&gt;Lustleigh Parish Boundary Stone
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/8.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/8_hu_2a742e89bc055bc9.jpg 480w, http://localhost:1313/p/pullabrook-woods/8_hu_b804e545049fa076.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Near to the junction, the LP MM Stone&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;This stone was erected in 2000, hence the Roman numerals, MM.&lt;/p&gt;
 &lt;p&gt;LP stands for Lustleigh Parish which extends to the North.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/9.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/9_hu_39bc05a8791c8411.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/9_hu_64e49b4f1364bbe6.jpg 1024w"
-loading="lazy"
-alt="Old Manaton Road"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/9.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/9_hu_39bc05a8791c8411.jpg 480w, http://localhost:1313/p/pullabrook-woods/9_hu_64e49b4f1364bbe6.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Old Manaton Road&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;h2 id="the-pudding-stone"&gt;The Pudding Stone
-&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/10.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/10_hu_2a3f6230b970d5db.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/10_hu_96fc323d916cee90.jpg 1024w"
-loading="lazy"
-alt="Pudding stone. SX 77950 79976"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;h2 id=&#34;the-pudding-stone&#34;&gt;The Pudding Stone
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/10.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/10_hu_2a3f6230b970d5db.jpg 480w, http://localhost:1313/p/pullabrook-woods/10_hu_96fc323d916cee90.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Pudding stone. SX 77950 79976&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/11.jpg"
-width="4160"
-height="3120"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/11_hu_8deed67d903aa598.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/11_hu_9f71e435ca7c3472.jpg 1024w"
-loading="lazy"
-alt="Thomas, for scale"
-class="gallery-image"
-data-flex-grow="133"
-data-flex-basis="320px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/11.jpg&#34;
+	width=&#34;4160&#34;
+	height=&#34;3120&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/11_hu_8deed67d903aa598.jpg 480w, http://localhost:1313/p/pullabrook-woods/11_hu_9f71e435ca7c3472.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Thomas, for scale&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/12.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/12_hu_9ee6223dd6386405.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/12_hu_f495c54e4a474e5b.jpg 1024w"
-loading="lazy"
-alt="Ordnance Survey Benchmark"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/12.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/12_hu_9ee6223dd6386405.jpg 480w, http://localhost:1313/p/pullabrook-woods/12_hu_f495c54e4a474e5b.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Ordnance Survey Benchmark&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;The name &amp;ldquo;Pudding Stone&amp;rdquo; describe several types of rock around the world. In this case, it&amp;rsquo;s likely that this is just a natural lumps of granite that happens to resemble a pudding.&lt;/p&gt;
 &lt;p&gt;If you look closely, you will see that it has a inscribed feature of an arrow and line. This is a benchmark, likely carved during the 1800s when the Ordnance Survey did detailed mapping of the UK. There are over half a million of these symbols, some dating back to 1831, which provide a fixed point of reference. They are no longer created as technology has made them obsolete, but still a good reminder of how we created the most accurate maps in the world by measuring angles.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://www.ordnancesurvey.co.uk/blog/25-years-since-last-benchmark" target="_blank" rel="noopener"
-&gt;Ordnance Survey - Benchmarks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://en.wikipedia.org/wiki/Benchmark_%28surveying%29" target="_blank" rel="noopener"
-&gt;Wikipedia - Benchmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.ordnancesurvey.co.uk/blog/25-years-since-last-benchmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Ordnance Survey - Benchmarks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Benchmark_%28surveying%29&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Wikipedia - Benchmark&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/13.jpg"
-width="1600"
-height="891"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/13_hu_b171c73d864f4c97.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/13_hu_a13511503ecc524e.jpg 1024w"
-loading="lazy"
-alt="Double fingerpost"
-class="gallery-image"
-data-flex-grow="179"
-data-flex-basis="430px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/13.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;891&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/13_hu_b171c73d864f4c97.jpg 480w, http://localhost:1313/p/pullabrook-woods/13_hu_a13511503ecc524e.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Double fingerpost&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;179&#34;
+		data-flex-basis=&#34;430px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/14.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/14_hu_d7688ec06473e011.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/14_hu_11b49851b4f85eba.jpg 1024w"
-loading="lazy"
-alt="Puddingstone Gate down to Hisley Bridge. SX 77961 79977"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/14.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/14_hu_d7688ec06473e011.jpg 480w, http://localhost:1313/p/pullabrook-woods/14_hu_11b49851b4f85eba.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Puddingstone Gate down to Hisley Bridge. 	SX 77961 79977&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;h2 id="hisley-fairy-bridge"&gt;Hisley &amp;ldquo;Fairy&amp;rdquo; Bridge
-&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/17.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/17_hu_8a692f8a8510f69a.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/17_hu_83f5acb0e3e5a92f.jpg 1024w"
-loading="lazy"
-alt="Hisley Bridge"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;h2 id=&#34;hisley-fairy-bridge&#34;&gt;Hisley &amp;ldquo;Fairy&amp;rdquo; Bridge
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/17.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/17_hu_8a692f8a8510f69a.jpg 480w, http://localhost:1313/p/pullabrook-woods/17_hu_83f5acb0e3e5a92f.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Hisley Bridge&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;Hisley Bridge is a post-medieval bridge built some time between 1401 and 1750 to improve safe access over the river for pack horses when the river is in spate, making the ford difficult.&lt;/p&gt;
 &lt;p&gt;The pillar in the middle of the bridge is a modern addition to prevent off road vehicles from using the bridge, which had already caused damage.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/18.jpg"
-width="1200"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/18_hu_f0490703ec6cc183.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/18_hu_10231ba0cd717b36.jpg 1024w"
-loading="lazy"
-alt="Slotted gatepost"
-class="gallery-image"
-data-flex-grow="133"
-data-flex-basis="320px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/18.jpg&#34;
+	width=&#34;1200&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/18_hu_f0490703ec6cc183.jpg 480w, http://localhost:1313/p/pullabrook-woods/18_hu_10231ba0cd717b36.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Slotted gatepost&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;Note the slotted gatepost to one side, presumably to control use by pack pony drivers or to prevent livestock from crossing.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/19.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/19_hu_f608e62bdcdcdca4.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/19_hu_ca69f8b43c58d760.jpg 1024w"
-loading="lazy"
-alt="Slotted gatepost re-used as a hanging gatepost"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/19.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/19_hu_f608e62bdcdcdca4.jpg 480w, http://localhost:1313/p/pullabrook-woods/19_hu_ca69f8b43c58d760.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Slotted gatepost re-used as a hanging gatepost&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/20.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/20_hu_9a5a98ee63028a54.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/20_hu_5957fedc0dd58751.jpg 1024w"
-loading="lazy"
-alt="You can see wear from cartheels, so it wasn’t only used for pack ponies"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/20.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/20_hu_9a5a98ee63028a54.jpg 480w, http://localhost:1313/p/pullabrook-woods/20_hu_5957fedc0dd58751.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;You can see wear from cartheels, so it wasn’t only used for pack ponies&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/21.jpg"
-width="4000"
-height="3000"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/21_hu_fc072be809bf3b15.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/21_hu_8a4237827c61a72e.jpg 1024w"
-loading="lazy"
-alt="Underneath"
-class="gallery-image"
-data-flex-grow="133"
-data-flex-basis="320px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/21.jpg&#34;
+	width=&#34;4000&#34;
+	height=&#34;3000&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/21_hu_fc072be809bf3b15.jpg 480w, http://localhost:1313/p/pullabrook-woods/21_hu_8a4237827c61a72e.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Underneath&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/22.jpg"
-width="4000"
-height="3000"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/22_hu_4201eb41f92f455a.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/22_hu_78ab73efcc310fb5.jpg 1024w"
-loading="lazy"
-alt="Hisley Ford and Bridge"
-class="gallery-image"
-data-flex-grow="133"
-data-flex-basis="320px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/22.jpg&#34;
+	width=&#34;4000&#34;
+	height=&#34;3000&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/22_hu_4201eb41f92f455a.jpg 480w, http://localhost:1313/p/pullabrook-woods/22_hu_78ab73efcc310fb5.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Hisley Ford and Bridge&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/15.jpg"
-width="4000"
-height="3000"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/15_hu_69a46e87f23c31b4.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/15_hu_339a4d6a9c072086.jpg 1024w"
-loading="lazy"
-alt="Hisley Ford"
-class="gallery-image"
-data-flex-grow="133"
-data-flex-basis="320px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/15.jpg&#34;
+	width=&#34;4000&#34;
+	height=&#34;3000&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/15_hu_69a46e87f23c31b4.jpg 480w, http://localhost:1313/p/pullabrook-woods/15_hu_339a4d6a9c072086.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Hisley Ford&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/16.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/16_hu_7777a95df14c232d.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/16_hu_c9456283004dd054.jpg 1024w"
-loading="lazy"
-alt="Pair of Granite gateposts near the bridge"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/16.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/16_hu_7777a95df14c232d.jpg 480w, http://localhost:1313/p/pullabrook-woods/16_hu_c9456283004dd054.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Pair of Granite gateposts near the bridge&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -292,220 +399,289 @@ data-flex-basis="426px"
 &lt;p&gt;There are also remains of a 19th century weir nearby.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/gateway/Results_Single.aspx?uid=MDV124630&amp;amp;resourceID=104" target="_blank" rel="noopener"
-&gt;Heritage Gateway MDV124630 - Hisley Bridge&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/gateway/Results_Single.aspx?uid=MDV124630&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Heritage Gateway MDV124630 - Hisley Bridge&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/gateway/Results_Single.aspx?uid=MDV28070&amp;amp;resourceID=104" target="_blank" rel="noopener"
-&gt;Heritage Gateway MDV28070 - Deserted Settlement&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/gateway/Results_Single.aspx?uid=MDV28070&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Heritage Gateway MDV28070 - Deserted Settlement&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;We cross the bridge and follow the lower path to the right, downstream&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id="hisley-and-rudge-woods"&gt;Hisley and Rudge Woods
-&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/23.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/23_hu_f4803d182072b8ad.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/23_hu_b4389e832b9b8d44.jpg 1024w"
-loading="lazy"
-alt="You may see bat boxes on the trees"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;h2 id=&#34;hisley-and-rudge-woods&#34;&gt;Hisley and Rudge Woods
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/23.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/23_hu_f4803d182072b8ad.jpg 480w, http://localhost:1313/p/pullabrook-woods/23_hu_b4389e832b9b8d44.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;You may see bat boxes on the trees&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/24.jpg"
-width="4000"
-height="3000"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/24_hu_37e0cfe856810ed.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/24_hu_427c06d5dce3ef62.jpg 1024w"
-loading="lazy"
-alt="And bird boxes"
-class="gallery-image"
-data-flex-grow="133"
-data-flex-basis="320px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/24.jpg&#34;
+	width=&#34;4000&#34;
+	height=&#34;3000&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/24_hu_37e0cfe856810ed.jpg 480w, http://localhost:1313/p/pullabrook-woods/24_hu_427c06d5dce3ef62.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;And bird boxes&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/25.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/25_hu_6970d6af03af2c84.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/25_hu_409cdf4d35a23649.jpg 1024w"
-loading="lazy"
-alt="Gate along the path. SX 78045 79962"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/25.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/25_hu_6970d6af03af2c84.jpg 480w, http://localhost:1313/p/pullabrook-woods/25_hu_409cdf4d35a23649.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Gate along the path. SX 78045 79962&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/26.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/26_hu_136c44027ce586d3.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/26_hu_8316aa493aeb4524.jpg 1024w"
-loading="lazy"
-alt="A large fallen tree forms a natural bridge over the river"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/26.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/26_hu_136c44027ce586d3.jpg 480w, http://localhost:1313/p/pullabrook-woods/26_hu_8316aa493aeb4524.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A large fallen tree forms a natural bridge over the river&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/27.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/27_hu_9756398df55a25aa.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/27_hu_91fb83132b89dc9c.jpg 1024w"
-loading="lazy"
-alt="Fine example of a Golden Shield Fern, Dryopteris affinis"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/27.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/27_hu_9756398df55a25aa.jpg 480w, http://localhost:1313/p/pullabrook-woods/27_hu_91fb83132b89dc9c.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Fine example of a Golden Shield Fern, Dryopteris affinis&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/28.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/28_hu_5cc2b887f6b0db4b.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/28_hu_61ecc82a70920050.jpg 1024w"
-loading="lazy"
-alt="Bluebells amongst young bracken"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/28.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/28_hu_5cc2b887f6b0db4b.jpg 480w, http://localhost:1313/p/pullabrook-woods/28_hu_61ecc82a70920050.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Bluebells amongst young bracken&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/29.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/29_hu_57af8b7aa941c599.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/29_hu_855cf887755b5ed1.jpg 1024w"
-loading="lazy"
-alt="A glade in Rudge Woods"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/29.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/29_hu_57af8b7aa941c599.jpg 480w, http://localhost:1313/p/pullabrook-woods/29_hu_855cf887755b5ed1.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;A glade in Rudge Woods&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/30.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/30_hu_988be3e020de0846.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/30_hu_1e74e98eee2bab3.jpg 1024w"
-loading="lazy"
-alt="River Bovey"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/30.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/30_hu_988be3e020de0846.jpg 480w, http://localhost:1313/p/pullabrook-woods/30_hu_1e74e98eee2bab3.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;River Bovey&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;h2 id="rudge-meadow"&gt;Rudge Meadow
-&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/31.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/31_hu_1a9817addd6b5d9b.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/31_hu_d0febdbe5af4e9d6.jpg 1024w"
-loading="lazy"
-alt="Rudge Meadow"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;h2 id=&#34;rudge-meadow&#34;&gt;Rudge Meadow
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/31.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/31_hu_1a9817addd6b5d9b.jpg 480w, http://localhost:1313/p/pullabrook-woods/31_hu_d0febdbe5af4e9d6.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Rudge Meadow&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;Emerging from Rudge Woods, we find ourselves in Rudge Meadow. On the 1838 Tithe Map, this is shown as &amp;ldquo;Great Moor&amp;rdquo; and was covered in Furze (Gorse). It has been improved since then.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://www.devon.gov.uk/historicenvironment/tithe-map/lustleigh/" target="_blank" rel="noopener"
-&gt;Lustleigh Tithe Map, 1838&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.devon.gov.uk/historicenvironment/tithe-map/lustleigh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Lustleigh Tithe Map, 1838&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/32.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/32_hu_d474596711edc7f0.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/32_hu_9e3f504f674026fa.jpg 1024w"
-loading="lazy"
-alt="The white-lichen covered granite pillar marking the exit of the meadow onto the road"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/32.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/32_hu_d474596711edc7f0.jpg 480w, http://localhost:1313/p/pullabrook-woods/32_hu_9e3f504f674026fa.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The white-lichen covered granite pillar marking the exit of the meadow onto the road&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Go through the gate and turn right down the road&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/33.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/33_hu_46307df5463c107b.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/33_hu_b5c0e71822d0b210.jpg 1024w"
-loading="lazy"
-alt="Old iron road sign"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/33.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/33_hu_46307df5463c107b.jpg 480w, http://localhost:1313/p/pullabrook-woods/33_hu_b5c0e71822d0b210.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Old iron road sign&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;At this junction, a short detour left is recommended to the viaduct&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id="packsaddle-bridge-and-viaduct"&gt;Packsaddle Bridge and Viaduct
-&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/34.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/34_hu_73d37d7620927cff.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/34_hu_8c969a641154ee2d.jpg 1024w"
-loading="lazy"
-alt="Packsaddle Bridge over the Wray Brook"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;h2 id=&#34;packsaddle-bridge-and-viaduct&#34;&gt;Packsaddle Bridge and Viaduct
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/34.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/34_hu_73d37d7620927cff.jpg 480w, http://localhost:1313/p/pullabrook-woods/34_hu_8c969a641154ee2d.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Packsaddle Bridge over the Wray Brook&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/35.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/35_hu_c3fe2404433f346b.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/35_hu_556cfabb57b29f45.jpg 1024w"
-loading="lazy"
-alt="Viaduct"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/35.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/35_hu_c3fe2404433f346b.jpg 480w, http://localhost:1313/p/pullabrook-woods/35_hu_556cfabb57b29f45.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Viaduct&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;The viaduct once carried the GWR Moretonhampstead Railway Branch Line. This opened in 1866 as an independent line, and amalgamated with the GWR ten years later. British Rail nationalised it in 1948 and it closed in 1964 - another victim of Dr Beeching&amp;rsquo;s cuts.&lt;/p&gt;
 &lt;p&gt;Part of this line remains from Newton Abbot to Heathfield, although it has not been used for several years. It was resurrected briefly in the 2000&amp;rsquo;s to take away timber from Teign Grace halt but has since been idle.&lt;/p&gt;
 &lt;p&gt;You can see more evidence of the railway in many places from Newton Abbot to Moretonhampstead - such as the railway sheds at Bovey Tracey, many viaducts such as this, and some engine sheds at the Thompson&amp;rsquo;s lorry yard where it terminated. Much of the route is now a shared-use path for walkers, cyclists and horseriders.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/36.jpg"
-width="448"
-height="448"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/36_hu_2fd3f0ac31dd7868.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/36_hu_1f92cff0c978db8c.jpg 1024w"
-loading="lazy"
-alt="The railway passing the Railway Sheds at Bovey Tracey - now the main bypass. This is looking down towards the fire station"
-class="gallery-image"
-data-flex-grow="100"
-data-flex-basis="240px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/36.jpg&#34;
+	width=&#34;448&#34;
+	height=&#34;448&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/36_hu_2fd3f0ac31dd7868.jpg 480w, http://localhost:1313/p/pullabrook-woods/36_hu_1f92cff0c978db8c.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;The railway passing the Railway Sheds at Bovey Tracey - now the main bypass. This is looking down towards the fire station&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;There was a nearby Pullabrook Halt railway stop, which was renamed in 1955 from Hawksmoor Halt, for the (not so nearby) Tuberculosis Sanitorium.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://en.wikipedia.org/wiki/Moretonhampstead_and_South_Devon_Railway" target="_blank" rel="noopener"
-&gt;Wikipedia - Moretonhampstead and South Devon Railway&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://en.wikipedia.org/wiki/Pullabrook_Halt_railway_station" target="_blank" rel="noopener"
-&gt;Wikipedia - Pullabrook Halt Railway Station&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Moretonhampstead_and_South_Devon_Railway&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Wikipedia - Moretonhampstead and South Devon Railway&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Pullabrook_Halt_railway_station&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Wikipedia - Pullabrook Halt Railway Station&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;When ready, turn around and head back towards the car park&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id="drakeford-bridge"&gt;Drakeford Bridge
-&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/37.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/37_hu_56062f242e1f4e5f.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/37_hu_fdfc6cfeae3b64f9.jpg 1024w"
-loading="lazy"
-alt="Drakeford Bridge over the River Bovey. SX 78935 80133"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;h2 id=&#34;drakeford-bridge&#34;&gt;Drakeford Bridge
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/37.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/37_hu_56062f242e1f4e5f.jpg 480w, http://localhost:1313/p/pullabrook-woods/37_hu_fdfc6cfeae3b64f9.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Drakeford Bridge over the River Bovey. SX 78935 80133&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;William Crossing refers to this as New Bridge in the 1912 edition of Crossing&amp;rsquo;s Guide to Dartmoor, and it is also known as Letford Bridge. However, today, it is best known as Drakeford Bridge.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/pullabrook-woods/38.jpg"
-width="1600"
-height="900"
-srcset="https://dartmoorwalking.org/p/pullabrook-woods/38_hu_a75e37eb50cea0ee.jpg 480w, https://dartmoorwalking.org/p/pullabrook-woods/38_hu_9b9a8543530feead.jpg 1024w"
-loading="lazy"
-alt="Incised stone in the parapet"
-class="gallery-image"
-data-flex-grow="177"
-data-flex-basis="426px"
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/pullabrook-woods/38.jpg&#34;
+	width=&#34;1600&#34;
+	height=&#34;900&#34;
+	srcset=&#34;http://localhost:1313/p/pullabrook-woods/38_hu_a75e37eb50cea0ee.jpg 480w, http://localhost:1313/p/pullabrook-woods/38_hu_9b9a8543530feead.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Incised stone in the parapet&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;THIS 1684
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;BRIDGE WAS
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;REPARD
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Y THE
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;COVNTY
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;THIS 1684
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;BRIDGE WAS
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;REPARD
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Y THE
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;COVNTY
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Note: The &amp;lsquo;4&amp;rsquo; is carved back to front.&lt;/p&gt;
-&lt;h2 id="parking"&gt;Parking
+&lt;h2 id=&#34;parking&#34;&gt;Parking
 &lt;/h2&gt;&lt;p&gt;There is a free car park at the posted coordinates operated by the Woodland Trust. There is some parking at Trendlebeer Down also, if you don&amp;rsquo;t mind a stiff walk back up the hill.&lt;/p&gt;
-&lt;h2 id="references"&gt;References
+&lt;h2 id=&#34;references&#34;&gt;References
 &lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class="link" href="https://www.woodlandtrust.org.uk/visiting-woods/woods/bovey-valley-woods/" target="_blank" rel="noopener"
-&gt;Woodland Trust&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://boveytraceyhistory.org.uk/places/pullabrook/" target="_blank" rel="noopener"
-&gt;Bovey Tracey History - Pullabrook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://www.ordnancesurvey.co.uk/blog/25-years-since-last-benchmark" target="_blank" rel="noopener"
-&gt;Ordnance Survey - Benchmarks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://en.wikipedia.org/wiki/Benchmark_%28surveying%29" target="_blank" rel="noopener"
-&gt;Wikipedia - Benchmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/gateway/Results_Single.aspx?uid=MDV124630&amp;amp;resourceID=104" target="_blank" rel="noopener"
-&gt;Heritage Gateway MDV124630 - Hisley Bridge&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://en.wikipedia.org/wiki/Moretonhampstead_and_South_Devon_Railway" target="_blank" rel="noopener"
-&gt;Wikipedia - Moretonhampstead and South Devon Railway&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="link" href="https://en.wikipedia.org/wiki/Pullabrook_Halt_railway_station" target="_blank" rel="noopener"
-&gt;Wikipedia - Pullabrook Halt Railway Station&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.woodlandtrust.org.uk/visiting-woods/woods/bovey-valley-woods/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Woodland Trust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://boveytraceyhistory.org.uk/places/pullabrook/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Bovey Tracey History - Pullabrook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.ordnancesurvey.co.uk/blog/25-years-since-last-benchmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Ordnance Survey - Benchmarks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Benchmark_%28surveying%29&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Wikipedia - Benchmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/gateway/Results_Single.aspx?uid=MDV124630&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Heritage Gateway MDV124630 - Hisley Bridge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Moretonhampstead_and_South_Devon_Railway&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Wikipedia - Moretonhampstead and South Devon Railway&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Pullabrook_Halt_railway_station&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Wikipedia - Pullabrook Halt Railway Station&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

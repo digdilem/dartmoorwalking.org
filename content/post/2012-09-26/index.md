@@ -203,7 +203,13 @@ As we approach the woodland, there is a cist at SX 66134 86426
 
 We hope you enjoyed your walk around Shoveldown and Chagford Common.
 
-## Road Directions from Warren House Inn (towards Moretonhampstead)
+## Road Directions
+
+*From Warren House Inn towards Moretonhampstead*
+
+The approach roads to Batworthy are quite long and narrow, although rarely busy.
+
+- Postcode for Batworthy is `TQ13 8EU`
 
 1. Take 1st road on LEFT – route to Fernworthy
 2. Pass Jurston Farm
@@ -219,7 +225,7 @@ We hope you enjoyed your walk around Shoveldown and Chagford Common.
 
 ## Parking
 
-There is a small parking area at the given coordinates. The approach roads to Batworthy are quite long and narrow, although rarely busy.
+There is a small parking area at the given coordinates.
 
 ## References
 {{< show-extracted-links >}}
