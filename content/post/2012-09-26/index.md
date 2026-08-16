@@ -7,7 +7,6 @@ coords: 50.66321,-3.89451
 grade: Gentle
 w3w: beep.ruler.finest
 gpx: batworthy-and-chagford-common
-
 image: 27.jpg
 tags:
   - circular
@@ -18,6 +17,7 @@ tags:
   - hut-circle
   - menhir
   - tor
+  - farm
   - rock-basin
 keywords:
   - dartmoor

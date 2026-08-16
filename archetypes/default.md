@@ -31,8 +31,8 @@ keywords:
   - england
 comments: true
 draft: false
-author: Keith Ryan
-# recorder:
+author: Liz Miall
+recorder: Keith Ryan
 license: Simon Avery
 walkdate: '{{ replace .File.ContentBaseName "-" "-" | title }}'
 date: '{{ .Date }}'

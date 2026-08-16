@@ -1,287 +1,212 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Pub on Dartmoor Walking</title>
-        <link>http://localhost:1313/tags/pub/</link>
-        <description>Recent content in Pub on Dartmoor Walking</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <copyright>Simon Avery</copyright>
-        <lastBuildDate>Tue, 22 Jul 2025 19:55:23 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/pub/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Hurston Stone Row</title>
-        <link>http://localhost:1313/p/hurston-stone-row/</link>
-        <pubDate>Tue, 22 Jul 2025 19:55:23 +0100</pubDate>
-        
-        <guid>http://localhost:1313/p/hurston-stone-row/</guid>
-        <description>&lt;img src="http://localhost:1313/p/hurston-stone-row/26.jpg" alt="Featured image of post Hurston Stone Row" /&gt;&lt;h2 id=&#34;information&#34;&gt;Information
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pub on Dartmoor Walking</title><link>https://dartmoorwalking.org/tags/pub/</link><description>Recent content in Pub on Dartmoor Walking</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Simon Avery</copyright><lastBuildDate>Tue, 22 Jul 2025 19:55:23 +0100</lastBuildDate><atom:link href="https://dartmoorwalking.org/tags/pub/index.xml" rel="self" type="application/rss+xml"/><item><title>Hurston Stone Row</title><link>https://dartmoorwalking.org/p/hurston-stone-row/</link><pubDate>Tue, 22 Jul 2025 19:55:23 +0100</pubDate><guid>https://dartmoorwalking.org/p/hurston-stone-row/</guid><description>&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/26.jpg" alt="Featured image of post Hurston Stone Row" /&gt;&lt;h2 id="information"&gt;Information
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Distance: &lt;b&gt;
 3 miles&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; Grade: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/tags/medium/&#34;&gt;Medium&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href=&#34;http://localhost:1313/gpx/hurston-stone-row.gpx&#34;&gt;Download GPX &lt;svg  xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34;  height=&#34;24&#34;  viewBox=&#34;0 0 24 24&#34;  fill=&#34;none&#34;  stroke=&#34;currentColor&#34;  stroke-width=&#34;2&#34;  stroke-linecap=&#34;round&#34;  stroke-linejoin=&#34;round&#34;  class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-download&#34;&gt;&lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2&#34; /&gt;&lt;path d=&#34;M7 11l5 5l5 -5&#34; /&gt;&lt;path d=&#34;M12 4l0 12&#34; /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&#34;https://www.google.com/maps/dir/?api=1&amp;destination=50.61364%2c-3.87413&#34; target=&#34;_blank&#34;&gt;Directions to Car Park  &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;icon icon-tabler icons-tabler-outline icon-tabler-directions&#34;&gt;
-    &lt;path stroke=&#34;none&#34; d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34; /&gt;
-    &lt;path d=&#34;M12 21v-4&#34; /&gt;
-    &lt;path d=&#34;M12 13v-4&#34; /&gt;
-    &lt;path d=&#34;M12 5v-2&#34; /&gt;
-    &lt;path d=&#34;M10 21h4&#34; /&gt;
-    &lt;path d=&#34;M8 5v4h11l2 -2l-2 -2z&#34; /&gt;
-    &lt;path d=&#34;M14 13v4h-8l-2 -2l2 -2z&#34; /&gt;
-  &lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt; &lt;a href=&#34;https://w3w.co/treaty.kingpin.budding&#34; target=&#34;_blank&#34;&gt;What Three Words&lt;/a&gt; &lt;code&gt;treaty.kingpin.budding&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt; Grade: &lt;b&gt;&lt;a href="https://dartmoorwalking.org/tags/medium/"&gt;Medium&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; A GPX route of this walk is available: &lt;b&gt;&lt;a href="https://dartmoorwalking.org/gpx/hurston-stone-row.gpx"&gt;Download GPX &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-download"&gt;&lt;path stroke="none" d="M0 0h24v24H0z" fill="none"/&gt;&lt;path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2" /&gt;&lt;path d="M7 11l5 5l5 -5" /&gt;&lt;path d="M12 4l0 12" /&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="https://www.google.com/maps/dir/?api=1&amp;destination=50.61364%2c-3.87413" target="_blank"&gt;Directions to Car Park &lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-directions"&gt;
+&lt;path stroke="none" d="M0 0h24v24H0z" fill="none" /&gt;
+&lt;path d="M12 21v-4" /&gt;
+&lt;path d="M12 13v-4" /&gt;
+&lt;path d="M12 5v-2" /&gt;
+&lt;path d="M10 21h4" /&gt;
+&lt;path d="M8 5v4h11l2 -2l-2 -2z" /&gt;
+&lt;path d="M14 13v4h-8l-2 -2l2 -2z" /&gt;
+&lt;/svg&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="https://w3w.co/treaty.kingpin.budding" target="_blank"&gt;What Three Words&lt;/a&gt; &lt;code&gt;treaty.kingpin.budding&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;map&#34;&gt;Map
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/map.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/map_hu_95b093264c26123d.jpg 480w, http://localhost:1313/p/hurston-stone-row/map_hu_db0bcc7e9fda5d35.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Map of Route -  Crown Copyright -  Ordnance Survey Licence number 100047373&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;h2 id="map"&gt;Map
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/map.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/map_hu_95b093264c26123d.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/map_hu_db0bcc7e9fda5d35.jpg 1024w"
+loading="lazy"
+alt="Map of Route - Crown Copyright - Ordnance Survey Licence number 100047373"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction
-&lt;/h2&gt;&lt;p&gt;This short walk starts at the Highest Pub in Southern England and climbs the gentle hill behind it, visiting several ancient sites on the way such as the Kings&amp;rsquo; Oven to the impressive Hurston Stone Row.  We then return along a low ridge to another cairn atop Water Hill, before dropping back down to the starting point.  The views are impressive, and although never far from the road, it&amp;rsquo;s possible to lose sight of modernity and step back in time in one&amp;rsquo;s imagination to when this area was a thriving tin mining valley, or even further back to the bronze age when it was also busy with several nearby settlements.&lt;/p&gt;
-&lt;h2 id=&#34;warren-house-inn&#34;&gt;Warren House Inn
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/1.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/1_hu_a65303e4cbf34a0.jpg 480w, http://localhost:1313/p/hurston-stone-row/1_hu_93f593bbb57de98a.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Warren House Inn&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;h2 id="introduction"&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;This short walk starts at the Highest Pub in Southern England and climbs the gentle hill behind it, visiting several ancient sites on the way such as the Kings&amp;rsquo; Oven to the impressive Hurston Stone Row. We then return along a low ridge to another cairn atop Water Hill, before dropping back down to the starting point. The views are impressive, and although never far from the road, it&amp;rsquo;s possible to lose sight of modernity and step back in time in one&amp;rsquo;s imagination to when this area was a thriving tin mining valley, or even further back to the bronze age when it was also busy with several nearby settlements.&lt;/p&gt;
+&lt;h2 id="warren-house-inn"&gt;Warren House Inn
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/1.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/1_hu_a65303e4cbf34a0.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/1_hu_93f593bbb57de98a.jpg 1024w"
+loading="lazy"
+alt="Warren House Inn"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
 &lt;p&gt;This pub claims to be the most famous pub on Dartmoor and is certainly one of the most visited, especially on a Summer&amp;rsquo;s day. When the prison was working, visitors would often stop by here on their way to visit friends and relatives.&lt;/p&gt;
 &lt;p&gt;At 434m above sea level, it&amp;rsquo;s the highest pub in Southern England and the second highest overall. It claims to have kept its fire burning continuously since 1845, which must make for exciting work as the pub&amp;rsquo;s chimney sweep.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/34.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/34_hu_719ceb53ef76c54.jpg 480w, http://localhost:1313/p/hurston-stone-row/34_hu_64c8800a137f283a.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Warren House Inn&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/34.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/34_hu_719ceb53ef76c54.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/34_hu_64c8800a137f283a.jpg 1024w"
+loading="lazy"
+alt="Warren House Inn"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
 &lt;p&gt;Originally named New House and built in 1751, it was then positioned on the opposite side of the road where the foundations can still be seen. In 1845, the pub was rebuilt and renamed to the &amp;ldquo;Moreton Inn&amp;rdquo; to serve the thriving tin mining industry that was literally on its doorstep, with Vitifer and Golden Dagger mines only a short distance downhill.&lt;/p&gt;
 &lt;p&gt;Shortly afterwards it was renamed to its present title for the Headland Warren that was built nearby to give the miners a steady supply of meat.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/35.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;562&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/35_hu_7dbab3c16221c125.jpg 480w, http://localhost:1313/p/hurston-stone-row/35_hu_737e34729eb0bdbd.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The three rabbits denoting tinning history&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;427px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/35.jpg"
+width="1000"
+height="562"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/35_hu_7dbab3c16221c125.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/35_hu_737e34729eb0bdbd.jpg 1024w"
+loading="lazy"
+alt="The three rabbits denoting tinning history"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="427px"
 &gt;&lt;/p&gt;
 &lt;p&gt;The sign of the tinners&amp;rsquo; three rabbits (sometimes called The Three Hares). This is often seen carved in Churches near mining areas, and usually the rabbits share only three ears between them.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.warrenhouseinn.co.uk/history.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Warren House History&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV18822&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway MDV18822 - Warren House Inn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="http://www.warrenhouseinn.co.uk/history.html" target="_blank" rel="noopener"
+&gt;Warren House History&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV18822&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;Heritage Gateway MDV18822 - Warren House Inn&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/2.jpg&#34;
-	width=&#34;1149&#34;
-	height=&#34;597&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/2_hu_bd3c0ac966d40403.jpg 480w, http://localhost:1313/p/hurston-stone-row/2_hu_3e949f6b7c7717a3.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;1840 Lydford Tithe Map showing New House on the other side of the road, half a decade before it was demolished&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;192&#34;
-		data-flex-basis=&#34;461px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/2.jpg"
+width="1149"
+height="597"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/2_hu_bd3c0ac966d40403.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/2_hu_3e949f6b7c7717a3.jpg 1024w"
+loading="lazy"
+alt="1840 Lydford Tithe Map showing New House on the other side of the road, half a decade before it was demolished"
+class="gallery-image"
+data-flex-grow="192"
+data-flex-basis="461px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;headland-warren&#34;&gt;Headland Warren
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/3.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/3_hu_efccbc872dc60e8d.jpg 480w, http://localhost:1313/p/hurston-stone-row/3_hu_60c2fee9551fdee9.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;One in a row of WB stones marking the boundary of Headland Warren. SX 67654 81164&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;h2 id="headland-warren"&gt;Headland Warren
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/3.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/3_hu_efccbc872dc60e8d.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/3_hu_60c2fee9551fdee9.jpg 1024w"
+loading="lazy"
+alt="One in a row of WB stones marking the boundary of Headland Warren. SX 67654 81164"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
 &lt;p&gt;The letters WB are difficult to see now, occupying the upper six inches on the face of the stone. This is one of a series of 15 similar stones that mark the bounds of Headland Warren, where rabbits were bred to feed the miners. Warren House Inn is named after the warren. The &amp;ldquo;15&amp;rdquo; bound stones includes the large Bennet&amp;rsquo;s Cross, which stands tall and proud to the side of the road, also marked &amp;ldquo;WB&amp;rdquo;. The stones date from around 1780 &lt;cite&gt; &amp;ndash; (Dave Brewer, 2002, Dartmoor Boundary Markers, pp. 265-268)&lt;/cite&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Benet’s Cross stands at the roadside, a tall roughly hewn cross with a distinctive bend in the shaft, inscribed on its north face the letters ‘WB’. The original purpose of the cross is uncertain — it may have been a route guide post, or a bond mark of lands owned by Buckfast Abbey, or perhaps both. The name should be spelt with a single ‘n’ and a single ‘t’ — though few people seem to do so — for it is derived from the Benedictine order of monks, indicating its former association with the original monastery at Buckfast — this was at first a Benedictine abbey, as also is the present one, but was a Cistercian monastery from the thirteenth century until the Dissolution. The cross also acted not only as a boundary marker for Headland Warren, to which the letters refer (WB = Warren Bounds), but also for the Vitifer and Birch Tor mining setts, as well as being a bond mark on the Chagford/North Bovey parish line, a purpose which it still serves today. A curious coincidence is the fact that a William Bennett was a representative of Chagford Stannary in the time of King Henry VIII, and he would have undoubtedly had some indirect connections with the earliest tin-streaming activities in the area.&amp;rdquo; &lt;cite&gt;&amp;mdash; Mike Brown (2001) Guide to Dartmoor&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&#34;carpn-moses-bungalow&#34;&gt;Carp&amp;rsquo;n Moses Bungalow
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/36.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/36_hu_5d28463483f9ecf4.jpg 480w, http://localhost:1313/p/hurston-stone-row/36_hu_27d025475569ed70.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The site of Cap’n Moses Bawden’s Bungalow. SX 67532 81087&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;h2 id="carpn-moses-bungalow"&gt;Carp&amp;rsquo;n Moses Bungalow
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/36.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/36_hu_5d28463483f9ecf4.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/36_hu_27d025475569ed70.jpg 1024w"
+loading="lazy"
+alt="The site of Cap’n Moses Bawden’s Bungalow. SX 67532 81087"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
 &lt;p&gt;Near to our parking are the ruins of a stone-built bungalow that belonged to Cap&amp;rsquo;n Moses, once captain of the Birch Tor &amp;amp; Vitifer Mine nearby. The bungalow was also known as King&amp;rsquo;s Bungalow (after King&amp;rsquo;s Oven) and it was demolished in 1976.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/37.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/37_hu_41db478c182e93ce.jpg 480w, http://localhost:1313/p/hurston-stone-row/37_hu_1c86e7ab4ad26c5.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;On the front edge of the above bungalow, also at SX 67532 81087&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/37.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/37_hu_41db478c182e93ce.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/37_hu_1c86e7ab4ad26c5.jpg 1024w"
+loading="lazy"
+alt="On the front edge of the above bungalow, also at SX 67532 81087"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
 &lt;p&gt;This green cast iron item is a Telegraph Marker. There are thirteen of these items between Moretonhampstead and Tavistock. They marked the route of underground telegraph cables placed in the late 19th and early 20th centuries. After bad blizzards of 1891, a need was seen to create more reliable communications after overhead telegraph cables were damaged and made inoperable.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://dartefacts.co.uk/?s=Telegraph&amp;#43;Markers&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dartefacts Telegraph Markers Map&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://dartefacts.co.uk/?s=Telegraph&amp;#43;Markers" target="_blank" rel="noopener"
+&gt;Dartefacts Telegraph Markers Map&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;starting-our-walk&#34;&gt;Starting our walk
+&lt;h2 id="starting-our-walk"&gt;Starting our walk
 &lt;/h2&gt;&lt;p&gt;&lt;em&gt;When ready to depart, follow the track directly off the road as seen below&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/4.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/4_hu_8142a4e67e4751e8.jpg 480w, http://localhost:1313/p/hurston-stone-row/4_hu_3559b4949114956a.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Follow this track&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/4.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/4_hu_8142a4e67e4751e8.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/4_hu_3559b4949114956a.jpg 1024w"
+loading="lazy"
+alt="Follow this track"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
 &lt;p&gt;The start of the walk is an ancient trackway to the open workings of the Water Hill Mine that has extensive diggings on this hillside. There is a large gert (A mining remain where tin was washed out of the rock) right behind the Warren House Inn that approaches from the west - this being the direction of the Caroline Mine. The Water Hill MIne workings extend rightwards in this photograph, towards Moretonhampstead, towards the workings of Bushdown Mine.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/5.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/5_hu_f1edc8c9e9d66ae4.jpg 480w, http://localhost:1313/p/hurston-stone-row/5_hu_a27fabc57b7f93de.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Just over 300 metres from the road the track crosses a gert, where tinners changed the look of the landscape&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/5.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/5_hu_f1edc8c9e9d66ae4.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/5_hu_a27fabc57b7f93de.jpg 1024w"
+loading="lazy"
+alt="Just over 300 metres from the road the track crosses a gert, where tinners changed the look of the landscape"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV27841&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway MDV27841 - Tin Working on South Side of Water Hill&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV54593&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway MDV54593 - Vast open cut on Water Hill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV27841&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;Heritage Gateway MDV27841 - Tin Working on South Side of Water Hill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV54593&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;Heritage Gateway MDV54593 - Vast open cut on Water Hill&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/6.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/6_hu_4e91ad483a01bf36.jpg 480w, http://localhost:1313/p/hurston-stone-row/6_hu_1caf7a488dc1a275.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Within sight of the track (and present in the previous photograph) is an apparent shaft is seen in the bottom of the gert&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/6.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/6_hu_4e91ad483a01bf36.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/6_hu_1caf7a488dc1a275.jpg 1024w"
+loading="lazy"
+alt="Within sight of the track (and present in the previous photograph) is an apparent shaft is seen in the bottom of the gert"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/7.jpg&#34;
-	width=&#34;1599&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/7_hu_20648542c5ce94ee.jpg 480w, http://localhost:1313/p/hurston-stone-row/7_hu_5947f2ec8a8300ec.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking west. Note the bumps on the horizon - spoil heaps from mining&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/7.jpg"
+width="1599"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/7_hu_20648542c5ce94ee.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/7_hu_5947f2ec8a8300ec.jpg 1024w"
+loading="lazy"
+alt="Looking west. Note the bumps on the horizon - spoil heaps from mining"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
 &lt;p&gt;Tin was the prime motive for the mining of this area, specifically Casseterite.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.mindat.org/loc-130442.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Mindat mining and mineralogy details of this area&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.mindat.org/loc-130442.html" target="_blank" rel="noopener"
+&gt;Mindat mining and mineralogy details of this area&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;kings-oven-and-v-stones&#34;&gt;Kings&amp;rsquo; Oven and V-Stones
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/8.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/8_hu_dae6fd14bca12187.jpg 480w, http://localhost:1313/p/hurston-stone-row/8_hu_cf64ac1f28548989.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Viewed from the gert is Kings’ Oven. A roughly circular pound about 60 meters across, associated with ancient tin smelting&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;h2 id="kings-oven-and-v-stones"&gt;Kings&amp;rsquo; Oven and V-Stones
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/8.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/8_hu_dae6fd14bca12187.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/8_hu_cf64ac1f28548989.jpg 1024w"
+loading="lazy"
+alt="Viewed from the gert is Kings’ Oven. A roughly circular pound about 60 meters across, associated with ancient tin smelting"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/9.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/9_hu_e8a0e8799dc59e4e.jpg 480w, http://localhost:1313/p/hurston-stone-row/9_hu_1f3ce95901de50ac.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;V-Stones at SX 67539 81374&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/9.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/9_hu_e8a0e8799dc59e4e.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/9_hu_1f3ce95901de50ac.jpg 1024w"
+loading="lazy"
+alt="V-Stones at SX 67539 81374"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
 &lt;p&gt;One of Dartmoor&amp;rsquo;s mysteries, the V stones - no-one knows what these are. It has been suggested they might be for the base of machinery, the base of a flagpole, a mould and I&amp;rsquo;m sure, many other things. (See plan below for location)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/10.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/10_hu_ade99f7167969fb6.jpg 480w, http://localhost:1313/p/hurston-stone-row/10_hu_ee9f96b70869309e.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The top ends of the Vees terminate in a round hole drilled into the stone&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/10.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/10_hu_ade99f7167969fb6.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/10_hu_ee9f96b70869309e.jpg 1024w"
+loading="lazy"
+alt="The top ends of the Vees terminate in a round hole drilled into the stone"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
 &lt;p&gt;Two theories:&lt;/p&gt;
 &lt;ol&gt;
@@ -289,1037 +214,312 @@
 &lt;p&gt;The DTRG (Dartmoor Tinworking Research Group) Newsletter May 2020 No. 58 has a note on the &amp;ldquo;Kings Oven Stones&amp;rdquo; by Nick Walter on pages 9-10 that proposes a possible function for these stones. They could have been supports for a hand windlass that could have been used for raising loads from a small shaft in the nearby mine.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;The next issue of the same DTRG Newsletter, dated November 2020 No. 59, has a note on the &amp;ldquo;Kings Oven Stones&amp;rdquo; by Tom Greaves on page 19.  The stones may have derived from a single stone that is now broken. The cut recesses could have housed the base (wood or metal) of a flagpole. They are situated near the foundations of the larger of two ruined buildings which might have been the mine office. It is recorded that at least one mine in this area flew such a flag when they were actively working.&lt;/p&gt;
+&lt;p&gt;The next issue of the same DTRG Newsletter, dated November 2020 No. 59, has a note on the &amp;ldquo;Kings Oven Stones&amp;rdquo; by Tom Greaves on page 19. The stones may have derived from a single stone that is now broken. The cut recesses could have housed the base (wood or metal) of a flagpole. They are situated near the foundations of the larger of two ruined buildings which might have been the mine office. It is recorded that at least one mine in this area flew such a flag when they were actively working.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/11.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/11_hu_7fb6007f00b6ce0b.jpg 480w, http://localhost:1313/p/hurston-stone-row/11_hu_291f5722c520b0ce.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;This open green area is not King’s Oven - it is the site of an old building. SX 67531 81367&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/11.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/11_hu_7fb6007f00b6ce0b.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/11_hu_291f5722c520b0ce.jpg 1024w"
+loading="lazy"
+alt="This open green area is not King’s Oven - it is the site of an old building. SX 67531 81367"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/12.jpg&#34;
-	width=&#34;808&#34;
-	height=&#34;854&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/12_hu_1681e1dd38c12a04.jpg 480w, http://localhost:1313/p/hurston-stone-row/12_hu_b483bce40411dcd8.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Image © J Butler 1994. Reproduced by kind permission (ref. 29 Sept. 2012)&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;94&#34;
-		data-flex-basis=&#34;227px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/12.jpg"
+width="808"
+height="854"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/12_hu_1681e1dd38c12a04.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/12_hu_b483bce40411dcd8.jpg 1024w"
+loading="lazy"
+alt="Image © J Butler 1994. Reproduced by kind permission (ref. 29 Sept. 2012)"
+class="gallery-image"
+data-flex-grow="94"
+data-flex-basis="227px"
 &gt;&lt;/p&gt;
-&lt;p&gt;King&amp;rsquo;s Oven or Furnum Regis (in Latin). This derives from the fact that this is thought to be the site of an early smelting house, hence &amp;ldquo;oven&amp;rdquo;, the produce of which would be taxed by the King via the stannary towns, such as Chagford.  Furnum Regis appears in the 1240 Perambulation of Dartmoor, although more likely mistaken for the landmark cairn at the summit of Water Hill.&lt;/p&gt;
+&lt;p&gt;King&amp;rsquo;s Oven or Furnum Regis (in Latin). This derives from the fact that this is thought to be the site of an early smelting house, hence &amp;ldquo;oven&amp;rdquo;, the produce of which would be taxed by the King via the stannary towns, such as Chagford. Furnum Regis appears in the 1240 Perambulation of Dartmoor, although more likely mistaken for the landmark cairn at the summit of Water Hill.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV6620&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway MDV6620 - Cairn and cist at King&amp;rsquo;s Oven to the east of Water Hill&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV46484&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway MDV46484 - Millstone at King&amp;rsquo;s Oven Pound&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV6620&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;Heritage Gateway MDV6620 - Cairn and cist at King&amp;rsquo;s Oven to the east of Water Hill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV46484&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;Heritage Gateway MDV46484 - Millstone at King&amp;rsquo;s Oven Pound&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/13.jpg&#34;
-	width=&#34;500&#34;
-	height=&#34;500&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/13_hu_17c3f42b7abf3f00.jpg 480w, http://localhost:1313/p/hurston-stone-row/13_hu_e512787635cec82f.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A millstone in an enclosure at King’s Oven - Image used by kind permission of the Dartmoor Trust Archive&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;100&#34;
-		data-flex-basis=&#34;240px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/13.jpg"
+width="500"
+height="500"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/13_hu_17c3f42b7abf3f00.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/13_hu_e512787635cec82f.jpg 1024w"
+loading="lazy"
+alt="A millstone in an enclosure at King’s Oven - Image used by kind permission of the Dartmoor Trust Archive"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
 &gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Description:  &amp;ldquo;The enclosure at King&amp;rsquo;s Oven is probably the site of medieval tin mining activities. Burnard comments that &amp;rsquo;the enclosure is circular and an acre in extent&amp;rsquo;. Burnard notes that the stone &amp;rsquo;looks something like the nether stone of a crazing mill&amp;rsquo;. A nether stone is the lower stone of a rotary crazing mill that was used for grinding tin ore. Crazing mills could only grind the alluvial gravels and they were replaced by stamping mills when coarser ores started being mined. In Newman&amp;rsquo;s //Dartmoor Tin Industry Field Guide// he states that only three crazing mills are known on Dartmoor at Sheepstor, Outcombe and Gobbet. Perhaps the stone photographed by Burnard in 1888 is evidence for a fourth crazing mill but the stone is no longer in situ today. King&amp;rsquo;s Oven was previously known as Furnum Regis and was mentioned by this name in a Perambulation of Henry III in 1240. However by 1609 in the Dartmoor Forestry Survey the location was known as King&amp;rsquo;s Oven.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Description: &amp;ldquo;The enclosure at King&amp;rsquo;s Oven is probably the site of medieval tin mining activities. Burnard comments that &amp;rsquo;the enclosure is circular and an acre in extent&amp;rsquo;. Burnard notes that the stone &amp;rsquo;looks something like the nether stone of a crazing mill&amp;rsquo;. A nether stone is the lower stone of a rotary crazing mill that was used for grinding tin ore. Crazing mills could only grind the alluvial gravels and they were replaced by stamping mills when coarser ores started being mined. In Newman&amp;rsquo;s //Dartmoor Tin Industry Field Guide// he states that only three crazing mills are known on Dartmoor at Sheepstor, Outcombe and Gobbet. Perhaps the stone photographed by Burnard in 1888 is evidence for a fourth crazing mill but the stone is no longer in situ today. King&amp;rsquo;s Oven was previously known as Furnum Regis and was mentioned by this name in a Perambulation of Henry III in 1240. However by 1609 in the Dartmoor Forestry Survey the location was known as King&amp;rsquo;s Oven.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The fact that Furnum Regis, the King&amp;rsquo;s Oven (taken to imply a smelting place for tin), is a landmark in the 1240 Perambulation shows that tin was important as far back as the 1200s. The diggings in the area must date from that period - 800 years ago!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/14.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/14_hu_51934407d6ddac11.jpg 480w, http://localhost:1313/p/hurston-stone-row/14_hu_9e7b4e5bef0b625e.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The millstone near the centre of the King’s Oven pound.  SX 67472 81297&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/14.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/14_hu_51934407d6ddac11.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/14_hu_9e7b4e5bef0b625e.jpg 1024w"
+loading="lazy"
+alt="The millstone near the centre of the King’s Oven pound. SX 67472 81297"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/15.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/15_hu_f4ee18a791a0492f.jpg 480w, http://localhost:1313/p/hurston-stone-row/15_hu_5d771b5d7f520642.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Showing the millstone and the ground of this area&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/15.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/15_hu_f4ee18a791a0492f.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/15_hu_5d771b5d7f520642.jpg 1024w"
+loading="lazy"
+alt="Showing the millstone and the ground of this area"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;When ready to leave Kings&amp;rsquo; Oven, follow the smaller path to the Northwest along the contour&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/17.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/17_hu_c56ba6a42c349d8f.jpg 480w, http://localhost:1313/p/hurston-stone-row/17_hu_75c5411ad906b05c.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Follow the path to the Northwest&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/17.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/17_hu_c56ba6a42c349d8f.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/17_hu_75c5411ad906b05c.jpg 1024w"
+loading="lazy"
+alt="Follow the path to the Northwest"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;The local name for these paths are varied and include; Pixie Path, Peat Path, Hobbit Trail, Pony Plod (from the packhorse days) or Sheepway&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/18.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/18_hu_166966cffa9132d8.jpg 480w, http://localhost:1313/p/hurston-stone-row/18_hu_6c71450772cbe012.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;This is a turn in the track at SX 67354 81790, labelled “kink” on the map, looking back towards the road&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/18.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/18_hu_166966cffa9132d8.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/18_hu_6c71450772cbe012.jpg 1024w"
+loading="lazy"
+alt="This is a turn in the track at SX 67354 81790, labelled “kink” on the map, looking back towards the road"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;hurston-ridge-double-stone-row&#34;&gt;Hurston Ridge double stone row
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/19.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/19_hu_d72f9f0a2f89b2c4.jpg 480w, http://localhost:1313/p/hurston-stone-row/19_hu_3310704b6fa0ae.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The “Menhir” at the south-western, uphill end of the rows. SX 67307 82296&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;h2 id="hurston-ridge-double-stone-row"&gt;Hurston Ridge double stone row
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/19.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/19_hu_d72f9f0a2f89b2c4.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/19_hu_3310704b6fa0ae.jpg 1024w"
+loading="lazy"
+alt="The “Menhir” at the south-western, uphill end of the rows. SX 67307 82296"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/20.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/20_hu_1fcbc73cdb678598.jpg 480w, http://localhost:1313/p/hurston-stone-row/20_hu_c8b536b9b3edefc4.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The ruined cairn at the south-west end of the double stone row on Hurston Ridge&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/20.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/20_hu_1fcbc73cdb678598.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/20_hu_c8b536b9b3edefc4.jpg 1024w"
+loading="lazy"
+alt="The ruined cairn at the south-west end of the double stone row on Hurston Ridge"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV61939&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway MDV61939 - Cairn at southern end of Stone Alignment on Hurston Ridge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV61939&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;Heritage Gateway MDV61939 - Cairn at southern end of Stone Alignment on Hurston Ridge&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/21.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/21_hu_8d543f9938d5cff6.jpg 480w, http://localhost:1313/p/hurston-stone-row/21_hu_db084a99906488cf.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Hurston Ridge double stone row. SX 6729 8250&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/21.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/21_hu_8d543f9938d5cff6.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/21_hu_db084a99906488cf.jpg 1024w"
+loading="lazy"
+alt="Hurston Ridge double stone row. SX 6729 8250"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
 &lt;p&gt;One of the best examples of its kind, mostly in its original state. There are 99 stones arranged in 49 pairs. There is a cairn at this upper (south-west) end, visible from the blocking stone at the lower end. Orientated NE-SW.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.legendarydartmoor.co.uk/2016/03/17/hurston_row/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Legendary Dartmoor - Hurston Stone Row&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.legendarydartmoor.co.uk/2016/03/17/hurston_row/" target="_blank" rel="noopener"
+&gt;Legendary Dartmoor - Hurston Stone Row&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/22.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/22_hu_6dc87b7839a387de.jpg 480w, http://localhost:1313/p/hurston-stone-row/22_hu_9c2c22204aa1f0d1.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Looking down the rows to the large blocking stone at the North Eastern end&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/22.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/22_hu_6dc87b7839a387de.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/22_hu_9c2c22204aa1f0d1.jpg 1024w"
+loading="lazy"
+alt="Looking down the rows to the large blocking stone at the North Eastern end"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV6541&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway MDV6541- Hurston Ridge stone row&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV6541&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;Heritage Gateway MDV6541- Hurston Ridge stone row&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Somewhere in this area is a &amp;ldquo;lost&amp;rdquo; cairn described by J. Butler (1991), Dartmoor Atlas of Antiquities. The cairn was discovered and excavated by the Dartmoor Exploration Committee in 1900 and then it was &amp;ldquo;lost&amp;rdquo; again, shortly afterwards.&lt;/p&gt;
-&lt;p&gt;During investigations on the cairn by Baring Gould, a &amp;ldquo;stone axe and a cinerary urn&amp;rdquo; (the latter upturned and covering a small heap of cremated bones on a flat stone, covered by a slab) were found. A photo of the restored Middle Bronze Age urn (1500-1000 BC) can be seen &lt;a class=&#34;link&#34; href=&#34;https://www.legendarydartmoor.co.uk/Images3/Hurstone.gif&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;here (Credit: Legendary Dartmoor)&lt;/a&gt; The pattern around the rim is believed made by impressing the clay with a twisted cord. It was restored 1960-1962 and was put on display in the Plymouth Museum.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/23.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/23_hu_f4f41b78db94f3a5.jpg 480w, http://localhost:1313/p/hurston-stone-row/23_hu_8ac55a5001e30cec.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;View north to Kes Tor at SX 665 863, elevation 445 metres (1460 feet), 3.8 km (2.4 miles) away&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;During investigations on the cairn by Baring Gould, a &amp;ldquo;stone axe and a cinerary urn&amp;rdquo; (the latter upturned and covering a small heap of cremated bones on a flat stone, covered by a slab) were found. A photo of the restored Middle Bronze Age urn (1500-1000 BC) can be seen &lt;a class="link" href="https://www.legendarydartmoor.co.uk/Images3/Hurstone.gif" target="_blank" rel="noopener"
+&gt;here (Credit: Legendary Dartmoor)&lt;/a&gt; The pattern around the rim is believed made by impressing the clay with a twisted cord. It was restored 1960-1962 and was put on display in the Plymouth Museum.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/23.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/23_hu_f4f41b78db94f3a5.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/23_hu_8ac55a5001e30cec.jpg 1024w"
+loading="lazy"
+alt="View north to Kes Tor at SX 665 863, elevation 445 metres (1460 feet), 3.8 km (2.4 miles) away"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/24.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/24_hu_ac97f7e06846dc8d.jpg 480w, http://localhost:1313/p/hurston-stone-row/24_hu_14176bc50b3e49ec.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;A later Bronze Age wall cuts through the rows at SX 67295 82514, about two-thirds of the distance down the rows, indicating that the significance of the monument was not held in the highest regard by that time&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/24.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/24_hu_ac97f7e06846dc8d.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/24_hu_14176bc50b3e49ec.jpg 1024w"
+loading="lazy"
+alt="A later Bronze Age wall cuts through the rows at SX 67295 82514, about two-thirds of the distance down the rows, indicating that the significance of the monument was not held in the highest regard by that time"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/25.jpg&#34;
-	width=&#34;1212&#34;
-	height=&#34;217&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/25_hu_1d4a96d3dce48196.jpg 480w, http://localhost:1313/p/hurston-stone-row/25_hu_7b0734fa4ee02f3a.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Image © J Butler 1991. Reproduced by kind permission (ref. 29 Sept. 2012)&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;558&#34;
-		data-flex-basis=&#34;1340px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/25.jpg"
+width="1212"
+height="217"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/25_hu_1d4a96d3dce48196.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/25_hu_7b0734fa4ee02f3a.jpg 1024w"
+loading="lazy"
+alt="Image © J Butler 1991. Reproduced by kind permission (ref. 29 Sept. 2012)"
+class="gallery-image"
+data-flex-grow="558"
+data-flex-basis="1340px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/26.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/26_hu_56d2b61e9cc8ba18.jpg 480w, http://localhost:1313/p/hurston-stone-row/26_hu_711091731ed3516e.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34; The blocking stone at the bottom Northeastern end of the rows&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/26.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/26_hu_56d2b61e9cc8ba18.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/26_hu_711091731ed3516e.jpg 1024w"
+loading="lazy"
+alt=" The blocking stone at the bottom Northeastern end of the rows"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/27.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/27_hu_5f78a4f0232a426f.jpg 480w, http://localhost:1313/p/hurston-stone-row/27_hu_2173f48a44a6f50e.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34; Looking up the slope from behind the blocking stone, the two rows can be seen to be noticeably bent&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/27.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/27_hu_5f78a4f0232a426f.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/27_hu_2173f48a44a6f50e.jpg 1024w"
+loading="lazy"
+alt=" Looking up the slope from behind the blocking stone, the two rows can be seen to be noticeably bent"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;When ready to leave the stone rows, follow the map to the Southwest, and then South to Water Hill a mile or so back towards the road&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;water-hill-cairn&#34;&gt;Water Hill Cairn
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/28.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/28_hu_3fbbd68250be1d6b.jpg 480w, http://localhost:1313/p/hurston-stone-row/28_hu_af9e7e7010fc93a6.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Approaching the cairn on Water Hill. SX 6716 8130. Elevation 489 metres (1604 feet)&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;h2 id="water-hill-cairn"&gt;Water Hill Cairn
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/28.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/28_hu_3fbbd68250be1d6b.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/28_hu_af9e7e7010fc93a6.jpg 1024w"
+loading="lazy"
+alt="Approaching the cairn on Water Hill. SX 6716 8130. Elevation 489 metres (1604 feet)"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/29.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/29_hu_a84e5426144c4c3e.jpg 480w, http://localhost:1313/p/hurston-stone-row/29_hu_ac0a4e312ce7c83b.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Water Hill Cairn&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/29.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/29_hu_a84e5426144c4c3e.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/29_hu_ac0a4e312ce7c83b.jpg 1024w"
+loading="lazy"
+alt="Water Hill Cairn"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;It is assumed that this landmark cairn, which is visible for some distance, is the &amp;ldquo;Furnum Regis&amp;rdquo; mentioned in the 1240 Perambulation of Dartmoor. This was occasioned by order of King Henry III when he granted the lands of the Forest of Dartmoor to his brother Richard.  It was decreed that the Sheriff of Devon should do this accompanied by twelve knights and their attendants. Richard became an Earl in 1225 and was known as Richard of Cornwall (died 1272, aged 63)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;It is assumed that this landmark cairn, which is visible for some distance, is the &amp;ldquo;Furnum Regis&amp;rdquo; mentioned in the 1240 Perambulation of Dartmoor. This was occasioned by order of King Henry III when he granted the lands of the Forest of Dartmoor to his brother Richard. It was decreed that the Sheriff of Devon should do this accompanied by twelve knights and their attendants. Richard became an Earl in 1225 and was known as Richard of Cornwall (died 1272, aged 63)&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV54619&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway MDV54619 - One of two cairns on the summit of Water Hill 450 metres north-west of Warren House Inn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV54619&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;Heritage Gateway MDV54619 - One of two cairns on the summit of Water Hill 450 metres north-west of Warren House Inn&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/30.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/30_hu_df3b9f804437342a.jpg 480w, http://localhost:1313/p/hurston-stone-row/30_hu_2595d3d80a010b0a.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Another view, faintly showing the passage-way cut into the grass. This was used to rob the cairn many years ago&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/30.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/30_hu_df3b9f804437342a.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/30_hu_2595d3d80a010b0a.jpg 1024w"
+loading="lazy"
+alt="Another view, faintly showing the passage-way cut into the grass. This was used to rob the cairn many years ago"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;During World War II, this cairn was covered with a temporary iron roof and used as a lookout for enemy aircraft and a potential invasion forces.&lt;/li&gt;
 &lt;li&gt;It has been known as Natty&amp;rsquo;s or Nancy&amp;rsquo;s Castle, although who this was seems to be lost.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/32.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/32_hu_9bcafdf6d2e60ca0.jpg 480w, http://localhost:1313/p/hurston-stone-row/32_hu_72cd4bad5e4a0f32.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The cairn has a large flat stone which is known as Arthur’s Seat&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/32.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/32_hu_9bcafdf6d2e60ca0.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/32_hu_72cd4bad5e4a0f32.jpg 1024w"
+loading="lazy"
+alt="The cairn has a large flat stone which is known as Arthur’s Seat"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;This is the flat stone where King Arthur used to sit, looking west, contemplating the lands of Richard of Cornwall&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/31.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/31_hu_8b839560f014be46.jpg 480w, http://localhost:1313/p/hurston-stone-row/31_hu_deb839fe06ea23f8.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;View to the Ace Fields&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/31.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/31_hu_8b839560f014be46.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/31_hu_deb839fe06ea23f8.jpg 1024w"
+loading="lazy"
+alt="View to the Ace Fields"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
 &lt;p&gt;This is a good vantage point to view the Ace Fields to the Southeast on the lower slopes of Birch Tor.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Legend records that there are four fields, each one shaped for the suites of a pack of cards. A young tin mining wastrel, name of Jan Reynolds, dared to play cards during a church sermon. The Devil descended and bore Jan away on his large and fierce black horse, never to be seen again. As he was borne away, Jan dropped his cards, forming these enclosures. (Full story at the link below)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.legendarydartmoor.co.uk/2016/03/25/jan_reynolds/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Legendary Dartmoor - Jan Reynolds&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.legendarydartmoor.co.uk/2016/03/25/jan_reynolds/" target="_blank" rel="noopener"
+&gt;Legendary Dartmoor - Jan Reynolds&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The less prosaic reality is that they were farming enclosures used to grow vegetables for the nearby mines.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;The return to the road from Water Hill Cairn is now just a short stroll downhill to conclude our walk&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hurston-stone-row/33.jpg&#34;
-	width=&#34;1600&#34;
-	height=&#34;900&#34;
-	srcset=&#34;http://localhost:1313/p/hurston-stone-row/33_hu_ac8e1b315b592675.jpg 480w, http://localhost:1313/p/hurston-stone-row/33_hu_c478e8a05e301698.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The footpath from the cairn passes close to a deep gert that comes from the direction of the Caroline Mine, to the west, half-surrounding the Warren House Inn&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;426px&#34;
-	
+&lt;p&gt;&lt;img src="https://dartmoorwalking.org/p/hurston-stone-row/33.jpg"
+width="1600"
+height="900"
+srcset="https://dartmoorwalking.org/p/hurston-stone-row/33_hu_ac8e1b315b592675.jpg 480w, https://dartmoorwalking.org/p/hurston-stone-row/33_hu_c478e8a05e301698.jpg 1024w"
+loading="lazy"
+alt="The footpath from the cairn passes close to a deep gert that comes from the direction of the Caroline Mine, to the west, half-surrounding the Warren House Inn"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;parking&#34;&gt;Parking
+&lt;h2 id="parking"&gt;Parking
 &lt;/h2&gt;&lt;p&gt;There is on-road parking close to the Warren House Inn, and several parking close to the start.&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References
+&lt;h2 id="references"&gt;References
 &lt;/h2&gt;
-
-
-
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-    
-  
-
-  
-  
-    
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-    
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-    
-  
-
-  
-  
-    
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-    
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-    
-  
-
-  
-  
-    
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-    
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-    
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-    
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-    
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-    
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-
-
-&lt;div class=&#34;extracted-links&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.warrenhouseinn.co.uk/history.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Warren House History&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV18822&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway MDV18822 - Warren House Inn&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://dartefacts.co.uk/?s=Telegraph&amp;#43;Markers&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Dartefacts Telegraph Markers Map&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV27841&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway MDV27841 - Tin Working on South Side of Water Hill&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV54593&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway MDV54593 - Vast open cut on Water Hill&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.mindat.org/loc-130442.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Mindat mining and mineralogy details of this area&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV6620&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway MDV6620 - Cairn and cist at King&amp;rsquo;s Oven to the east of Water Hill&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV46484&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway MDV46484 - Millstone at King&amp;rsquo;s Oven Pound&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV61939&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway MDV61939 - Cairn at southern end of Stone Alignment on Hurston Ridge&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.legendarydartmoor.co.uk/2016/03/17/hurston_row/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Legendary Dartmoor - Hurston Stone Row&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV6541&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway MDV6541- Hurston Ridge stone row&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV54619&amp;amp;resourceID=104&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Heritage Gateway MDV54619 - One of two cairns on the summit of Water Hill 450 metres north-west of Warren House Inn&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.legendarydartmoor.co.uk/2016/03/25/jan_reynolds/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Legendary Dartmoor - Jan Reynolds&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-
-
-</description>
-        </item>
-        
-    </channel>
-</rss>
+&lt;div class="extracted-links"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="http://www.warrenhouseinn.co.uk/history.html" target="_blank" rel="noopener"
+&gt;Warren House History&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV18822&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;Heritage Gateway MDV18822 - Warren House Inn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://dartefacts.co.uk/?s=Telegraph&amp;#43;Markers" target="_blank" rel="noopener"
+&gt;Dartefacts Telegraph Markers Map&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV27841&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;Heritage Gateway MDV27841 - Tin Working on South Side of Water Hill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV54593&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;Heritage Gateway MDV54593 - Vast open cut on Water Hill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.mindat.org/loc-130442.html" target="_blank" rel="noopener"
+&gt;Mindat mining and mineralogy details of this area&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV6620&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;Heritage Gateway MDV6620 - Cairn and cist at King&amp;rsquo;s Oven to the east of Water Hill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV46484&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;Heritage Gateway MDV46484 - Millstone at King&amp;rsquo;s Oven Pound&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV61939&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;Heritage Gateway MDV61939 - Cairn at southern end of Stone Alignment on Hurston Ridge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.legendarydartmoor.co.uk/2016/03/17/hurston_row/" target="_blank" rel="noopener"
+&gt;Legendary Dartmoor - Hurston Stone Row&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV6541&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;Heritage Gateway MDV6541- Hurston Ridge stone row&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV54619&amp;amp;resourceID=104" target="_blank" rel="noopener"
+&gt;Heritage Gateway MDV54619 - One of two cairns on the summit of Water Hill 450 metres north-west of Warren House Inn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.legendarydartmoor.co.uk/2016/03/25/jan_reynolds/" target="_blank" rel="noopener"
+&gt;Legendary Dartmoor - Jan Reynolds&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description></item></channel></rss>
