@@ -172,6 +172,8 @@ AND APPEARED TO BE ABOUT
 
 You will probably have seen some of the many hut circles on this walk. There are known to be well over one hundred of them in the vicinity of Wistman's Wood, so this was clearly a very busy place four thousand or so years ago.
 
+*The path stays above this copse, and once you are ready, retract your steps Southward until you leave it, and then head towards the main body of Wistman's Wood*
+
 ## Wistman's Wood
 
 ![Wistman's Wood](18.jpg)
@@ -203,7 +205,6 @@ You will probably have seen some of the many hut circles on this walk. There are
 - Sir Arthur Conan Doyle was inspired by the Wild Hunt to write The Hound of the Baskervilles.
 
 ![Wistman's Wood](30.jpg)
-
 
 ![Wistman's Wood](31.jpg)
 
@@ -238,10 +239,17 @@ Wentworth Buller, who cut the tree in 1868, was no doubt related to Sir Francis 
 
 ![The earlier 1772 turnpike road bridge](27.jpg)
 
-
 ## Parking
 
 There is some limited parking at a small quarry close by the Two Bridges Hotel. It does get full at busy times, and there is some other parking on the roadside towards Postbridge.
+
+3 nearby roadside parking places are: (What Three Words)
+
+- [///singers.basics.dolphins](https://what3words.com/singers.basics.dolphins)
+- [///fury.binders.shimmered](https://what3words.com/fury.binders.shimmered)
+- [///overlaid.sling.spirits](https://what3words.com/overlaid.sling.spirits)
+
+Please don't use the Two Bridges Hotel's parking, which is kept for residents.
 
 ## References
 
