@@ -73,6 +73,12 @@ If you have a well researched walk that you think would fit in well here, I'd lo
 ## Legacy
 People give a huge amount of their time and knowledge to create websites for the benefit of other people. As custodian of Keith's websites as well as others, I would like to make not just these websites free use, but also provide the source code to them in somewhere permanent and known so that if I am no longer able to maintain and pay for them, they will continue to exist in some form. So many useful websites have already been lost in the short time the internet has been in use, that permanent archiving is very much something I would like to provide. This is a key reason that the code for this website is published on [Github](https://github.com/digdilem/dartmoorwalking.org) and should remain available forever.
 
+The website is available at the following addresses
+
+- [Dartmoorwalking.org](https://dartmoorwalking.org)
+- [Dartmoorwalking.com](https://dartmoorwalking.com)
+- [Cloudflare Sites Page](dartmoorwalking.pages.dev) *This should continue if the above domains ever expire*
+
 ## Copyright and Media Enquiries
 Before his death, Keith transferred all Copyrights and ownership to text and images used on these Websites to Simon Avery. It is on that assertion that this website has been created from Keith's original content. Where other ownership applies, credit is given.
 
