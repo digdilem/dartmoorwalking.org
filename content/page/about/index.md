@@ -25,7 +25,7 @@ hidetags: true
 ## About this Website
 The hope is that this site will provide a clear and informative way to inspire people to enjoy Dartmoor by providing self-guided walking information and suggested routes.
 
-> *Dartmoor faces significant threats to its future. I believe that by encouraging people to use, enjoy and understand Dartmoor and its history, they will not only become richer themselves, but also form the same love for the moor as I have. We have recently seen attempts to remove legal rights, protections and funding from Dartmoor and by helping people to care about it, I think more of us are likely to object when we see Dartmoor under threat. The freedom to use Dartmoor for recreation is a legal right for everyone must be protected. <cite>-- Simon</cite>*
+> *Dartmoor faces significant threats to its future. I believe that by encouraging people to use, enjoy and understand Dartmoor and its history, they will not only become richer themselves, but also form the same love for the moor as I have. We have recently seen attempts to remove legal rights, protections and funding from Dartmoor and by helping people to care about it, I think more of us are likely to object when we see Dartmoor under threat. The freedom to use Dartmoor for recreation as a legal right for everyone must be protected. <cite>-- Simon</cite>*
 
 ### Background
 
