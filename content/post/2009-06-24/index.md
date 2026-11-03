@@ -8,7 +8,7 @@ coords: 50.46658,-4.0888
 grade: Gentle
 w3w: attending.bagpipes.warned
 gpx: clearbrook-and-leighbeer
-image: map.jpg
+image: 12.jpg
 tags:
   - circular
   - leat
